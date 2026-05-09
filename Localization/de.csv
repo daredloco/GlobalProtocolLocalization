@@ -4630,7 +4630,7 @@ select.badge_hard,SCHWER
 select.difficulty_tier.easy,EINFACH
 select.difficulty_tier.normal,NORMAL
 select.difficulty_tier.hard,SCHWER
-pause.restart_tutorial,RESTART-ANLEITUNG
+pause.restart_tutorial,TUTORIAL ÖFFNEN
 pause.quitting,AUFHÖREN…
 saveload.err_empty_name,Gib zuerst einen Namen für die Speicherdatei ein
 saveload.manager_missing,Das Speichersystem ist derzeit nicht verfügbar
