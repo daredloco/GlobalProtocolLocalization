@@ -2711,7 +2711,7 @@ select.difficulty_easy,★ ANFÄNGER
 select.difficulty_medium,★★ EINFACH
 select.difficulty_hard,★★★ NORMAL
 select.difficulty_4,★★★★ SCHWER
-select.difficulty_5,★★★★★ EXPERT
+select.difficulty_5,★★★★★ EXPERTE
 select.difficulty_1,★ ANFÄNGER
 select.difficulty_2,★★ EINFACH
 select.difficulty_3,★★★ NORMAL
@@ -3330,7 +3330,7 @@ difficulty.title,SCHWIERIGKEITSGRAD
 difficulty.easy,EINFACH
 difficulty.normal,NORMAL
 difficulty.hard,SCHWER
-difficulty.expert,EXPERT
+difficulty.expert,EXPERTE
 difficulty.easy.desc,"Geringere Aggressivität der KI, wirtschaftliche Boni, schnellere Forschung."
 difficulty.normal.desc,Das klassische Spielerlebnis. So ist das Spiel gedacht.
 difficulty.hard.desc,"Aggressive KI, wirtschaftliche Sanktionen, verlangsamte Forschung."
