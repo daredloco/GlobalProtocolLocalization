@@ -9,10 +9,10 @@ hud.loading.ready,EINSATZBEREITE SYSTEME
 hud.loading.unloading,Sitzung wird geladen...
 hud.loading.saving,SPIEL WIRD GESPEICHERT...
 hud.topbar.title,GLOBALES PROTOKOLL
-hud.topbar.treasury,FINANZMINISTERIUM:
-hud.topbar.gdp,Bruttoinlandsprodukt
-hud.topbar.manpower,Belegschaft
-hud.topbar.population,Pop:
+hud.topbar.treasury,STAATSKASSE:
+hud.topbar.gdp,BIP:
+hud.topbar.manpower,ARBEITSKRÄFTE:
+hud.topbar.population,POP:
 hud.topbar.delta_maintenance_per_month,-{0}{1}
 hud.army_tooltip.country,LAND
 hud.army_tooltip.total_strength,GESAMTSTÄRKE
@@ -133,7 +133,7 @@ hud.country.econ_gdp,Bruttoinlandsprodukt
 hud.country.econ_gdp_cap,Bruttoinlandsprodukt pro Kopf
 hud.country.econ_growth,WACHSTUM
 hud.country.econ_inflation,INFLATION
-hud.country.econ_treasury,FINANZMINISTERIUM
+hud.country.econ_treasury,STAATSKASSE
 hud.country.econ_debt,Schuldenquote
 hud.country.econ_unemploy,ARBEITSLOS
 hud.country.econ_hdi,Hochleistungsspritzguss
@@ -177,7 +177,7 @@ hud.summary.econ_gdp,WIRTSCHAFT
 hud.summary.econ_pop,BEVÖLKERUNG
 hud.summary.econ_growth,BIP-WACHSTUM
 hud.summary.econ_infra,INFRASTRUKTUR
-hud.summary.econ_treasury,FINANZMINISTERIUM
+hud.summary.econ_treasury,STAATSKASSE
 hud.summary.diplo_alliances,PARTNERSCHAFTEN
 hud.summary.diplo_rivals,KONKURRENTEN
 hud.summary.diplo_un,UN-Mitglied
@@ -276,7 +276,7 @@ hud.spot_market.amount,Betrag
 hud.spot_market.unit_price,Stückpreis
 hud.spot_market.total,Insgesamt
 hud.spot_market.stockpile,Vorrat
-hud.spot_market.treasury,Finanzministerium
+hud.spot_market.treasury,Staatskasse
 hud.spot_market.confirm,Bestellung bestätigen
 hud.spot_market.status.no_price,Die Marktpreise sind noch nicht verfügbar. Sie werden erst nach Ablauf des ersten vollen Monats angezeigt.
 hud.spot_market.status.no_funds,Für diesen Auftrag stehen nicht genügend Mittel zur Verfügung.
@@ -304,7 +304,7 @@ tooltip.spot_market.total.title,GESAMTWERT
 tooltip.spot_market.total.desc,"Nettoveränderung der Kasse für diesen Auftrag. Beim Kauf fallen diese Kosten an; beim Verkauf wird dieser Betrag erzielt. Die Schaltfläche „Bestätigen“ ist deaktiviert, wenn Ihre Kasse für einen Kauf nicht ausreicht oder Ihr Lagerbestand für einen Verkauf zu gering ist."
 tooltip.spot_market.stockpile.title,AKTUELLER LAGERBESTAND
 tooltip.spot_market.stockpile.desc,"Der aktuelle Vorrat Ihres Landes an der ausgewählten Ressource. Sie können nicht mehr Einheiten verkaufen, als Sie derzeit vorrätig haben. Ein niedriger Vorrat an kritischen Ressourcen erhöht das Risiko von Störungen in der Lieferkette."
-tooltip.spot_market.treasury.title,FINANZMINISTERIUM
+tooltip.spot_market.treasury.title,STAATSKASSE
 tooltip.spot_market.treasury.desc,"Ihr aktueller Liquiditätsbestand. Ein Kaufauftrag wird gesperrt, wenn seine Gesamtkosten diesen Bestand übersteigen. Bauen Sie sich durch Steuern oder den Verkauf von Ressourcen Reserven auf, bevor Sie große Kaufaufträge erteilen."
 tooltip.econ.spot_btn.title,SPOTMARKT
 tooltip.econ.spot_btn.desc,"Öffnet den Welt-Spotmarkt, auf dem Sie Rohstoffe zu aktuellen Weltmarktpreisen kaufen oder verkaufen können. Nützlich bei dringenden Versorgungsengpässen oder zum Abbau von Überbeständen. Durch die Kauf-/Verkaufsspannen (15 % / 10 %) ist dies teurer als der bilaterale Handel – nur für Notfälle nutzen."
@@ -1203,7 +1203,7 @@ hud.econ.hdi,Hochauflösende Bildgebung
 hud.econ.pause_hint,"Das Spiel ist angehalten – setze es fort, um die Wirtschaft zu simulieren"
 hud.panel.expand_to_overlay,In einem Overlay-Fenster öffnen
 hud.panel.expand_to_overlay.desc,"Öffnet dieses Fenster in einem größeren Überlagerungsfenster, um weitere Details anzuzeigen."
-hud.econ.treasury,FINANZMINISTERIUM
+hud.econ.treasury,STAATSKASSE
 hud.econ.fiscal_detail_open,▾ FINANZIELLE DETAILS
 hud.econ.fiscal_detail_closed,▸ FINANZIELLE DETAILS
 hud.econ.revenue_sources,EINNAHMENQUELLEN
@@ -1244,8 +1244,8 @@ tooltip.econ.unemployment.title,ARBEITSLOSENQUOTE
 tooltip.econ.unemployment.desc,Anteil der Erwerbsbevölkerung ohne Beschäftigung. Beeinflusst durch das BIP-Wachstum und die Sozialausgaben.
 tooltip.econ.hdi.title,INDEX DER MENSCHLICHEN ENTWICKLUNG
 tooltip.econ.hdi.desc,"Ein zusammengesetzter Indikator für Lebenserwartung, Bildungsniveau und Einkommen. Skala von 0 bis 1. Ein höherer HDI-Wert mindert soziale Unruhen und zieht Zuwanderer an."
-tooltip.econ.treasury.title,FINANZMINISTERIUM
-tooltip.econ.treasury.desc,Aktuelle Goldreserve. Sie steigt mit den Einnahmen und sinkt mit den Ausgaben und dem Schuldendienst.
+tooltip.econ.treasury.title,STAATSKASSE
+tooltip.econ.treasury.desc,Aktuelle Geldreserven. Sie steigt mit den Einnahmen und sinkt mit den Ausgaben und dem Schuldendienst.
 tooltip.econ.revenue.title,MONATLICHER UMSATZ
 tooltip.econ.revenue.desc,Die monatlich durch Steuern eingenommenen Einnahmen. Zur Steigerung der Einnahmen kann entweder das BIP erhöht oder der Steuersatz angehoben werden.
 tooltip.econ.expenses.title,MONATLICHE AUSGABEN
@@ -1368,7 +1368,7 @@ hud.event.cat_default,VERANSTALTUNG
 hud.event.tooltip.expected_impact,Erwartete Auswirkungen:
 hud.event.effect.modify_stat,{0} {1}
 hud.event.effect.add_relation,Beziehungen zwischen {0} und {1}
-hud.event.effect.add_treasury,Finanzministerium {0}
+hud.event.effect.add_treasury,Staatskasse {0}
 hud.event.effect.modify_unrest,Unruhen in der Provinz {0}
 hud.event.effect.set_flag,Setzt ein Länderevent-Flag
 hud.event.effect.clear_flag,Löscht ein Ländereignis-Flag
@@ -1403,7 +1403,7 @@ hud.event.stat.government_corruption,Korruption
 hud.event.stat.economy_growth_rate,BIP-Wachstum
 hud.event.stat.economy_gdp,Bruttoinlandsprodukt
 hud.event.stat.economy_inflation,Inflation
-hud.event.stat.budget_treasury,Finanzministerium
+hud.event.stat.budget_treasury,Staatskasse
 hud.event.stat.military_active_personnel,Arbeitskräfte
 hud.event.stat.military_defense_budget,Verteidigungshaushalt
 hud.event.stat.trade_sanctions_modifier,Sanktionsdruck
@@ -1658,20 +1658,20 @@ misc.no,VON
 misc.balanced,AUSGEWOGEN
 misc.placeholder,--
 misc.now,JETZT
-month.jan,Nein
-month.feb,Februar
-month.mar,Tatsächlich
-month.apr,Effektiver Jahreszins
-month.may,Mai
-month.jun,Juni
-month.jul,Juli
+month.jan,JAN
+month.feb,FEB
+month.mar,MÄR
+month.apr,APR
+month.may,MAI
+month.jun,JUN
+month.jul,JUL
 month.aug,AUG
-month.sep,getrennt
+month.sep,SEP
 month.oct,OKT
-month.nov,NEU
-month.dec,Entscheidung
+month.nov,NOV
+month.dec,DEZ
 format.month_year,{0} {1}
-tooltip.topbar.treasury.title,FINANZMINISTERIUM
+tooltip.topbar.treasury.title,STAATSKASSE
 tooltip.topbar.gdp.title,BRUTTOINLANDSPRODUKT
 tooltip.topbar.manpower.title,Arbeitskräfte
 tooltip.topbar.pop.title,BEVÖLKERUNG
@@ -1691,7 +1691,7 @@ tooltip.country.growth.title,BIP-WACHSTUM
 tooltip.country.growth.desc,"Monatliche BIP-Wachstumsrate. Begünstigt durch Investitionen, Bildungsausgaben und Handelsüberschuss. Beeinträchtigt durch Inflation, Krieg und Instabilität."
 tooltip.country.inflation.title,INFLATION
 tooltip.country.inflation.desc,"Inflationsrate. Steigt, wenn die Ausgaben die Einnahmen übersteigen. Beeinträchtigt das BIP-Wachstum."
-tooltip.country.treasury.title,FINANZMINISTERIUM
+tooltip.country.treasury.title,STAATSKASSE
 tooltip.country.treasury.desc,Verfügbare Mittel. Einnahmen abzüglich Ausgaben. Ein negativer Saldo erhöht die Schuldenquote.
 tooltip.country.debt.title,SCHULDENQUOTE
 tooltip.country.debt.desc,Staatsverschuldung im Verhältnis zur jährlichen Wirtschaftsleistung. Eine hohe Verschuldung führt zu wirtschaftlichen Turbulenzen und Wachstumsverluste.
@@ -3368,7 +3368,7 @@ hud.ledger.col.rivals,KONKURRENTEN
 hud.ledger.col.gdp,Bruttoinlandsprodukt
 hud.ledger.col.gdp_capita,BIP pro Kopf
 hud.ledger.col.growth,WACHSTUM
-hud.ledger.col.treasury,FINANZMINISTERIUM
+hud.ledger.col.treasury,STAATSKASSE
 hud.ledger.col.debt_gdp,Schuldenquote
 hud.ledger.col.unemployment,UNEMP
 hud.ledger.col.hdi,Hochleistungsspritzguss
@@ -3789,8 +3789,8 @@ hud.auto.t1,T1
 hud.auto.tech_name,TECHNISCHE BEZEICHNUNG
 hud.auto.technology,TECHNOLOGIE
 hud.auto.total_detonations,GESAMTZAHL DER SPRENGUNGEN
-hud.auto.treasury,FINANZMINISTERIUM
-hud.auto.treasury_1,FINANZMINISTERIUM:
+hud.auto.treasury,STAATSKASSE
+hud.auto.treasury_1,STAATSKASSE:
 hud.auto.turkey,Türkei
 hud.auto.unexplored,UNERFORSCHT
 hud.auto.unrest,UNRUHE
@@ -4691,7 +4691,7 @@ gov.change.rival_desc,"{0} (Rival): {1} übernimmt die Macht – {2}, {3}"
 gov.change.partner_desc,"{0} (Partner): {1} übernimmt die Leitung – {2}, {3}"
 hud.year_summary.title,JAHR {0} RÜCKBLICK
 hud.year_summary.gdp_change,Veränderung des BIP
-hud.year_summary.treasury_change,ÄNDERUNG DER FINANZPOLITIK
+hud.year_summary.treasury_change,VERÄNDERUNG DER STAATSKASSE
 hud.year_summary.buildings,ERRICHTETE GEBÄUDE
 hud.year_summary.best_province,TOP-PROVINZ
 hud.year_summary.defense_spend,VERTEIDIGUNGSAUSGABEN
@@ -7120,7 +7120,7 @@ hud.agenda.task.tur_energy_build_infra.title,Energieinfrastruktur aufbauen
 hud.agenda.task.tur_energy_trade_aze.description,Ein Handelsabkommen mit Aserbaidschan über den Gastransit abschließen.
 hud.agenda.task.tur_energy_trade_aze.title,Handelsabkommen mit Aserbaidschan
 hud.agenda.task.tur_energy_treasury.description,Durch Energieübertragungsgebühren und Handel sollen 50 Milliarden Dollar an Staatsmitteln eingenommen werden.
-hud.agenda.task.tur_energy_treasury.title,Grow Treasury
+hud.agenda.task.tur_energy_treasury.title,Staatskasse ausbauen
 hud.agenda.task.tur_kurd_build.description,Errichte mindestens 3 Gebäude in Grenzregionen.
 hud.agenda.task.tur_kurd_build.title,Grenzen sichern
 hud.agenda.task.tur_kurd_espionage_irq.description,Führen Sie nachrichtendienstliche Operationen im Nordirak durch.
@@ -7409,7 +7409,7 @@ hud.diplo.response_accepted_body,Du hast {0}s {1} angenommen.
 hud.diplo.response_rejected_body,Du hast {0}s {1} abgelehnt.
 tooltip.statbar.gdp.title,Bruttoinlandsprodukt
 tooltip.statbar.gdp.desc,"Bruttoinlandsprodukt des angezeigten Landes. Klicken Sie hier, um die Registerkarte „Wirtschaft“ zu öffnen."
-tooltip.statbar.treasury.title,FINANZEN
+tooltip.statbar.treasury.title,STAATSKASSE
 tooltip.statbar.treasury.desc,Aktuelle Geldreserven. Monatliche Einnahmen abzüglich Ausgaben.
 tooltip.statbar.pop.title,BEVÖLKERUNG
 tooltip.statbar.pop.desc,Gesamtbevölkerung aller Provinzen in unserem Besitz.
