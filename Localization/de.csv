@@ -4381,7 +4381,7 @@ hud.outliner.objectives_loading,Ziele werden vorbereitet...
 hud.outliner.objectives_disabled,Lernziele deaktiviert
 hud.outliner.objectives_complete,Alle Lernziele des Tutorials sind erreicht
 hud.outliner.objective_click_hint,"Klicken Sie hier, um das entsprechende Fenster zu öffnen."
-hud.outliner.agenda_entry_title,Offene strategische Agenda
+hud.outliner.agenda_entry_title,Strategische Agenda öffnen
 hud.outliner.agenda_entry_body,Öffnen Sie die Agenda und legen Sie Ihr aktuelles Hauptziel fest. Die Aufgaben im Outliner richten sich nach dieser Auswahl.
 hud.outliner.diplo_actions,DIPLOMATISCHE MASSNAHMEN
 hud.outliner.no_diplo_actions,Keine laufenden diplomatischen Maßnahmen
@@ -7409,8 +7409,8 @@ hud.diplo.response_accepted_body,Du hast {0}s {1} angenommen.
 hud.diplo.response_rejected_body,Du hast {0}s {1} abgelehnt.
 tooltip.statbar.gdp.title,Bruttoinlandsprodukt
 tooltip.statbar.gdp.desc,"Bruttoinlandsprodukt des angezeigten Landes. Klicken Sie hier, um die Registerkarte „Wirtschaft“ zu öffnen."
-tooltip.statbar.treasury.title,FINANZMINISTERIUM
-tooltip.statbar.treasury.desc,Aktuelle Goldreserve. Monatliche Einnahmen abzüglich Ausgaben.
+tooltip.statbar.treasury.title,FINANZEN
+tooltip.statbar.treasury.desc,Aktuelle Geldreserven. Monatliche Einnahmen abzüglich Ausgaben.
 tooltip.statbar.pop.title,BEVÖLKERUNG
 tooltip.statbar.pop.desc,Gesamtbevölkerung aller Provinzen in unserem Besitz.
 tooltip.statbar.military.title,MILITÄR
