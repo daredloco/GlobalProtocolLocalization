@@ -50,14 +50,14 @@ country.name.KWT,Kuwait
 country.name.POL,Polen
 country.name.TUR,Türkei
 country.homeland.USA,HEIMAT
-country.homeland.RUS,HEIMAT
+country.homeland.RUS,MUTTERLAND
 country.homeland.CHN,DIE VOLKSREPUBLIK
 country.homeland.DEU,VATERLAND
 country.homeland.GBR,GROSSBRITANNIEN
-country.homeland.FRA,DAS VATERLAND
-country.homeland.JPN,Japan
-country.homeland.IND,Indien
-country.homeland.TUR,HEIMAT
+country.homeland.FRA,LA PATRIE
+country.homeland.JPN,NIPPON
+country.homeland.IND,BHARAT
+country.homeland.TUR,VATAN
 country.homeland.UKR,UKRAINE
 country.homeland.IRN,DIE ISLAMISCHE REPUBLIK
 country.homeland.ISR,DAS HEILIGE LAND
@@ -65,7 +65,7 @@ country.homeland.SAU,DAS KÖNIGREICH
 country.homeland.ARE,DAS EMIRAT
 country.homeland.QAT,DAS EMIRAT
 country.homeland.KWT,DAS EMIRAT
-country.homeland.KOR,Warte mal
+country.homeland.KOR,HANGUK
 country.homeland.PRK,DIE REPUBLIK
 country.homeland.BRA,DIE HEIMAT
 country.homeland.MEX,DAS VATERLAND
@@ -79,19 +79,19 @@ country.homeland.term.bharat,Indien
 country.homeland.term.britain,GROSSBRITANNIEN
 country.homeland.term.fatherland,VATERLAND
 country.homeland.term.homeland,HEIMAT
-country.homeland.term.la_patrie,DAS VATERLAND
-country.homeland.term.motherland,HEIMAT
-country.homeland.term.nippon,Japan
+country.homeland.term.la_patrie,LA PATRIE
+country.homeland.term.motherland,MUTTERLAND
+country.homeland.term.nippon,NIPPON
 country.homeland.term.northern_cyprus,NORDZYPERN
 country.homeland.term.somaliland,SOMALILAND
-country.homeland.term.taiwan,Taiwan
+country.homeland.term.taiwan,TAIWAN
 country.homeland.term.the_holy_land,DAS HEILIGE LAND
 country.homeland.term.the_holy_see,DER HEILIGE STUHL
 country.homeland.term.the_islamic_republic,DIE ISLAMISCHE REPUBLIK
 country.homeland.term.the_kingdom,DAS KÖNIGREICH
 country.homeland.term.the_peoples_republic,DIE VOLKSREPUBLIK
 country.homeland.term.ukraine,UKRAINE
-country.homeland.term.vatan,HEIMAT
+country.homeland.term.vatan,VATAN
 country.homeland.term.western_sahara,WESTSAHARA
 country.leader_title.acting_president,Amtierender Präsident
 country.leader_title.captains_regent,Regent
@@ -579,7 +579,7 @@ hud.diplo.opinion_decay,(verfällt {0}/Tag)
 hud.diplo.opinion_expiry,(läuft ab {0})
 hud.diplo.great_power_sphere,Großmacht & Einflusssphäre
 hud.diplo.gp_status,GROSSE MACHT
-hud.diplo.gp_rank,Muss
+hud.diplo.gp_rank,Rang
 hud.diplo.composite_score,GESAMTWERTUNG
 hud.diplo.sphere_leader,SPHERE-LEITER
 hud.diplo.sphere_members,Sphere-Mitglieder
@@ -2694,7 +2694,7 @@ menu.new_game,NEUES SPIEL
 menu.load_game,SPIEL LADEN
 menu.settings,EINSTELLUNGEN
 menu.credits,IMPRESSUM
-menu.quit,AUSSTEIGEN
+menu.quit,BEENDEN
 menu.pause.quitting,Beendet und kehrt zum Desktop zurück...
 menu.version,Version 0.1 – 2026
 select.title,WÄHLEN SIE IHR LAND AUS
@@ -2718,7 +2718,7 @@ select.difficulty_3,★★★ NORMAL
 select.government,Regierung
 select.region,Region
 select.col_name,Name
-select.col_rank,Muss
+select.col_rank,Rang
 select.filter_difficulty,Schwierigkeitsgrad:
 select.filter_all,Alle
 select.filter_beginner,Anfänger (★★)
@@ -3176,22 +3176,22 @@ help.economy.resources.body,"Strategische Engpässe führen derzeit zu Produktio
 help.recruitment.title,Einstellungsgremium
 help.recruitment.body,"Neue Militäreinheiten ausbilden und mobilisieren. Die Dauer und die Kosten der Rekrutierung hängen von deiner Wirtschaft, deinen personellen Ressourcen und den geltenden Mobilisierungsgesetzen ab."
 settings.title,EINSTELLUNGEN
-settings.tab.graphics,GRAFIKEN
+settings.tab.graphics,GRAFIK
 settings.tab.audio,AUDIO
 settings.tab.gameplay,SPIELVERLAUF
 settings.tab.privacy,DATENSCHUTZ
-settings.apply,BEWERBEN
+settings.apply,ÜBERNEHMEN
 settings.cancel,ABBRECHEN
-settings.reset,AUF STANDARDWERTE ZURÜCKSETZEN
+settings.reset,ZURÜCKSETZEN
 settings.graphics.display,ANZEIGE
-settings.graphics.resolution,Beschluss
+settings.graphics.resolution,Auflösung
 settings.graphics.fullscreen,Vollbild
 settings.graphics.vsync,VSync
 settings.graphics.quality_section,QUALITÄT
-settings.graphics.quality,Voreinstellung „Qualität“
+settings.graphics.quality,Voreinstellung
 settings.graphics.shadows,Schatten
 settings.graphics.antialiasing,Kantenglättung
-settings.audio.volume_section,UMFANG
+settings.audio.volume_section,LAUTSTÄRKE
 settings.audio.master,Gesamtlautstärke
 settings.audio.music,Musiklautstärke
 settings.audio.sfx,SFX-Lautstärke
@@ -3249,7 +3249,7 @@ settings.language.reload_confirm.msg,Ein Sprachwechsel erfordert ein schnelles N
 settings.tab.controls,BEDIENELEMENTE
 settings.controls.listening,Ich höre zu...
 settings.controls.press_any_key,Drücken Sie eine beliebige Taste
-settings.controls.reset_bindings,Steuerelemente zurücksetzen
+settings.controls.reset_bindings,Zurücksetzen
 settings.controls.keyboard_mouse,TASTATUR & MAUS
 settings.controls.gamepad,GAMEPAD
 settings.controls.controller_cursor,STEUER-CURSOR
@@ -3305,14 +3305,14 @@ settings.controls.action.MapModeTerrain,Geländekarte
 settings.controls.action.MapModePopulation,Bevölkerung
 settings.controls.action.MapModeNuclear,Kernkraftkarte
 settings.controls.action.MapModeModifier,Kartenmodus bearbeiten
-settings.controls.action.OpenDiplomacy,Offene Diplomatie
-settings.controls.action.OpenMilitary,Offenes Militär
-settings.controls.action.OpenEconomy,Offene Wirtschaft
-settings.controls.action.OpenTech,Offene Technologie
+settings.controls.action.OpenDiplomacy,Diplomatie öffnen
+settings.controls.action.OpenMilitary,Militär öffnen
+settings.controls.action.OpenEconomy,Wirtschaft öffnen
+settings.controls.action.OpenTech,Technologie öffnen
 settings.controls.action.OpenEventLog,Ereignisprotokoll öffnen
-settings.controls.action.OpenIntel,Offene Intelligenz
-settings.controls.action.OpenLedger,Offenes Hauptbuch
-settings.controls.action.OpenProvinces,Offene Provinzen
+settings.controls.action.OpenIntel,Geheimdienst öffnen
+settings.controls.action.OpenLedger,Hauptbuch öffnen
+settings.controls.action.OpenProvinces,Provinzen öffnen
 settings.controls.action.OpenSearch,Suche starten
 settings.controls.action.SelectProvince,Provinz auswählen
 settings.controls.action.ContextMenu,Kontextmenü
@@ -3355,7 +3355,7 @@ hud.ledger.tab.diplomacy,DIPLOMATIE
 hud.ledger.tab.demographics,Demografie
 hud.ledger.tab.graphs,DIAGRAMME
 hud.ledger.search_placeholder,Länder suchen...
-hud.ledger.col.rank,Muss
+hud.ledger.col.rank,Rang
 hud.ledger.col.country,LAND
 hud.ledger.col.prestige,PRESTIGE
 hud.ledger.col.prestige_org,Organisation für eine freie Gesellschaft
@@ -3432,10 +3432,10 @@ tooltip.econ.hdi_education.desc,"Bildungs-Teilindex des HDI, berechnet anhand de
 tooltip.econ.hdi_income.title,Einkommensindex
 tooltip.econ.hdi_income.desc,"Einkommens-Teilindex des HDI, basierend auf dem logarithmisch skalierten BNE pro Kopf und normiert auf einen Bereich von 0 bis 1."
 hud.topbar.rank_format,#{0}
-hud.topbar.rank_tier.great_power,GROSSE MACHT
-hud.topbar.rank_tier.major,Großmacht
-hud.topbar.rank_tier.regional,REGIONAL
-hud.topbar.rank_tier.minor,NEBENBEI
+hud.topbar.rank_tier.great_power,GROSSMACHT
+hud.topbar.rank_tier.major,BEDEUTENDE MACHT
+hud.topbar.rank_tier.regional,REGIONALE MACHT
+hud.topbar.rank_tier.minor,KLEINMACHT
 tooltip.topbar.rank.title,Weltweite Rangliste
 tooltip.topbar.rank.desc,"Gesamtwert: BIP (×10), militärische Stärke (×5) und Technologie (×3). Zum Öffnen des Ledgers bitte hier klicken."
 tooltip.topbar.rank.standing,Weltweite Position
@@ -5269,7 +5269,7 @@ country.name.BOL,Bolivien
 country.name.BRB,Barbados
 country.name.BRN,Brunei
 country.name.BTN,Bhutan
-country.name.BWA,Die Wahrheit
+country.name.BWA,Botswana
 country.name.CAF,Zentralafrikanische Republik
 country.name.CAN,Kanada
 country.name.CEB,Mitteleuropa und das Baltikum
@@ -5311,7 +5311,7 @@ country.name.FIN,Finnland
 country.name.FJI,Fidschi
 country.name.FRO,Färöer
 country.name.FSM,Mikronesien
-country.name.GAB,Guten Abend
+country.name.GAB,Gabun
 country.name.GEO,Georgien
 country.name.GHA,Ghana
 country.name.GIB,Gibraltar
@@ -5336,7 +5336,7 @@ country.name.IDA,IDA-Länder
 country.name.IDB,IDA-Mischländer
 country.name.IDN,Indonesien
 country.name.IDX,Nur IDA-Länder
-country.name.IMN,Insel Man
+country.name.IMN,Isle of Man
 country.name.IRL,Irland
 country.name.IRQ,Irak
 country.name.ISL,Island
@@ -5349,7 +5349,7 @@ country.name.KHM,Kambodscha
 country.name.KIR,Kiribati
 country.name.KNA,St. Kitts und Nevis
 country.name.LAC,Lateinamerika und die Karibik
-country.name.LAO,In Lager
+country.name.LAO,Laos
 country.name.LBN,Libanon
 country.name.LBR,Liberia
 country.name.LBY,Libyen
@@ -5367,7 +5367,7 @@ country.name.LVA,Lettland
 country.name.MAC,Macau
 country.name.MAF,Saint Martin
 country.name.MAR,Marokko
-country.name.MCO,München
+country.name.MCO,Monaco
 country.name.MDA,Moldawien
 country.name.MDG,Madagaskar
 country.name.MDV,Malediven
@@ -5376,7 +5376,7 @@ country.name.MEX,Mexiko
 country.name.MHL,Marshallinseln
 country.name.MIC,Länder mit mittlerem Einkommen
 country.name.MKD,Nordmazedonien
-country.name.MLI,Sie sollten
+country.name.MLI,Mali
 country.name.MLT,Malta
 country.name.MMR,Myanmar
 country.name.MNA,Naher Osten und Nordafrika (ohne Länder mit hohem Einkommen)
@@ -5397,7 +5397,7 @@ country.name.NIC,Nicaragua
 country.name.NLD,Niederlande
 country.name.NOR,Norwegen
 country.name.NPL,Nepal
-country.name.NRU,Lachen
+country.name.NRU,Nauru
 country.name.NZL,Neuseeland
 country.name.OED,OECD-Länder
 country.name.OMN,Oman
@@ -5447,7 +5447,7 @@ country.name.TCA,Turks- und Caicosinseln
 country.name.TCD,Tschad
 country.name.TEA,Ostasien und Pazifikraum (IDA und IBRD)
 country.name.TEC,Europa und Zentralasien (IDA und IBRD)
-country.name.TGO,Weiter zu
+country.name.TGO,Togo
 country.name.THA,Thailand
 country.name.TJK,Tadschikistan
 country.name.TKM,Turkmenistan
