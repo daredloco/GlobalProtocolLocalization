@@ -2852,7 +2852,7 @@ pause.save,SPIEL SPEICHERN
 pause.load,SPIEL LADEN
 pause.settings,EINSTELLUNGEN
 pause.quit_menu,ZUM MENÜ ZURÜCK
-pause.quit_desktop,Zum Desktop wechseln
+pause.quit_desktop,SPIEL BEENDEN
 saveload.save_title,SPIEL SPEICHERN
 saveload.load_title,SPIEL LADEN
 saveload.no_saves,Es wurden keine Speicherstände gefunden
