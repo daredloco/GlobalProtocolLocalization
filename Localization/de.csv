@@ -3335,7 +3335,7 @@ difficulty.easy.desc,"Geringere Aggressivität der KI, wirtschaftliche Boni, sch
 difficulty.normal.desc,Das klassische Spielerlebnis. So ist das Spiel gedacht.
 difficulty.hard.desc,"Aggressive KI, wirtschaftliche Sanktionen, verlangsamte Forschung."
 difficulty.expert.desc,Eine echte Herausforderung. Nur für erfahrene Spieler.
-confirm.quit_desktop.title,Zum Desktop wechseln
+confirm.quit_desktop.title,Spiel beenden
 confirm.quit_desktop.msg,Möchtest du wirklich beenden? Nicht gespeicherte Fortschritte gehen verloren.
 confirm.quit_menu.title,ZUM MENÜ ZURÜCK
 confirm.quit_menu.msg,Zurück zum Hauptmenü? Ungespeicherte Fortschritte gehen verloren.
