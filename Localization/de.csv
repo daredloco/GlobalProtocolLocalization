@@ -129,14 +129,14 @@ hud.country.gov_type,TYP
 hud.country.ideology,IDEOLOGIE
 hud.country.stability,STABILITÄT
 hud.country.corruption,KORRUPTION
-hud.country.econ_gdp,Bruttoinlandsprodukt
-hud.country.econ_gdp_cap,Bruttoinlandsprodukt pro Kopf
+hud.country.econ_gdp,BIP
+hud.country.econ_gdp_cap,BIP pro Kopf
 hud.country.econ_growth,WACHSTUM
 hud.country.econ_inflation,INFLATION
 hud.country.econ_treasury,STAATSKASSE
-hud.country.econ_debt,Schuldenquote
+hud.country.econ_debt,SCHULDENQUOTE
 hud.country.econ_unemploy,ARBEITSLOS
-hud.country.econ_hdi,Hochleistungsspritzguss
+hud.country.econ_hdi,HDI
 hud.country.trade_exports,EXPORTE
 hud.country.trade_imports,IMPORTE
 hud.country.trade_balance,BILANZ
@@ -225,7 +225,7 @@ hud.mapmode.nuclear.desc,DEFCON-Bereitschaft (Friedenszeit) oder radioaktiver Ni
 hud.mapmode.population.title,Bevölkerung
 hud.mapmode.population.desc,"Bevölkerungsdichte – dunkler = dünn besiedelt, hell = dicht besiedelt."
 hud.tooltip.ctx.terrain,GRUNDSTÜCK
-hud.tooltip.ctx.gdp,Bruttoinlandsprodukt
+hud.tooltip.ctx.gdp,BIP
 hud.tooltip.ctx.gdp_density,BIP pro Quadratkilometer
 hud.tooltip.ctx.army_strength,STÄRKE DER ARMEE
 hud.tooltip.ctx.defense_bonus,VERTEIDIGUNGSBONUS
@@ -914,7 +914,7 @@ hud.province.education,BILDUNG
 hud.province.literacy,ALPHABETISIERUNG
 hud.province.healthcare,GESUNDHEITSWESEN
 hud.province.migration,MIGRATIONSDRUCK
-hud.province.gdp,Bruttoinlandsprodukt
+hud.province.gdp,BIP
 hud.province.base_production,PRODUKTIONSSTÄTTE
 hud.province.prod_modifier,PROD BEARBEITEN
 hud.province.resource_output,RESSOURCENVERBRAUCH
@@ -1133,7 +1133,7 @@ tooltip.outliner.events,VERANSTALTUNGEN
 tooltip.topbar.date,AKTUELLES DATUM
 tooltip.csel.population,BEVÖLKERUNG
 tooltip.csel.population.desc,Gesamtbevölkerung dieses Landes in allen Provinzen.
-tooltip.csel.gdp,Bruttoinlandsprodukt
+tooltip.csel.gdp,BIP
 tooltip.csel.gdp.desc,Bruttoinlandsprodukt – Gesamtwirtschaftsleistung in US-Dollar.
 tooltip.csel.military,MILITÄRISCHE STÄRKE
 tooltip.csel.military.desc,"Gesamtindex der militärischen Stärke (0–1). Basierend auf Personal, Ausrüstung und Technologie."
@@ -1148,7 +1148,7 @@ breakdown.net_migration,Nettozuwanderung
 breakdown.current_level,Aktuelles Niveau
 breakdown.infra_budget,Infra-Budget
 breakdown.current_unrest,Aktuelle Unruhen
-breakdown.gdp_capita,Bruttoinlandsprodukt pro Kopf
+breakdown.gdp_capita,BIP pro Kopf
 breakdown.poverty_pressure,Armutsdruck
 breakdown.social_decay,Rückgang der Sozialausgaben
 breakdown.building_reduction,Gebäuderückbau
@@ -1184,7 +1184,7 @@ breakdown.mult_terrain,× Grundstück
 breakdown.mult_building,× Gebäude bearbeiten
 breakdown.mult_unrest,× Strafe für Unruhen
 breakdown.mult_radiation,× Strahlungsmalus
-breakdown.result_gdp,Bruttoinlandsprodukt
+breakdown.result_gdp,BIP
 breakdown.mult_terrain_prod,× Geländeproduktivität
 breakdown.result_resource,= Ressourcenausgabe
 breakdown.no_buildings,Keine Gebäude
@@ -1193,8 +1193,8 @@ breakdown.total,GESAMT
 breakdown.monthly_change,Veränderung gegenüber dem Vormonat
 breakdown.first_month,—
 hud.econ.overview_section,WIRTSCHAFTLICHER ÜBERBLICK
-hud.econ.gdp,Bruttoinlandsprodukt
-hud.econ.gdp_capita,Bruttoinlandsprodukt pro Kopf
+hud.econ.gdp,BIP
+hud.econ.gdp_capita,BIP pro Kopf
 hud.econ.growth,WACHSTUM
 hud.econ.inflation,INFLATION
 hud.econ.debt_gdp,Verschuldung / BIP
@@ -1230,9 +1230,9 @@ hud.econ.res_col_cons,HINWEIS
 hud.econ.res_col_net,Nicht
 hud.econ.res_col_price,PREIS
 hud.econ.res_col_value,WERT
-tooltip.econ.gdp.title,BRUTTOINLANDSPRODUKT
+tooltip.econ.gdp.title,BIP
 tooltip.econ.gdp.desc,"Gesamtwirtschaftsleistung des Landes. Steigt durch die Produktion, den Handel und die Investitionen der Provinzen."
-tooltip.econ.gdp_capita.title,Bruttoinlandsprodukt pro Kopf
+tooltip.econ.gdp_capita.title,BIP pro Kopf
 tooltip.econ.gdp_capita.desc,Durchschnittliche Wirtschaftsleistung pro Kopf. Höhere Werte deuten auf einen besseren Lebensstandard hin und tragen zum HDI bei.
 tooltip.econ.growth.title,BIP-WACHSTUMSRATE
 tooltip.econ.growth.desc,Monatliche Veränderung des BIP. Beflügelt durch das Bildungswesen und den Handelsüberschuss; gebremst durch Inflation und Instabilität.
@@ -1401,7 +1401,7 @@ hud.event.reason.sanctions_already_active,Gegen dieses Ziel sind bereits Sanktio
 hud.event.stat.government_stability,Stabilität
 hud.event.stat.government_corruption,Korruption
 hud.event.stat.economy_growth_rate,BIP-Wachstum
-hud.event.stat.economy_gdp,Bruttoinlandsprodukt
+hud.event.stat.economy_gdp,BIP
 hud.event.stat.economy_inflation,Inflation
 hud.event.stat.budget_treasury,Staatskasse
 hud.event.stat.military_active_personnel,Arbeitskräfte
@@ -1672,8 +1672,8 @@ month.nov,NOV
 month.dec,DEZ
 format.month_year,{0} {1}
 tooltip.topbar.treasury.title,STAATSKASSE
-tooltip.topbar.gdp.title,BRUTTOINLANDSPRODUKT
-tooltip.topbar.manpower.title,Arbeitskräfte
+tooltip.topbar.gdp.title,BIP
+tooltip.topbar.manpower.title,ARBEITSKRÄFTE
 tooltip.topbar.pop.title,BEVÖLKERUNG
 tooltip.country.gov_type.title,Staatsform
 tooltip.country.gov_type.desc,"Das politische System des Landes. Es beeinflusst die Stabilität, die Korruptionsrate und die diplomatischen Handlungsmöglichkeiten."
@@ -1683,9 +1683,9 @@ tooltip.country.stability.title,STABILITÄT
 tooltip.country.stability.desc,"Politische Stabilität (0–100 %). Eine geringe Stabilität führt zu Unruhen, Korruption und einem erhöhten Risiko für Zwischenfälle. Beeinflusst durch Regierungsmaßnahmen und Kriege."
 tooltip.country.corruption.title,KORRUPTION
 tooltip.country.corruption.desc,Korruptionsgrad der Regierung (0–100 %). Ein höheres Korruptionsniveau beeinträchtigt die Steuereffizienz und das BIP-Wachstum. Wird durch Stabilität gemindert.
-tooltip.country.gdp.title,Bruttoinlandsprodukt
+tooltip.country.gdp.title,BIP
 tooltip.country.gdp.desc,Bruttoinlandsprodukt – Gesamtwirtschaftsleistung. Summe der gesamten Produktion der Provinzen mit Berichtigungen.
-tooltip.country.gdp_cap.title,Bruttoinlandsprodukt pro Kopf
+tooltip.country.gdp_cap.title,BIP pro Kopf
 tooltip.country.gdp_cap.desc,Durchschnittliche Wirtschaftsleistung pro Kopf. Höhere Werte deuten auf einen besseren Lebensstandard hin.
 tooltip.country.growth.title,BIP-WACHSTUM
 tooltip.country.growth.desc,"Monatliche BIP-Wachstumsrate. Begünstigt durch Investitionen, Bildungsausgaben und Handelsüberschuss. Beeinträchtigt durch Inflation, Krieg und Instabilität."
@@ -2046,7 +2046,7 @@ tooltip.statbar.corruption.note,- beeinträchtigt die Steuereffizienz und bremst
 tooltip.statbar.research.current,Aktuelles Projekt
 tooltip.statbar.research.points,Monatlicher Fortschritt
 tooltip.statbar.research.budget,Zugewiesenes Budget
-tooltip.select.gdp.title,BRUTTOINLANDSPRODUKT
+tooltip.select.gdp.title,BIP
 tooltip.select.gdp.desc,Bruttoinlandsprodukt – die gesamte Wirtschaftsleistung dieses Landes.
 tooltip.select.pop.title,BEVÖLKERUNG
 tooltip.select.pop.desc,Gesamtbevölkerung aller Provinzen.
@@ -3387,7 +3387,7 @@ hud.ledger.col.slbm,SLBM
 hud.ledger.col.missile_defense,Raketenabwehr
 hud.ledger.col.tech_count,TECHS
 hud.ledger.col.research_pts,Republik der Philippinen / Innenministerium
-hud.ledger.col.gdp_mod,Bruttoinlandsprodukt-Modul
+hud.ledger.col.gdp_mod,BIP-Modul
 hud.ledger.col.mil_attack,Gelände-Kit-Modus
 hud.ledger.col.mil_defense,Verteidigungsmodus
 hud.ledger.col.cyber,CYBER
@@ -3510,7 +3510,7 @@ misc.built,GEBAUT
 misc.collapsed_prefix,▶
 misc.expanded_prefix,▼
 misc.country_fallback,Land #{0}
-effect.gdp,Bruttoinlandsprodukt
+effect.gdp,BIP
 effect.infra,INFRA
 effect.defense,VERTEIDIGUNG
 effect.pop_growth,BEVÖLKERUNGSWACHSTUM
@@ -3722,8 +3722,8 @@ hud.auto.event_title_1,Veranstaltungstitel
 hud.auto.event_description_goes_here,Hier kommt die Beschreibung der Veranstaltung.
 hud.auto.event_description_goes_here_this_can_be_multiple_lines_of_text_explaining_the_situation,"Hier steht die Beschreibung der Veranstaltung. Dies können mehrere Zeilen Text sein, in denen die Situation erläutert wird."
 hud.auto.final_score,ENDSTAND
-hud.auto.gdp,Bruttoinlandsprodukt
-hud.auto.gdp_1,Bruttoinlandsprodukt
+hud.auto.gdp,BIP
+hud.auto.gdp_1,BIP
 hud.auto.geopolitical_crisis,GEOPOLITISCHE KRISE
 hud.auto.global_protocol,GLOBALES PROTOKOLL
 hud.auto.global_search,GLOBALE SUCHE
@@ -3744,7 +3744,7 @@ hud.auto.label_1,Etikett
 hud.auto.lv_1,Stufe 1
 hud.auto.lv_1_1,Stufe 1
 hud.auto.main_menu,HAUPTMENÜ
-hud.auto.manpower,Belegschaft
+hud.auto.manpower,BELEGSCHAFT
 hud.auto.military,MILITÄR
 hud.auto.agenda,AGENDA
 hud.auto.missile_defense,RAKETENABWEHR
@@ -3763,8 +3763,8 @@ hud.auto.overview,ÜBERBLICK
 hud.auto.owner,Eigentümer
 hud.auto.panel,PANEL
 hud.auto.peace,FRIEDEN
-hud.auto.pop,Pop
-hud.auto.pop_1,Pop:
+hud.auto.pop,POP
+hud.auto.pop_1,POP:
 hud.auto.population,BEVÖLKERUNG
 hud.auto.provinces,PROVINZEN
 hud.auto.president_recep_tayyip_erdogan,Präsident Recep Tayyip Erdogan
@@ -7407,7 +7407,7 @@ hud.diplo.response_accepted_title,{0} Akzeptiert
 hud.diplo.response_rejected_title,{0} Abgelehnt
 hud.diplo.response_accepted_body,Du hast {0}s {1} angenommen.
 hud.diplo.response_rejected_body,Du hast {0}s {1} abgelehnt.
-tooltip.statbar.gdp.title,Bruttoinlandsprodukt
+tooltip.statbar.gdp.title,BIP
 tooltip.statbar.gdp.desc,"Bruttoinlandsprodukt des angezeigten Landes. Klicken Sie hier, um die Registerkarte „Wirtschaft“ zu öffnen."
 tooltip.statbar.treasury.title,STAATSKASSE
 tooltip.statbar.treasury.desc,Aktuelle Geldreserven. Monatliche Einnahmen abzüglich Ausgaben.
@@ -7731,9 +7731,9 @@ hud.log.envoy_what_burned_out,Verbrannt
 hud.log.envoy_what_threat,Ausländischer Agent erkannt
 hud.log.envoy_what_operation_succeeded,Die Operation war erfolgreich
 hud.log.envoy_what_operation_failed,Vorgang fehlgeschlagen
-hud.envoy.delta.treasury,Finanzministerium
-hud.envoy.delta.gdp,Bruttoinlandsprodukt
-hud.envoy.delta.target_treasury,Ziel: Finanzministerium
+hud.envoy.delta.treasury,Staatskasse
+hud.envoy.delta.gdp,BIP
+hud.envoy.delta.target_treasury,Ziel: Staatskasse
 hud.envoy.delta.target_gdp,Ziel-BIP
 hud.envoy.delta.relations,Beziehungen
 hud.envoy.delta.exposure,Exposition
