@@ -3157,7 +3157,7 @@ help.intelligence.title,Ausschuss für Nachrichtendienste
 help.intelligence.body,"Führe Spionagemissionen durch, leite deinen Geheimdienst und beobachte Aktivitäten im Ausland."
 help.overview.title,Übersichtsbereich
 help.overview.body,"Ein Überblick über Ihr Land: die wichtigsten Kennzahlen, aktuelle Ereignisse und die aktuelle Lage auf einen Blick."
-help.agenda.title,Tagesordnung – Podiumsdiskussion
+help.agenda.title,Agenda
 help.agenda.body,"Prüfen Sie die Verbindungen zwischen den Aufgaben der Route und den nationalen Zielen im Rahmen der aktuellen strategischen Agenda des Landes. Nutzen Sie diese, um zu erkennen, welche kurzfristigen Maßnahmen die langfristigen staatlichen Ziele stärken."
 help.events.title,Veranstaltungshinweise
 help.events.body,"Ereignisse sind strategische Weggabelungen: Lies dir den Text zu den Auswirkungen durch, bevor du eine Entscheidung triffst, gib Optionen den Vorrang, die die Finanzlage und die Stabilität sichern, und zögere gegebenenfalls, bevor du risikoreiche Entscheidungen bestätigst."
@@ -3746,7 +3746,7 @@ hud.auto.lv_1_1,Stufe 1
 hud.auto.main_menu,HAUPTMENÜ
 hud.auto.manpower,Belegschaft
 hud.auto.military,MILITÄR
-hud.auto.agenda,TAGESORDNUNG
+hud.auto.agenda,AGENDA
 hud.auto.missile_defense,RAKETENABWEHR
 hud.auto.morale,MORAL
 hud.auto.morale_100,MORAL 100 %
@@ -3837,7 +3837,7 @@ hud.nav.diplomacy,DIPLOMATIE
 hud.nav.tech,TECHNOLOGIE
 hud.nav.intel,INTELLIGENZ
 hud.nav.provinces,PROVINZEN
-hud.nav.agenda,TAGESORDNUNG
+hud.nav.agenda,AGENDA
 hud.country.gov_section,REGIERUNG
 hud.country.econ_section,WIRTSCHAFT
 hud.country.trade_section,HANDEL
@@ -7508,7 +7508,7 @@ tooltip.agenda.empty.desc,Für dieses Land sind derzeit keine Agenda-Inhalte hin
 tooltip.agenda.open_planner.title,OPEN GOAL PLANER
 tooltip.agenda.open_planner.desc,"Öffnet den Detailplaner, in dem Sie strategische Ziele einsehen und aktivieren können."
 tooltip.agenda.close_planner.title,ZIELPLANER SCHLIESSEN
-tooltip.agenda.close_planner.desc,Schließt die Planer-Ebene und kehrt zur Registerkarte „Tagesordnung“ zurück.
+tooltip.agenda.close_planner.desc,Schließt die Planer-Ebene und kehrt zur Registerkarte „Agenda“ zurück.
 tooltip.agenda.goal_progress.title,Ziele und Fortschritte
 tooltip.agenda.goal_progress.desc,"Zeigt an, wie viele Aufgaben für das ausgewählte strategische Ziel abgeschlossen sind."
 tooltip.agenda.activate_goal.title,AKTIVES ZIEL FESTLEGEN
