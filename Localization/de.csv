@@ -2046,7 +2046,7 @@ tooltip.statbar.corruption.note,- beeinträchtigt die Steuereffizienz und bremst
 tooltip.statbar.research.current,Aktuelles Projekt
 tooltip.statbar.research.points,Monatlicher Fortschritt
 tooltip.statbar.research.budget,Zugewiesenes Budget
-tooltip.select.gdp.title,Bruttoinlandsprodukt
+tooltip.select.gdp.title,BRUTTOINLANDSPRODUKT
 tooltip.select.gdp.desc,Bruttoinlandsprodukt – die gesamte Wirtschaftsleistung dieses Landes.
 tooltip.select.pop.title,BEVÖLKERUNG
 tooltip.select.pop.desc,Gesamtbevölkerung aller Provinzen.
@@ -2703,7 +2703,7 @@ select.start_game,SPIEL STARTEN
 select.back,◀ ZURÜCK
 select.no_country,"Klicken Sie auf ein Land, um zu beginnen"
 select.population,Bevölkerung
-select.gdp,Bruttoinlandsprodukt
+select.gdp,BIP
 select.military,Militär
 select.gdp_rank,BIP-Rang: #{0}
 select.mil_rank,Militärischer Rang: #{0}
@@ -2972,7 +2972,7 @@ hud.prov.mode_build_ops,Gebäudebetrieb
 hud.prov.sort_by,ERGEBNIS:
 hud.prov.sort_name,Name
 hud.prov.sort_pop,Pop
-hud.prov.sort_gdp,Bruttoinlandsprodukt
+hud.prov.sort_gdp,BIP
 hud.prov.sort_infra,Infra
 hud.prov.sort_unrest,Unruhen
 hud.prov.filter,FILTER:
@@ -3008,7 +3008,7 @@ hud.prov.ops_upgrade_failed,"In dieser Provinz gibt es kein Gebäude, das ausgeb
 hud.prov.ops_cancel_failed,"Es gibt keine Bauwarteschlangenposition, die storniert werden könnte."
 hud.prov.col_name,NAME
 hud.prov.col_pop,Pop
-hud.prov.col_gdp,Bruttoinlandsprodukt
+hud.prov.col_gdp,BIP
 hud.prov.col_infra,INFRA
 hud.prov.col_unrest,UNRUHEN
 tutorial.skip,ANLEITUNG ÜBERSPRINGEN
@@ -3365,18 +3365,18 @@ hud.ledger.col.diplo_weight,DIPLO-GEWICHT
 hud.ledger.col.composite_score,PUNKTESTAND
 hud.ledger.col.sphere_size,SPHÄRE
 hud.ledger.col.rivals,KONKURRENTEN
-hud.ledger.col.gdp,Bruttoinlandsprodukt
+hud.ledger.col.gdp,BIP
 hud.ledger.col.gdp_capita,BIP pro Kopf
 hud.ledger.col.growth,WACHSTUM
 hud.ledger.col.treasury,STAATSKASSE
-hud.ledger.col.debt_gdp,Schuldenquote
+hud.ledger.col.debt_gdp,SCHULDENQUOTE
 hud.ledger.col.unemployment,UNEMP
-hud.ledger.col.hdi,Hochleistungsspritzguss
+hud.ledger.col.hdi,HDI
 hud.ledger.col.exports,EXPORTE
 hud.ledger.col.imports,IMPORTE
 hud.ledger.col.personnel,PERSONAL
 hud.ledger.col.reserves,RESERVEN
-hud.ledger.col.def_budget,DEF. HAUSHALT
+hud.ledger.col.def_budget,VERT. BUDGET
 hud.ledger.col.tanks,TANKS
 hud.ledger.col.aircraft,FLUGZEUG
 hud.ledger.col.ships,SCHIFFE
