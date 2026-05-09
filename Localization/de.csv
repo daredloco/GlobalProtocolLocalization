@@ -11,7 +11,7 @@ hud.loading.saving,SPIEL WIRD GESPEICHERT...
 hud.topbar.title,GLOBALES PROTOKOLL
 hud.topbar.treasury,STAATSKASSE:
 hud.topbar.gdp,BIP:
-hud.topbar.manpower,ARBEITSKRÄFTE:
+hud.topbar.manpower,MANNSTÄRKE:
 hud.topbar.population,POP:
 hud.topbar.delta_maintenance_per_month,-{0}{1}
 hud.army_tooltip.country,LAND
@@ -182,7 +182,7 @@ hud.summary.diplo_alliances,PARTNERSCHAFTEN
 hud.summary.diplo_rivals,KONKURRENTEN
 hud.summary.diplo_un,UN-Mitglied
 hud.summary.diplo_unsc,UN-SICHERHEIT
-hud.summary.mil_manpower,Arbeitskräfte
+hud.summary.mil_manpower,MANNSTÄRKE
 hud.summary.mil_budget,ENERGIEVERBRAUCH
 hud.summary.mil_tanks,TANKS
 hud.summary.mil_aircraft,FLUGZEUG
@@ -602,7 +602,7 @@ hud.mil.move,MOVE
 hud.mil.attack,ANGRIFF
 hud.mil.recruit,STELLENANGEBOTE
 hud.mil.cost,KOSTEN
-hud.mil.manpower_cost,Arbeitskräfte
+hud.mil.manpower_cost,MANNSTÄRKE
 hud.mil.build_time,BAUZEIT
 hud.mil.launch_nuclear,ATOMANGREIF STARTEN
 hud.mil.pending_strikes,ANSTEHENDE STREIKS
@@ -1673,7 +1673,7 @@ month.dec,DEZ
 format.month_year,{0} {1}
 tooltip.topbar.treasury.title,STAATSKASSE
 tooltip.topbar.gdp.title,BIP
-tooltip.topbar.manpower.title,ARBEITSKRÄFTE
+tooltip.topbar.manpower.title,MANNSTÄRKE
 tooltip.topbar.pop.title,BEVÖLKERUNG
 tooltip.country.gov_type.title,Staatsform
 tooltip.country.gov_type.desc,"Das politische System des Landes. Es beeinflusst die Stabilität, die Korruptionsrate und die diplomatischen Handlungsmöglichkeiten."
@@ -2583,7 +2583,7 @@ hud.war.defender_cb_label,Verteidiger (CB)
 hud.war.casus_belli_label,Casus Belli
 hud.war.duration_label,Dauer
 hud.war.sue_peace,SUE PEACE
-hud.war.label_manpower,Arbeitskräfte
+hud.war.label_manpower,MANNSTÄRKE
 hud.war.label_reserves,Reserven
 hud.war.label_exhaustion,Kriegsmüdigkeit
 hud.war.label_battles,Kämpfe
@@ -2595,7 +2595,7 @@ hud.war.transfer_selected_count,Ausgewählte Provinzen: {0}
 hud.war.transfer_clear,ALLE LÖSCHEN
 hud.war.transfer_row,{0}
 hud.war.cost_section_title,Kriegskosten
-hud.war.manpower_lost,Arbeitskräftemangel
+hud.war.manpower_lost,Truppenverluste
 hud.war.equipment_lost,Zerstörte Ausrüstung
 hud.war.civilians_affected,Betroffene Zivilisten
 hud.war.economic_damage,Wirtschaftlicher Schaden
@@ -3744,7 +3744,7 @@ hud.auto.label_1,Etikett
 hud.auto.lv_1,Stufe 1
 hud.auto.lv_1_1,Stufe 1
 hud.auto.main_menu,HAUPTMENÜ
-hud.auto.manpower,BELEGSCHAFT
+hud.auto.manpower,MANNSTÄRKE
 hud.auto.military,MILITÄR
 hud.auto.agenda,AGENDA
 hud.auto.missile_defense,RAKETENABWEHR
@@ -4018,7 +4018,7 @@ hud.recruit.queue.land,Warteschlange für die Landbeschaffung
 hud.recruit.queue.fleet,WARTESCHLANGE FÜR DEN FLOTTENAUFBAU
 hud.recruit.queue.air,Warteschlange für den Bau des Luftflügels
 hud.recruit.missing_building,Erforderliches Gebäude fehlt
-hud.recruit.missing_manpower,PERSONALMANGEL
+hud.recruit.missing_manpower,Personalmangel
 hud.recruit.required_none,Keine
 hud.recruit.required_building_named,Erfordert: {0}
 hud.recruit.missing_building_named,Fehlt: {0}
@@ -4308,9 +4308,9 @@ tooltip.topbar.treasury.recruitment,Personalbeschaffungskosten
 tooltip.topbar.treasury.reserve_spend,Reserveausgaben
 tooltip.topbar.treasury.events,Net-Veranstaltungen
 tooltip.topbar.treasury.refunds,Rückerstattungen
-tooltip.topbar.manpower.desc,Prognostizierte monatliche Veränderung des Personalbestands. Die Absolventen der Reserve werden zu Soldaten ausgebildet und in den Personalbestand aufgenommen.
+tooltip.topbar.manpower.desc,Prognostizierte monatliche Veränderung der Mannstärke. Die Absolventen der Reserve werden zu Soldaten ausgebildet und in den Bestand aufgenommen.
 tooltip.topbar.manpower.regen,Reserve -> Abschluss der Ausbildung
-tooltip.topbar.manpower.queue_impact,Auswirkungen der in der Warteschlange befindlichen Stellenausschreibungen
+tooltip.topbar.manpower.queue_impact,Auswirkungen der in der Warteschlange befindlichen Soldaten
 tooltip.topbar.manpower.direct_modifiers,Direkte Auswirkungen auf Gebäude und Technik
 tooltip.topbar.manpower.section.context,Mechanik – Kontext
 tooltip.topbar.manpower.hp_recovery_drain,HP-Wiederherstellung (Personalkosten)
@@ -4898,7 +4898,7 @@ event.cyber_attack_infrastructure.option3.text,Fordern Sie eine internationale U
 event.cyber_attack_infrastructure.title,Großer Cyberangriff auf kritische Infrastruktur
 event.demographic_dividend.description,"Jahrzehntelange Investitionen in Bildung und Gesundheitswesen haben eine große, junge und hochqualifizierte Erwerbsbevölkerung hervorgebracht, die gerade ihren produktivsten Lebensabschnitt erreicht. Die Abhängigkeitsquote hat den günstigsten Stand in der jüngeren Geschichte des Landes erreicht.\n\nÖkonomen prognostizieren einen anhaltenden, mehrjährigen Wachstumsvorsprung, da diese Bevölkerungsgruppe Konsum, Innovation und Unternehmertum vorantreibt."
 event.demographic_dividend.option1.text,"In die Hochschulbildung und Forschung und Entwicklung investieren, um die Produktivität zu maximieren"
-event.demographic_dividend.option1.tooltip,Den Qualitätsvorteil der Belegschaft noch verstärken
+event.demographic_dividend.option1.tooltip,Den Qualitätsvorteil der Arbeitskräfte noch verstärken
 event.demographic_dividend.option2.text,"Die Arbeitsmärkte liberalisieren, um Arbeitskräfte aufzunehmen"
 event.demographic_dividend.option2.tooltip,Schnelles Wachstum bei wettbewerbsfähigen Löhnen
 event.demographic_dividend.option3.text,Mit dem Talentpool multinationale Technologieunternehmen anziehen
@@ -7426,7 +7426,7 @@ hud.alert.high_debt,Überschuldung
 hud.alert.desc.high_debt,"Die Schuldenquote liegt bei {0:F0} % und damit über 100 %. Um die Haushaltslage wieder ins Gleichgewicht zu bringen, müssen die Ausgaben gesenkt oder die Einnahmen erhöht werden."
 hud.alert.resource_shortage,Ressourcenknappheit
 hud.alert.desc.resource_shortage,"Baugeschwindigkeit {0:F0} %, Rekrutierungskosten {1:F0} %, Unruhedruck +{2:F1} %. Strategische Einsatzmöglichkeiten gesperrt: {3}. Sichern Sie Importe oder die heimische Produktion, um die Produktionsleistung wiederherzustellen."
-hud.war.stat_manpower,Personal: {0}
+hud.war.stat_manpower,Mannstärke: {0}
 hud.war.stat_reserve,Reserve: {0}
 hud.war.stat_exhaustion,Kriegsmüdigkeit: {0:F1}%
 hud.war.stat_battles,Gewonnene Kämpfe: {0}/{1}
