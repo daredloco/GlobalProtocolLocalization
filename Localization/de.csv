@@ -572,8 +572,8 @@ hud.diplo.modifier.insult_sent,Beleidigung gesendet
 hud.diplo.modifier.backed_rebels,Unterstützte Rebellen
 hud.diplo.modifier.spy_caught,Spion überführt
 hud.diplo.modifier.coalition_target,Ziel der Koalition
-hud.diplo.modifier.sphere_member,Sphere-Mitglied
-hud.diplo.modifier.sphere_left,Linke Kugel
+hud.diplo.modifier.sphere_member,Sphären-Mitglied
+hud.diplo.modifier.sphere_left,Linke Sphäre
 hud.diplo.opinion_row_label,{0}: {1}
 hud.diplo.opinion_decay,(verfällt {0}/Tag)
 hud.diplo.opinion_expiry,(läuft ab {0})
@@ -581,11 +581,11 @@ hud.diplo.great_power_sphere,Großmacht & Einflusssphäre
 hud.diplo.gp_status,GROSSE MACHT
 hud.diplo.gp_rank,Rang
 hud.diplo.composite_score,GESAMTWERTUNG
-hud.diplo.sphere_leader,SPHERE-LEITER
-hud.diplo.sphere_members,Sphere-Mitglieder
+hud.diplo.sphere_leader,SPHÄREN-LEITER
+hud.diplo.sphere_members,Sphären-Mitglieder
 hud.diplo.no_sphere_members,Keine Mitglieder in dieser Gruppe
-hud.diplo.sphere_invite,EINLADUNG ZU SPHERE
-hud.diplo.sphere_release,VERÖFFENTLICHUNG VON SPHERE
+hud.diplo.sphere_invite,EINLADUNG ZU SPHÄRE
+hud.diplo.sphere_release,VON SPHÄRE FREILASSEN
 hud.diplo.gp_yes,Ja
 hud.diplo.gp_no,Von
 hud.diplo.none,Keine
@@ -2149,7 +2149,7 @@ hud.toast.rival_designated.title,Als Rivale benannt
 hud.toast.rival_designated.body,{0} hat dich als Rivalen ausgewiesen.
 hud.toast.coalition_joined.title,Es hat sich eine Koalition gegen dich gebildet
 hud.toast.coalition_joined.body,{0} hat sich einer Koalition gegen dich angeschlossen.
-hud.toast.sphere_invite.title,Einladung zur Sphere
+hud.toast.sphere_invite.title,Einladung zur Sphäre
 hud.toast.sphere_invite.body,"{0} lädt Sie ein, Teil seines Netzwerks zu werden."
 hud.toast.embassy_established.title,Eröffnung der Botschaft
 hud.toast.embassy_established.body,{0} hat auf Ihrem Territorium eine Botschaft eröffnet.
@@ -3347,7 +3347,7 @@ confirm.overwrite_save.title,ÜBERSCHREIBEN SPEICHERN
 confirm.overwrite_save.msg,Es gibt bereits eine Datei mit diesem Namen. Möchtest du sie überschreiben?
 hud.ledger.title,GLOBALES HAUPTBUCH
 hud.ledger.tab.prestige,PRESTIGE
-hud.ledger.tab.great_powers,Großmächte
+hud.ledger.tab.great_powers,GROẞMÄCHTE
 hud.ledger.tab.economy,WIRTSCHAFT
 hud.ledger.tab.military,MILITÄR
 hud.ledger.tab.technology,TECHNOLOGIE
@@ -3358,12 +3358,12 @@ hud.ledger.search_placeholder,Länder suchen...
 hud.ledger.col.rank,Rang
 hud.ledger.col.country,LAND
 hud.ledger.col.prestige,PRESTIGE
-hud.ledger.col.prestige_org,Organisation für eine freie Gesellschaft
+hud.ledger.col.prestige_org,ORG
 hud.ledger.col.prestige_econ,WIRTSCHAFTLICH
 hud.ledger.col.prestige_mil,MILITÄR
 hud.ledger.col.diplo_weight,DIPLO-GEWICHT
 hud.ledger.col.composite_score,PUNKTESTAND
-hud.ledger.col.sphere_size,SPHERE
+hud.ledger.col.sphere_size,SPHÄRE
 hud.ledger.col.rivals,KONKURRENTEN
 hud.ledger.col.gdp,Bruttoinlandsprodukt
 hud.ledger.col.gdp_capita,BIP pro Kopf
@@ -3478,7 +3478,7 @@ hud.statbar.ledger,HAUSHALTSBUCH
 hud.ledger.tooltip.click_to_view,Zum Anzeigen des Landes bitte hier klicken
 hud.ledger.tooltip.click_header_sort,Zum Sortieren hier klicken
 hud.ledger.tooltip.rank_indicator,Globale Rangliste – Zum Öffnen des Ledgers hier klicken
-hud.ledger.gp.sphere_members,SPHERE-MITGLIEDER
+hud.ledger.gp.sphere_members,SPHÄRE-MITGLIEDER
 hud.ledger.gp.no_members,Keine Mitglieder in dieser Gruppe
 status.available,VERFÜGBAR
 status.capacity_full,PROVINZ AUSGEBUCHT
@@ -7150,7 +7150,7 @@ hud.agenda.task.tur_ncyp_recruit_navy.title,Entsendung der Mittelmeerflotte
 hud.agenda.task.tur_ncyp_relations_gbr.description,"Halten Sie die Beziehungen zum Vereinigten Königreich auf einem Niveau von über 30, um den internationalen Druck zu mildern."
 hud.agenda.task.tur_ncyp_relations_gbr.title,Die Beziehungen zu Großbritannien pflegen
 hud.agenda.task.tur_neo_ottoman_balkan_sphere.description,Bringen Sie Albanien in Ihren Einflussbereich.
-hud.agenda.task.tur_neo_ottoman_balkan_sphere.title,Sphere Albanien
+hud.agenda.task.tur_neo_ottoman_balkan_sphere.title,SPHÄRE Albanien
 hud.agenda.task.tur_neo_ottoman_embassy_bih.description,Eine diplomatische Vertretung in Bosnien und Herzegowina einrichten.
 hud.agenda.task.tur_neo_ottoman_embassy_bih.title,Eröffnung der Botschaft in Bosnien
 hud.agenda.task.tur_neo_ottoman_recruit.description,"Mindestens 500 Panzer beschaffen, um die militärische Präsenz in der gesamten Region zu stärken."
@@ -7172,7 +7172,7 @@ hud.agenda.task.tur_turkic_ally_aze.title,Bündnis mit Aserbaidschan
 hud.agenda.task.tur_turkic_embassy_kaz.description,Eine diplomatische Vertretung in Zentralasien einrichten.
 hud.agenda.task.tur_turkic_embassy_kaz.title,Eröffnung der Botschaft in Kasachstan
 hud.agenda.task.tur_turkic_sphere_kgz.description,Bringen Sie Kirgisistan in Ihren Einflussbereich.
-hud.agenda.task.tur_turkic_sphere_kgz.title,Sphere Kirgisistan
+hud.agenda.task.tur_turkic_sphere_kgz.title,Sphäre Kirgisistan
 hud.agenda.task.tur_turkic_trade_uzb.description,Ein Handelsabkommen mit Usbekistan schließen.
 hud.agenda.task.tur_turkic_trade_uzb.title,Handel mit Usbekistan
 hud.agenda.task.twn_asym_missiles.description,Schließe mindestens 10 Waffenforschungen ab.
