@@ -309,15 +309,15 @@ canceltradeagreement,Handelsabkommen kündigen
 climateagreement,Klimaschutzabkommen
 coalitionwar,Koalitionskrieg
 confirm.delete_save.msg,Möchtest du diese Speicherdatei wirklich löschen?
-confirm.delete_save.title,LÖSCHEN SPEICHERN
+confirm.delete_save.title,SPEICHERDATEI LÖSCHEN
 confirm.new_game.msg,Ein neues Spiel starten? Der aktuelle Spielstand geht dabei verloren.
 confirm.new_game.title,NEUES SPIEL
 confirm.overwrite_save.msg,Es gibt bereits eine Datei mit diesem Namen. Möchtest du sie überschreiben?
-confirm.overwrite_save.title,ÜBERSCHREIBEN SPEICHERN
+confirm.overwrite_save.title,SPEICHERDATEI ÜBERSCHREIBEN
 confirm.quit_desktop.msg,Möchtest du wirklich beenden? Nicht gespeicherte Fortschritte gehen verloren.
-confirm.quit_desktop.title,Zum Desktop wechseln
+confirm.quit_desktop.title,ZURÜCK ZUM DESKTOP
 confirm.quit_menu.msg,Zurück zum Hauptmenü? Ungespeicherte Fortschritte gehen verloren.
-confirm.quit_menu.title,ZUM MENÜ ZURÜCK
+confirm.quit_menu.title,ZURÜCK ZUM MENÜ
 country.homeland.ARE,DAS EMIRAT
 country.homeland.ARG,LA PATRIA
 country.homeland.BRA,DIE HEIMAT
