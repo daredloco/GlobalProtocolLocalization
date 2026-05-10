@@ -2046,7 +2046,7 @@ hud.agenda.meta_advances,Fortschritte
 hud.agenda.meta_route_support,Am besten unterstützt von
 hud.agenda.meta_targets,Ziele
 hud.agenda.meta_why,Warum das wichtig ist
-hud.agenda.open_planner,Open Goal Planner
+hud.agenda.open_planner,Zielplaner öffnen
 hud.agenda.planner.activate_selected,Ausgewähltes Ziel aktivieren
 hud.agenda.planner.active_selected,Ziel ausgewählt – Aktiv
 hud.agenda.planner.basic_header,Grundlegende Ziele
@@ -7038,7 +7038,7 @@ tooltip.agenda.goal_card.title,ZIEL: {0}
 tooltip.agenda.goal_progress.desc,"Zeigt an, wie viele Aufgaben für das ausgewählte strategische Ziel abgeschlossen sind."
 tooltip.agenda.goal_progress.title,Ziele und Fortschritte
 tooltip.agenda.open_planner.desc,"Öffnet den Detailplaner, in dem Sie strategische Ziele einsehen und aktivieren können."
-tooltip.agenda.open_planner.title,OPEN GOAL PLANER
+tooltip.agenda.open_planner.title,ZIELPLANER ÖFFNEN
 tooltip.agenda.open_task_panel.desc,"Wechselt direkt zum Fenster „{0}“, um diese Aufgabe schneller zu erledigen."
 tooltip.agenda.open_task_panel.title,ZUGEHÖRENDES FENSTER ÖFFNEN
 tooltip.agenda.section.desc,Zeigt Ihr aktuelles nationales Ziel und die daraus resultierenden nächsten Schritte an.
