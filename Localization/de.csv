@@ -5314,7 +5314,7 @@ hud.outliner.war_battles,Kämpfe: {0}/{1}
 hud.outliner.war_exhaustion_pct,Kriegsmüdigkeit: {0:F0}%
 hud.outliner.war_provinces,Belegt: {0}
 hud.outliner.war_vs,Krieg gegen {0}
-hud.outliner.wars,Kriege
+hud.outliner.wars,KRIEGE
 hud.outliner.with_partner,{0} mit {1}
 hud.overlay.diplo_map_desc,Grafische Darstellung der diplomatischen Beziehungen zu allen Staaten.
 hud.overlay.diplo_map_title,WELTKARTENBEZIEHUNGEN
