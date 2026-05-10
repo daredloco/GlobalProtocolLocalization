@@ -5866,7 +5866,7 @@ hud.tech.fx_pop,Pop {0:+0.0%;-0.0%}
 hud.tech.fx_research,Forschung {0:+0.0%;-0.0%}
 hud.tech.fx_surveillance,IntelVis {0:+#;-#;0}
 hud.tech.gdp_modifier,BIP ÄNDERN
-hud.tech.impact_none,Nicht direkt bearbeiten
+hud.tech.impact_none,Kein direkter Effekt
 hud.tech.impact_prereq_only,Schaltet nur die Voraussetzungen frei
 hud.tech.infra_modifier,INFRA ÄNDERN
 hud.tech.intel_locked_body,"Führe eine „Gather Intelligence“-Mission durch, um den Technologiebaum dieses Landes aufzudecken."
