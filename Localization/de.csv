@@ -7517,7 +7517,7 @@ tooltip.mil.open_nuclear_controls.title,OFFENE KERNKONTROLLEN
 tooltip.mil.pending_strikes.desc,"In der Warteschlange befindliche Raketenstarts, die angeordnet, aber noch nicht ausgeführt wurden."
 tooltip.mil.pending_strikes.title,ANSTEHENDE STREIKS
 tooltip.mil.recruit_unit.desc,"Es wird eine Rekrutierung mit Schwerpunkt auf Landstreitkräften gestartet, damit du schnell neue Einheiten aufstellen kannst."
-tooltip.mil.recruit_unit.title,OFFENE STELLENAUSSCHREIBUNG
+tooltip.mil.recruit_unit.title,REKRUTIERUNG ÖFFNEN
 tooltip.mil.reserve.desc,Kann im Kriegsfall im Rahmen einer nationalen Mobilmachung einberufen werden.
 tooltip.mil.reserve.title,RESERVEPERSONAL
 tooltip.mil.ships.desc,"Überwasserflotte – Flugzeugträger, Zerstörer, Fregatten."
