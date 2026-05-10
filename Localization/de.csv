@@ -8165,11 +8165,11 @@ unit.infantry.capability,Hält die Fronten und sichert das Gebiet zuverlässig a
 unit.infantry.description,"Vielseitige Infanteristen, die in jedem Gelände einsatzfähig sind, bilden das Rückgrat jeder Bodentruppe."
 unit.infantry.name,Infanterie
 unit.k,K
-unit.m,"Es tut mir leid, aber dabei kann ich dir nicht helfen."
+unit.m,M
 unit.mechanized_infantry.capability,Schnelle gepanzerte Infanterieeinheiten für rasche Vorstöße und die Verstärkung bedrohter Fronten.
 unit.mechanized_infantry.description,"Infanterie, die mit gepanzerten Fahrzeugen transportiert wird, wodurch Mobilität und Einsatztauglichkeit auf dem Schlachtfeld vereint werden."
 unit.mechanized_infantry.name,Mechanisierte Infanterie
-unit.mo,in
+unit.mo,mo
 unit.mobile_launcher.capability,"Mobile Raketenplattform, die durch Standortwechsel und Tarnung die Überlebensfähigkeit erhöht."
 unit.mobile_launcher.description,"Transport-, Aufstell- und Abschussfahrzeug zum Transport ballistischer Raketen für den schnellen Einsatz und die Tarnung."
 unit.mobile_launcher.name,Mobile-Startseite
