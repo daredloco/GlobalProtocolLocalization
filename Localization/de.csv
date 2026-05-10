@@ -671,14 +671,14 @@ date.in_days,in {0} Tagen
 date.month.1,Jan
 date.month.10,Okt
 date.month.11,Nov
-date.month.12,Dez.
-date.month.2,Februar
+date.month.12,Dez
+date.month.2,Feb
 date.month.3,Mar
-date.month.4,April
+date.month.4,Apr
 date.month.5,Mai
-date.month.6,Juni
-date.month.7,Juli
-date.month.8,August
+date.month.6,Jun
+date.month.7,Jul
+date.month.8,Aug
 date.month.9,Sep
 date.on_month_year,auf {0} {1}
 declarewar,Den Krieg erklären
