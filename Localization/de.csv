@@ -4419,8 +4419,8 @@ hud.intel.no_missions,Keine aktiven Missionen
 hud.intel.no_reports,Keine Geheimdienstberichte
 hud.intel.no_target_selected,Wählen Sie ein Zielland aus
 hud.intel.offense,Angriff
-hud.intel.open_specialists.cta,Open Specialists
-hud.intel.open_specialists.title,Fachleute
+hud.intel.open_specialists.cta,Spezialisten öffnen
+hud.intel.open_specialists.title,Spezialisten
 hud.intel.reason.cooldown,Abklingzeit der Mission aktiv (noch {0} Monate)
 hud.intel.reason.counterintel_active,Die Spionageabwehr ist bereits im Einsatz
 hud.intel.reason.max_missions,Bei maximaler Anzahl aktiver Missionen ({0}/{1})
@@ -5221,7 +5221,7 @@ hud.outliner.no_espionage,Keine laufenden Vorgänge
 hud.outliner.no_events,Keine anstehenden Termine
 hud.outliner.no_events_log,Es wurden keine Ereignisse aufgezeichnet
 hud.outliner.no_military,Keine militärischen Einheiten
-hud.outliner.no_specialists,Keine Fachärzte verfügbar
+hud.outliner.no_specialists,Keine Spezialisten verfügbar
 hud.outliner.no_wars,Keine laufenden Kriege
 hud.outliner.objective_click_hint,"Klicken Sie hier, um das entsprechende Fenster zu öffnen."
 hud.outliner.objectives,ZIELE
