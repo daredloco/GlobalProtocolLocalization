@@ -710,7 +710,7 @@ enum.AllianceType.TradeAgreement,Handelsabkommen
 enum.Continent.Africa,Afrika
 enum.Continent.Americas,Amerika
 enum.Continent.Antarctica,Antarktis
-enum.Continent.Asia,Thema
+enum.Continent.Asia,Asien
 enum.Continent.Europe,Europa
 enum.Continent.Oceania,Ozeanien
 enum.Continent.Unknown,Unbekannt
