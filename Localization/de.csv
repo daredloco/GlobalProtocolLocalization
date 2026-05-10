@@ -6193,8 +6193,8 @@ nuclearnonproliferation,Nichtverbreitung von Kernwaffen
 pause.load,SPIEL LADEN
 pause.mechanic_tutorials_off,Anleitungen zur Mechanik: AUS
 pause.mechanic_tutorials_on,Anleitungen für Mechaniker: EIN
-pause.quit_desktop,Zum Desktop wechseln
-pause.quit_menu,ZUM MENÜ ZURÜCK
+pause.quit_desktop,ZURÜCK ZUM DESKTOP
+pause.quit_menu,ZURÜCK ZUM MENÜ
 pause.quitting,AUFHÖREN…
 pause.restart_tutorial,RESTART-ANLEITUNG
 pause.resume,ZUSAMMENFASSUNG
