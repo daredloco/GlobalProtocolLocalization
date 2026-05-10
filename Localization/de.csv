@@ -5744,9 +5744,9 @@ hud.recruit.placement.mode_label,+ Rekrutenvermittlung: Klicken Sie auf eine in 
 hud.recruit.placement.queued_title,Stellenausschreibung in der Warteschlange
 hud.recruit.province_idx_fallback,Provinz (idx {0})
 hud.recruit.province_row,{0} #{1}
-hud.recruit.queue.air,Warteschlange für den Bau des Luftflügels
+hud.recruit.queue.air,WARTESCHLANGE FÜR DIE LUFTWAFFE
 hud.recruit.queue.fleet,WARTESCHLANGE FÜR DEN FLOTTENAUFBAU
-hud.recruit.queue.land,Warteschlange für die Landbeschaffung
+hud.recruit.queue.land,WARTESCHLANGE FÜR DIE BODENTRUPPEN
 hud.recruit.quick_recruit_hint,"Verwenden Sie die Schnellsuche, um eine in Frage kommende Provinz zu finden."
 hud.recruit.required_building_fallback,Gebäude #{0}
 hud.recruit.required_building_named,Erfordert: {0}
