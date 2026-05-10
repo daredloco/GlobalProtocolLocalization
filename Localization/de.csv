@@ -5799,19 +5799,19 @@ hud.spot_market.total,Insgesamt
 hud.spot_market.treasury,Staatskasse
 hud.spot_market.unit_price,Stückpreis
 hud.statbar.corruption,KORRUPTION
-hud.statbar.debtgdp,Schuldenquote
+hud.statbar.debtgdp,SCHULDENQUOTE
 hud.statbar.diplweight,DIPL.-GEWICHT
 hud.statbar.inflation,INFLATION
 hud.statbar.ledger,HAUSHALTSBUCH
 hud.statbar.prestige,PRESTIGE
 hud.statbar.research,FORSCHUNG
 hud.statbar.stability,STABILITÄT
-hud.statbar.trade,Tauschball.
+hud.statbar.trade,HANDELSBIL.
 hud.statbar.unemployment,ARBEITSLOSIGKEIT
 hud.statbar.wars,KRIEGE
 hud.summary.diplo_alliances,PARTNERSCHAFTEN
 hud.summary.diplo_rivals,RIVALEN
-hud.summary.diplo_un,UN-Mitglied
+hud.summary.diplo_un,UN-MITGLIED
 hud.summary.diplo_unsc,UNSC-STATUS
 hud.summary.diplomacy,DIPLOMATIE
 hud.summary.econ_gdp,BIP
@@ -5835,8 +5835,8 @@ hud.tech.attack_modifier,ANGRIFFSMODIFIKATOR
 hud.tech.branch_civilian,ZIVIL
 hud.tech.branch_military,MILITÄR
 hud.tech.branch_space,LEERZEICHEN
-hud.tech.branch_tag_civilian,CIV
-hud.tech.branch_tag_default,Es gibt
+hud.tech.branch_tag_civilian,ZIV
+hud.tech.branch_tag_default,ALLG
 hud.tech.branch_tag_military,MIL
 hud.tech.branch_tag_space,Zweckgesellschaft
 hud.tech.cost_rp,Kosten: {0} RP
