@@ -687,7 +687,7 @@ defensepact,Verteidigungsabkommen
 defensive,Defensiv
 difficulty.easy,EINFACH
 difficulty.easy.desc,"Geringere Aggressivität der KI, wirtschaftliche Boni, schnellere Forschung."
-difficulty.expert,EXPERT
+difficulty.expert,EXPERTE
 difficulty.expert.desc,Eine echte Herausforderung. Nur für erfahrene Spieler.
 difficulty.hard,ANSPRUCHSVOLL
 difficulty.hard.desc,"Aggressive KI, wirtschaftliche Sanktionen, verlangsamte Forschung."
@@ -6721,7 +6721,7 @@ select.difficulty_1,★ ANFÄNGER
 select.difficulty_2,★★ EINFACH
 select.difficulty_3,★★★ NORMAL
 select.difficulty_4,★★★★ SCHWER
-select.difficulty_5,★★★★★ EXPERT
+select.difficulty_5,★★★★★ EXPERTE
 select.difficulty_easy,★ ANFÄNGER
 select.difficulty_hard,★★★ NORMAL
 select.difficulty_medium,★★ EINFACH
