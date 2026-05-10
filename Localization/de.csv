@@ -398,7 +398,7 @@ country.name.AFW,West- und Zentralafrika
 country.name.AGO,Angola
 country.name.ALB,Albanien
 country.name.AND,Andorra
-country.name.ARB,arabische Welt
+country.name.ARB,Arabische Welt
 country.name.ARE,Vereinigte Arabische Emirate
 country.name.ARG,Argentinien
 country.name.ARM,Armenien
@@ -424,7 +424,7 @@ country.name.BRA,Brasilien
 country.name.BRB,Barbados
 country.name.BRN,Brunei
 country.name.BTN,Bhutan
-country.name.BWA,Die Wahrheit
+country.name.BWA,Botswana
 country.name.CAF,Zentralafrikanische Republik
 country.name.CAN,Kanada
 country.name.CEB,Mitteleuropa und das Baltikum
@@ -441,7 +441,7 @@ country.name.COM,Komoren
 country.name.CPV,Kap Verde
 country.name.CRI,Costa Rica
 country.name.CSS,Kleine Staaten der Karibik
-country.name.CUB,Probieren
+country.name.CUB,Kuba
 country.name.CUW,Curaçao
 country.name.CYM,Kaimaninseln
 country.name.CYN,Nordzypern
@@ -472,7 +472,7 @@ country.name.FJI,Fidschi
 country.name.FRA,Frankreich
 country.name.FRO,Färöer
 country.name.FSM,Mikronesien
-country.name.GAB,Guten Abend
+country.name.GAB,Gabun
 country.name.GBR,Vereinigtes Königreich
 country.name.GEO,Georgien
 country.name.GHA,Ghana
@@ -489,7 +489,7 @@ country.name.GUM,Guam
 country.name.GUY,Guyana
 country.name.HKG,Hongkong
 country.name.HND,Honduras
-country.name.HPC,hochverschuldete arme Länder (HIPC)
+country.name.HPC,Hochverschuldete arme Länder (HIPC)
 country.name.HRV,Kroatien
 country.name.HTI,Haiti
 country.name.HUN,Ungarn
@@ -499,7 +499,7 @@ country.name.IDA,IDA-Länder
 country.name.IDB,IDA-Mischländer
 country.name.IDN,Indonesien
 country.name.IDX,Nur IDA-Länder
-country.name.IMN,Insel Man
+country.name.IMN,Isle of Man
 country.name.IND,Indien
 country.name.IRL,Irland
 country.name.IRN,Iran
@@ -519,13 +519,13 @@ country.name.KNA,St. Kitts und Nevis
 country.name.KOR,Südkorea
 country.name.KWT,Kuwait
 country.name.LAC,Lateinamerika und die Karibik
-country.name.LAO,In Lager
+country.name.LAO,Laos
 country.name.LBN,Libanon
 country.name.LBR,Liberia
 country.name.LBY,Libyen
 country.name.LCA,St. Lucia
 country.name.LCN,Lateinamerika und die Karibik (ohne Länder mit hohem Einkommen)
-country.name.LDC,am wenigsten entwickelte Länder
+country.name.LDC,Am wenigsten entwickelte Länder
 country.name.LIE,Liechtenstein
 country.name.LKA,Sri Lanka
 country.name.LMY,Länder mit niedrigem und mittlerem Einkommen
@@ -537,7 +537,7 @@ country.name.LVA,Lettland
 country.name.MAC,Macau
 country.name.MAF,Saint Martin
 country.name.MAR,Marokko
-country.name.MCO,München
+country.name.MCO,Monaco
 country.name.MDA,Moldawien
 country.name.MDG,Madagaskar
 country.name.MDV,Malediven
@@ -546,7 +546,7 @@ country.name.MEX,Mexiko
 country.name.MHL,Marshallinseln
 country.name.MIC,Länder mit mittlerem Einkommen
 country.name.MKD,Nordmazedonien
-country.name.MLI,Sie sollten
+country.name.MLI,Mali
 country.name.MLT,Malta
 country.name.MMR,Myanmar
 country.name.MNA,Naher Osten und Nordafrika (ohne Länder mit hohem Einkommen)
@@ -567,7 +567,7 @@ country.name.NIC,Nicaragua
 country.name.NLD,Niederlande
 country.name.NOR,Norwegen
 country.name.NPL,Nepal
-country.name.NRU,Lachen
+country.name.NRU,Nauru
 country.name.NZL,Neuseeland
 country.name.OED,OECD-Länder
 country.name.OMN,Oman
@@ -576,7 +576,7 @@ country.name.PAK,Pakistan
 country.name.PAN,Panama
 country.name.PER,Peru
 country.name.PHL,Philippinen
-country.name.PLW,Palast
+country.name.PLW,Palau
 country.name.PNG,Papua-Neuguinea
 country.name.POL,Polen
 country.name.PRE,Vor der demografischen Dividende
