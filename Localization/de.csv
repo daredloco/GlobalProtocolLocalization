@@ -3,12 +3,12 @@ action.diplo.cancel_nap,Den Nichtangriffspakt aufkündigen
 action.diplo.cancel_trade,Handelsabkommen kündigen
 action.diplo.declare_war,Den Krieg erklären
 action.diplo.form_alliance,Allianz bilden
-action.diplo.impose_sanction,Verhängt eine Sanktion
+action.diplo.impose_sanction,Verhänge eine Sanktion
 action.diplo.improve_mission_cancelled,Mission zur Verbesserung der Beziehungen abgesagt
 action.diplo.improve_no_effect,„Beziehungen verbessern“ zeigte keine Wirkung
 action.diplo.improve_relations,Die Beziehungen verbessern
 action.diplo.improve_result,+{0} Meinung
-action.diplo.insult,Schlaganfall
+action.diplo.insult,Beleidigung
 action.diplo.insult_no_effect,Die Beleidigung zeigte keine Wirkung
 action.diplo.insult_result,-{0} Meinung
 action.diplo.lift_sanction,Aufhebung der Sanktion
@@ -24,10 +24,10 @@ action.diplo.no_bilateral_entry,Es wurde kein Eintrag zu bilateralen Beziehungen
 action.diplo.no_improve_mission,Keine aktive Mission zur Verbesserung der Beziehungen
 action.diplo.on_cooldown,Aktion in der Abklingzeit
 action.diplo.propose_treaty,Vertrag vorschlagen
-action.diplo.relations_mission_active,Beziehungen – Mission aktiv
+action.diplo.relations_mission_active,Beziehungsverbesserung aktiv
 action.diplo.relations_mission_boost,+{0} Meinung (Auftrag aktiv)
 action.diplo.sanction_already_active,Bereits geltende Sanktionen
-action.diplo.sanction_imposed,Verhängte Sanktionen
+action.diplo.sanction_imposed,Sanktionen verhängt
 action.diplo.sanction_lifted,Sanktionen aufgehoben
 action.diplo.trade_agreement,Handelsabkommen
 action.diplo.trade_already_active,Handelsabkommen bereits in Kraft
