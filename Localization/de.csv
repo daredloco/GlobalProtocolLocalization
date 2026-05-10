@@ -6963,15 +6963,15 @@ settings.tab.graphics,GRAFIK
 settings.tab.language,SPRACHE
 settings.tab.privacy,DATENSCHUTZ
 settings.title,EINSTELLUNGEN
-stat.atk,EDV
+stat.atk,ANG
 stat.build_time,ZEIT
 stat.cost,KOSTEN
-stat.def,Verteidigen
-stat.hp,Mobiltelefon
+stat.def,VE
+stat.hp,HP
 stat.infra,INFRA
 stat.money,GELD
 stat.money_m,${0}M
-stat.mp,Abgeordneter
+stat.mp,MP
 stat.pop,Pop
 stat.rp,RP
 stat.spd,Sozialdemokratische Partei
