@@ -8238,7 +8238,7 @@ unit.mechanized_infantry.name,Mechanisierte Infanterie
 unit.mo,mo
 unit.mobile_launcher.capability,"Mobile Raketenplattform, die durch Standortwechsel und Tarnung die Überlebensfähigkeit erhöht."
 unit.mobile_launcher.description,"Transport-, Aufstell- und Abschussfahrzeug zum Transport ballistischer Raketen für den schnellen Einsatz und die Tarnung."
-unit.mobile_launcher.name,Mobile-Startseite
+unit.mobile_launcher.name,Mobile Raketenplattform
 unit.patrol_boat.capability,"Ideal für Küstenpatrouillen, Abfangmaßnahmen und schnelle Einsätze in Küstengewässern."
 unit.patrol_boat.description,"Kompaktes Schnellboot, ideal für Küstenverteidigung und Maßnahmen zur maritimen Sicherheit."
 unit.patrol_boat.name,Patrouillenboot
