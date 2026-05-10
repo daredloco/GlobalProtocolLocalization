@@ -7987,6 +7987,7 @@ tooltip.topbar.treasury.infra,Infrastrukturausgaben
 tooltip.topbar.treasury.interest,Zinsen
 tooltip.topbar.treasury.last_delta,Veränderung gegenüber dem letzten abgeschlossenen Monat
 tooltip.topbar.treasury.military,Militärausgaben
+tooltip.topbar.treasury.military_excess,Militärische Mehrausgaben
 tooltip.topbar.treasury.military_maint,Militärische Instandhaltung
 tooltip.topbar.treasury.net,Prognostizierter monatlicher Nettogewinn
 tooltip.topbar.treasury.other,Sonstige monatliche Anpassungen
