@@ -3536,8 +3536,8 @@ hud.auto.radiation,STRAHLUNG
 hud.auto.range,Reichweite: --
 hud.auto.range_3_provinces,Umfang: ~3 Provinzen
 hud.auto.readiness,Bereitschaft:
-hud.auto.reconnaissance,Aufklärung
-hud.auto.recruitment,STELLENANGEBOTE
+hud.auto.reconnaissance,AUFKLÄRUNG
+hud.auto.recruitment,REKRUTIERUNG
 hud.auto.research,FORSCHUNG
 hud.auto.resource,RESSOURCE
 hud.auto.sandbox_mode,SANDBOX-MODUS
@@ -4214,7 +4214,7 @@ hud.envoy.recruit_insufficient_funds,Unzureichende Kassenmittel. Rekrutierungsko
 hud.envoy.recruit_missing_config,Die Konfiguration für die Envoy-Rekrutierung fehlt in der Szene.
 hud.envoy.recruit_no_budget,Für dieses Land liegen keine Haushaltsdaten vor.
 hud.envoy.recruit_no_country,Es wurde kein gültiges Spielerland ausgewählt.
-hud.envoy.recruit_unavailable,Keine Stellenangebote verfügbar.
+hud.envoy.recruit_unavailable,Rekrutierung nicht verfügbar.
 hud.envoy.roster_empty,Es wurden noch keine Fachkräfte eingestellt.
 hud.envoy.row_status_burned_out,Verbrannt
 hud.envoy.row_status_deployed,{0} in {1} – Exposition {2} %
@@ -4962,10 +4962,10 @@ hud.mil.primary_adversary,HAUPTGEGNER
 hud.mil.production_queue,Produktionswarteschlange
 hud.mil.province_id,Provinz #{0}
 hud.mil.province_short,P#{0}
-hud.mil.recruit,STELLENANGEBOTE
-hud.mil.recruit_unit,ABTEILUNG FÜR PERSONALGEWINNUNG
-hud.mil.recruitment_section,STELLENANGEBOTE
-hud.mil.reserve_personnel,RESERVIEREN
+hud.mil.recruit,REKRUT
+hud.mil.recruit_unit,REKRUTEN EINHEIT
+hud.mil.recruitment_section,REKRUTIERUNG
+hud.mil.reserve_personnel,RESERVE
 hud.mil.select_missile_type,RAKETENTYP
 hud.mil.select_target_province,Geben Sie die ID der Zielprovinz ein:
 hud.mil.selection_mode_air,WASSER
@@ -5215,7 +5215,7 @@ hud.nav.provinces,PROVINZEN
 hud.nav.provinces_desc,Liste der eigenen Provinzen
 hud.nav.quick_build_tooltip,Schnellbau
 hud.nav.quick_recruit_tooltip,Schnellrekrutierung
-hud.nav.recruit,STELLENANGEBOTE
+hud.nav.recruit,REKRUTIERUNG
 hud.nav.recruit_desc,Neue Einheiten rekrutieren und ausbilden
 hud.nav.tech,TECHNOLOGIE
 hud.nav.tech_desc,Neue Technologien erforschen
@@ -5719,7 +5719,7 @@ hud.quickrecruit.title,SCHNELLREKRUTIERUNG
 hud.quickrecruit.unavailable,NICHT VERFÜGBAR
 hud.quickrecruit.unsupported_unit_category,Nicht unterstützte Einheitenkategorie
 hud.recruit.action_place_on_map,AUF DER KARTE ANZEIGEN
-hud.recruit.action_recruit,STELLENANGEBOTE
+hud.recruit.action_recruit,REKRUTIERUNG
 hud.recruit.advanced_fallback.label,FÜR FORTGESCHRITTENE: MANUELLE PROVINZ-AUSWAHL
 hud.recruit.available_units,VERFÜGBARE EINHEITEN
 hud.recruit.badge_airfield,Flugplatz
