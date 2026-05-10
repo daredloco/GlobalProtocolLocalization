@@ -4161,6 +4161,7 @@ hud.econ.research_pct,FORSCHUNG
 hud.econ.reserve_contribution,+ DIESEN MONAT
 hud.econ.reserve_flow_section,RESERVESTROM
 hud.econ.reserve_last_spend,- LETZTE AUSGABE
+hud.econ.reserve_manager_open,RESSOURCENVORRÄTE VERWALTEN
 hud.econ.reserve_pct,RESERVIEREN
 hud.econ.reserve_toast_desc,Das Ziel {0} wurde auf {1} Monate festgelegt.
 hud.econ.reserve_toast_title,RESERVZIEL AKTUALISIERT
@@ -4358,6 +4359,7 @@ hud.inbox.reject,Anfrage ablehnen
 hud.inbox.timer_expiring,Läuft ab
 hud.inbox.timer_ticks,{0} Tage
 hud.inbox.title,DIPLOMATISCHER POSTEINGANG
+hud.inbox.toast.alliance_crisis,{0} hat ein Bündnismitglied angegriffen. Ihre Stimme ist erforderlich.
 hud.inbox.toast.alliance_proposal,{0} schlägt ein Bündnis vor.
 hud.inbox.toast.call_to_arms,{0} ruft euch zu den Waffen!
 hud.inbox.toast.generic,{0} hat eine diplomatische Anfrage gesendet.
@@ -4370,6 +4372,7 @@ hud.inbox.toast.treaty_proposal_specific,{0} schlägt Ihnen {1} vor.
 hud.inbox.toast.un_membership_consideration,{0} schlägt Sie für die Prüfung einer UN-Mitgliedschaft vor.
 hud.inbox.toast.un_membership_vote,{0} bittet Sie um Ihre Stimme bei der Wahl zum UN-Mitglied.
 hud.inbox.toast_title,DIPLOMATISCHE ANFRAGE
+hud.inbox.tooltip.accept.alliance_crisis,Sie erklären {0} solidarisch den Krieg.
 hud.inbox.tooltip.accept.alliance_proposal,Du schließt ein Bündnis mit {0}.
 hud.inbox.tooltip.accept.call_to_arms,Du schließt dich dem Krieg deines Verbündeten gegen {0} an.
 hud.inbox.tooltip.accept.generic,Die Anfrage wurde angenommen.
@@ -4383,6 +4386,7 @@ hud.inbox.tooltip.accept.un_membership_consideration,"Sie stimmen zu, dass die B
 hud.inbox.tooltip.accept.un_membership_vote,Sie stimmen mit JA für die UN-Mitgliedschaft von {0}.
 hud.inbox.tooltip.button_accept_desc,Nimm diese Anfrage sofort an.
 hud.inbox.tooltip.button_reject_desc,Lehnen Sie diesen Antrag unverzüglich ab.
+hud.inbox.tooltip.desc.alliance_crisis,Ein Mitglied des kollektiven Verteidigungsbündnisses hat ein anderes angegriffen. Sie können solidarisch handeln oder sich enthalten — für eine Enthaltung gibt es keine Strafe.
 hud.inbox.tooltip.desc.alliance_proposal,Dieses Land strebt ein formelles Bündnis an.
 hud.inbox.tooltip.desc.call_to_arms,"Ein Verbündeter bittet dich, dich an einem laufenden Krieg zu beteiligen."
 hud.inbox.tooltip.desc.generic,Prüfen Sie dieses diplomatische Ersuchen und wählen Sie Ihre Antwort aus.
@@ -4405,6 +4409,7 @@ hud.inbox.tooltip.label.requester,Anfragender
 hud.inbox.tooltip.label.target,Ziel
 hud.inbox.tooltip.label.treaty_type,Vertragsart
 hud.inbox.tooltip.label.war_score,Kriegsbilanz
+hud.inbox.tooltip.reject.alliance_crisis,Sie enthalten sich. Keine Strafe — Solidarität ist freiwillig, keine Vertragsverpflichtung.
 hud.inbox.tooltip.reject.alliance_proposal,Die Beziehungen zu {0} verschlechtern sich.
 hud.inbox.tooltip.reject.call_to_arms,Du bringst Schande über den Ruf. Die Allianz zerbricht. -10 Ansehen. -40 Beziehungen zu {0}.
 hud.inbox.tooltip.reject.generic,Der Antrag wird abgelehnt.
@@ -4416,6 +4421,7 @@ hud.inbox.tooltip.reject.treaty_proposal,Die Beziehungen zu {0} lassen leicht na
 hud.inbox.tooltip.reject.un_membership_consideration,"Sie lehnen die Prüfung ab, und die Nominierung scheitert."
 hud.inbox.tooltip.reject.un_membership_vote,Sie stimmen gegen die UN-Mitgliedschaft von {0}.
 hud.inbox.tooltip.title,{0} von {1}
+hud.inbox.type_alliance_crisis,Bündniskrisen-Abstimmung
 hud.inbox.type_alliance_proposal,Vorschlag für ein Bündnis
 hud.inbox.type_call_to_arms,Aufruf zu den Waffen
 hud.inbox.type_generic,Diplomatische Anfrage
@@ -5773,6 +5779,15 @@ hud.res_world.col_prod,Produktion
 hud.res_world.col_stock,Vorrat
 hud.res_world.col_value,Wert
 hud.res_world.no_data,Es liegen keine Produktionsdaten vor.
+hud.res_world.policy_auto_sell,Überschuss automatisch verkaufen: {0}
+hud.res_world.policy_auto_sell_off,AUS
+hud.res_world.policy_auto_sell_on,EIN
+hud.res_world.policy_enable_all_auto_sell,Automatischen Verkauf für alle Reserveziele aktivieren
+hud.res_world.policy_resource,Ressource
+hud.res_world.policy_section,Lagerpolitik
+hud.res_world.policy_status,Aktuell: {0} | Ziel: {1} | Überschuss: {2}
+hud.res_world.policy_target_months,Zielreserve
+hud.res_world.policy_view_only,NUR ANZEIGE: Die Lagerpolitik kann nur für dein eigenes Land bearbeitet werden.
 hud.res_world.title,{0} — Weltweite Produktion
 hud.res_world.totals,Weltweite Produktion: {0}  |  Konsum: {1}  |  {2} Produzenten
 hud.spot_market.amount,Betrag
@@ -5977,6 +5992,12 @@ hud.toast.fleet_move_blocked,Flottenbewegung blockiert
 hud.toast.incoming_strike_desc,Eine anfliegende Rakete ist auf unserem Staatsgebiet eingeschlagen.
 hud.toast.independence_guaranteed.body,{0} hat Ihre Unabhängigkeit gesichert.
 hud.toast.independence_guaranteed.title,Unabhängigkeit garantiert
+hud.toast.intra_alliance_bystander.desc,{0} griff {2}-Mitglied {1} an und wurde ausgeschlossen. Sie können für eine Kriegserklärung in Solidarität stimmen.
+hud.toast.intra_alliance_bystander.title,{0}-Bündniskrise
+hud.toast.intra_alliance_expelled.desc,Ihre Kriegserklärung verstieß gegen die Satzung von {0}. Sie wurden aus dem Bündnis ausgeschlossen.
+hud.toast.intra_alliance_expelled.title,Aus {0} ausgeschlossen
+hud.toast.intra_alliance_victim.desc,{0} hat Ihnen den Krieg erklärt. {1} wurde mobilisiert. Es wird abgestimmt.
+hud.toast.intra_alliance_victim.title,Von einem Bündnismitglied angegriffen
 hud.toast.invalid_target_desc,Die Zielprovinz konnte nicht ermittelt werden.
 hud.toast.invalid_target_title,UNGÜLTIGES ZIEL
 hud.toast.missile_effect_buildings_damaged,Beschädigte Gebäude {0}
@@ -6217,6 +6238,18 @@ menu.settings,EINSTELLUNGEN
 menu.subtitle,Ein Strategiespiel
 menu.title,GLOBALES PROTOKOLL
 menu.version,Version 0.1 – 2026
+menu.mods,MODS
+menu.mods.active_scenario,Aktives Szenario: {0}
+menu.mods.active_scenario_none,Kein aktives Szenario
+menu.mods.close,SCHLIESSEN
+menu.mods.empty,Es wurden keine lokalen Mods in den unterstützten Mods-Ordnern gefunden.
+menu.mods.reload_hint,Mod-Änderungen werden nach dem nächsten Neustart angewendet.
+menu.mods.scenario,Szenario
+menu.mods.scenario_auto,Automatisch
+menu.mods.status.disabled,DEAKTIVIERT
+menu.mods.status.enabled,AKTIVIERT
+menu.mods.subtitle,Lokale Mods aktivieren und das Szenario für das nächste neue Spiel auswählen.
+menu.mods.title,MOD-ZUSAMMENSTELLUNG
 misc.balanced,AUSGEWOGEN
 misc.built,GEBAUT
 misc.collapsed_prefix,▶
