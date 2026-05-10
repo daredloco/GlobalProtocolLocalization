@@ -8202,7 +8202,7 @@ unit.amphibious.description,"Ein Spezialschiff, das Marineinfanteristen und Bode
 unit.amphibious.name,Landungsschiff
 unit.armor.capability,"Durchbruchseinheit für Offensivoperationen; dient dazu, in offenem Gelände Durchbrüche zu erzielen und diese auszunutzen."
 unit.armor.description,"Kampfpanzer, die auf offenem Gelände entscheidende Feuerkraft und Panzerschutz bieten."
-unit.armor.name,Rüstung
+unit.armor.name,Kampfpanzer
 unit.artillery.capability,Bietet Fernfeuerunterstützung hinter der Frontlinie.
 unit.artillery.description,"Einheiten zur Feuerunterstützung aus der Ferne, die feindliche Stellungen aus sicherer Entfernung beschießen."
 unit.artillery.name,Artillerie
