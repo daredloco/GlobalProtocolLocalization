@@ -4904,7 +4904,7 @@ hud.mil.no_units_available,Es stehen keine Einheiten zur Rekrutierung zur Verfü
 hud.mil.no_warheads,Es sind keine Atomsprengköpfe verfügbar
 hud.mil.nuclear_section,ATOMWAFFENARSENAL
 hud.mil.nuclear_strikes,ATOMANGRIFFE
-hud.mil.nuclear_warheads,ATOMSPITZEN
+hud.mil.nuclear_warheads,ATOMSPRENGKÖPFE
 hud.mil.ongoing_battle_title,Kampf – {0}
 hud.mil.ongoing_battle_vs,{0} vs. {1}
 hud.mil.ongoing_battles_section,LAUFENDE KÄMPFE
@@ -7096,7 +7096,7 @@ tooltip.country.mil_arty.title,ARTILLERIE
 tooltip.country.mil_budget.desc,Jährliche Militärausgaben. Ein höheres Budget verbessert die Qualität der Ausrüstung und beschleunigt die Rekrutierung.
 tooltip.country.mil_budget.title,VERTEIDIGUNGSHAUSHALT
 tooltip.country.mil_nukes.desc,"Gesamtbestand an Atomwaffen. Der Wert Null bedeutet, dass es sich um einen Nicht-Atomwaffenstaat handelt. Je mehr Sprengköpfe vorhanden sind, desto höher ist die DEFCON-Bedrohungsstufe."
-tooltip.country.mil_nukes.title,ATOMSPITZEN
+tooltip.country.mil_nukes.title,ATOMSPRENGKÖPFE
 tooltip.country.mil_reserve.desc,Zivilisten werden für den Militärdienst ausgebildet. Die Umstellung auf eine auf der Bevölkerungszahl und dem Verteidigungshaushalt basierende Personalstärke erfolgt schrittweise.
 tooltip.country.mil_reserve.title,RESERVIEREN
 tooltip.country.mil_ships.desc,"Überwasserschiffe der Marine, darunter Flugzeugträger, Zerstörer und Fregatten."
@@ -7529,7 +7529,7 @@ tooltip.mil.subs.title,U-BOOTE
 tooltip.mil.tanks.desc,"Kampfpanzer. Stark gegen Infanterie, schwach gegen Flugzeuge."
 tooltip.mil.tanks.title,TANKS
 tooltip.mil.warheads.desc,Gesamtzahl der Nuklearwaffen. Jeder Sprengkopf kann auf eine Provinz gerichtet werden.
-tooltip.mil.warheads.title,ATOMSPITZEN
+tooltip.mil.warheads.title,ATOMSPRENGKÖPFE
 tooltip.missile.action.focus.desc,Richte die Kamera auf diese Flotte oder Provinz aus.
 tooltip.missile.action.focus.title,IM FOKUS: DIE PROVINZ
 tooltip.missile.action.launch.desc,Den aktuell ausgewählten Raketenangriff ausführen.
