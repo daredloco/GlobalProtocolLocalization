@@ -5728,9 +5728,9 @@ hud.recruit.facilities_none,Keine
 hud.recruit.missing_building,Erforderliches Gebäude fehlt
 hud.recruit.missing_building_named,Fehlt: {0}
 hud.recruit.missing_manpower,Personalmangel
-hud.recruit.no_air_const,Derzeit befinden sich keine Luftflügel im Bau.
+hud.recruit.no_air_const,Derzeit befinden sich keine Luftverbände im Bau.
 hud.recruit.no_fleet_const,Es befinden sich keine Flotten im Bau.
-hud.recruit.no_land_training,Es befinden sich keine Bodeneinheiten in der Ausbildung.
+hud.recruit.no_land_training,Es befinden sich keine Bodentruppen in der Ausbildung.
 hud.recruit.no_orders,Es befinden sich keine Aufträge in der Warteschlange.
 hud.recruit.no_selection,Es wurde keine Provinz ausgewählt
 hud.recruit.no_units,Für diese Kategorie sind keine Artikel verfügbar.
