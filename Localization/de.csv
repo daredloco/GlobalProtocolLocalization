@@ -1333,7 +1333,7 @@ help.economy.budget.res.alloc.fx,"Erzeugt jeden Monat Forschungspunkte (in etwa 
 help.economy.budget.rsv.alloc,Zuweisung von Rücklagen
 help.economy.budget.rsv.alloc.fx,"Ein Teil der Einnahmen wird als Liquiditätsreserve einbehalten, anstatt sofort ausgegeben zu werden. Eine größere Liquiditätsreserve ermöglicht Währungsinterventionen gegen Inflationsschübe. Dies bekämpft die Inflation nicht automatisch – nutze bei Bedarf die Schaltfläche „Intervention“ im Abschnitt „Geldpolitik“."
 help.economy.budget.s_infra,INFRASTRUKTUR
-help.economy.budget.s_military,Militärausgaben
+help.economy.budget.s_military,MILITÄRAUSGABEN
 help.economy.budget.s_research,FORSCHUNG
 help.economy.budget.s_reserve,KASSE & RESERVE
 help.economy.budget.s_social,SOZIALES
@@ -3613,7 +3613,7 @@ hud.country.bud_social,SOZIAL %
 hud.country.bud_tax,STEUERSATZ
 hud.country.budget,MITTELZUWEISUNG
 hud.country.chart_growth,WIRTSCHAFTSWACHSTUM
-hud.country.chart_mil,Militärausgaben
+hud.country.chart_mil,MILITÄRAUSGABEN
 hud.country.chart_power,NATIONALER MACHTINDEX
 hud.country.corruption,KORRUPTION
 hud.country.demo_area,GEBIET
@@ -3997,7 +3997,7 @@ hud.econ.actual_gdp_resource,Ressourcenabgleich
 hud.econ.actual_gdp_section,Komponenten des BIP-Wachstums
 hud.econ.actual_income,Einkommen
 hud.econ.actual_inf_budget,INFRASTRUKTUR-AUSGABEN
-hud.econ.actual_mil_budget,Militärausgaben
+hud.econ.actual_mil_budget,MILITÄRAUSGABEN
 hud.econ.actual_mil_maint,MILITÄRISCHE INSTANDHALTUNG
 hud.econ.actual_net,NETTOVERÄNDERUNG
 hud.econ.actual_other_expense,SONSTIGE AUFWENDUNGEN
@@ -6118,7 +6118,7 @@ hud.year_summary.annual_construction,BAUKOSTEN
 hud.year_summary.annual_debt_int,ZINSEN
 hud.year_summary.annual_expense,GESAMTAUSGABEN
 hud.year_summary.annual_income,GESAMTEINNAHMEN
-hud.year_summary.annual_military,Militärausgaben
+hud.year_summary.annual_military,MILITÄRAUSGABEN
 hud.year_summary.annual_recruit,REKRUTIERUNGSKOSTEN
 hud.year_summary.annual_research,FORSCHUNGSAUSGABEN
 hud.year_summary.annual_tariff,Zoll-Einnahmen
@@ -7364,7 +7364,7 @@ tooltip.econ.interest_payment.title,Zinszahlung
 tooltip.econ.intervention.desc,"Notfallmaßnahme: Einzahlung von Einnahmen in Höhe von zwei Monaten in die Stabilisierungsreserve. Nur verfügbar, wenn die Inflation die Zielobergrenze überschreitet."
 tooltip.econ.intervention.title,RESERVESCHILD AUSFÄLDEN
 tooltip.econ.mil_pct.desc,"Anteil des Staatshaushalts, der für das Militär bereitgestellt wird. Beeinflusst die Einsatzbereitschaft der Einheiten, die Instandhaltungskapazitäten und die Kampfkraft."
-tooltip.econ.mil_pct.title,Militärausgaben
+tooltip.econ.mil_pct.title,MILITÄRAUSGABEN
 tooltip.econ.national_debt.desc,Gesamtvolumen der derzeit vom Land gehaltenen Staatsschulden.
 tooltip.econ.national_debt.title,STAATSVERSCHULDUNG
 tooltip.econ.net_income.desc,Einnahmen abzüglich Ausgaben. Ein negatives Nettoergebnis belastet die Kassenreserven und erhöht die Verschuldung.
