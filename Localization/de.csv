@@ -203,7 +203,7 @@ building.early_warning_radar.name,Frühwarnradar
 building.electronics_assembly.description,Montage von Unterhaltungs- und Industrieelektronik.
 building.electronics_assembly.name,Elektronikmontage
 building.factory.description,"Ein Industriekomplex, der das BIP der Provinz ankurbelt und Arbeitsplätze schafft."
-building.factory.name,Werk
+building.factory.name,Fabrik
 building.farm_complex.description,"Mechanisiertes Ackerland. Je nach den vorhandenen Ressourcen der Provinz werden hier Weizen, Reis, Mais, Sojabohnen, Zucker oder Baumwolle angebaut."
 building.farm_complex.name,Landwirtschaftskomplex
 building.fertilizer_plant.description,Ammoniak-Harnstoff-/NPK-Anlage. Grundlage für Ernährungssicherheit.
@@ -221,7 +221,7 @@ building.graphite_mine.name,Graphitmine
 building.helium_extraction.description,Kryogene Heliumgewinnung – in unmittelbarer Nähe zu Erdgasfeldern.
 building.helium_extraction.name,Heliumgewinnungsanlage
 building.highway.description,"Ein modernes Straßennetz, das die Infrastruktur erheblich verbessert."
-building.highway.name,Straßennetz
+building.highway.name,Autobahn
 building.hospital.description,"Eine Gesundheitseinrichtung, die das Bevölkerungswachstum fördert und Unruhen eindämmt."
 building.hospital.name,Krankenhaus
 building.housing_project.description,"Sozialer Wohnungsbau, der dem Bevölkerungswachstum Rechnung trägt und Arbeitsplätze im Baugewerbe schafft."
@@ -261,7 +261,7 @@ building.pharma_lab.name,Pharmazeutisches Labor
 building.phosphate_mine.description,Gewinnung von Rohphosphat für die Düngemittelherstellung.
 building.phosphate_mine.name,Phosphatmine
 building.plantation.description,"Tropische Plantage für den Exportanbau (Kaffee, Kakao, Zucker, Kautschuk)."
-building.plantation.name,Pflanzung
+building.plantation.name,Plantage
 building.potash_mine.description,Untertage-Kaliumgewinnung; wichtiger Düngemittelbestandteil.
 building.potash_mine.name,Kalimine
 building.power_plant.description,"Eine Energieerzeugungsanlage, die die Infrastruktur und das BIP stärkt."
@@ -285,7 +285,7 @@ building.steel_mill.name,Stahlwerk
 building.strategic_metals_mine.description,"Spezialbergwerk für Batterie- und Legierungsmetalle (Lithium, Kobalt, Nickel, Mangan, Chrom, Wolfram). Die Fördermenge hängt davon ab, welche Vorkommen die Provinz tatsächlich aufweist."
 building.strategic_metals_mine.name,Mine für strategische Metalle
 building.submarine_pen.description,"Gefestigte Marineanlage, die das Beladen von U-Boot-Flotten mit SLBMs ermöglicht. Unverzichtbar für die nukleare Abschreckung durch U-Boote."
-building.submarine_pen.name,U-Boot-Stift
+building.submarine_pen.name,U-Boot-Bunker
 building.tech_park.description,"Ein Hightech-Campus, der das BIP und die Forschungsleistung steigert."
 building.tech_park.name,Technologiepark
 building.telecom_network.description,"Eine Kommunikationsinfrastruktur, die die Vernetzung und die Forschung verbessert."
@@ -293,7 +293,7 @@ building.telecom_network.name,Telekommunikationsnetz
 building.textile_mill.description,"Integrierte Spinnerei, Weberei und Färberei."
 building.textile_mill.name,Textilfabrik
 building.tin_mine.description,Kassiteritgewinnung in Provinzen mit latenten Zinnvorkommen.
-building.tin_mine.name,Nachrichten aus Mine
+building.tin_mine.name,Zinnmine
 building.trade_port.description,"Eine Handelsanlage an der Küste, die das BIP und die Rohstoffproduktion erheblich steigert."
 building.trade_port.name,Handelshafen
 building.university.description,"Eine Hochschule, die Forschung vorantreibt und Arbeitsplätze schafft."
