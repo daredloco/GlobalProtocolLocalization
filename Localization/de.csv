@@ -3850,7 +3850,7 @@ hud.diplo.offer_nap,Vorschlag für einen Nichtangriffspakt
 hud.diplo.offer_peace,FRIEDEN SCHAFFEN
 hud.diplo.offer_trade,ANGEBOT ZUM HANDELSABKOMMEN
 hud.diplo.ongoing_votings,LAUFENDE ABSTIMMUNGEN
-hud.diplo.open_embassy,OFFENE BOTSCHAFT
+hud.diplo.open_embassy,BOTSCHAFT ERÖFFNEN
 hud.diplo.open_un_command_center,UN-Einsatzzentrale öffnen
 hud.diplo.opinion_decay,(verfällt {0}/Tag)
 hud.diplo.opinion_expiry,(läuft ab {0})
