@@ -4557,7 +4557,7 @@ hud.ledger.col.treasury,FINANZMINISTERIUM
 hud.ledger.col.unemployment,UNEMP
 hud.ledger.col.urbanization,STÄDTISCH
 hud.ledger.col.war_exhaustion,KRIEGSMÜDIGK.
-hud.ledger.col.wars,Krieger
+hud.ledger.col.wars,KRIEGE
 hud.ledger.gp.no_members,Keine Mitglieder in dieser Gruppe
 hud.ledger.gp.sphere_members,SPHÄRE-MITGLIEDER
 hud.ledger.graph.gdp_history,Das BIP im Zeitverlauf
@@ -5314,7 +5314,7 @@ hud.outliner.war_battles,Kämpfe: {0}/{1}
 hud.outliner.war_exhaustion_pct,Kriegsmüdigkeit: {0:F0}%
 hud.outliner.war_provinces,Belegt: {0}
 hud.outliner.war_vs,Krieg gegen {0}
-hud.outliner.wars,Krieger
+hud.outliner.wars,Kriege
 hud.outliner.with_partner,{0} mit {1}
 hud.overlay.diplo_map_desc,Grafische Darstellung der diplomatischen Beziehungen zu allen Staaten.
 hud.overlay.diplo_map_title,WELTKARTENBEZIEHUNGEN
@@ -5808,7 +5808,7 @@ hud.statbar.research,FORSCHUNG
 hud.statbar.stability,STABILITÄT
 hud.statbar.trade,Tauschball.
 hud.statbar.unemployment,ARBEITSLOSIGKEIT
-hud.statbar.wars,Krieger
+hud.statbar.wars,KRIEGE
 hud.summary.diplo_alliances,PARTNERSCHAFTEN
 hud.summary.diplo_rivals,RIVALEN
 hud.summary.diplo_un,UN-Mitglied
@@ -7649,7 +7649,7 @@ tooltip.outliner.military.title,MILITÄR
 tooltip.outliner.objectives,ZIELE
 tooltip.outliner.objectives.desc,"Ziele für das geführte Onboarding. Bewegen Sie den Mauszeiger über eine Zeile, um zu sehen, was erforderlich ist. Klicken Sie auf eine Zeile, um das entsprechende Fenster zu öffnen."
 tooltip.outliner.objectives.title,ZIELE
-tooltip.outliner.wars,Krieger
+tooltip.outliner.wars,KRIEGE
 tooltip.outliner.wars.desc,Andauernde militärische Konflikte. Zeigt den Kriegsindex in Prozent an.
 tooltip.outliner.wars.title,AKTIVE KRIEGE
 tooltip.panel.back_to_player.desc,"Wenn Sie sich ein anderes Land ansehen, klicken Sie hier, um die Kamera und das linke Fenster wieder auf Ihr eigenes Land umzuschalten."
