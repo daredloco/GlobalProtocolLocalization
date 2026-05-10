@@ -794,7 +794,7 @@ enum.Resource.Ships,Schiffe
 enum.Resource.Silver,Silber
 enum.Resource.SolarPanels,Sonnenkollektoren
 enum.Resource.Soybeans,Sojabohnen
-enum.Resource.Steel,Stiel
+enum.Resource.Steel,Stahl
 enum.Resource.Sugar,Zucker
 enum.Resource.Technology,Technologie
 enum.Resource.Textiles,Textilien
@@ -846,7 +846,7 @@ envoy.opdesc.trade_port_leverage,"Übt Druck auf das Handelsnetzwerk des Ziels a
 envoy.phase.deep_state,Deep State
 envoy.phase.established,Gegründet
 envoy.phase.infiltration,Infiltration
-event.agricultural_surplus.description,"Ideale Anbaubedingungen und Fortschritte in der Agrartechnologie haben zu einer Rekordernte geführt. Die Getreidesilos sind voll ausgelastet, und die Einnahmen aus dem Lebensmittelexport werden voraussichtlich deutlich über den Prognosen liegen.\\n\\nDie landwirtschaftlichen Gemeinden verzeichnen die höchsten Einkommen seit einer Generation, und die Zufriedenheit der Landbevölkerung mit der Regierung ist stark gestiegen."
+event.agricultural_surplus.description,"Ideale Anbaubedingungen und Fortschritte in der Agrartechnologie haben zu einer Rekordernte geführt. Die Getreidesilos sind voll ausgelastet, und die Einnahmen aus dem Lebensmittelexport werden voraussichtlich deutlich über den Prognosen liegen.\n\nDie landwirtschaftlichen Gemeinden verzeichnen die höchsten Einkommen seit einer Generation, und die Zufriedenheit der Landbevölkerung mit der Regierung ist stark gestiegen."
 event.agricultural_surplus.option1.text,Den Überschuss zu Spitzenpreisen exportieren
 event.agricultural_surplus.option1.tooltip,Kurzfristige Einnahmen maximieren
 event.agricultural_surplus.option2.text,Strategische Nahrungsmittelreserven anlegen
@@ -859,11 +859,11 @@ event.ai_breakthrough.option1.text,Massiv in die KI-Entwicklung investieren – 
 event.ai_breakthrough.option2.text,Forderung nach einer internationalen Regulierung der KI
 event.ai_breakthrough.option3.text,KI-Forschung verbieten – Arbeitsplätze schützen
 event.ai_breakthrough.title,Durchbruch in der KI – Allgemeine Künstliche Intelligenz
-event.amazon_tipping_point.description,"Wissenschaftler haben erklärt, dass der Amazonas-Regenwald einen unumkehrbaren Wendepunkt erreicht hat. Große Teile verwandeln sich in Savanne, wodurch riesige Mengen an Kohlenstoff freigesetzt werden und die globalen Klimasysteme bedroht sind.\\n\\nDer internationale Druck auf Brasilien nimmt zu, wobei einige Nationen eine „Internationalisierung“ des Amazonas fordern."
+event.amazon_tipping_point.description,"Wissenschaftler haben erklärt, dass der Amazonas-Regenwald einen unumkehrbaren Wendepunkt erreicht hat. Große Teile verwandeln sich in Savanne, wodurch riesige Mengen an Kohlenstoff freigesetzt werden und die globalen Klimasysteme bedroht sind.\n\nDer internationale Druck auf Brasilien nimmt zu, wobei einige Nationen eine „Internationalisierung“ des Amazonas fordern."
 event.amazon_tipping_point.option1.text,Wir machen unseren Anspruch geltend – die Verwaltung des Amazonasgebiets liegt in unserer Hand
 event.amazon_tipping_point.option2.text,Internationale Klimafinanzierung für den Naturschutz annehmen
 event.amazon_tipping_point.title,Der Wendepunkt des Amazonas-Regenwaldes
-event.anti_corruption_reform.description,"Eine konsequente Antikorruptionskampagne hat zu hochkarätigen Strafverfahren geführt und mehrere tief verwurzelte Vetternwirtschaftsnetzwerke zerschlagen. Das Vertrauen der Öffentlichkeit in die Institutionen nimmt zu, und das Vertrauen der internationalen Wirtschaft in die Rechtsstaatlichkeit hat sich deutlich verbessert.\\n\\nDie Weltbank hat die Governance-Indikatoren des Landes angehoben, und eine Welle von Investoren, die zuvor gezögert hatten, überdenkt nun ihre Haltung."
+event.anti_corruption_reform.description,"Eine konsequente Antikorruptionskampagne hat zu hochkarätigen Strafverfahren geführt und mehrere tief verwurzelte Vetternwirtschaftsnetzwerke zerschlagen. Das Vertrauen der Öffentlichkeit in die Institutionen nimmt zu, und das Vertrauen der internationalen Wirtschaft in die Rechtsstaatlichkeit hat sich deutlich verbessert.\n\nDie Weltbank hat die Governance-Indikatoren des Landes angehoben, und eine Welle von Investoren, die zuvor gezögert hatten, überdenkt nun ihre Haltung."
 event.anti_corruption_reform.option1.text,Die Reform vorantreiben – eine unabhängige Justiz und transparente Auftragsvergabe
 event.anti_corruption_reform.option1.tooltip,Strukturwandel; nachhaltige Verbesserung
 event.anti_corruption_reform.option2.text,"Die Erfolge bekannt machen, um das Vertrauen in die Institution wiederherzustellen"
@@ -890,7 +890,7 @@ event.climate_summit_failure.option1.text,Einseitige CO₂-Reduktionsziele verk�
 event.climate_summit_failure.option2.text,Anderen Ländern die Schuld geben und Verpflichtungen ablehnen
 event.climate_summit_failure.option3.text,Einen Fonds für Klimareparationen vorschlagen
 event.climate_summit_failure.title,Scheitern des UN-Klimagipfels
-event.cultural_export_boom.description,"Eine Welle international gefeierter Filme, Musik, Küche und Mode aus diesem Land hat einen weltweiten Kulturboom ausgelöst. Streaming-Plattformen verzeichnen Rekordzuschauerzahlen bei einheimischen Inhalten, und die Zahl der Sprachkursanmeldungen an Universitäten weltweit ist sprunghaft angestiegen.\\n\\nDie Tourismusanfragen steigen rasant an, und die weltweite Markenbekanntheit des Landes war noch nie so hoch wie heute."
+event.cultural_export_boom.description,"Eine Welle international gefeierter Filme, Musik, Küche und Mode aus diesem Land hat einen weltweiten Kulturboom ausgelöst. Streaming-Plattformen verzeichnen Rekordzuschauerzahlen bei einheimischen Inhalten, und die Zahl der Sprachkursanmeldungen an Universitäten weltweit ist sprunghaft angestiegen.\n\nDie Tourismusanfragen steigen rasant an, und die weltweite Markenbekanntheit des Landes war noch nie so hoch wie heute."
 event.cultural_export_boom.option1.text,In Programme zur Kulturdiplomatie investieren
 event.cultural_export_boom.option1.tooltip,Soft Power in formelle Beziehungen umsetzen
 event.cultural_export_boom.option2.text,Den Export kultureller Güter kommerziell fördern
@@ -908,7 +908,7 @@ event.cyber_attack_infrastructure.option1.text,Mit Cyber-Gegenmaßnahmen zurück
 event.cyber_attack_infrastructure.option2.text,In Cyberabwehr und Widerstandsfähigkeit investieren
 event.cyber_attack_infrastructure.option3.text,Fordern Sie eine internationale Untersuchung
 event.cyber_attack_infrastructure.title,Großer Cyberangriff auf kritische Infrastruktur
-event.demographic_dividend.description,"Jahrzehntelange Investitionen in Bildung und Gesundheitswesen haben eine große, junge und hochqualifizierte Erwerbsbevölkerung hervorgebracht, die gerade ihren produktivsten Lebensabschnitt erreicht. Die Abhängigkeitsquote hat den günstigsten Stand in der jüngeren Geschichte des Landes erreicht.\\n\\nÖkonomen prognostizieren einen anhaltenden, mehrjährigen Wachstumsvorsprung, da diese Bevölkerungsgruppe Konsum, Innovation und Unternehmertum vorantreibt."
+event.demographic_dividend.description,"Jahrzehntelange Investitionen in Bildung und Gesundheitswesen haben eine große, junge und hochqualifizierte Erwerbsbevölkerung hervorgebracht, die gerade ihren produktivsten Lebensabschnitt erreicht. Die Abhängigkeitsquote hat den günstigsten Stand in der jüngeren Geschichte des Landes erreicht.\n\nÖkonomen prognostizieren einen anhaltenden, mehrjährigen Wachstumsvorsprung, da diese Bevölkerungsgruppe Konsum, Innovation und Unternehmertum vorantreibt."
 event.demographic_dividend.option1.text,"In die Hochschulbildung und Forschung und Entwicklung investieren, um die Produktivität zu maximieren"
 event.demographic_dividend.option1.tooltip,Den Qualitätsvorteil der Belegschaft noch verstärken
 event.demographic_dividend.option2.text,"Die Arbeitsmärkte liberalisieren, um Arbeitskräfte aufzunehmen"
@@ -940,7 +940,7 @@ event.falklands_diplomatic_crisis.option1.text,Die Garnison auf den Falklandinse
 event.falklands_diplomatic_crisis.option2.text,Eine Vereinbarung über gemeinsame Souveränität vorschlagen
 event.falklands_diplomatic_crisis.option3.text,Die Vorwürfe vor der UNO zurückweisen
 event.falklands_diplomatic_crisis.title,Die diplomatische Krise um die Falklandinseln/Malvinas
-event.foreign_investment_surge.description,"Internationale Investoren haben das Land als eines der bevorzugten Ziele für Kapitalinvestitionen identifiziert. Eine stabile Regierungsführung, qualifizierte Arbeitskräfte und ein wachsender Verbrauchermarkt haben zu einem sprunghaften Anstieg der ausländischen Direktinvestitionen geführt.\\n\\nGroße multinationale Konzerne kündigen die Eröffnung neuer Fabriken, die Verlegung regionaler Hauptsitze und langfristige Infrastrukturpartnerschaften an."
+event.foreign_investment_surge.description,"Internationale Investoren haben das Land als eines der bevorzugten Ziele für Kapitalinvestitionen identifiziert. Eine stabile Regierungsführung, qualifizierte Arbeitskräfte und ein wachsender Verbrauchermarkt haben zu einem sprunghaften Anstieg der ausländischen Direktinvestitionen geführt.\n\nGroße multinationale Konzerne kündigen die Eröffnung neuer Fabriken, die Verlegung regionaler Hauptsitze und langfristige Infrastrukturpartnerschaften an."
 event.foreign_investment_surge.option1.text,Rollt den roten Teppich aus – baut Zugangsbarrieren ab
 event.foreign_investment_surge.option1.tooltip,Mit steuerlichen Anreizen Kapitalzuflüsse maximieren
 event.foreign_investment_surge.option2.text,Direktinvestitionen in vorrangige Branchen
@@ -948,7 +948,7 @@ event.foreign_investment_surge.option2.tooltip,Gezieltes Wachstum in strategisch
 event.foreign_investment_surge.option3.text,"Nutzen Sie Ihren Verhandlungsspielraum, um einen Technologietransfer auszuhandeln"
 event.foreign_investment_surge.option3.tooltip,"Geringerer Zustrom, aber Ausbau der inländischen Kapazitäten"
 event.foreign_investment_surge.title,Anstieg der Auslandsinvestitionen
-event.global_food_price_spike.description,"Eine Kombination aus extremen Wetterereignissen, Exportbeschränkungen und Störungen in der Lieferkette hat zu einem Anstieg der weltweiten Lebensmittelpreise um 40 % geführt. Die Preise für Weizen, Reis und Speiseöl haben historische Höchststände erreicht.\\n\\nEntwicklungsländer sind besonders stark betroffen; aus mehreren Ländern wird von Lebensmittelunruhen berichtet. Das Welternährungsprogramm der Vereinten Nationen hat den Notfall der Stufe 3 ausgerufen."
+event.global_food_price_spike.description,"Eine Kombination aus extremen Wetterereignissen, Exportbeschränkungen und Störungen in der Lieferkette hat zu einem Anstieg der weltweiten Lebensmittelpreise um 40 % geführt. Die Preise für Weizen, Reis und Speiseöl haben historische Höchststände erreicht.\n\nEntwicklungsländer sind besonders stark betroffen; aus mehreren Ländern wird von Lebensmittelunruhen berichtet. Das Welternährungsprogramm der Vereinten Nationen hat den Notfall der Stufe 3 ausgerufen."
 event.global_food_price_spike.option1.text,Beschränkungen für den Lebensmittelexport einführen
 event.global_food_price_spike.option1.tooltip,"Die heimische Versorgung sichern, aber die globale Krise verschärfen"
 event.global_food_price_spike.option2.text,Strategische Nahrungsmittelreserven freigeben und Grundnahrungsmittel subventionieren
@@ -961,7 +961,7 @@ event.global_oil_shock.option1.text,Strategische Erdölreserven freigeben
 event.global_oil_shock.option2.text,Die Energiewende vorantreiben
 event.global_oil_shock.option3.text,Direkt mit der OPEC über eine Produktionssteigerung verhandeln
 event.global_oil_shock.title,Weltweiter Ölpreisschock
-event.global_oil_shock_iran_strikes.description,"Die US-amerikanisch-israelischen Angriffe auf den Iran haben den stärksten Ölpreisanstieg seit dem Embargo von 1973 ausgelöst. Der Preis für Brent-Rohöl ist auf über 180 Dollar pro Barrel gestiegen, da die Märkte mit anhaltenden Störungen des Schiffsverkehrs im Persischen Golf rechnen.\\n\\nDie Krisensitzungen der OPEC+ konnten die Märkte nicht beruhigen, und Regierungen weltweit geben strategische Ölreserven frei."
+event.global_oil_shock_iran_strikes.description,"Die US-amerikanisch-israelischen Angriffe auf den Iran haben den stärksten Ölpreisanstieg seit dem Embargo von 1973 ausgelöst. Der Preis für Brent-Rohöl ist auf über 180 Dollar pro Barrel gestiegen, da die Märkte mit anhaltenden Störungen des Schiffsverkehrs im Persischen Golf rechnen.\n\nDie Krisensitzungen der OPEC+ konnten die Märkte nicht beruhigen, und Regierungen weltweit geben strategische Ölreserven frei."
 event.global_oil_shock_iran_strikes.option1.text,Strategische Erdölreserven freigeben
 event.global_oil_shock_iran_strikes.option1.tooltip,"Vorübergehende Entlastung, die jedoch die Reserven erschöpft"
 event.global_oil_shock_iran_strikes.option2.text,Notfallpreisregulierungen und Rationierungen einführen
@@ -974,7 +974,7 @@ event.global_pandemic_outbreak.option1.text,Strenge Grenzschließungen und Ausga
 event.global_pandemic_outbreak.option2.text,Schwerpunkt auf Impfstoffentwicklung und medizinische Maßnahmen
 event.global_pandemic_outbreak.option3.text,Die Gefahr herunterspielen und die Wirtschaft offen halten
 event.global_pandemic_outbreak.title,Ausbruch eines neuartigen Krankheitserregers
-event.green_energy_transition.description,"Die jahrelangen Investitionen in erneuerbare Energien haben einen Wendepunkt erreicht. Das Land deckt mittlerweile den Großteil seines Strombedarfs aus Solar-, Wind- und Wasserkraft, und die Energiekosten im Inland sind drastisch gesunken.\\n\\nKohlenstoffintensive Wettbewerber sehen sich mit einer Energieinflation konfrontiert, während die heimische Industrie von einem strukturellen Kostenvorteil profitiert. Die internationale Anerkennung dieses Wandels zieht grüne Investitionen und höhere Exporterlöse nach sich."
+event.green_energy_transition.description,"Die jahrelangen Investitionen in erneuerbare Energien haben einen Wendepunkt erreicht. Das Land deckt mittlerweile den Großteil seines Strombedarfs aus Solar-, Wind- und Wasserkraft, und die Energiekosten im Inland sind drastisch gesunken.\n\nKohlenstoffintensive Wettbewerber sehen sich mit einer Energieinflation konfrontiert, während die heimische Industrie von einem strukturellen Kostenvorteil profitiert. Die internationale Anerkennung dieses Wandels zieht grüne Investitionen und höhere Exporterlöse nach sich."
 event.green_energy_transition.option1.text,Grüne Energietechnologie weltweit exportieren
 event.green_energy_transition.option1.tooltip,Eine führende Marktposition einnehmen und Exporteinnahmen generieren
 event.green_energy_transition.option2.text,Die durch Energieeinsparungen erzielten Mittel in die Reindustrialisierung des Landes investieren
@@ -987,7 +987,7 @@ event.gulf_water_crisis.option1.text,Mit Cyberangriffen gegen den Iran zurücksc
 event.gulf_water_crisis.option2.text,Ersuchen um eine Untersuchung durch die USA und militärischen Schutz
 event.gulf_water_crisis.option3.text,Direkte Verhandlungen mit Teheran aufnehmen
 event.gulf_water_crisis.title,Befürchtungen vor einem Wasserkrieg am Persischen Golf
-event.housing_crisis_urban.description,"Die Erschwinglichkeit von Wohnraum hat in den Großstädten einen kritischen Punkt erreicht. Es kommt zu Protesten, da junge Berufstätige sich den Erwerb von Wohneigentum überhaupt nicht mehr leisten können. In den Innenstädten entstehen Zeltlager, und der politische Druck nimmt zu.\\n\\nVerbände der Bauindustrie machen die Regulierung dafür verantwortlich, während Aktivisten Mietpreisbindungen und Investitionen in den sozialen Wohnungsbau fordern."
+event.housing_crisis_urban.description,"Die Erschwinglichkeit von Wohnraum hat in den Großstädten einen kritischen Punkt erreicht. Es kommt zu Protesten, da junge Berufstätige sich den Erwerb von Wohneigentum überhaupt nicht mehr leisten können. In den Innenstädten entstehen Zeltlager, und der politische Druck nimmt zu.\n\nVerbände der Bauindustrie machen die Regulierung dafür verantwortlich, während Aktivisten Mietpreisbindungen und Investitionen in den sozialen Wohnungsbau fordern."
 event.housing_crisis_urban.option1.text,Mietpreisbindungen und Mieterschutzmaßnahmen einführen
 event.housing_crisis_urban.option1.tooltip,"Beliebt bei Mietern, könnte aber das Wohnungsangebot verringern"
 event.housing_crisis_urban.option2.text,Den Bausektor deregulieren und Anreize für das Bauen schaffen
@@ -995,7 +995,7 @@ event.housing_crisis_urban.option2.tooltip,"Marktorientierte Lösung – langsam
 event.housing_crisis_urban.option3.text,Ein umfangreiches Programm zum Bau von Sozialwohnungen auflegen
 event.housing_crisis_urban.option3.tooltip,"Direkte staatliche Eingriffe – kostspielig, aber wirksam"
 event.housing_crisis_urban.title,Wohnungskrise in den Städten
-event.india_china_border_clash.description,Indische und chinesische Truppen sind entlang der tatsächlichen Kontrolllinie in Ladakh aufeinandergetroffen. Bei dem schwersten Grenzkonflikt seit Jahrzehnten sind mehrere Soldaten auf beiden Seiten ums Leben gekommen.\\n\\nBeide Atommächte verlegen Verstärkung an die umstrittene Hochgebirgsgrenze.
+event.india_china_border_clash.description,Indische und chinesische Truppen sind entlang der tatsächlichen Kontrolllinie in Ladakh aufeinandergetroffen. Bei dem schwersten Grenzkonflikt seit Jahrzehnten sind mehrere Soldaten auf beiden Seiten ums Leben gekommen.\n\nBeide Atommächte verlegen Verstärkung an die umstrittene Hochgebirgsgrenze.
 event.india_china_border_clash.option1.text,Die Armee mobilisieren und alle Grenzposten verstärken
 event.india_china_border_clash.option2.text,Eine diplomatische Lösung über inoffizielle Kanäle anstreben
 event.india_china_border_clash.title,LAC-Grenzkonflikt
@@ -1003,7 +1003,7 @@ event.indonesian_capital_move.description,"Indonesien hat „Nusantara“, seine
 event.indonesian_capital_move.option1.text,Den Umzug beschleunigen – Nusantara voll in Betrieb nehmen
 event.indonesian_capital_move.option2.text,Reduzierung und Beibehaltung der beiden Hauptstädte
 event.indonesian_capital_move.title,Nusantara: Indonesiens neue Hauptstadt wird eröffnet
-event.infrastructure_boom.description,"Ein Jahrzehnt nachhaltiger Infrastrukturinvestitionen hat nun seine Früchte getragen. Neue Hochgeschwindigkeitsbahnstrecken, modernisierte Häfen, ausgebaute Breitbandnetze und modernisierte Stromnetze sorgen für Produktivitätssteigerungen in der gesamten Wirtschaft.\\n\\nDie Logistikkosten sind stark gesunken, regionale Ungleichheiten verringern sich, und das Land hat in den globalen Wettbewerbsrankings deutlich an Boden gewonnen."
+event.infrastructure_boom.description,"Ein Jahrzehnt nachhaltiger Infrastrukturinvestitionen hat nun seine Früchte getragen. Neue Hochgeschwindigkeitsbahnstrecken, modernisierte Häfen, ausgebaute Breitbandnetze und modernisierte Stromnetze sorgen für Produktivitätssteigerungen in der gesamten Wirtschaft.\n\nDie Logistikkosten sind stark gesunken, regionale Ungleichheiten verringern sich, und das Land hat in den globalen Wettbewerbsrankings deutlich an Boden gewonnen."
 event.infrastructure_boom.option1.text,Die nächste Phase der Infrastrukturinvestitionen ankündigen
 event.infrastructure_boom.option1.tooltip,Zinseszins-Effekt durch anhaltendes Engagement
 event.infrastructure_boom.option2.text,Öffnung der Infrastruktur für die Nachbarn in der Region
@@ -1011,7 +1011,7 @@ event.infrastructure_boom.option2.tooltip,"Die Gewinne teilen, um diplomatische 
 event.infrastructure_boom.option3.text,Infrastruktur-Know-how international exportieren
 event.infrastructure_boom.option3.tooltip,Werden Sie Partner für regionale Entwicklung
 event.infrastructure_boom.title,Infrastrukturinvestitionen zahlen sich aus
-event.international_aid_windfall.description,"Das Land hat sich durch seinen beständigen Beitrag zu internationalen Friedenssicherungseinsätzen, Katastrophenhilfe und Entwicklungshilfe breite Anerkennung als vorbildlicher internationaler Partner erworben.\\n\\nIm Rahmen einer großen internationalen Geberkonferenz wurden umfangreiche Finanzmittel und technische Hilfe für Programme in Zusammenarbeit mit dem Land bereitgestellt, was sowohl die Wirtschaft als auch das Ansehen des Landes auf internationaler Ebene gestärkt hat."
+event.international_aid_windfall.description,"Das Land hat sich durch seinen beständigen Beitrag zu internationalen Friedenssicherungseinsätzen, Katastrophenhilfe und Entwicklungshilfe breite Anerkennung als vorbildlicher internationaler Partner erworben.\n\nIm Rahmen einer großen internationalen Geberkonferenz wurden umfangreiche Finanzmittel und technische Hilfe für Programme in Zusammenarbeit mit dem Land bereitgestellt, was sowohl die Wirtschaft als auch das Ansehen des Landes auf internationaler Ebene gestärkt hat."
 event.international_aid_windfall.option1.text,Mittel in nationale Entwicklungsprogramme lenken
 event.international_aid_windfall.option1.tooltip,Deutliche Fortschritte bei Stabilität und Wohlstand
 event.international_aid_windfall.option2.text,"Nutzen Sie das Ansehen, um regionale Abkommen auszuhandeln"
@@ -1025,7 +1025,7 @@ event.iran_nuclear_threshold.option1.tooltip,Die zehnte Atommacht werden – wei
 event.iran_nuclear_threshold.option2.text,Zweideutigkeit wahren – weder bestätigen noch dementieren
 event.iran_nuclear_threshold.option3.text,Angebot zur Aushandlung eines neuen JCPOA-Abkommens
 event.iran_nuclear_threshold.title,Iran steht kurz vor der nuklearen Schwelle
-event.iran_proxy_war_escalation.description,"Das Netzwerk der iranischen Stellvertreter hat in der gesamten Region seine Aktivitäten verstärkt. Die Houthi-Kräfte intensivieren ihre Angriffe auf die Schifffahrt im Roten Meer, die Hisbollah hat Raketen auf Nordisrael abgefeuert, und irakische schiitische Milizen haben US-Stützpunkte in Al-Asad und Erbil angegriffen.\\n\\nDer Konflikt droht, die gesamte Region in einen Krieg an mehreren Fronten zu stürzen."
+event.iran_proxy_war_escalation.description,"Das Netzwerk der iranischen Stellvertreter hat in der gesamten Region seine Aktivitäten verstärkt. Die Houthi-Kräfte intensivieren ihre Angriffe auf die Schifffahrt im Roten Meer, die Hisbollah hat Raketen auf Nordisrael abgefeuert, und irakische schiitische Milizen haben US-Stützpunkte in Al-Asad und Erbil angegriffen.\n\nDer Konflikt droht, die gesamte Region in einen Krieg an mehreren Fronten zu stürzen."
 event.iran_proxy_war_escalation.option1.text,Eine Bodenoffensive im Südlibanon starten
 event.iran_proxy_war_escalation.option1.tooltip,"Die Bedrohung durch die Hisbollah beseitigen, aber dabei einen Sumpf riskieren"
 event.iran_proxy_war_escalation.option2.text,Schwerpunkt auf Luft- und Seeverteidigung
@@ -1033,7 +1033,7 @@ event.iran_proxy_war_escalation.option2.tooltip,"Die Grenzen verteidigen, ohne B
 event.iran_proxy_war_escalation.option3.text,Die Verbündeten um kollektive Verteidigung im Sinne von Artikel 5 des NATO-Vertrags bitten
 event.iran_proxy_war_escalation.option3.tooltip,"Den Konflikt internationalisieren, aber die Unterstützung der Verbündeten gewinnen"
 event.iran_proxy_war_escalation.title,Eskalation des Stellvertreterkriegs im Nahen Osten
-event.iran_retaliation_options.description,"Der IRGC hat nach den US-amerikanisch-israelischen Angriffen die vollständige Mobilisierung abgeschlossen. Die iranischen Raketentruppen befinden sich in höchster Alarmbereitschaft, und schnelle Angriffsboote der Marine sind in der Straße von Hormus stationiert. Die Welt hält den Atem an, während der Iran ankündigt, mit „entschiedener Gewalt“ zu reagieren.\\n\\nDer internationale Schiffsverkehr durch den Persischen Golf ist fast vollständig zum Erliegen gekommen, und die Ölpreise haben sich über Nacht verdoppelt."
+event.iran_retaliation_options.description,"Der IRGC hat nach den US-amerikanisch-israelischen Angriffen die vollständige Mobilisierung abgeschlossen. Die iranischen Raketentruppen befinden sich in höchster Alarmbereitschaft, und schnelle Angriffsboote der Marine sind in der Straße von Hormus stationiert. Die Welt hält den Atem an, während der Iran ankündigt, mit „entschiedener Gewalt“ zu reagieren.\n\nDer internationale Schiffsverkehr durch den Persischen Golf ist fast vollständig zum Erliegen gekommen, und die Ölpreise haben sich über Nacht verdoppelt."
 event.iran_retaliation_options.option1.text,Die Straße von Hormus sperren
 event.iran_retaliation_options.option1.tooltip,Die weltweite Ölversorgung blockieren – eine wirtschaftliche Massenvernichtungswaffe
 event.iran_retaliation_options.option2.text,Israelische Städte mit ballistischen Raketen angreifen
@@ -1046,7 +1046,7 @@ event.israeli_response_iran_nuclear.option1.text,Angriff auf iranische Nuklearan
 event.israeli_response_iran_nuclear.option2.text,Raketenabwehrsysteme vorantreiben
 event.israeli_response_iran_nuclear.option3.text,Eine von den USA angeführte diplomatische Lösung anstreben
 event.israeli_response_iran_nuclear.title,Die israelische Reaktion auf das iranische Atomprogramm
-event.japanese_article9_reform.description,Das japanische Parlament hat die erforderliche Zweidrittelmehrheit für eine Änderung von Artikel 9 der Verfassung erreicht. Ein nationales Referendum über die Streichung der Pazifikklausel ist geplant.\\n\\nDiese Entscheidung wird Japans Rolle in der asiatischen Sicherheitspolitik grundlegend neu gestalten.
+event.japanese_article9_reform.description,Das japanische Parlament hat die erforderliche Zweidrittelmehrheit für eine Änderung von Artikel 9 der Verfassung erreicht. Ein nationales Referendum über die Streichung der Pazifikklausel ist geplant.\n\nDiese Entscheidung wird Japans Rolle in der asiatischen Sicherheitspolitik grundlegend neu gestalten.
 event.japanese_article9_reform.option1.text,Lasst das Referendum stattfinden – das Volk wird entscheiden
 event.japanese_article9_reform.option2.text,Reformen verschieben – der Zeitpunkt ist noch nicht günstig
 event.japanese_article9_reform.title,Die Reform von Artikel 9 der japanischen Verfassung
@@ -1055,7 +1055,7 @@ event.kashmir_border_skirmish.option1.text,"Einen grenzüberschreitenden Angriff
 event.kashmir_border_skirmish.option2.text,"Die Stellungen an der Grenze verstärken, aber nicht schießen"
 event.kashmir_border_skirmish.option3.text,Bilaterale Gespräche zur Deeskalation vorschlagen
 event.kashmir_border_skirmish.title,Grenzscharmützel in Kaschmir
-event.korean_peninsula_provocation.description,"Nordkorea hat eine Interkontinentalrakete getestet, die direkt über Japan flog, bevor sie im Pazifik ins Meer stürzte. Es wird angenommen, dass die Rakete das US-Festland erreichen kann.\\n\\nDer UN-Sicherheitsrat hat eine Dringlichkeitssitzung einberufen."
+event.korean_peninsula_provocation.description,"Nordkorea hat eine Interkontinentalrakete getestet, die direkt über Japan flog, bevor sie im Pazifik ins Meer stürzte. Es wird angenommen, dass die Rakete das US-Festland erreichen kann.\n\nDer UN-Sicherheitsrat hat eine Dringlichkeitssitzung einberufen."
 event.korean_peninsula_provocation.option1.text,Eine vollständige Wirtschaftsblockade gegen Nordkorea verhängen
 event.korean_peninsula_provocation.option2.text,Weitere THAAD-Batterien in Südkorea stationieren
 event.korean_peninsula_provocation.option3.text,Direkte Verhandlungen mit Pjöngjang anbieten
@@ -1074,13 +1074,13 @@ event.mass_migration_wave.option1.text,Ein Programm zur Neuansiedlung von Klimaf
 event.mass_migration_wave.option2.text,Die Grenzkontrollen verstärken
 event.mass_migration_wave.option3.text,Internationale Anpassungsprogramme finanzieren
 event.mass_migration_wave.title,Massenmigration aufgrund der Klimakrise
-event.mexican_cartel_crisis.description,"Die Gewalt durch die Kartelle hat in {country} ein noch nie dagewesenes Ausmaß erreicht. Mehrere Bundesstaaten sind faktisch unter die Kontrolle der Kartelle geraten, und die US-Regierung droht mit einer direkten Intervention.\\n\\nDer Präsident muss entscheiden, wie er auf diese Sicherheitskrise reagieren soll, die die nationale Souveränität bedroht."
+event.mexican_cartel_crisis.description,"Die Gewalt durch die Kartelle hat in {country} ein noch nie dagewesenes Ausmaß erreicht. Mehrere Bundesstaaten sind faktisch unter die Kontrolle der Kartelle geraten, und die US-Regierung droht mit einer direkten Intervention.\n\nDer Präsident muss entscheiden, wie er auf diese Sicherheitskrise reagieren soll, die die nationale Souveränität bedroht."
 event.mexican_cartel_crisis.option1.text,Eine umfassende Militäroffensive gegen die Kartelle starten
 event.mexican_cartel_crisis.option2.text,Die Sicherheitshilfe der USA annehmen
 event.mexican_cartel_crisis.option3.text,Mit den Anführern des Kartells verhandeln
 event.mexican_cartel_crisis.option3.tooltip,"Risikobehaftet, könnte aber die Gewalt verringern"
 event.mexican_cartel_crisis.title,Ausnahmezustand im mexikanischen Kartellstaat
-event.military_coup_attempt.description,"Teile des Militärs haben in einer Operation im Morgengrauen versucht, die Macht zu ergreifen. In der Hauptstadt wurden Panzer gesichtet, und die Kommunikationsnetze sind teilweise unterbrochen.\\n\\nDie Lage ist weiterhin unübersichtlich – es ist unklar, ob die zivile Regierung oder die Putschisten die Kontrolle haben. Die internationale Verurteilung lässt nicht lange auf sich warten."
+event.military_coup_attempt.description,"Teile des Militärs haben in einer Operation im Morgengrauen versucht, die Macht zu ergreifen. In der Hauptstadt wurden Panzer gesichtet, und die Kommunikationsnetze sind teilweise unterbrochen.\n\nDie Lage ist weiterhin unübersichtlich – es ist unklar, ob die zivile Regierung oder die Putschisten die Kontrolle haben. Die internationale Verurteilung lässt nicht lange auf sich warten."
 event.military_coup_attempt.option1.text,Mobilisiere treue Militäreinheiten und schlage den Putsch nieder
 event.military_coup_attempt.option1.tooltip,Zivile Autorität durchsetzen – Gefahr von Gewalt
 event.military_coup_attempt.option2.text,Mit den Putschisten über eine Vereinbarung zur Machtteilung verhandeln
@@ -1088,7 +1088,7 @@ event.military_coup_attempt.option2.tooltip,"Blutvergießen vermeiden, aber eine
 event.military_coup_attempt.option3.text,Das Land verlassen und um internationale Intervention bitten
 event.military_coup_attempt.option3.tooltip,"Die persönliche Sicherheit wird gewahrt, doch die Legitimität im Inland geht verloren"
 event.military_coup_attempt.title,Versuch eines Militärputsches
-event.nigerian_election_crisis.description,"Die Präsidentschaftswahlen in Nigeria sind im Chaos versunken. Oppositionsparteien werfen massiven Wahlbetrug vor, und in Lagos, Abuja und im Süden des Landes sind gewalttätige Proteste ausgebrochen.\\n\\nDas Militär warnt vor einer möglichen Intervention, um „die Ordnung wiederherzustellen“."
+event.nigerian_election_crisis.description,"Die Präsidentschaftswahlen in Nigeria sind im Chaos versunken. Oppositionsparteien werfen massiven Wahlbetrug vor, und in Lagos, Abuja und im Süden des Landes sind gewalttätige Proteste ausgebrochen.\n\nDas Militär warnt vor einer möglichen Intervention, um „die Ordnung wiederherzustellen“."
 event.nigerian_election_crisis.option1.text,"Das Militär einsetzen, um Proteste niederzuschlagen"
 event.nigerian_election_crisis.option2.text,Eine Neuauszählung unter Aufsicht internationaler Beobachter zulassen
 event.nigerian_election_crisis.option3.text,einer Vereinbarung zur Machtteilung zustimmen
@@ -1099,7 +1099,7 @@ event.nile_dam_crisis.option1.tooltip,Eine extreme Option – könnte einen regi
 event.nile_dam_crisis.option2.text,An den UN-Sicherheitsrat weiterleiten
 event.nile_dam_crisis.option3.text,Eine Vereinbarung über die gemeinsame Wassernutzung aushandeln
 event.nile_dam_crisis.title,Krise um den Nil-Staudamm – Streit um den GERD
-event.peace_dividend.description,"Eine anhaltende Phase regionaler Stabilität und die Beilegung mehrerer langjähriger Konflikte haben zu spürbaren Friedensdividenden geführt. Der Druck auf die Verteidigungsausgaben hat nachgelassen, der grenzüberschreitende Handel boomt, und das Vertrauen der Investoren in die Region ist so hoch wie seit zehn Jahren nicht mehr.\\n\\nDie Bürger zeigen sich optimistischer in Bezug auf die Zukunft, und die Abwanderungsraten sind stark zurückgegangen."
+event.peace_dividend.description,"Eine anhaltende Phase regionaler Stabilität und die Beilegung mehrerer langjähriger Konflikte haben zu spürbaren Friedensdividenden geführt. Der Druck auf die Verteidigungsausgaben hat nachgelassen, der grenzüberschreitende Handel boomt, und das Vertrauen der Investoren in die Region ist so hoch wie seit zehn Jahren nicht mehr.\n\nDie Bürger zeigen sich optimistischer in Bezug auf die Zukunft, und die Abwanderungsraten sind stark zurückgegangen."
 event.peace_dividend.option1.text,Einsparungen im Verteidigungsbereich in die Infrastruktur umleiten
 event.peace_dividend.option1.tooltip,Frieden in dauerhafte wirtschaftliche Vorteile umwandeln
 event.peace_dividend.option2.text,"Die Stabilität nutzen, um mutige innenpolitische Reformen voranzutreiben"
@@ -1107,7 +1107,7 @@ event.peace_dividend.option2.tooltip,"Strukturelle Probleme angehen, solange das
 event.peace_dividend.option3.text,Regionale Integrationsabkommen stärken
 event.peace_dividend.option3.tooltip,Dauerhafte institutionelle Beziehungen aufbauen
 event.peace_dividend.title,Regionale Friedensdividende
-event.polish_belarus_border_crisis.description,"Weißrussland hat eine massive Migrationswelle aus dem Nahen Osten und Afrika in Richtung der polnischen Grenze inszeniert. Tausende campieren bei eisigen Temperaturen, und Polen hat das Militär entsandt.\\n\\nDie NATO berät derzeit darüber, ob dies einen Fall nach Artikel 5 darstellt."
+event.polish_belarus_border_crisis.description,"Weißrussland hat eine massive Migrationswelle aus dem Nahen Osten und Afrika in Richtung der polnischen Grenze inszeniert. Tausende campieren bei eisigen Temperaturen, und Polen hat das Militär entsandt.\n\nDie NATO berät derzeit darüber, ob dies einen Fall nach Artikel 5 darstellt."
 event.polish_belarus_border_crisis.option1.text,Die Grenze mit militärischer Gewalt vollständig abriegeln
 event.polish_belarus_border_crisis.option2.text,Konsultationen gemäß Artikel 4 des NATO-Vertrags einleiten
 event.polish_belarus_border_crisis.title,Hybride Kriegsführung an der polnisch-weißrussischen Grenze
@@ -1116,7 +1116,7 @@ event.refugee_crisis.option1.text,Offene Grenzen und Aufnahme von Flüchtlingen
 event.refugee_crisis.option2.text,Eine begrenzte Anzahl von Bewerbern nach strenger Prüfung zulassen
 event.refugee_crisis.option3.text,Die Grenzen schließen und die Grenze militarisieren
 event.refugee_crisis.title,Massenflüchtlingskrise
-event.resource_discovery.description,"Geologische Untersuchungen haben die Entdeckung bedeutender Vorkommen an Erdöl, Erdgas oder Seltenerdmetallen auf dem Staatsgebiet bestätigt. Ersten Schätzungen zufolge belaufen sich die Reserven in den kommenden Jahrzehnten auf mehrere Billionen. \\n\\nInternationale Energieunternehmen bemühen sich bereits um Partnerschaften zur Förderung, und die Börse hat auf diese Nachricht hin einen Kursanstieg verzeichnet."
+event.resource_discovery.description,"Geologische Untersuchungen haben die Entdeckung bedeutender Vorkommen an Erdöl, Erdgas oder Seltenerdmetallen auf dem Staatsgebiet bestätigt. Ersten Schätzungen zufolge belaufen sich die Reserven in den kommenden Jahrzehnten auf mehrere Billionen. \n\nInternationale Energieunternehmen bemühen sich bereits um Partnerschaften zur Förderung, und die Börse hat auf diese Nachricht hin einen Kursanstieg verzeichnet."
 event.resource_discovery.option1.text,Verstaatlichung der Rohstoffgewinnung – Maximierung der staatlichen Einnahmen
 event.resource_discovery.option1.tooltip,Hohe langfristige Gewinne; längerer Entwicklungszeitraum
 event.resource_discovery.option2.text,Arbeiten Sie mit internationalen Energieunternehmen zusammen
@@ -1144,7 +1144,7 @@ event.south_africa_power_collapse.option1.text,Eskom privatisieren und ausländi
 event.south_africa_power_collapse.option2.text,Energie-Notstand ausrufen und den Ausbau erneuerbarer Energien beschleunigen
 event.south_africa_power_collapse.option3.text,Chinesische Infrastrukturkredite für neue Kraftwerke annehmen
 event.south_africa_power_collapse.title,Der Zusammenbruch des südafrikanischen Stromnetzes
-event.south_china_sea_crisis.description,"Im Südchinesischen Meer haben sich die Spannungen verschärft, da {aggressor} zusätzliche Marineeinheiten in der Nähe der umstrittenen Spratly-Inseln stationiert hat. Internationale Beobachter warnen vor einer möglichen bewaffneten Konfrontation.\\n\\n{defender} hat daraufhin Kampfflugzeuge in die Luft geschickt, und der Schiffsverkehr durch die Meerenge wurde unterbrochen."
+event.south_china_sea_crisis.description,"Im Südchinesischen Meer haben sich die Spannungen verschärft, da {aggressor} zusätzliche Marineeinheiten in der Nähe der umstrittenen Spratly-Inseln stationiert hat. Internationale Beobachter warnen vor einer möglichen bewaffneten Konfrontation.\n\n{defender} hat daraufhin Kampfflugzeuge in die Luft geschickt, und der Schiffsverkehr durch die Meerenge wurde unterbrochen."
 event.south_china_sea_crisis.option1.text,Unsere maritimen Ansprüche mit Gewalt durchsetzen
 event.south_china_sea_crisis.option1.tooltip,Riskieren Sie einen Krieg mit den ASEAN-Staaten und den Vereinigten Staaten
 event.south_china_sea_crisis.option2.text,Eine gemeinsame Entwicklung mit den Nachbarländern vorschlagen
@@ -1152,7 +1152,7 @@ event.south_china_sea_crisis.option2.tooltip,"Beziehungen verbessern, Ressourcen
 event.south_china_sea_crisis.option3.text,"Sich zurückziehen, um die Situation zu entschärfen"
 event.south_china_sea_crisis.option3.tooltip,"Im Inland das Gesicht verlieren, aber Konflikte vermeiden"
 event.south_china_sea_crisis.title,Eskalation im Südchinesischen Meer
-event.sovereign_debt_crisis.description,"Steigende Zinsen und Währungsabwertungen haben {country} an den Rand der Staatsinsolvenz getrieben. Die Anleiherenditen sind auf ein untragbares Niveau gestiegen, und die Zentralbank zehrt die Devisenreserven in rasantem Tempo auf.\\n\\nDer IWF hat ein Team entsandt, um die Lage zu beurteilen, während die Ratingagenturen die Staatsanleihen des Landes auf Ramschstatus herabgestuft haben."
+event.sovereign_debt_crisis.description,"Steigende Zinsen und Währungsabwertungen haben {country} an den Rand der Staatsinsolvenz getrieben. Die Anleiherenditen sind auf ein untragbares Niveau gestiegen, und die Zentralbank zehrt die Devisenreserven in rasantem Tempo auf.\n\nDer IWF hat ein Team entsandt, um die Lage zu beurteilen, während die Ratingagenturen die Staatsanleihen des Landes auf Ramschstatus herabgestuft haben."
 event.sovereign_debt_crisis.option1.text,Das IWF-Rettungspaket unter der Bedingung von Strukturreformen annehmen
 event.sovereign_debt_crisis.option1.tooltip,"Die Finanzen stabilisieren, aber schmerzhafte Sparmaßnahmen hinnehmen"
 event.sovereign_debt_crisis.option2.text,Zahlungsausfall bei Auslandsschulden
@@ -1175,7 +1175,7 @@ event.taiwan_strait_crisis.option1.tooltip,Eskalation hin zu einer gewaltsamen W
 event.taiwan_strait_crisis.option2.text,Wirtschaftliche Integration als Weg zum Frieden anbieten
 event.taiwan_strait_crisis.option3.text,"Die Manöver absagen, um Spannungen abzubauen"
 event.taiwan_strait_crisis.title,Taiwan-Krise
-event.tech_regulation_crackdown.description,"Eine Welle neuer technologischer Vorschriften rollt über die großen Volkswirtschaften hinweg. Die Regierungen nehmen KI-Unternehmen, Social-Media-Plattformen und Kryptowährungsbörsen ins Visier und erlassen strenge neue Vorschriften in den Bereichen Datenschutz, Transparenz von Algorithmen und Kartellrecht.\\n\\nFührende Vertreter der Tech-Branche warnen vor einem „Innovationswinter“, während Verbraucherschützer dies begrüßen."
+event.tech_regulation_crackdown.description,"Eine Welle neuer technologischer Vorschriften rollt über die großen Volkswirtschaften hinweg. Die Regierungen nehmen KI-Unternehmen, Social-Media-Plattformen und Kryptowährungsbörsen ins Visier und erlassen strenge neue Vorschriften in den Bereichen Datenschutz, Transparenz von Algorithmen und Kartellrecht.\n\nFührende Vertreter der Tech-Branche warnen vor einem „Innovationswinter“, während Verbraucherschützer dies begrüßen."
 event.tech_regulation_crackdown.option1.text,Strenge Vorschriften einführen
 event.tech_regulation_crackdown.option1.tooltip,Umfassende Compliance-Anforderungen – können Innovationen bremsen
 event.tech_regulation_crackdown.option2.text,einen zurückhaltenden Regulierungsansatz verfolgen
@@ -1183,7 +1183,7 @@ event.tech_regulation_crackdown.option2.tooltip,Selbstregulierung der Branche un
 event.tech_regulation_crackdown.option3.text,Bestimmte Technologien vollständig verbieten
 event.tech_regulation_crackdown.option3.tooltip,"Dramatische Action – im Inland beliebt, läuft jedoch Gefahr, den Anschluss zu verlieren"
 event.tech_regulation_crackdown.title,Verschärfte Regulierung der Tech-Branche
-event.tourism_boom.description,"Eine Kombination aus viralen Reiseinhalten, großen internationalen Veranstaltungen und günstigen Flugpreisen hat einen Tourismusboom ausgelöst. Die Besucherzahlen sind stark gestiegen, die Hotels sind ausgebucht, und die Umsätze der Tourismusbranche brechen alle Rekorde.\\n\\nLokale Unternehmen in historischen Städten und Küstenregionen berichten von der besten Saison seit Menschengedenken."
+event.tourism_boom.description,"Eine Kombination aus viralen Reiseinhalten, großen internationalen Veranstaltungen und günstigen Flugpreisen hat einen Tourismusboom ausgelöst. Die Besucherzahlen sind stark gestiegen, die Hotels sind ausgebucht, und die Umsätze der Tourismusbranche brechen alle Rekorde.\n\nLokale Unternehmen in historischen Städten und Küstenregionen berichten von der besten Saison seit Menschengedenken."
 event.tourism_boom.option1.text,In die touristische Infrastruktur und das Marketing investieren
 event.tourism_boom.option1.tooltip,Den Aufschwung durch langfristige Investitionen sichern
 event.tourism_boom.option2.text,Ausweitung der Visumbefreiungsabkommen mit Herkunftsländern
@@ -1191,7 +1191,7 @@ event.tourism_boom.option2.tooltip,Besucherzahlen maximieren
 event.tourism_boom.option3.text,Fokus auf hochwertigen Luxustourismus mit geringen Besucherzahlen
 event.tourism_boom.option3.tooltip,"Die Umwelt schützen, den Umsatz pro Besucher maximieren"
 event.tourism_boom.title,Das goldene Zeitalter des Tourismus
-event.trade_agreement_windfall.description,"Jahrelange behutsame diplomatische Bemühungen haben zu einem bahnbrechenden Handelsabkommen geführt, das wichtige neue Exportmärkte erschließt. Das Vertrauen der Wirtschaft steigt rasant an, und es gehen zahlreiche Anfragen nach ausländischen Investitionen ein.\\n\\nWirtschaftswissenschaftler prognostizieren ein nachhaltiges Wachstum, da Zollschranken fallen und sich die Lieferketten zugunsten einheimischer Produzenten neu ausrichten."
+event.trade_agreement_windfall.description,"Jahrelange behutsame diplomatische Bemühungen haben zu einem bahnbrechenden Handelsabkommen geführt, das wichtige neue Exportmärkte erschließt. Das Vertrauen der Wirtschaft steigt rasant an, und es gehen zahlreiche Anfragen nach ausländischen Investitionen ein.\n\nWirtschaftswissenschaftler prognostizieren ein nachhaltiges Wachstum, da Zollschranken fallen und sich die Lieferketten zugunsten einheimischer Produzenten neu ausrichten."
 event.trade_agreement_windfall.option1.text,Das Abkommen voll und ganz umsetzen – die Integration maximieren
 event.trade_agreement_windfall.option1.tooltip,Starker Wachstumsschub; einige heimische Branchen sehen sich dem Wettbewerb ausgesetzt
 event.trade_agreement_windfall.option2.text,Ratifizieren mit schrittweisen Zollsenkungen
@@ -1199,7 +1199,7 @@ event.trade_agreement_windfall.option2.tooltip,Ausgewogenes Wachstum mit Schutzm
 event.trade_agreement_windfall.option3.text,"Nutzen Sie das Abkommen, um ausländische Direktinvestitionen anzuziehen"
 event.trade_agreement_windfall.option3.tooltip,Ausländische Direktinvestitionen sollten Vorrang vor dem Handelsvolumen haben
 event.trade_agreement_windfall.title,Historisches Handelsabkommen eröffnet neue Märkte
-event.trade_war_escalation.description,Die eskalierenden Zollstreitigkeiten haben zu einem ausgewachsenen Handelskrieg geführt. Die großen Volkswirtschaften verhängen Vergeltungszölle auf Waren im Wert von Hunderten von Milliarden Dollar und stören damit die globalen Lieferketten.\\n\\nDie WTO hat die Situation als „die schwerwiegendste Bedrohung für das multilaterale Handelssystem seit Jahrzehnten“ bezeichnet.
+event.trade_war_escalation.description,Die eskalierenden Zollstreitigkeiten haben zu einem ausgewachsenen Handelskrieg geführt. Die großen Volkswirtschaften verhängen Vergeltungszölle auf Waren im Wert von Hunderten von Milliarden Dollar und stören damit die globalen Lieferketten.\n\nDie WTO hat die Situation als „die schwerwiegendste Bedrohung für das multilaterale Handelssystem seit Jahrzehnten“ bezeichnet.
 event.trade_war_escalation.option1.text,Vergeltungszölle verhängen
 event.trade_war_escalation.option1.tooltip,Tarif gegen Tarif – Eskalation des Streits
 event.trade_war_escalation.option2.text,Ein bilaterales Handelsabkommen anstreben
@@ -1226,7 +1226,7 @@ event.un_security_council_session_scs.option1.text,Abstimmung über eine Verurte
 event.un_security_council_session_scs.option2.text,Aufruf zur gegenseitigen Deeskalation
 event.un_security_council_session_scs.option3.text,sich der Stimme enthalten
 event.un_security_council_session_scs.title,Sondersitzung des UN-Sicherheitsrats – Südchinesisches Meer
-event.us_israel_iran_strikes.description,"In einer koordinierten Operation haben die Vereinigten Staaten und Israel umfangreiche Luftangriffe auf iranische Nuklearanlagen, Raketenproduktionsstätten und Luftabwehrnetze gestartet. Die Angriffe richten sich gegen Anlagen in Natanz, Isfahan und Fordow sowie gegen Kommandozentralen der IRGC.\\n\\nDie Operation stellt die bedeutendste direkte Militäraktion gegen den Iran in der jüngeren Geschichte dar. Die weltweiten Ölmärkte sind in die Höhe geschossen, und der UN-Sicherheitsrat hat eine Dringlichkeitssitzung einberufen."
+event.us_israel_iran_strikes.description,"In einer koordinierten Operation haben die Vereinigten Staaten und Israel umfangreiche Luftangriffe auf iranische Nuklearanlagen, Raketenproduktionsstätten und Luftabwehrnetze gestartet. Die Angriffe richten sich gegen Anlagen in Natanz, Isfahan und Fordow sowie gegen Kommandozentralen der IRGC.\n\nDie Operation stellt die bedeutendste direkte Militäraktion gegen den Iran in der jüngeren Geschichte dar. Die weltweiten Ölmärkte sind in die Höhe geschossen, und der UN-Sicherheitsrat hat eine Dringlichkeitssitzung einberufen."
 event.us_israel_iran_strikes.option1.text,Den IRGC mobilisieren und totale Vergeltung schwören
 event.us_israel_iran_strikes.option1.tooltip,Vollständige militärische Mobilmachung – Gefahr eines regionalen Krieges
 event.us_israel_iran_strikes.option2.text,Vergeltungsraketenangriffe auf US-Stützpunkte in der Region starten
@@ -3500,7 +3500,7 @@ hud.auto.ledger,HAUSHALTSBUCH
 hud.auto.lv_1,Stufe 1
 hud.auto.lv_1_1,Stufe 1
 hud.auto.main_menu,HAUPTMENÜ
-hud.auto.manpower,MANNSTÄRKE:
+hud.auto.manpower,MP:
 hud.auto.military,MILITÄR
 hud.auto.missile_defense,RAKETENABWEHR
 hud.auto.missing_funds,Fehlende Gelder
@@ -3536,8 +3536,8 @@ hud.auto.radiation,STRAHLUNG
 hud.auto.range,Reichweite: --
 hud.auto.range_3_provinces,Umfang: ~3 Provinzen
 hud.auto.readiness,Bereitschaft:
-hud.auto.reconnaissance,Aufklärung
-hud.auto.recruitment,STELLENANGEBOTE
+hud.auto.reconnaissance,AUFKLÄRUNG
+hud.auto.recruitment,REKRUT.
 hud.auto.research,FORSCHUNG
 hud.auto.resource,RESSOURCE
 hud.auto.sandbox_mode,SANDBOX-MODUS
@@ -3552,8 +3552,8 @@ hud.auto.tech_name,TECHNISCHE BEZEICHNUNG
 hud.auto.technology,TECHNOLOGIE
 hud.auto.total,Insgesamt
 hud.auto.total_detonations,GESAMTZAHL DER SPRENGUNGEN
-hud.auto.treasury,FINANZMINISTERIUM
-hud.auto.treasury_1,FINANZMINISTERIUM:
+hud.auto.treasury,SCHATZ
+hud.auto.treasury_1,SCHATZ:
 hud.auto.turkey,Türkei
 hud.auto.u2014,—
 hud.auto.u2022,•
@@ -4214,7 +4214,7 @@ hud.envoy.recruit_insufficient_funds,Unzureichende Kassenmittel. Rekrutierungsko
 hud.envoy.recruit_missing_config,Die Konfiguration für die Envoy-Rekrutierung fehlt in der Szene.
 hud.envoy.recruit_no_budget,Für dieses Land liegen keine Haushaltsdaten vor.
 hud.envoy.recruit_no_country,Es wurde kein gültiges Spielerland ausgewählt.
-hud.envoy.recruit_unavailable,Keine Stellenangebote verfügbar.
+hud.envoy.recruit_unavailable,Rekrutierung nicht verfügbar.
 hud.envoy.roster_empty,Es wurden noch keine Fachkräfte eingestellt.
 hud.envoy.row_status_burned_out,Verbrannt
 hud.envoy.row_status_deployed,{0} in {1} – Exposition {2} %
@@ -4557,7 +4557,7 @@ hud.ledger.col.treasury,FINANZMINISTERIUM
 hud.ledger.col.unemployment,UNEMP
 hud.ledger.col.urbanization,STÄDTISCH
 hud.ledger.col.war_exhaustion,KRIEGSMÜDIGK.
-hud.ledger.col.wars,Krieger
+hud.ledger.col.wars,KRIEGE
 hud.ledger.gp.no_members,Keine Mitglieder in dieser Gruppe
 hud.ledger.gp.sphere_members,SPHÄRE-MITGLIEDER
 hud.ledger.graph.gdp_history,Das BIP im Zeitverlauf
@@ -4962,10 +4962,10 @@ hud.mil.primary_adversary,HAUPTGEGNER
 hud.mil.production_queue,Produktionswarteschlange
 hud.mil.province_id,Provinz #{0}
 hud.mil.province_short,P#{0}
-hud.mil.recruit,STELLENANGEBOTE
-hud.mil.recruit_unit,ABTEILUNG FÜR PERSONALGEWINNUNG
-hud.mil.recruitment_section,STELLENANGEBOTE
-hud.mil.reserve_personnel,RESERVIEREN
+hud.mil.recruit,REKRUT
+hud.mil.recruit_unit,REKRUTIEREN
+hud.mil.recruitment_section,REKRUT.
+hud.mil.reserve_personnel,RESERVE
 hud.mil.select_missile_type,RAKETENTYP
 hud.mil.select_target_province,Geben Sie die ID der Zielprovinz ein:
 hud.mil.selection_mode_air,WASSER
@@ -4998,7 +4998,7 @@ hud.mil.tanks,TANKS
 hud.mil.target_province,ZIELPROVINZ
 hud.mil.transport.confirm_army_legacy,Armee {0}: temporäre Transportflotte
 hud.mil.transport.confirm_army_with_fleets,Armee {0}: Flotten #{1}
-hud.mil.transport.confirm_body,Armeen nach {0} transportieren?\\nVoraussichtlich {1} Tage auf dem Seeweg.
+hud.mil.transport.confirm_body,Armeen nach {0} transportieren?\nVoraussichtlich {1} Tage auf dem Seeweg.
 hud.mil.transport.confirm_orders_cancelled,Die derzeitigen Flottenaufträge werden ersetzt
 hud.mil.transport.confirm_round_trips,{0} Hin- und Rückfahrten
 hud.mil.transport.confirm_title,SEETRANSPORT
@@ -5215,7 +5215,7 @@ hud.nav.provinces,PROVINZEN
 hud.nav.provinces_desc,Liste der eigenen Provinzen
 hud.nav.quick_build_tooltip,Schnellbau
 hud.nav.quick_recruit_tooltip,Schnellrekrutierung
-hud.nav.recruit,STELLENANGEBOTE
+hud.nav.recruit,REKRUT.
 hud.nav.recruit_desc,Neue Einheiten rekrutieren und ausbilden
 hud.nav.tech,TECHNOLOGIE
 hud.nav.tech_desc,Neue Technologien erforschen
@@ -5251,7 +5251,7 @@ hud.outliner.envoy_signature_ready,Zur Unterschrift bereit: {0}
 hud.outliner.envoy_threats,Bedrohungen aus dem Ausland: {0}
 hud.outliner.espionage,SPIONAGE
 hud.outliner.espionage_mission,{0} vs. {1} ({2}%)
-hud.outliner.event_log,Ereignisprotokoll
+hud.outliner.event_log,PROTOKOLL
 hud.outliner.events,VERANSTALTUNGEN
 hud.outliner.fleet_entry,Flotte {0} ({1})
 hud.outliner.military,MILITÄR
@@ -5276,7 +5276,7 @@ hud.outliner.specialist_deployed,EINGESETZT
 hud.outliner.specialist_idle,Ich weiß es nicht
 hud.outliner.specialist_recalled,ZURÜCKGERUFEN
 hud.outliner.title,ÜBERSICHT
-hud.outliner.trade_agreement_tooltip,Tarifsenkung: {0}\\nExportförderung: {1}\\nJährlicher Wachstumsbonus: {2}\\n{3} verbleibende Monate
+hud.outliner.trade_agreement_tooltip,Tarifsenkung: {0}\nExportförderung: {1}\nJährlicher Wachstumsbonus: {2}\n{3} verbleibende Monate
 hud.outliner.un_admitted_impact,Das Land profitiert nun von seiner UN-Mitgliedschaft.
 hud.outliner.un_admitted_what,{0} wurde in die Vereinten Nationen aufgenommen.
 hud.outliner.un_admitted_why,Die Ratifizierungsabstimmung wurde angenommen.
@@ -5314,7 +5314,7 @@ hud.outliner.war_battles,Kämpfe: {0}/{1}
 hud.outliner.war_exhaustion_pct,Kriegsmüdigkeit: {0:F0}%
 hud.outliner.war_provinces,Belegt: {0}
 hud.outliner.war_vs,Krieg gegen {0}
-hud.outliner.wars,Krieger
+hud.outliner.wars,KRIEGE
 hud.outliner.with_partner,{0} mit {1}
 hud.overlay.diplo_map_desc,Grafische Darstellung der diplomatischen Beziehungen zu allen Staaten.
 hud.overlay.diplo_map_title,WELTKARTENBEZIEHUNGEN
@@ -5344,7 +5344,7 @@ hud.panel.expand_to_overlay,In einem Overlay-Fenster öffnen
 hud.panel.expand_to_overlay.desc,ZUR VOLLBILDANSICHT ERWEITERN
 hud.peace.acceptance,ZUSTIMMUNG
 hud.peace.cancel,ABBRECHEN
-hud.peace.confirm_send,Friedensangebot an {0} senden?\\nForderungen: {1}
+hud.peace.confirm_send,Friedensangebot an {0} senden?\nForderungen: {1}
 hud.peace.deal_terms.with_province_names,{0} ({1})
 hud.peace.demand_cost,Kosten: {0}
 hud.peace.demand_humiliation,Demütigung
@@ -5376,7 +5376,7 @@ hud.peace.status_quo,Status quo
 hud.peace.your_war_score,DEINE KRIEGSBILANZ
 hud.peace_offer.accept,AKZEPTIERE DEN FRIEDEN
 hud.peace_offer.accept_desc,Der Krieg wird gemäß den vorgeschlagenen Bedingungen unverzüglich beendet.
-hud.peace_offer.consequences,{0}\\n\\n{1}
+hud.peace_offer.consequences,{0}\n\n{1}
 hud.peace_offer.demands_header,VORGESCHLAGENE FORDERUNGEN
 hud.peace_offer.from,ANGEBOT VON: {0}
 hud.peace_offer.reject,NEIN ZUM FRIEDEN
@@ -5715,11 +5715,11 @@ hud.quickrecruit.target.auto,AUTO TARGET {0}   INF {1:F0}   POP {2}
 hud.quickrecruit.target.none,Keine berechtigte Provinz
 hud.quickrecruit.target.req,AUTO ERFORDERT {0}
 hud.quickrecruit.time_require,ZEIT {0:F0} {1}
-hud.quickrecruit.title,SCHNELLREKRUTIERUNG
+hud.quickrecruit.title,SCHNELL-REKRUT.
 hud.quickrecruit.unavailable,NICHT VERFÜGBAR
 hud.quickrecruit.unsupported_unit_category,Nicht unterstützte Einheitenkategorie
-hud.recruit.action_place_on_map,AUF DER KARTE ANZEIGEN
-hud.recruit.action_recruit,STELLENANGEBOTE
+hud.recruit.action_place_on_map,AUF KARTE
+hud.recruit.action_recruit,REKRUT.
 hud.recruit.advanced_fallback.label,FÜR FORTGESCHRITTENE: MANUELLE PROVINZ-AUSWAHL
 hud.recruit.available_units,VERFÜGBARE EINHEITEN
 hud.recruit.badge_airfield,Flugplatz
@@ -5728,9 +5728,9 @@ hud.recruit.facilities_none,Keine
 hud.recruit.missing_building,Erforderliches Gebäude fehlt
 hud.recruit.missing_building_named,Fehlt: {0}
 hud.recruit.missing_manpower,Personalmangel
-hud.recruit.no_air_const,Derzeit befinden sich keine Luftflügel im Bau.
-hud.recruit.no_fleet_const,Es befinden sich keine Flotten im Bau.
-hud.recruit.no_land_training,Es befinden sich keine Bodeneinheiten in der Ausbildung.
+hud.recruit.no_air_const,Derzeit befinden sich keine Luftverbände im Bau.
+hud.recruit.no_fleet_const,Derzeit befinden sich keine Flotten im Bau.
+hud.recruit.no_land_training,Derzeit befinden sich keine Bodentruppen im Bau.
 hud.recruit.no_orders,Es befinden sich keine Aufträge in der Warteschlange.
 hud.recruit.no_selection,Es wurde keine Provinz ausgewählt
 hud.recruit.no_units,Für diese Kategorie sind keine Artikel verfügbar.
@@ -5744,9 +5744,9 @@ hud.recruit.placement.mode_label,+ Rekrutenvermittlung: Klicken Sie auf eine in 
 hud.recruit.placement.queued_title,Stellenausschreibung in der Warteschlange
 hud.recruit.province_idx_fallback,Provinz (idx {0})
 hud.recruit.province_row,{0} #{1}
-hud.recruit.queue.air,Warteschlange für den Bau des Luftflügels
+hud.recruit.queue.air,WARTESCHLANGE FÜR DIE LUFTWAFFE
 hud.recruit.queue.fleet,WARTESCHLANGE FÜR DEN FLOTTENAUFBAU
-hud.recruit.queue.land,Warteschlange für die Landbeschaffung
+hud.recruit.queue.land,WARTESCHLANGE FÜR DIE BODENTRUPPEN
 hud.recruit.quick_recruit_hint,"Verwenden Sie die Schnellsuche, um eine in Frage kommende Provinz zu finden."
 hud.recruit.required_building_fallback,Gebäude #{0}
 hud.recruit.required_building_named,Erfordert: {0}
@@ -5799,19 +5799,19 @@ hud.spot_market.total,Insgesamt
 hud.spot_market.treasury,Staatskasse
 hud.spot_market.unit_price,Stückpreis
 hud.statbar.corruption,KORRUPTION
-hud.statbar.debtgdp,Schuldenquote
+hud.statbar.debtgdp,SCHULDENQUOTE
 hud.statbar.diplweight,DIPL.-GEWICHT
 hud.statbar.inflation,INFLATION
 hud.statbar.ledger,HAUSHALTSBUCH
 hud.statbar.prestige,PRESTIGE
 hud.statbar.research,FORSCHUNG
 hud.statbar.stability,STABILITÄT
-hud.statbar.trade,Tauschball.
+hud.statbar.trade,HANDELSBIL.
 hud.statbar.unemployment,ARBEITSLOSIGKEIT
-hud.statbar.wars,Krieger
+hud.statbar.wars,KRIEGE
 hud.summary.diplo_alliances,PARTNERSCHAFTEN
 hud.summary.diplo_rivals,RIVALEN
-hud.summary.diplo_un,UN-Mitglied
+hud.summary.diplo_un,UN-MITGLIED
 hud.summary.diplo_unsc,UNSC-STATUS
 hud.summary.diplomacy,DIPLOMATIE
 hud.summary.econ_gdp,BIP
@@ -5835,8 +5835,8 @@ hud.tech.attack_modifier,ANGRIFFSMODIFIKATOR
 hud.tech.branch_civilian,ZIVIL
 hud.tech.branch_military,MILITÄR
 hud.tech.branch_space,LEERZEICHEN
-hud.tech.branch_tag_civilian,CIV
-hud.tech.branch_tag_default,Es gibt
+hud.tech.branch_tag_civilian,ZIV
+hud.tech.branch_tag_default,ALLG
 hud.tech.branch_tag_military,MIL
 hud.tech.branch_tag_space,Zweckgesellschaft
 hud.tech.cost_rp,Kosten: {0} RP
@@ -5866,7 +5866,7 @@ hud.tech.fx_pop,Pop {0:+0.0%;-0.0%}
 hud.tech.fx_research,Forschung {0:+0.0%;-0.0%}
 hud.tech.fx_surveillance,IntelVis {0:+#;-#;0}
 hud.tech.gdp_modifier,BIP ÄNDERN
-hud.tech.impact_none,Nicht direkt bearbeiten
+hud.tech.impact_none,Kein direkter Effekt
 hud.tech.impact_prereq_only,Schaltet nur die Voraussetzungen frei
 hud.tech.infra_modifier,INFRA ÄNDERN
 hud.tech.intel_locked_body,"Führe eine „Gather Intelligence“-Mission durch, um den Technologiebaum dieses Landes aufzudecken."
@@ -6078,7 +6078,7 @@ hud.tooltip.unrest,UNRUHE
 hud.topbar.delta_maintenance_per_month,-{0}{1}
 hud.topbar.gdp,BIP:
 hud.topbar.goal_nudge,ZIEL FESTLEGEN
-hud.topbar.manpower,MANNSTÄRKE:
+hud.topbar.manpower,MP:
 hud.topbar.population,Pop:
 hud.topbar.rank_format,#{0}
 hud.topbar.rank_tier.great_power,GROSSE MACHT
@@ -6086,7 +6086,7 @@ hud.topbar.rank_tier.major,Großmacht
 hud.topbar.rank_tier.minor,NEBENBEI
 hud.topbar.rank_tier.regional,REGIONAL
 hud.topbar.title,GLOBALES PROTOKOLL
-hud.topbar.treasury,FINANZMINISTERIUM:
+hud.topbar.treasury,SCHATZ:
 hud.trade_proposal.clear,Löschen
 hud.trade_proposal.export_boost,Exportschub
 hud.trade_proposal.priority_count,{0} von {1} ausgewählt
@@ -6253,12 +6253,12 @@ none,Keine
 nuclearnonproliferation,Nichtverbreitung von Kernwaffen
 pause.load,SPIEL LADEN
 pause.mechanic_tutorials_off,Anleitungen zur Mechanik: AUS
-pause.mechanic_tutorials_on,Anleitungen für Mechaniker: EIN
+pause.mechanic_tutorials_on,Anleitungen zur Mechanik: EIN
 pause.quit_desktop,ZURÜCK ZUM DESKTOP
 pause.quit_menu,ZURÜCK ZUM MENÜ
 pause.quitting,AUFHÖREN…
 pause.restart_tutorial,TUTORIAL ÖFFNEN
-pause.resume,ZUSAMMENFASSUNG
+pause.resume,FORTSETZEN
 pause.save,SPIEL SPEICHERN
 pause.settings,EINSTELLUNGEN
 pause.title,SPIEL UNTERBROCHEN
@@ -6963,15 +6963,15 @@ settings.tab.graphics,GRAFIK
 settings.tab.language,SPRACHE
 settings.tab.privacy,DATENSCHUTZ
 settings.title,EINSTELLUNGEN
-stat.atk,EDV
+stat.atk,ANG
 stat.build_time,ZEIT
 stat.cost,KOSTEN
-stat.def,Verteidigen
-stat.hp,Mobiltelefon
+stat.def,VER
+stat.hp,HP
 stat.infra,INFRA
 stat.money,GELD
 stat.money_m,${0}M
-stat.mp,Abgeordneter
+stat.mp,MP
 stat.pop,Pop
 stat.rp,RP
 stat.spd,Sozialdemokratische Partei
@@ -7581,7 +7581,7 @@ tooltip.mil.open_nuclear_controls.title,OFFENE KERNKONTROLLEN
 tooltip.mil.pending_strikes.desc,"In der Warteschlange befindliche Raketenstarts, die angeordnet, aber noch nicht ausgeführt wurden."
 tooltip.mil.pending_strikes.title,ANSTEHENDE STREIKS
 tooltip.mil.recruit_unit.desc,"Es wird eine Rekrutierung mit Schwerpunkt auf Landstreitkräften gestartet, damit du schnell neue Einheiten aufstellen kannst."
-tooltip.mil.recruit_unit.title,REKRUTIERUNG ÖFFNEN
+tooltip.mil.recruit_unit.title,REKRUT. ÖFFNEN
 tooltip.mil.reserve.desc,Kann im Kriegsfall im Rahmen einer nationalen Mobilmachung einberufen werden.
 tooltip.mil.reserve.title,RESERVEPERSONAL
 tooltip.mil.ships.desc,"Überwasserflotte – Flugzeugträger, Zerstörer, Fregatten."
@@ -7649,7 +7649,7 @@ tooltip.outliner.military.title,MILITÄR
 tooltip.outliner.objectives,ZIELE
 tooltip.outliner.objectives.desc,"Ziele für das geführte Onboarding. Bewegen Sie den Mauszeiger über eine Zeile, um zu sehen, was erforderlich ist. Klicken Sie auf eine Zeile, um das entsprechende Fenster zu öffnen."
 tooltip.outliner.objectives.title,ZIELE
-tooltip.outliner.wars,Krieger
+tooltip.outliner.wars,KRIEGE
 tooltip.outliner.wars.desc,Andauernde militärische Konflikte. Zeigt den Kriegsindex in Prozent an.
 tooltip.outliner.wars.title,AKTIVE KRIEGE
 tooltip.panel.back_to_player.desc,"Wenn Sie sich ein anderes Land ansehen, klicken Sie hier, um die Kamera und das linke Fenster wieder auf Ihr eigenes Land umzuschalten."
@@ -8149,41 +8149,41 @@ tutorial.obj.victory_check.title,Die Siegbedingungen überprüfen
 tutorial.prompt.body,Möchten Sie einen kurzen Überblick über die Benutzeroberfläche? Eine ausführliche Anleitung finden Sie im Abschnitt „Ziele“ im rechten Outliner.
 tutorial.prompt.title,Anleitung verfügbar
 tutorial.skip,ANLEITUNG ÜBERSPRINGEN
-tutorial.step1.body,"Dies ist eine kurze Einführung. Wir gehen kurz auf die Steuerelemente ein, die du jetzt benötigst, und leiten dich dann zur aufgabenbasierten Anleitung weiter.\\n\\nDas Spiel beginnt im Pausenmodus, damit du die Umgebung in aller Ruhe erkunden kannst."
+tutorial.step1.body,"Dies ist eine kurze Einführung. Wir gehen kurz auf die Steuerelemente ein, die du jetzt benötigst, und leiten dich dann zur aufgabenbasierten Anleitung weiter.\n\nDas Spiel beginnt im Pausenmodus, damit du die Umgebung in aller Ruhe erkunden kannst."
 tutorial.step1.title,Willkommen bei Global Protocol
-tutorial.step2.body,"Verwende die obere Leiste, um die Zeit zu steuern. Pausiere oder setze mit {0} fort. Nutze {1}, {2}, {3} und {4} für direkte Geschwindigkeiten oder tippe auf {5} und {6}, um die Geschwindigkeit schrittweise zu erhöhen oder zu verringern.\\n\\nDie obere Leiste zeigt außerdem auf einen Blick deinen Schatz, dein BIP, deine Mannstärke und deine Bevölkerung an."
+tutorial.step2.body,"Verwende die obere Leiste, um die Zeit zu steuern. Pausiere oder setze mit {0} fort. Nutze {1}, {2}, {3} und {4} für direkte Geschwindigkeiten oder tippe auf {5} und {6}, um die Geschwindigkeit schrittweise zu erhöhen oder zu verringern.\n\nDie obere Leiste zeigt außerdem auf einen Blick deinen Schatz, dein BIP, deine Mannstärke und deine Bevölkerung an."
 tutorial.step2.title,Zeitkontrollen
-tutorial.step3.body,"In diesem Bereich werden die Flagge, der Name und die wichtigsten Statistiken deines Landes angezeigt. Klicke auf die Flagge, um jederzeit zu deiner Hauptstadt zurückzukehren.\\n\\nÜber die Registerkarten unten kannst du zwischen den Ansichten „Übersicht“, „Wirtschaft“, „Militär“, „Diplomatie“, „Technologie“, „Nachrichtendienst“, „Spezialisten“, „Provinzen“ und „Agenda“ wechseln."
+tutorial.step3.body,"In diesem Bereich werden die Flagge, der Name und die wichtigsten Statistiken deines Landes angezeigt. Klicke auf die Flagge, um jederzeit zu deiner Hauptstadt zurückzukehren.\n\nÜber die Registerkarten unten kannst du zwischen den Ansichten „Übersicht“, „Wirtschaft“, „Militär“, „Diplomatie“, „Technologie“, „Nachrichtendienst“, „Spezialisten“, „Provinzen“ und „Agenda“ wechseln."
 tutorial.step3.title,Ihr Länderpanel
-tutorial.step4.body,"Über diese Registerkarten kannst du alle wichtigen Übersichten deiner Nation aufrufen.\\n\\nWir werden kurz auf jede einzelne eingehen, damit du schon vor Spielbeginn weißt, welche Funktionen dir zur Verfügung stehen."
+tutorial.step4.body,"Über diese Registerkarten kannst du alle wichtigen Übersichten deiner Nation aufrufen.\n\nWir werden kurz auf jede einzelne eingehen, damit du schon vor Spielbeginn weißt, welche Funktionen dir zur Verfügung stehen."
 tutorial.step4.title,Ihre Registerkarten
-tutorial.step5.body,"Zum Zoomen scrollen. Verwende WASD, die Pfeiltasten oder die Randsteuerung, um die Kamera zu bewegen. Halte die mittlere Maustaste gedrückt und ziehe, um die Ansicht zu neigen oder zu drehen.\\n\\nKlicke mit der linken Maustaste auf eine Provinz, um sie anzusehen oder auszuwählen. Ein Rechtsklick öffnet das Kontextmenü für die angezeigte Provinz."
+tutorial.step5.body,"Zum Zoomen scrollen. Verwende WASD, die Pfeiltasten oder die Randsteuerung, um die Kamera zu bewegen. Halte die mittlere Maustaste gedrückt und ziehe, um die Ansicht zu neigen oder zu drehen.\n\nKlicke mit der linken Maustaste auf eine Provinz, um sie anzusehen oder auszuwählen. Ein Rechtsklick öffnet das Kontextmenü für die angezeigte Provinz."
 tutorial.step5.title,Die Karte
-tutorial.step6.body,"Verwende die spezielle Kartenmodus-Leiste, um Overlays sofort zu wechseln. Hotkeys: Politik {0}, Gelände {1}, Wirtschaft {2}, Militär {3}, Diplomatie {4}, Nuklear {5}, Bevölkerung {6}.\\n\\nJeder Modus färbt die Karte neu ein, um eine andere Informationsebene hervorzuheben."
+tutorial.step6.body,"Verwende die spezielle Kartenmodus-Leiste, um Overlays sofort zu wechseln. Hotkeys: Politik {0}, Gelände {1}, Wirtschaft {2}, Militär {3}, Diplomatie {4}, Nuklear {5}, Bevölkerung {6}.\n\nJeder Modus färbt die Karte neu ein, um eine andere Informationsebene hervorzuheben."
 tutorial.step6.title,Kartenmodi
-tutorial.step7.body,"Ereignisse werden als Pop-ups angezeigt, wenn etwas Wichtiges passiert – Wahlen, Naturkatastrophen, diplomatische Zwischenfälle.\\n\\nLies dir jedes Ereignis sorgfältig durch; deine Entscheidungen bestimmen die Zukunft deiner Nation."
+tutorial.step7.body,"Ereignisse werden als Pop-ups angezeigt, wenn etwas Wichtiges passiert – Wahlen, Naturkatastrophen, diplomatische Zwischenfälle.\n\nLies dir jedes Ereignis sorgfältig durch; deine Entscheidungen bestimmen die Zukunft deiner Nation."
 tutorial.step7.title,Zeitleiste & Ereignisse
-tutorial.step8.body,"Das waren die Grundlagen. Denk daran:\\n\\n• Fahre mit der Maus über eine beliebige Statistik, um detaillierte Tooltips anzuzeigen\\n• Drücke die ESC-Taste, um das Pausenmenü aufzurufen\\n• Der Berater gibt dir während des Spiels kontextbezogene Tipps\\n\\nSetze das Spiel fort und beginne, die Weltordnung zu gestalten. Viel Glück!"
+tutorial.step8.body,"Das waren die Grundlagen. Denk daran:\n\n• Fahre mit der Maus über eine beliebige Statistik, um detaillierte Tooltips anzuzeigen\n• Drücke die ESC-Taste, um das Pausenmenü aufzurufen\n• Der Berater gibt dir während des Spiels kontextbezogene Tipps\n\nSetze das Spiel fort und beginne, die Weltordnung zu gestalten. Viel Glück!"
 tutorial.step8.title,Du bist bereit!
-tutorial.step_agenda.body,"Auf der Registerkarte „Agenda“ findest du die strategischen Ziele deines Landes sowie einen aktiven Zielpfad.\\n\\nDeine Agenda passt sich den Stärken deines Landes an – nutze sie, um die langfristige Ausrichtung festzulegen und auf Kurs zu bleiben."
+tutorial.step_agenda.body,"Auf der Registerkarte „Agenda“ findest du die strategischen Ziele deines Landes sowie einen aktiven Zielpfad.\n\nDeine Agenda passt sich den Stärken deines Landes an – nutze sie, um die langfristige Ausrichtung festzulegen und auf Kurs zu bleiben."
 tutorial.step_agenda.title,Nationale Agenda
-tutorial.step_diplomacy.body,"Über die Registerkarte „Diplomatie“ ({0}) kannst du Bündnisse schließen oder Kriege gegen Nachbarländer führen.\\n\\nGehe strategisch vor – die Aushandlung von Verträgen braucht Zeit, und Kriege haben langfristige wirtschaftliche Folgen."
+tutorial.step_diplomacy.body,"Über die Registerkarte „Diplomatie“ ({0}) kannst du Bündnisse schließen oder Kriege gegen Nachbarländer führen.\n\nGehe strategisch vor – die Aushandlung von Verträgen braucht Zeit, und Kriege haben langfristige wirtschaftliche Folgen."
 tutorial.step_diplomacy.title,Registerkarte „Diplomatie“
-tutorial.step_economy.body,"Deine Staatskasse füllt sich durch Steuereinnahmen. Öffne den Reiter „Wirtschaft“ ({0}), um die Schieberegler für deine Haushaltsprioritäten anzupassen:\\n\\n• Militär – finanziere deine Streitkräfte\\n• Forschung – beschleunige den technologischen Fortschritt\\n• Infrastruktur – entwickle deine Provinzen\\n• Soziales – sorge für die Zufriedenheit deiner Bevölkerung"
+tutorial.step_economy.body,"Deine Staatskasse füllt sich durch Steuereinnahmen. Öffne den Reiter „Wirtschaft“ ({0}), um die Schieberegler für deine Haushaltsprioritäten anzupassen:\n\n• Militär – finanziere deine Streitkräfte\n• Forschung – beschleunige den technologischen Fortschritt\n• Infrastruktur – entwickle deine Provinzen\n• Soziales – sorge für die Zufriedenheit deiner Bevölkerung"
 tutorial.step_economy.title,Registerkarte „Wirtschaft“
-tutorial.step_envoys.body,"Über die Registerkarte „Spezialisten“ ({0}) kannst du im eigenen Land Gesandte rekrutieren und ungenutzte Spezialisten im Ausland einsetzen.\\n\\nNutze diese Funktion, um Druckmaßnahmen durchzuführen, die Präsenz zu überwachen und auf entdeckte ausländische Spezialisten zu reagieren."
+tutorial.step_envoys.body,"Über die Registerkarte „Spezialisten“ ({0}) kannst du im eigenen Land Gesandte rekrutieren und ungenutzte Spezialisten im Ausland einsetzen.\n\nNutze diese Funktion, um Druckmaßnahmen durchzuführen, die Präsenz zu überwachen und auf entdeckte ausländische Spezialisten zu reagieren."
 tutorial.step_envoys.title,Registerkarte „Spezialisten“
-tutorial.step_intel.body,Die Registerkarte „Geheimdienst“ ({0}) dient verdeckten Operationen.\\n\\nHier kannst du Spionagemissionen gegen andere Länder starten und die Erkenntnisse deiner Spione einsehen.
+tutorial.step_intel.body,Die Registerkarte „Geheimdienst“ ({0}) dient verdeckten Operationen.\n\nHier kannst du Spionagemissionen gegen andere Länder starten und die Erkenntnisse deiner Spione einsehen.
 tutorial.step_intel.title,Registerkarte „Intelligenz“
-tutorial.step_military.body,"Auf der Registerkarte „Militär“ ({0}) verwaltest du deine Streitkräfte.\\n\\nDort kannst du deine Armeeeinheiten einsehen, deinen DEFCON-Stand überprüfen und bei Bedarf neue Truppen rekrutieren oder nukleare Waffen einsetzen."
+tutorial.step_military.body,"Auf der Registerkarte „Militär“ ({0}) verwaltest du deine Streitkräfte.\n\nDort kannst du deine Armeeeinheiten einsehen, deinen DEFCON-Stand überprüfen und bei Bedarf neue Truppen rekrutieren oder nukleare Waffen einsetzen."
 tutorial.step_military.title,Registerkarte „Militär“
-tutorial.step_objectives.body,"Im Abschnitt „ZIELE“ oben im rechten Bereich werden die nächsten drei Aufgaben aus dem aktuellen Agenda-Ziel angezeigt.\\n\\nWenn Sie auf ein Ziel klicken, wird der entsprechende Bereich direkt geöffnet. Das Verfolgen eines Plans ist der beste Weg, um zu lernen und gleichzeitig Fortschritte zu erzielen."
+tutorial.step_objectives.body,"Im Abschnitt „ZIELE“ oben im rechten Bereich werden die nächsten drei Aufgaben aus dem aktuellen Agenda-Ziel angezeigt.\n\nWenn Sie auf ein Ziel klicken, wird der entsprechende Bereich direkt geöffnet. Das Verfolgen eines Plans ist der beste Weg, um zu lernen und gleichzeitig Fortschritte zu erzielen."
 tutorial.step_objectives.title,Weiter zu den Zielen
-tutorial.step_overview.body,"Die Registerkarte „Übersicht“ bietet einen schnellen Überblick über die Leistungsfähigkeit Ihres Landes: BIP, Bevölkerung, Stabilität und Zustimmungsrate.\\n\\nBehalten Sie diese Anzeigen im Auge, um sicherzustellen, dass Ihr Land floriert."
+tutorial.step_overview.body,"Die Registerkarte „Übersicht“ bietet einen schnellen Überblick über die Leistungsfähigkeit Ihres Landes: BIP, Bevölkerung, Stabilität und Zustimmungsrate.\n\nBehalten Sie diese Anzeigen im Auge, um sicherzustellen, dass Ihr Land floriert."
 tutorial.step_overview.title,Registerkarte „Übersicht“
-tutorial.step_provinces.body,"Auf der Registerkarte „Provinzen“ ({0}) erhältst du eine tabellarische Übersicht über jede einzelne Provinz, die du kontrollierst.\\n\\nNutze diese Ansicht, um Unruhen schnell zu erkennen oder die Wirtschaftsleistung verschiedener Regionen zu vergleichen."
+tutorial.step_provinces.body,"Auf der Registerkarte „Provinzen“ ({0}) erhältst du eine tabellarische Übersicht über jede einzelne Provinz, die du kontrollierst.\n\nNutze diese Ansicht, um Unruhen schnell zu erkennen oder die Wirtschaftsleistung verschiedener Regionen zu vergleichen."
 tutorial.step_provinces.title,Registerkarte „Provinzen“
-tutorial.step_tech.body,"Die Registerkarte „Technologie“ ({0}) enthält deinen Forschungsbaum. Investitionen in die Forschung verschaffen dir Boni auf das BIP, die Militärmacht und das Bevölkerungswachstum.\\n\\nKonzentriere dich auf Technologien, die deine Gesamtstrategie unterstützen."
+tutorial.step_tech.body,"Die Registerkarte „Technologie“ ({0}) enthält deinen Forschungsbaum. Investitionen in die Forschung verschaffen dir Boni auf das BIP, die Militärmacht und das Bevölkerungswachstum.\n\nKonzentriere dich auf Technologien, die deine Gesamtstrategie unterstützen."
 tutorial.step_tech.title,Registerkarte „Technologie“
 ui.hint.back,Zurück
 ui.hint.confirm,Bestätigen
@@ -8202,7 +8202,7 @@ unit.amphibious.description,"Ein Spezialschiff, das Marineinfanteristen und Bode
 unit.amphibious.name,Landungsschiff
 unit.armor.capability,"Durchbruchseinheit für Offensivoperationen; dient dazu, in offenem Gelände Durchbrüche zu erzielen und diese auszunutzen."
 unit.armor.description,"Kampfpanzer, die auf offenem Gelände entscheidende Feuerkraft und Panzerschutz bieten."
-unit.armor.name,Rüstung
+unit.armor.name,Kampfpanzer
 unit.artillery.capability,Bietet Fernfeuerunterstützung hinter der Frontlinie.
 unit.artillery.description,"Einheiten zur Feuerunterstützung aus der Ferne, die feindliche Stellungen aus sicherer Entfernung beschießen."
 unit.artillery.name,Artillerie
@@ -8238,7 +8238,7 @@ unit.mechanized_infantry.name,Mechanisierte Infanterie
 unit.mo,mo
 unit.mobile_launcher.capability,"Mobile Raketenplattform, die durch Standortwechsel und Tarnung die Überlebensfähigkeit erhöht."
 unit.mobile_launcher.description,"Transport-, Aufstell- und Abschussfahrzeug zum Transport ballistischer Raketen für den schnellen Einsatz und die Tarnung."
-unit.mobile_launcher.name,Mobile-Startseite
+unit.mobile_launcher.name,Mehrfachraketenwerfer
 unit.patrol_boat.capability,"Ideal für Küstenpatrouillen, Abfangmaßnahmen und schnelle Einsätze in Küstengewässern."
 unit.patrol_boat.description,"Kompaktes Schnellboot, ideal für Küstenverteidigung und Maßnahmen zur maritimen Sicherheit."
 unit.patrol_boat.name,Patrouillenboot
