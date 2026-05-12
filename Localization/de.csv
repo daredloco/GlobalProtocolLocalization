@@ -3480,7 +3480,7 @@ hud.auto.force_comparison,Kraftvergleich
 hud.auto.gdp,BIP
 hud.auto.gdp_1,BIP
 hud.auto.geopolitical_crisis,GEOPOLITISCHE KRISE
-hud.auto.global_protocol,GLOBALES PROTOKOLL
+hud.auto.global_protocol,GLOBAL PROTOKOLL
 hud.auto.global_search,GLOBALE SUCHE
 hud.auto.go,Los
 hud.auto.hp_100,HP 100 %
@@ -6106,7 +6106,7 @@ hud.topbar.rank_tier.great_power,GROSSE MACHT
 hud.topbar.rank_tier.major,Großmacht
 hud.topbar.rank_tier.minor,NEBENBEI
 hud.topbar.rank_tier.regional,REGIONAL
-hud.topbar.title,GLOBALES PROTOKOLL
+hud.topbar.title,GLOBAL PROTOKOLL
 hud.topbar.treasury,SCHATZ:
 hud.trade_proposal.clear,Löschen
 hud.trade_proposal.export_boost,Exportschub
@@ -6235,8 +6235,8 @@ menu.new_game,NEUES SPIEL
 menu.pause.quitting,Beendet und kehrt zum Desktop zurück...
 menu.quit,BEENDEN
 menu.settings,EINSTELLUNGEN
-menu.subtitle,Ein Strategiespiel
-menu.title,GLOBALES PROTOKOLL
+menu.subtitle,Ein Grand-Strategy-Spiel
+menu.title,GLOBAL PROTOKOLL
 menu.version,Version 0.1 – 2026
 menu.mods,MODS
 menu.mods.active_scenario,Aktives Szenario: {0}
