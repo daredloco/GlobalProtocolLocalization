@@ -785,7 +785,7 @@ enum.Resource.Phosphate,Phosphat
 enum.Resource.Plastics,Kunststoffe
 enum.Resource.Potash,Kaliumkarbonat
 enum.Resource.RareEarths,Seltene Erden
-enum.Resource.RefinedPetroleum,Raffinerieprodukte
+enum.Resource.RefinedPetroleum,Mineralölprodukte
 enum.Resource.Rice,Reis
 enum.Resource.Rubber,Gummi
 enum.Resource.Semiconductors,Halbleiter
@@ -6395,7 +6395,7 @@ resource.Potash.name,Kaliumkarbonat
 resource.RareEarths.description,"Spezialisierte Fachkenntnisse, die für moderne Elektronik und Präzisionssysteme erforderlich sind."
 resource.RareEarths.name,Seltenerdmetalle
 resource.RefinedPetroleum.description,"Verarbeitete Kraftstoffprodukte für Logistik, militärische Mobilität und Industrie."
-resource.RefinedPetroleum.name,Raffinerieprodukte
+resource.RefinedPetroleum.name,Mineralölprodukte
 resource.Rice.description,"Eine ertragreiche Grundnahrungsmittelpflanze, die für Ballungszentren von entscheidender Bedeutung ist."
 resource.Rice.name,Reis
 resource.Rubber.description,"Strategische Industrierohstoffe, die in Fahrzeugen, Maschinen und Verteidigungsgütern zum Einsatz kommen."
@@ -6469,7 +6469,7 @@ resource.name.phosphate,Phosphat
 resource.name.plastics,Kunststoffe
 resource.name.potash,Kaliumkarbonat
 resource.name.rareearths,Seltene Erden
-resource.name.refinedpetroleum,Raffinerieprodukte
+resource.name.refinedpetroleum,Mineralölprodukte
 resource.name.rice,Reis
 resource.name.rubber,Gummi
 resource.name.semiconductors,Halbleiter
