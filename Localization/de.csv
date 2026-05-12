@@ -6516,7 +6516,7 @@ saveload.save_btn,SAVE
 saveload.save_name,Name speichern...
 saveload.save_title,SPIEL SPEICHERN
 saveload.saved_ok,Spiel erfolgreich gespeichert
-saveload.speed.fast,Fest
+saveload.speed.fast,Schnell
 saveload.speed.max,Max
 saveload.speed.normal,Normal
 saveload.speed.paused,Angehalten
