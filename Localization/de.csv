@@ -765,7 +765,7 @@ enum.Resource.Corn,Mais
 enum.Resource.Cotton,Baumwolle
 enum.Resource.Electronics,Elektronik
 enum.Resource.Fertilizer,Dünger
-enum.Resource.Financials,Finanzdaten
+enum.Resource.Financials,Finanzen
 enum.Resource.Fish,Fisch
 enum.Resource.Gold,Gold
 enum.Resource.Graphite,Graphit
@@ -6450,7 +6450,7 @@ resource.name.corn,Mais
 resource.name.cotton,Baumwolle
 resource.name.electronics,Elektronik
 resource.name.fertilizer,Dünger
-resource.name.financials,Finanzdaten
+resource.name.financials,Finanzen
 resource.name.fish,Fisch
 resource.name.gold,Gold
 resource.name.graphite,Graphit
