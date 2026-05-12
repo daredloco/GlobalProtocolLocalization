@@ -3785,7 +3785,7 @@ hud.diplo.gp_no,Von
 hud.diplo.gp_rank,RANG
 hud.diplo.gp_status,GROSSE MACHT
 hud.diplo.gp_yes,Ja
-hud.diplo.great_power_sphere,Großmacht & Einflusssphäre
+hud.diplo.great_power_sphere,Weltmacht & Einflusssphäre
 hud.diplo.guarantee,Garantie
 hud.diplo.guarantee_failed_body,Die Unabhängigkeit von {0} kann nicht garantiert werden – die Voraussetzungen sind nicht erfüllt.
 hud.diplo.guarantee_failed_title,KANN NICHT GARANTIERT WERDEN
@@ -4577,7 +4577,7 @@ hud.ledger.tab.demographics,Demografie
 hud.ledger.tab.diplomacy,DIPLOMATIE
 hud.ledger.tab.economy,WIRTSCHAFT
 hud.ledger.tab.graphs,DIAGRAMME
-hud.ledger.tab.great_powers,GROẞMÄCHTE
+hud.ledger.tab.great_powers,WELTMÄCHTE
 hud.ledger.tab.military,MILITÄR
 hud.ledger.tab.prestige,PRESTIGE
 hud.ledger.tab.technology,TECHNOLOGIE
@@ -6102,10 +6102,10 @@ hud.topbar.goal_nudge,ZIEL FESTLEGEN
 hud.topbar.manpower,MP:
 hud.topbar.population,Pop:
 hud.topbar.rank_format,#{0}
-hud.topbar.rank_tier.great_power,GROSSE MACHT
-hud.topbar.rank_tier.major,Großmacht
-hud.topbar.rank_tier.minor,NEBENBEI
-hud.topbar.rank_tier.regional,REGIONAL
+hud.topbar.rank_tier.great_power,WELTMACHT
+hud.topbar.rank_tier.major,GROẞMACHT
+hud.topbar.rank_tier.minor,NEBENMACHT
+hud.topbar.rank_tier.regional,REGIONALMACHT
 hud.topbar.title,GLOBAL PROTOKOLL
 hud.topbar.treasury,STAATSKASSE:
 hud.trade_proposal.clear,Löschen
