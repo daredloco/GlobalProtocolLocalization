@@ -739,11 +739,11 @@ enum.GovernmentType.Theocracy,Theokratie
 enum.GovernmentType.Transitional,Übergangs-
 enum.GovernmentType.Unknown,Unbekannt
 enum.Ideology.Communist,Kommunist
-enum.Ideology.Conservative,konservativ
+enum.Ideology.Conservative,Konservativ
 enum.Ideology.Fascist,Faschist
-enum.Ideology.Islamist,islamistisch
-enum.Ideology.Liberal,liberal
-enum.Ideology.Libertarian,libertär
+enum.Ideology.Islamist,Islamistisch
+enum.Ideology.Liberal,Liberal
+enum.Ideology.Libertarian,Libertär
 enum.Ideology.Mixed,Gemischt
 enum.Ideology.Nationalist,Nationalist
 enum.Ideology.Socialist,Sozialist
