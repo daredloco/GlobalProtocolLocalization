@@ -799,7 +799,7 @@ enum.Resource.Sugar,Zucker
 enum.Resource.Technology,Technologie
 enum.Resource.Textiles,Textilien
 enum.Resource.Timber,Holz
-enum.Resource.Tin,Nachrichten
+enum.Resource.Tin,Zinn
 enum.Resource.Tungsten,Wolfram
 enum.Resource.Uranium,Uran
 enum.Resource.Wheat,Weizen
@@ -6423,7 +6423,7 @@ resource.Textiles.name,Textilien
 resource.Timber.description,Rohstoffe für das Bau- und verarbeitende Gewerbe aus der Forstwirtschaft.
 resource.Timber.name,Holz
 resource.Tin.description,Lötzinn und Weißblech sind für die Elektronikmontage unverzichtbar.
-resource.Tin.name,Nachrichten
+resource.Tin.name,Zinn
 resource.Tungsten.description,"Ein extrem hartes Metall, das in Munition, Werkzeugmaschinen und Panzerungen verwendet wird."
 resource.Tungsten.name,Wolfram
 resource.Uranium.description,Strategischer Kernbrennstoff für fortschrittliche Energie- und Abschreckungsprogramme.
@@ -6482,7 +6482,7 @@ resource.name.steel,Stiel
 resource.name.sugar,Zucker
 resource.name.textiles,Textilien
 resource.name.timber,Holz
-resource.name.tin,Nachrichten
+resource.name.tin,Zinn
 resource.name.tungsten,Wolfram
 resource.name.uranium,Uran
 resource.name.wheat,Weizen
