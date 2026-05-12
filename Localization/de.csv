@@ -3115,7 +3115,7 @@ hud.agenda.task.tur_energy_build_infra.title,Energieinfrastruktur aufbauen
 hud.agenda.task.tur_energy_trade_aze.description,Ein Handelsabkommen mit Aserbaidschan über den Gastransit abschließen.
 hud.agenda.task.tur_energy_trade_aze.title,Handelsabkommen mit Aserbaidschan
 hud.agenda.task.tur_energy_treasury.description,Durch Energieübertragungsgebühren und Handel sollen 50 Milliarden Dollar an Staatsmitteln eingenommen werden.
-hud.agenda.task.tur_energy_treasury.title,Grow Treasury
+hud.agenda.task.tur_energy_treasury.title,Staatsfinanzen verbessern
 hud.agenda.task.tur_kurd_build.description,Errichte mindestens 3 Gebäude in Grenzregionen.
 hud.agenda.task.tur_kurd_build.title,Grenzen sichern
 hud.agenda.task.tur_kurd_espionage_irq.description,Führen Sie nachrichtendienstliche Operationen im Nordirak durch.
@@ -3413,7 +3413,7 @@ hud.alert.high_unrest,Große Unruhen
 hud.alert.high_war_exhaustion,Starke Kriegserschöpfung
 hud.alert.idle_armies,Untätige Armeen
 hud.alert.low_stability,Geringe Stabilität
-hud.alert.negative_treasury,Negative Staatsanleihe
+hud.alert.negative_treasury,Negative Staatskasse
 hud.alert.no_active_goal,Kein aktives Ziel
 hud.alert.no_research,Keine laufenden Forschungsarbeiten
 hud.alert.resource_shortage,Ressourcenknappheit
@@ -3552,8 +3552,8 @@ hud.auto.tech_name,TECHNISCHE BEZEICHNUNG
 hud.auto.technology,TECHNOLOGIE
 hud.auto.total,Insgesamt
 hud.auto.total_detonations,GESAMTZAHL DER SPRENGUNGEN
-hud.auto.treasury,SCHATZ
-hud.auto.treasury_1,SCHATZ:
+hud.auto.treasury,STAATSKASSE
+hud.auto.treasury_1,STAATSKASSE:
 hud.auto.turkey,Türkei
 hud.auto.u2014,—
 hud.auto.u2022,•
@@ -3635,7 +3635,7 @@ hud.country.econ_growth,WACHSTUM
 hud.country.econ_hdi,HDI
 hud.country.econ_inflation,INFLATION
 hud.country.econ_section,WIRTSCHAFT
-hud.country.econ_treasury,SCHATZKAMMER
+hud.country.econ_treasury,STAATSKASSE
 hud.country.econ_unemploy,ARBEITSLOSIGKEIT
 hud.country.economy,WIRTSCHAFT
 hud.country.gov_section,REGIERUNG
@@ -4189,14 +4189,14 @@ hud.econ.toast_invalid_budget_body,"Die Ausgaberegler müssen insgesamt 100 % er
 hud.econ.toast_invalid_budget_title,Ungültige Budgetzuweisung
 hud.econ.trade_balance,HANDELSBILANZ
 hud.econ.trade_section,ÜBERBLICK ÜBER DEN HANDEL
-hud.econ.treasury,FINANZMINISTERIUM
+hud.econ.treasury,STAATSKASSE
 hud.econ.unemployment,ARBEITSLOSIGKEIT
 hud.envoy.activate_signature,Signatur aktivieren
 hud.envoy.delta.exposure,Exposition
 hud.envoy.delta.gdp,BIP
 hud.envoy.delta.relations,Beziehungen
 hud.envoy.delta.target_gdp,Ziel-BIP
-hud.envoy.delta.target_treasury,Ziel: Finanzministerium
+hud.envoy.delta.target_treasury,Ziel: Staatskasse
 hud.envoy.delta.treasury,Staatskasse
 hud.envoy.deploy,Bereitstellen
 hud.envoy.deploy_target_hint,Bereitstellung auf: {0}. Wählen Sie nach dem Klicken auf „Bereitstellen“ einen Vorgang aus.
@@ -4270,7 +4270,7 @@ hud.event.click_to_view,"Klicken Sie hier, um die Optionen anzuzeigen"
 hud.event.country_joined_war,"Land, das in den Krieg eintrat"
 hud.event.country_joined_war_desc,{0} schloss sich {1} im Krieg gegen {2} an
 hud.event.effect.add_relation,Beziehungen zwischen {0} und {1}
-hud.event.effect.add_treasury,Finanzministerium {0}
+hud.event.effect.add_treasury,Staatskasse {0}
 hud.event.effect.clear_flag,Löscht ein Ländereignis-Flag
 hud.event.effect.declare_war,{0} den Krieg erklären
 hud.event.effect.engage_diplomatically,Diplomatische Beziehungen zu {0}
@@ -4559,7 +4559,7 @@ hud.ledger.col.stability,STABILITÄT
 hud.ledger.col.submarines,UNTERTITEL
 hud.ledger.col.tanks,TANKS
 hud.ledger.col.tech_count,TECHS
-hud.ledger.col.treasury,FINANZMINISTERIUM
+hud.ledger.col.treasury,STAATSKASSE
 hud.ledger.col.unemployment,UNEMP
 hud.ledger.col.urbanization,STÄDTISCH
 hud.ledger.col.war_exhaustion,KRIEGSMÜDIGK.
@@ -5833,7 +5833,7 @@ hud.summary.econ_gdp,BIP
 hud.summary.econ_growth,WACHSTUM
 hud.summary.econ_infra,INFRASTRUKTUR
 hud.summary.econ_pop,BEVÖLKERUNG
-hud.summary.econ_treasury,SCHATZKAMMER
+hud.summary.econ_treasury,STAATSKASSE
 hud.summary.economy,WIRTSCHAFT
 hud.summary.mil_aircraft,FLUGZEUGE
 hud.summary.mil_budget,BUDGET
@@ -6107,7 +6107,7 @@ hud.topbar.rank_tier.major,Großmacht
 hud.topbar.rank_tier.minor,NEBENBEI
 hud.topbar.rank_tier.regional,REGIONAL
 hud.topbar.title,GLOBAL PROTOKOLL
-hud.topbar.treasury,SCHATZ:
+hud.topbar.treasury,STAATSKASSE:
 hud.trade_proposal.clear,Löschen
 hud.trade_proposal.export_boost,Exportschub
 hud.trade_proposal.priority_count,{0} von {1} ausgewählt
@@ -6220,7 +6220,7 @@ hud.year_summary.gdp_net,NETTO-BIP-DELTA
 hud.year_summary.gdp_resource,Ressourcenabgleich
 hud.year_summary.ledger_title,JAHRESABRECHNUNG
 hud.year_summary.title,JAHR {0} RÜCKBLICK
-hud.year_summary.treasury_change,ÄNDERUNG DER FINANZPOLITIK
+hud.year_summary.treasury_change,ÄNDERUNG DER STAATSKASSE
 humiliation,Demütigung
 ideological,Ideologisch
 imposesanction,Verhängt eine Sanktion
@@ -7208,7 +7208,7 @@ tooltip.country.tariff.title,Zollsatz
 tooltip.country.tax.desc,"Anteil der Steuereinnahmen am BIP. Höhere Steuersätze steigern die Einnahmen, können aber das Wachstum bremsen."
 tooltip.country.tax.title,STEUERSATZ
 tooltip.country.treasury.desc,Verfügbare Mittel. Einnahmen abzüglich Ausgaben. Ein negativer Saldo erhöht die Schuldenquote.
-tooltip.country.treasury.title,FINANZMINISTERIUM
+tooltip.country.treasury.title,STAATSKASSE
 tooltip.country.unemploy.desc,"Anteil der Erwerbslosen an der Erwerbsbevölkerung. Beeinflusst durch das BIP-Wachstum, die Automatisierung und die Sozialpolitik."
 tooltip.country.unemploy.title,ARBEITSLOSIGKEIT
 tooltip.csel.difficulty,SCHWIERIGKEITSGRAD
@@ -7511,8 +7511,8 @@ tooltip.econ.tariff.desc,"Prozentsatz des Einfuhrzolls. Verringert die Einfuhren
 tooltip.econ.tariff.title,Zollsatz
 tooltip.econ.tax_rate.desc,"Anteil des BIP, der als Steuereinnahmen eingenommen wird. Höhere Steuersätze führen zu höheren Einnahmen, können aber das Wirtschaftswachstum dämpfen."
 tooltip.econ.tax_rate.title,STEUERSATZ
-tooltip.econ.treasury.desc,Aktuelle Goldreserve. Sie steigt mit den Einnahmen und sinkt mit den Ausgaben und dem Schuldendienst.
-tooltip.econ.treasury.title,FINANZMINISTERIUM
+tooltip.econ.treasury.desc,Aktuelle Geldreserven. Sie steigen mit den Einnahmen und sinken mit den Ausgaben und den Kreditkosten.
+tooltip.econ.treasury.title,STAATSKASSE
 tooltip.econ.unemployment.desc,Anteil der Erwerbsbevölkerung ohne Beschäftigung. Beeinflusst durch das BIP-Wachstum und die Sozialausgaben.
 tooltip.econ.unemployment.title,ARBEITSLOSENQUOTE
 tooltip.intel.agency_acronym.desc,"Kurzcode, der in Berichten und Einsatzprotokollen verwendet wird."
@@ -7824,7 +7824,7 @@ tooltip.spot_market.stockpile.title,AKTUELLER LAGERBESTAND
 tooltip.spot_market.total.desc,"Nettoveränderung der Kasse für diesen Auftrag. Beim Kauf fallen diese Kosten an; beim Verkauf wird dieser Betrag erzielt. Die Schaltfläche „Bestätigen“ ist deaktiviert, wenn Ihre Kasse für einen Kauf nicht ausreicht oder Ihr Lagerbestand für einen Verkauf zu gering ist."
 tooltip.spot_market.total.title,GESAMTWERT
 tooltip.spot_market.treasury.desc,"Ihr aktueller Liquiditätsbestand. Ein Kaufauftrag wird gesperrt, wenn seine Gesamtkosten diesen Bestand übersteigen. Bauen Sie sich durch Steuern oder den Verkauf von Ressourcen Reserven auf, bevor Sie große Kaufaufträge erteilen."
-tooltip.spot_market.treasury.title,FINANZMINISTERIUM
+tooltip.spot_market.treasury.title,STAATSKASSE
 tooltip.spot_market.unit_price.desc,"Weltweiter Spotpreis pro Einheit unter Berücksichtigung der Handelsspanne. Kaufspanne: +15 % über dem Spotpreis. Verkaufsspanne: -10 % unter dem Spotpreis. Diese Differenz spiegelt die Marktfriktion wider und hält davon ab, den Spotmarkt für die routinemäßige Beschaffung zu nutzen."
 tooltip.spot_market.unit_price.title,STÜCKPREIS
 tooltip.stat.mp,"Personalkosten – Personal, das aus Ihrem Personalbestand für die Rekrutierung dieser Einheit abgezogen wurde."
@@ -7880,8 +7880,8 @@ tooltip.statbar.trade.desc,"Exporte minus Importe. Ein Überschuss (grün) kurbe
 tooltip.statbar.trade.exports,Gesamtexporte
 tooltip.statbar.trade.imports,Gesamte Einfuhren
 tooltip.statbar.trade.title,HANDELSBILANZ
-tooltip.statbar.treasury.desc,Aktuelle Goldreserve. Monatliche Einnahmen abzüglich Ausgaben.
-tooltip.statbar.treasury.title,FINANZMINISTERIUM
+tooltip.statbar.treasury.desc,Aktuelle Geldreserven. Monatliche Einnahmen abzüglich Ausgaben.
+tooltip.statbar.treasury.title,STAATSKASSE
 tooltip.statbar.unemployment.desc,"Anteil der Erwerbslosen an der Erwerbsbevölkerung. Wirkt sich auf Stabilität, Unruhen und den Druck auf die Sozialausgaben aus. Klicken Sie hier, um die Registerkarte „Wirtschaft“ zu öffnen."
 tooltip.statbar.unemployment.note,- Eine hohe Arbeitslosigkeit schürt Unruhen und mindert die Steuereffizienz
 tooltip.statbar.unemployment.title,ARBEITSLOSENQUOTE
@@ -8037,7 +8037,7 @@ tooltip.topbar.treasury.revenue,Steuereinnahmen
 tooltip.topbar.treasury.social,Sozialausgaben
 tooltip.topbar.treasury.tariff,Tarifeinnahmen
 tooltip.topbar.treasury.tax,Steuereinnahmen
-tooltip.topbar.treasury.title,FINANZMINISTERIUM
+tooltip.topbar.treasury.title,STAATSKASSE
 tooltip.trade_proposal.cancel.desc,Schließt das Angebotsfenster.
 tooltip.trade_proposal.cancel.title,Abbrechen
 tooltip.trade_proposal.clear.desc,Löscht alle ausgewählten Prioritätsressourcen.
