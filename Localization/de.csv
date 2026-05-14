@@ -3380,7 +3380,15 @@ hud.ai.sanctions_imposed_desc,{0} hat Sanktionen gegen {1} verhängt.
 hud.ai.war_declared,Kriegserklärung
 hud.ai.war_declared_desc,{0} hat {1} den Krieg erklärt!
 hud.air.composition,Einheiten: {0}  Jäger: {1}  Angriff: {2}
+hud.air.ctx.air_superiority.desc,Patrouillieren Sie den Ziel-Luftraum um feindliche Flugzeuge zu bekämpfen und die eigene Luftkontrolle zu verbessern.
+hud.air.ctx.close_air_support.desc,Führen Sie direkte Angriffe auf feindliche Bodentruppen in umkämpften feindlichen Provinzen durch.
+hud.air.ctx.naval_strike.desc,Bekämpfen Sie feindliche Seestreitkräfte in Seezonen mit Anti-Schiff-Einsätzen.
+hud.air.ctx.rebase.desc,Verlegen Sie ausgewählte Luftgeschwader auf einen freundlichen Flugplatz und erweitern Sie die Reichweite oder unterstützen Sie eine andere Front.
+hud.air.ctx.reconnaissance.desc,Sammeln Sie Luftaufklärung um Sichtbarkeit und Zielinformationen zu verbessern.
+hud.air.ctx.strategic_bombing.desc,Greifen Sie strategische Infrastruktur- und Produktionsziele in feindlich kontrollierten Provinzen an.
 hud.air.idle,Leerlauf
+hud.air.leg_inbound,Rückflug
+hud.air.leg_outbound,Hinflug
 hud.air.mission_label,Mission: {0}
 hud.air.range_provinces,Geltungsbereich: {0:0.#} Provinzen
 hud.air.wing_name,Luftflügel #{0}
@@ -4409,7 +4417,7 @@ hud.inbox.tooltip.label.requester,Anfragender
 hud.inbox.tooltip.label.target,Ziel
 hud.inbox.tooltip.label.treaty_type,Vertragsart
 hud.inbox.tooltip.label.war_score,Kriegsbilanz
-hud.inbox.tooltip.reject.alliance_crisis,Sie enthalten sich. Keine Strafe — Solidarität ist freiwillig, keine Vertragsverpflichtung.
+hud.inbox.tooltip.reject.alliance_crisis,"Sie enthalten sich. Keine Strafe — Solidarität ist freiwillig, keine Vertragsverpflichtung."
 hud.inbox.tooltip.reject.alliance_proposal,Die Beziehungen zu {0} verschlechtern sich.
 hud.inbox.tooltip.reject.call_to_arms,Du bringst Schande über den Ruf. Die Allianz zerbricht. -10 Ansehen. -40 Beziehungen zu {0}.
 hud.inbox.tooltip.reject.generic,Der Antrag wird abgelehnt.
@@ -4589,6 +4597,206 @@ hud.loading.core,KERN-SYSTEME WERDEN INITIALISIERT...
 hud.loading.diplomacy,SYNCHRONISIERUNG DIPLOMATISCHER DATEN...
 hud.loading.error,KRITISCHER FEHLER: KARTSZENE NICHT GEFUNDEN
 hud.loading.init,PROTOKOLLE WERDEN INITIALISIERT...
+hud.loading.quote.001,"Frieden zu Hause, Frieden in der Welt. — Mustafa Kemal Atatürk"
+hud.loading.quote.002,Die Souveränität gehört bedingungslos der Nation. — Mustafa Kemal Atatürk
+hud.loading.quote.003,Freiheit und Unabhängigkeit sind mein Charakter. — Mustafa Kemal Atatürk
+hud.loading.quote.004,Der wahrste Leitfaden im Leben ist die Wissenschaft. — Mustafa Kemal Atatürk
+hud.loading.quote.005,Die Zukunft liegt am Himmel. — Mustafa Kemal Atatürk
+hud.loading.quote.006,"Eine Nation ohne Kunst bedeutet, dass einer ihrer Lebensnerven abgetrennt wurde. — Mustafa Kemal Atatürk"
+hud.loading.quote.007,Alles auf der Welt ist das Werk von Frauen. — Mustafa Kemal Atatürk
+hud.loading.quote.008,Großes kann nur durch die gemeinsamen Anstrengungen großer Nationen erreicht werden. — Mustafa Kemal Atatürk
+hud.loading.quote.009,"Der Sieg gehört denen, die sagen können: „Der Sieg gehört mir.“ — Mustafa Kemal Atatürk"
+hud.loading.quote.010,Ein gesunder Geist wohnt in einem gesunden Körper. — Mustafa Kemal Atatürk
+hud.loading.quote.011,"Mich zu sehen bedeutet nicht unbedingt, mein Gesicht zu sehen; Wenn Sie meine Ideen verstehen, reicht das. — Mustafa Kemal Atatürk"
+hud.loading.quote.012,Mein bescheidener Körper wird eines Tages zu Staub zerfallen; aber die Republik Türkei wird für immer bestehen. — Mustafa Kemal Atatürk
+hud.loading.quote.013,Das Fundament der Republik Türkiye ist die Kultur. — Mustafa Kemal Atatürk
+hud.loading.quote.014,"Lehrer, die neue Generation wird Ihre Schöpfung sein. — Mustafa Kemal Atatürk"
+hud.loading.quote.015,Die Wissenschaft ist der zuverlässigste Wegweiser auf dem Weg zur Zivilisation. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.016,"Nationen, die keinen Wert auf Bildung legen, können nicht frei sein. – Zugeschrieben: Mustafa Kemal Atatürk"
+hud.loading.quote.017,Der wahre Eigentümer des Staates ist das Volk. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.018,Die Nation wird durch ihren eigenen Willen unabhängig. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.019,"Die Zivilisation ist ein Feuer, das die Zukunft erleuchtet. – Zugeschrieben: Mustafa Kemal Atatürk"
+hud.loading.quote.020,Die Macht einer Nation beruht auf Wissen. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.021,Unabhängigkeit ist mein Wesen. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.022,Fortschritt beginnt mit Vernunft und Wissenschaft. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.023,Ohne Kultur ist der Sieg unvollständig. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.024,Mit Disziplin ist Erfolg in jedem Bereich möglich. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.025,Die Nation erhebt sich durch Bildung. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.026,Kunst und Wissenschaft schaffen dauerhafte Staaten. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.027,Eine moderne Nation vertraut der Vernunft. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.028,Große Gesellschaften wachsen durch Lernen. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.029,Einheit und Arbeit schaffen Stärke. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.030,Wissen ist der Schutzschild der Unabhängigkeit. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.031,Reformen beginnen im Kopf. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.032,Nationale Ehre erfordert Selbstvertrauen und Selbstgenügsamkeit. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.033,"Echte Fortschritte sind möglich, wenn man Frauen und junge Menschen respektiert. – Zugeschrieben: Mustafa Kemal Atatürk"
+hud.loading.quote.034,Nationaler Charakter entsteht durch Pflichtbewusstsein. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.035,Die Republik ist der Jugend anvertraut. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.036,Disziplin und Vision prägen das Schicksal. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.037,Die Stimme der Nation ist der höchste Wille. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.038,Entschlossenheit ist der Schlüssel zur Eroberung des Unmöglichen. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.039,Eine starke Nation wird mit Gedanken und Anstrengung aufgebaut. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.040,Der Weg in die Zukunft führt über Wissenschaft und Vernunft. – Zugeschrieben: Mustafa Kemal Atatürk
+hud.loading.quote.041,Inmitten der Schwierigkeit liegt eine Chance. – Albert Einstein
+hud.loading.quote.042,"Das Leben ist wie Fahrradfahren. Um das Gleichgewicht zu halten, müssen Sie in Bewegung bleiben. – Albert Einstein"
+hud.loading.quote.043,Phantasie ist wichtiger als Wissen. – Albert Einstein
+hud.loading.quote.044,"Wer nie einen Fehler gemacht hat, hat nie etwas Neues ausprobiert. – Albert Einstein"
+hud.loading.quote.045,Sich selbst zu kennen ist der Anfang aller Weisheit. — Aristoteles
+hud.loading.quote.046,Exzellenz ist nie ein Zufall. – Aristoteles zugeschrieben
+hud.loading.quote.047,"Wir sind das, was wir immer wieder tun. – Aristoteles zugeschrieben"
+hud.loading.quote.048,"Es scheint immer unmöglich, bis es fertig ist. — Nelson Mandela"
+hud.loading.quote.049,"Bildung ist die mächtigste Waffe, mit der Sie die Welt verändern können. — Nelson Mandela"
+hud.loading.quote.050,"Der größte Ruhm im Leben liegt nicht darin, niemals zu fallen, sondern jedes Mal wieder aufzustehen, wenn wir fallen. — Nelson Mandela"
+hud.loading.quote.051,"Der beste Weg, die Zukunft vorherzusagen, besteht darin, sie zu gestalten. — Peter Drucker"
+hud.loading.quote.052,"Das Management macht die Dinge richtig; Führung bedeutet, die richtigen Dinge zu tun. — Peter Drucker"
+hud.loading.quote.053,Gut gemacht ist besser als gut gesagt. – Benjamin Franklin
+hud.loading.quote.054,Eine Investition in Wissen bringt die besten Zinsen. – Benjamin Franklin
+hud.loading.quote.055,"Wenn Sie sich nicht vorbereiten, bereiten Sie sich auf das Scheitern vor. – Benjamin Franklin"
+hud.loading.quote.056,Die einzige Grenze für unsere Verwirklichung von morgen sind unsere Zweifel an heute. — Franklin D. Roosevelt
+hud.loading.quote.057,"Qualität bedeutet, es richtig zu machen, wenn niemand hinschaut. – Henry Ford"
+hud.loading.quote.058,Einfachheit ist höchste Raffinesse. – Leonardo da Vinci
+hud.loading.quote.059,Lernen erschöpft niemals den Geist. – Leonardo da Vinci
+hud.loading.quote.060,"Es spielt keine Rolle, wie langsam Sie fahren, solange Sie nicht anhalten. — Konfuzius"
+hud.loading.quote.061,"Unser größter Ruhm liegt nicht darin, niemals zu fallen, sondern darin, jedes Mal wieder aufzustehen, wenn wir fallen. — Konfuzius"
+hud.loading.quote.062,Die Reise von tausend Meilen beginnt mit einem Schritt. – Laotse
+hud.loading.quote.063,"Wer andere kennt, ist weise; wer sich selbst kennt, ist erleuchtet. – Laotse"
+hud.loading.quote.064,"Die Zukunft hängt davon ab, was Sie heute tun. – Mahatma Gandhi"
+hud.loading.quote.065,Stärke entsteht nicht durch körperliche Leistungsfähigkeit. Es entspringt einem unbeugsamen Willen. – Mahatma Gandhi
+hud.loading.quote.066,"Träume sind nicht das, was man im Schlaf sieht, Träume sind Dinge, die einen nicht schlafen lassen. — APJ Abdul Kalam"
+hud.loading.quote.067,"Wenn du wie eine Sonne scheinen willst, brenne zuerst wie eine Sonne. — APJ Abdul Kalam"
+hud.loading.quote.068,Wissen ist Macht. – Francis Bacon
+hud.loading.quote.069,"Die einzig wahre Weisheit besteht darin, zu wissen, dass man nichts weiß. – Sokrates"
+hud.loading.quote.070,Mut ist Gnade unter Druck. – Ernest Hemingway
+hud.loading.quote.071,"Tue, was du kannst, mit dem, was du hast, wo du bist. — Theodore Roosevelt"
+hud.loading.quote.072,"Glauben Sie, dass Sie es können, und Sie haben die Hälfte geschafft. — Theodore Roosevelt"
+hud.loading.quote.073,"Je härter der Konflikt, desto größer der Triumph. – George Washington"
+hud.loading.quote.074,Beharrlichkeit und Geist haben zu allen Zeiten Wunder bewirkt. – George Washington
+hud.loading.quote.075,Der Preis für Größe ist Verantwortung. — Winston Churchill
+hud.loading.quote.076,"Gib niemals, niemals, niemals auf. — Winston Churchill"
+hud.loading.quote.077,"Verbessern heißt ändern; Perfekt zu sein bedeutet, sich oft zu verändern. — Winston Churchill"
+hud.loading.quote.078,"Wir leben von dem, was wir bekommen, aber wir leben von dem, was wir geben. — Winston Churchill"
+hud.loading.quote.079,"Erfolg ist nicht endgültig, Scheitern ist nicht fatal: Was zählt, ist der Mut zum Weitermachen. — Winston Churchill"
+hud.loading.quote.080,"In jeder Generation wird nur ein Genie geboren, und das Genie dieser Generation kam aus der Türkei. – Winston Churchill zugeschrieben"
+hud.loading.quote.081,"Halten Sie Ihr Gesicht immer der Sonne zugewandt, sonst fallen Schatten hinter Ihnen. – Walt Whitman"
+hud.loading.quote.082,"Erfolg ist die Summe kleiner Anstrengungen, die Tag für Tag wiederholt werden. – Robert Collier"
+hud.loading.quote.083,"Der Einstieg besteht darin, mit dem Reden aufzuhören und mit dem Handeln zu beginnen. – Walt Disney"
+hud.loading.quote.084,"Es macht irgendwie Spaß, das Unmögliche zu tun. – Walt Disney"
+hud.loading.quote.085,"Bleib hungrig, bleib dumm. — Steve Jobs"
+hud.loading.quote.086,"Die Menschen, die verrückt genug sind zu glauben, sie könnten die Welt verändern, sind diejenigen, die es tun. – Steve Jobs zugeschrieben"
+hud.loading.quote.087,"Wenn alle gemeinsam vorankommen, dann stellt sich der Erfolg von selbst ein. – Henry Ford"
+hud.loading.quote.088,"Das Geheimnis des Vorankommens liegt darin, anzufangen. – Mark Twain zugeschrieben"
+hud.loading.quote.089,"Erfolg kommt normalerweise zu denen, die zu beschäftigt sind, um danach zu suchen. – Henry David Thoreau zugeschrieben"
+hud.loading.quote.090,Gelegenheiten ergeben sich nicht. Du erschaffst sie. — Chris Grosser
+hud.loading.quote.091,"Harte Arbeit schlägt Talent, wenn Talent nicht hart arbeitet. — Tim Notke zugeschrieben"
+hud.loading.quote.092,"Motivation ist der Anfang. Gewohnheit ist das, was dich am Laufen hält. – Jim Ryun"
+hud.loading.quote.093,Eins heute ist zwei Morgen wert. – Benjamin Franklin
+hud.loading.quote.094,Energie und Beharrlichkeit erobern alle Dinge. – Benjamin Franklin
+hud.loading.quote.095,"Siebenmal fallen, achtmal aufstehen. – Japanisches Sprichwort"
+hud.loading.quote.096,"Es ist besser, eine Kerze anzuzünden, als die Dunkelheit zu verfluchen. – Sprichwort"
+hud.loading.quote.097,Das Glück begünstigt die Mutigen. – Lateinisches Sprichwort
+hud.loading.quote.098,Einheit ist Stärke. – Sprichwort
+hud.loading.quote.099,Aus kleinen Eicheln wachsen große Eichen. – Sprichwort
+hud.loading.quote.100,Zeit und Geduld können mehr bewirken als Gewalt oder Wut. – Sprichwort
+hud.loading.quote.101,Kleine Schritte jeden Tag führen zu großen Ergebnissen. – Sprichwort
+hud.loading.quote.102,Eine glatte See machte noch nie einen geschickten Seemann aus. – Sprichwort
+hud.loading.quote.103,Not macht erfinderisch. – Sprichwort
+hud.loading.quote.104,Die Feder ist mächtiger als das Schwert. – Sprichwort
+hud.loading.quote.105,Besser spät als nie. – Sprichwort
+hud.loading.quote.106,"Wo ein Wille ist, ist auch ein Weg. – Sprichwort"
+hud.loading.quote.107,Übung macht den Meister. – Sprichwort
+hud.loading.quote.108,Ehrlichkeit ist die beste Politik. – Sprichwort
+hud.loading.quote.109,Zwei Köpfe sind besser als einer. – Sprichwort
+hud.loading.quote.110,"Zweimal messen, einmal schneiden. – Sprichwort"
+hud.loading.quote.111,Rom wurde nicht an einem Tag erbaut. – Sprichwort
+hud.loading.quote.112,"Der beste Zeitpunkt, einen Baum zu pflanzen, war vor zwanzig Jahren. Die zweitbeste Zeit ist jetzt. – Chinesisches Sprichwort"
+hud.loading.quote.113,"Ein weiser Mann passt sich den Umständen an, so wie sich das Wasser dem Gefäß anpasst. – Chinesisches Sprichwort"
+hud.loading.quote.114,Eine Generation pflanzt die Bäume; ein anderer bekommt den Schatten. – Sprichwort
+hud.loading.quote.115,"Lassen Sie nicht zu, dass das, was Sie nicht können, das, was Sie tun können, beeinträchtigt. — John Wooden"
+hud.loading.quote.116,"Die Dinge laufen am besten für diejenigen, die das Beste daraus machen, wie die Dinge laufen. — John Wooden"
+hud.loading.quote.117,"Erfolg ist Seelenfrieden aus der Selbstzufriedenheit, weil man weiß, dass man sein Bestes gegeben hat. — John Wooden"
+hud.loading.quote.118,"Der einzige Weg, großartige Arbeit zu leisten, besteht darin, zu lieben, was man tut. — Steve Jobs"
+hud.loading.quote.119,"Deine Zeit ist begrenzt, also verschwende sie nicht damit, das Leben eines anderen zu leben. — Steve Jobs"
+hud.loading.quote.120,Innovation unterscheidet zwischen einem Leader und einem Follower. — Steve Jobs
+hud.loading.quote.121,Sei du selbst; alle anderen sind bereits vergeben. – Oscar Wilde
+hud.loading.quote.122,"Wir sind alle in der Gosse, aber einige von uns schauen zu den Sternen. – Oscar Wilde"
+hud.loading.quote.123,"Gehe nicht dorthin, wohin der Weg führen mag, sondern gehe dorthin, wo es keinen Weg gibt, und hinterlasse eine Spur. — Ralph Waldo Emerson"
+hud.loading.quote.124,"Was hinter uns liegt und was vor uns liegt, sind Kleinigkeiten im Vergleich zu dem, was in uns liegt. — Ralph Waldo Emerson"
+hud.loading.quote.125,"Die einzige Person, zu der du bestimmt bist, ist die Person, die du sein möchtest. — Ralph Waldo Emerson"
+hud.loading.quote.126,"Ich habe nicht versagt. Ich habe gerade 10.000 Möglichkeiten gefunden, die nicht funktionieren. – Thomas Edison"
+hud.loading.quote.127,"Gelegenheit wird von den meisten Menschen verpasst, weil sie in Overalls gekleidet ist und nach Arbeit aussieht. – Thomas Edison"
+hud.loading.quote.128,Genie besteht zu einem Prozent aus Inspiration und zu neunundneunzig Prozent aus Transpiration. – Thomas Edison
+hud.loading.quote.129,"Die Reise, nicht die Ankunft, zählt. – T. S. Eliot"
+hud.loading.quote.130,"Nur wer das Risiko eingeht, zu weit zu gehen, kann möglicherweise herausfinden, wie weit man gehen kann. – T. S. Eliot"
+hud.loading.quote.131,"Es scheint immer unmöglich, bevor es fertig ist. – Zugeschrieben"
+hud.loading.quote.132,"Fangen Sie dort an, wo Sie sind. Nutzen Sie, was Sie haben. Tu, was du kannst. – Arthur Ashe"
+hud.loading.quote.133,"Erfolg ist dort, wo Vorbereitung und Gelegenheit aufeinandertreffen. – Bobby Unser"
+hud.loading.quote.134,Der Unterschied zwischen gewöhnlich und außergewöhnlich ist das kleine Extra. – Jimmy Johnson
+hud.loading.quote.135,"Wenn du es träumen kannst, kannst du es tun. – Walt Disney"
+hud.loading.quote.136,"Misserfolg ist einfach die Gelegenheit, noch einmal von vorne zu beginnen, diesmal intelligenter. – Henry Ford"
+hud.loading.quote.137,Nichts auf der Welt kann Beharrlichkeit ersetzen. — Calvin Coolidge
+hud.loading.quote.138,Die beste Rache ist großer Erfolg. — Frank Sinatra
+hud.loading.quote.139,Gemeisterte Schwierigkeiten sind gewonnene Chancen. — Winston Churchill
+hud.loading.quote.140,"Handeln Sie so, als ob das, was Sie tun, einen Unterschied macht. Das tut es. – William James"
+hud.loading.quote.141,Taten sagen mehr als Worte. – Amerikanisches Sprichwort
+hud.loading.quote.142,"Zählen Sie Ihre Hühner nicht, bevor sie schlüpfen. – Amerikanisches Sprichwort"
+hud.loading.quote.143,Der frühe Vogel fängt den Wurm. – Amerikanisches Sprichwort
+hud.loading.quote.144,"Du erntest, was du säst. – Amerikanisches Sprichwort"
+hud.loading.quote.145,Legen Sie nicht alle Eier in einen Korb. – Amerikanisches Sprichwort
+hud.loading.quote.146,Ein Stich in der Zeit spart neun. – Amerikanisches Sprichwort
+hud.loading.quote.147,Vorsicht ist besser als Nachsicht. – Amerikanisches Sprichwort
+hud.loading.quote.148,Jede Wolke hat einen Silberstreif am Horizont. – Amerikanisches Sprichwort
+hud.loading.quote.149,"Wenn es hart auf hart kommt, machen sich die Harten auf den Weg. – Amerikanisches Sprichwort"
+hud.loading.quote.150,"Kein Schmerz, kein Gewinn. – Amerikanisches Sprichwort"
+hud.loading.quote.151,Das quietschende Rad bekommt Fett. – Amerikanisches Sprichwort
+hud.loading.quote.152,"Beißen Sie nicht mehr ab, als Sie kauen können. – Amerikanisches Sprichwort"
+hud.loading.quote.153,"Du kannst ein Pferd zum Tränken führen, aber du kannst es nicht zum Trinken bringen. – Amerikanisches Sprichwort"
+hud.loading.quote.154,Ein gesparter Penny ist ein verdienter Penny. – Amerikanisches Sprichwort
+hud.loading.quote.155,Vögel einer Feder scharen sich zusammen. – Amerikanisches Sprichwort
+hud.loading.quote.156,Neugier hat die Katze getötet. – Amerikanisches Sprichwort
+hud.loading.quote.157,"Einfach kommen, einfach gehen. – Amerikanisches Sprichwort"
+hud.loading.quote.158,"Gute Dinge kommen zu denen, die warten. – Amerikanisches Sprichwort"
+hud.loading.quote.159,Eile macht Verschwendung. – Amerikanisches Sprichwort
+hud.loading.quote.160,"Wenn es nicht kaputt ist, reparieren Sie es nicht. – Amerikanisches Sprichwort"
+hud.loading.quote.161,Kopf hoch. – Amerikanisches Sprichwort
+hud.loading.quote.162,"Schau, bevor du springst. – Amerikanisches Sprichwort"
+hud.loading.quote.163,"Machen Sie Heu, während die Sonne scheint. – Amerikanisches Sprichwort"
+hud.loading.quote.164,Viele Hände machen leichte Arbeit. – Amerikanisches Sprichwort
+hud.loading.quote.165,Not macht erfinderisch. – Amerikanisches Sprichwort
+hud.loading.quote.166,Keine Nachrichten sind gute Nachrichten. – Amerikanisches Sprichwort
+hud.loading.quote.167,"Einmal gebissen, zweimal schüchtern. – Amerikanisches Sprichwort"
+hud.loading.quote.168,"Außer Sicht, außer Sinn. – Amerikanisches Sprichwort"
+hud.loading.quote.169,"Üben Sie, was Sie predigen. – Amerikanisches Sprichwort"
+hud.loading.quote.170,"Zuschlagen, solange das Eisen heiß ist. – Amerikanisches Sprichwort"
+hud.loading.quote.171,Das Gras ist auf der anderen Seite immer grüner. – Amerikanisches Sprichwort
+hud.loading.quote.172,Der Beweis für den Pudding liegt im Essen. – Amerikanisches Sprichwort
+hud.loading.quote.173,Es gibt keinen Ort wie zu Hause. – Amerikanisches Sprichwort
+hud.loading.quote.174,Zu viele Köche verderben den Brei. – Amerikanisches Sprichwort
+hud.loading.quote.175,Du kannst deinen Kuchen nicht haben und ihn auch essen. – Amerikanisches Sprichwort
+hud.loading.quote.176,Beurteilen Sie ein Buch nicht nach seinem Einband. – Amerikanisches Sprichwort
+hud.loading.quote.177,Besser ein Gramm Vorbeugung als ein Pfund Heilung. – Amerikanisches Sprichwort
+hud.loading.quote.178,Das Wichtigste zuerst. – Amerikanisches Sprichwort
+hud.loading.quote.179,"Hoffe auf das Beste, bereite dich auf das Schlimmste vor. – Amerikanisches Sprichwort"
+hud.loading.quote.180,"Wenn Sie möchten, dass etwas richtig gemacht wird, tun Sie es selbst. – Amerikanisches Sprichwort"
+hud.loading.quote.181,Behalten Sie den Ball im Auge. – Amerikanisches Sprichwort
+hud.loading.quote.182,Wissen ist Macht. – Amerikanisches Sprichwort
+hud.loading.quote.183,"Lerne erst laufen, bevor du rennst. – Amerikanisches Sprichwort"
+hud.loading.quote.184,Geist über Materie. – Amerikanisches Sprichwort
+hud.loading.quote.185,"Nichts gewagt, nichts gewonnen. – Amerikanisches Sprichwort"
+hud.loading.quote.186,Alte Gewohnheiten lassen sich nur schwer aussterben. – Amerikanisches Sprichwort
+hud.loading.quote.187,Langsam und stetig gewinnt das Rennen. – Amerikanisches Sprichwort
+hud.loading.quote.188,Stille Wasser sind tief. – Amerikanisches Sprichwort
+hud.loading.quote.189,Die besten Dinge im Leben sind kostenlos. – Amerikanisches Sprichwort
+hud.loading.quote.190,Der Teufel steckt im Detail. – Amerikanisches Sprichwort
+hud.loading.quote.191,Zeit ist Geld. – Amerikanisches Sprichwort
+hud.loading.quote.192,Morgen ist ein neuer Tag. – Amerikanisches Sprichwort
+hud.loading.quote.193,Vielfalt ist die Würze des Lebens. – Amerikanisches Sprichwort
+hud.loading.quote.194,"Was herumgeht, kommt herum. – Amerikanisches Sprichwort"
+hud.loading.quote.195,"Wo sich eine Tür schließt, öffnet sich eine andere. – Amerikanisches Sprichwort"
+hud.loading.quote.196,Man kann es nicht jedem recht machen. – Amerikanisches Sprichwort
+hud.loading.quote.197,Deine Vermutung ist genauso gut wie meine. – Amerikanisches Sprichwort
+hud.loading.quote.198,Taten sprechen lauter als Worte. — Anonymes Sprichwort
+hud.loading.quote.199,Hinter jedem erfolgreichen Mann steht eine Frau. — Anonymes Sprichwort
+hud.loading.quote.200,Weitermachen. – Beliebtes Sprichwort
 hud.loading.ready,EINSATZBEREITE SYSTEME
 hud.loading.saving,SPIEL WIRD GESPEICHERT...
 hud.loading.steam_verify_hint,Versuch: Steam → Rechtsklick auf das Spiel → Eigenschaften → Lokale Dateien → Integrität der Spieldateien überprüfen.
@@ -4618,6 +4826,8 @@ hud.log.aid_received.title,{0} schickt Hilfsgüter
 hud.log.aid_received.what,{0} hat ein Hilfspaket in Ihr Land geschickt.
 hud.log.aid_received.who,{0} bietet finanzielle Unterstützung.
 hud.log.aid_received.why,Entwicklungshilfe kann die bilateralen Beziehungen stärken und die kurzfristige Finanzlage verbessern.
+hud.log.air_strike_hit_impact,Verwüstung +{0:0.##}. Infrastruktur -{1:0.##}. Effektive Stärke {2:0.##}.
+hud.log.air_strike_hit_why,Bereitschafts-Multiplikator {0:0%}. Verteidigungsabschwächung {1:0%}. Gebündelte Treffer: {2}.
 hud.log.alliance_broken.impact,"Verlust der gegenseitigen militärischen Unterstützung; erwäge, neue Bündnisse einzugehen oder die Grenzen zu stärken."
 hud.log.alliance_broken.title,{0} löst deine Allianz auf
 hud.log.alliance_broken.what,{0} hat dein Bündnis einseitig gekündigt.
@@ -4833,9 +5043,14 @@ hud.mapmode.population.title,Bevölkerung
 hud.mapmode.terrain.desc,Natürliche Höhenunterschiede und die Farbgebung der Vegetation.
 hud.mapmode.terrain.title,Grundstück
 hud.mil.active_personnel,MANNSTÄRKE
+hud.mil.air_busy_combat,Luftgeschwader ist im Kampf und kann keine Befehle annehmen.
+hud.mil.air_busy_rebasing,Luftgeschwader verlegt derzeit den Stützpunkt.
+hud.mil.air_mission_already_assigned,Luftgeschwader hat diese Mission und dieses Ziel bereits.
+hud.mil.air_mission_unavailable,Ausgewähltes Luftgeschwader kann diese Mission derzeit nicht ausführen.
 hud.mil.air_needs_airfield,Erfordert einen Flugplatz in dieser Provinz.
 hud.mil.air_no_aircraft,Wing verfügt über keine einsatzfähigen Flugzeuge.
 hud.mil.air_no_base,Wing hat keine operative Basis-Provinz.
+hud.mil.air_readiness_low,Bereitschaft des Luftgeschwaders ist für Missionen zu niedrig.
 hud.mil.air_rebase_out_of_range,Die ausgewählte Fliegerstaffel kann diesen Flugplatz nicht direkt erreichen.
 hud.mil.air_rebase_unavailable,Die ausgewählte Luftflotte kann ihren Stützpunkt nicht wechseln.
 hud.mil.air_section,Konstruktion des Flügels
@@ -5792,7 +6007,12 @@ hud.res_world.title,{0} — Weltweite Produktion
 hud.res_world.totals,Weltweite Produktion: {0}  |  Konsum: {1}  |  {2} Produzenten
 hud.spot_market.amount,Betrag
 hud.spot_market.buy,Kaufen
+hud.spot_market.buy_deficits,Defizit kaufen
 hud.spot_market.confirm,Bestellung bestätigen
+hud.spot_market.deficit_set.desc,"Die Menge wurde auf {0} Einheiten von {1} gesetzt, um den Sicherheitszielbestand zu erreichen."
+hud.spot_market.deficit_set.title,DEFIZITMENGE GESETZT
+hud.spot_market.no_deficit.desc,Ihr Lagerbestand erfüllt bereits den Sicherheitszielwert für diese Ressource.
+hud.spot_market.no_deficit.title,KEIN DEFIZIT
 hud.spot_market.open,Spotmarkt
 hud.spot_market.resource,Ressource
 hud.spot_market.section.details,BESTELLDETAILS
@@ -5931,7 +6151,10 @@ hud.toast.ai_peace_offer_rejected_desc,{0} hat das Friedensangebot von {1} abgel
 hud.toast.ai_peace_offer_rejected_title,Friedensangebot abgelehnt
 hud.toast.aid_received.body,{0} hat Ihnen ein Finanzhilfepaket zugesandt.
 hud.toast.aid_received.title,Hilfspaket erhalten
+hud.toast.air_mission_blocked,LUFTMISSION BLOCKIERT
 hud.toast.air_rebase_blocked,Luftwaffenstützpunkt gesperrt
+hud.toast.air_strike_hit,LUFTANGRIFF TRIFFT
+hud.toast.air_strike_hit_desc,"{0} ({1}): Verwüstung +{2:0.##}, Infrastruktur -{3:0.##}."
 hud.toast.alliance_broken.body,{0} hat deine Allianz verlassen.
 hud.toast.alliance_broken.title,Das Bündnis ist zerbrochen
 hud.toast.alliance_eval_desc,{0} hat {1} Ihren Bündnisvorschlag erhalten.
@@ -6231,17 +6454,25 @@ liftsanction,Aufhebung der Sanktion
 menu.continue,WEITER
 menu.credits,IMPRESSUM
 menu.load_game,SPIEL LADEN
-menu.new_game,NEUES SPIEL
-menu.pause.quitting,Beendet und kehrt zum Desktop zurück...
-menu.quit,BEENDEN
-menu.settings,EINSTELLUNGEN
-menu.subtitle,Ein Grand-Strategy-Spiel
-menu.title,GLOBAL PROTOKOLL
-menu.version,Version 0.1 – 2026
 menu.mods,MODS
+menu.mods.action.delete,LÖSCHEN
+menu.mods.action.unsubscribe,ABMELDEN
 menu.mods.active_scenario,Aktives Szenario: {0}
 menu.mods.active_scenario_none,Kein aktives Szenario
+menu.mods.badge.fire_triggers,TRIGGERS
+menu.mods.badge.inject_ui,INJECT UI
+menu.mods.badge.local,LOCAL
+menu.mods.badge.no_permissions,NO PERMISSIONS
+menu.mods.badge.read_economy,ECONOMY
+menu.mods.badge.scenario,SCENARIO
+menu.mods.badge.scripted,SCRIPTED
+menu.mods.badge.workshop,WORKSHOP
+menu.mods.badge.write_flags,FLAGS
+menu.mods.badge.write_treasury,TREASURY
 menu.mods.close,SCHLIESSEN
+menu.mods.delete_confirm.body,'{0}' vom Datenträger löschen? Dies kann nicht rückgängig gemacht werden.
+menu.mods.delete_confirm.title,MOD LÖSCHEN
+menu.mods.delete_confirm.workshop_body,Abmelden und lokale Dateien für '{0}' entfernen?
 menu.mods.empty,Es wurden keine lokalen Mods in den unterstützten Mods-Ordnern gefunden.
 menu.mods.reload_hint,Mod-Änderungen werden nach dem nächsten Neustart angewendet.
 menu.mods.scenario,Szenario
@@ -6250,6 +6481,15 @@ menu.mods.status.disabled,DEAKTIVIERT
 menu.mods.status.enabled,AKTIVIERT
 menu.mods.subtitle,Lokale Mods aktivieren und das Szenario für das nächste neue Spiel auswählen.
 menu.mods.title,MOD-ZUSAMMENSTELLUNG
+menu.mods.wasm_error_bar,{0} mod(s) failed to initialize scripting. The game continues normally.
+menu.mods_broken_section,MISSING MODS
+menu.new_game,NEUES SPIEL
+menu.pause.quitting,Beendet und kehrt zum Desktop zurück...
+menu.quit,BEENDEN
+menu.settings,EINSTELLUNGEN
+menu.subtitle,Ein Grand-Strategy-Spiel
+menu.title,GLOBAL PROTOKOLL
+menu.version,Version 0.1 – 2026
 misc.balanced,AUSGEWOGEN
 misc.built,GEBAUT
 misc.collapsed_prefix,▶
@@ -6270,6 +6510,8 @@ missile_type.mrbm,Mittelstreckenrakete
 missile_type.slbm,U-Boot-gestützte ballistische Rakete
 missile_type.srbm,Kurzstrecken-Rakete
 missile_type.tactical_ballistic_missile,Taktische ballistische Rakete
+mod.runtime.compatibility.body,"Der Mod '{0}' verlässt sich auf einen veralteten CLI-Einstiegspunkt 'run', der durch fehlende WASI-Importe in dieser Umgebung blockiert wird. Es wird trotzdem versucht, ihn auszuführen..."
+mod.runtime.compatibility.title,Mod-Laufzeitkompatibilität
 month.apr,Apr
 month.aug,Aug
 month.dec,Dez
@@ -6507,6 +6749,8 @@ saveload.load_btn,LADEN
 saveload.load_title,SPIEL LADEN
 saveload.loaded_ok,Das Spiel wurde erfolgreich geladen
 saveload.manager_missing,Das Speichersystem ist derzeit nicht verfügbar
+saveload.mod_mismatch,This save requires the same enabled mods as when it was created.
+saveload.mods_used,Mods: {0}
 saveload.no_saves,Es wurden keine Speicherstände gefunden
 saveload.not_in_cloud,○ Nicht in der Cloud
 saveload.preview_saved,Gespeichert: {0}
@@ -7005,7 +7249,7 @@ stat.infra,INFRA
 stat.money,GELD
 stat.money_m,${0}M
 stat.mp,MP
-stat.pop,Pop
+stat.pop,POP
 stat.rp,RP
 stat.spd,Sozialdemokratische Partei
 status.available,VERFÜGBAR
@@ -8216,8 +8460,11 @@ tutorial.step_overview.body,"Die Registerkarte „Übersicht“ bietet einen sch
 tutorial.step_overview.title,Registerkarte „Übersicht“
 tutorial.step_provinces.body,"Auf der Registerkarte „Provinzen“ ({0}) erhältst du eine tabellarische Übersicht über jede einzelne Provinz, die du kontrollierst.\n\nNutze diese Ansicht, um Unruhen schnell zu erkennen oder die Wirtschaftsleistung verschiedener Regionen zu vergleichen."
 tutorial.step_provinces.title,Registerkarte „Provinzen“
+tutorial.step_recruit.body,"In der Registerkarte „Rekrutierung“ ({0}) stellst du neue Land-, See- und Lufteinheiten in die Warteschlange. Halte ausgewogene Streitkräfte und stetige Verstärkung vor, bevor Kriege beginnen."
+tutorial.step_recruit.title,Registerkarte „Rekrutierung“
 tutorial.step_tech.body,"Die Registerkarte „Technologie“ ({0}) enthält deinen Forschungsbaum. Investitionen in die Forschung verschaffen dir Boni auf das BIP, die Militärmacht und das Bevölkerungswachstum.\n\nKonzentriere dich auf Technologien, die deine Gesamtstrategie unterstützen."
 tutorial.step_tech.title,Registerkarte „Technologie“
+ui.button.ok,OK
 ui.hint.back,Zurück
 ui.hint.confirm,Bestätigen
 ui.vkbd.backspace,BACKSPACE
