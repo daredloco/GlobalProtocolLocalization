@@ -499,7 +499,7 @@ country.name.IDA,IDA-Länder
 country.name.IDB,IDA-Mischländer
 country.name.IDN,Indonesien
 country.name.IDX,Nur IDA-Länder
-country.name.IMN,Isle of Man
+country.name.IMN,Insel Man
 country.name.IND,Indien
 country.name.IRL,Irland
 country.name.IRN,Iran
@@ -943,7 +943,7 @@ event.falklands_diplomatic_crisis.title,Die diplomatische Krise um die Falklandi
 event.foreign_investment_surge.description,"Internationale Investoren haben das Land als eines der bevorzugten Ziele für Kapitalinvestitionen identifiziert. Eine stabile Regierungsführung, qualifizierte Arbeitskräfte und ein wachsender Verbrauchermarkt haben zu einem sprunghaften Anstieg der ausländischen Direktinvestitionen geführt.\n\nGroße multinationale Konzerne kündigen die Eröffnung neuer Fabriken, die Verlegung regionaler Hauptsitze und langfristige Infrastrukturpartnerschaften an."
 event.foreign_investment_surge.option1.text,Rollt den roten Teppich aus – baut Zugangsbarrieren ab
 event.foreign_investment_surge.option1.tooltip,Mit steuerlichen Anreizen Kapitalzuflüsse maximieren
-event.foreign_investment_surge.option2.text,Direktinvestitionen in vorrangige Branchen
+event.foreign_investment_surge.option2.text,Investitionen in vorrangige Branchen lenken
 event.foreign_investment_surge.option2.tooltip,Gezieltes Wachstum in strategischen Sektoren
 event.foreign_investment_surge.option3.text,"Nutzen Sie Ihren Verhandlungsspielraum, um einen Technologietransfer auszuhandeln"
 event.foreign_investment_surge.option3.tooltip,"Geringerer Zustrom, aber Ausbau der inländischen Kapazitäten"
@@ -953,7 +953,7 @@ event.global_food_price_spike.option1.text,Beschränkungen für den Lebensmittel
 event.global_food_price_spike.option1.tooltip,"Die heimische Versorgung sichern, aber die globale Krise verschärfen"
 event.global_food_price_spike.option2.text,Strategische Nahrungsmittelreserven freigeben und Grundnahrungsmittel subventionieren
 event.global_food_price_spike.option2.tooltip,"Sofortige Erleichterung, aber finanzielle Belastungen"
-event.global_food_price_spike.option3.text,Koordinierung der internationalen Hilfsmaßnahmen über die Vereinten Nationen
+event.global_food_price_spike.option3.text,Internationale Hilfsmaßnahmen über die Vereinten Nationen koordinieren
 event.global_food_price_spike.option3.tooltip,"Multilateraler Ansatz – langsam, aber nachhaltig"
 event.global_food_price_spike.title,Weltweite Nahrungsmittelpreiskrise
 event.global_oil_shock.description,"Eine plötzliche Unterbrechung der weltweiten Ölversorgung hat zu einem Anstieg der Rohölpreise um 40 % geführt. Die Spannungen in der Straße von Hormus und die Förderkürzungen der OPEC haben zusammen eine Energiekrise ausgelöst, wie sie seit 1973 nicht mehr zu beobachten war."
@@ -1006,7 +1006,7 @@ event.indonesian_capital_move.title,Nusantara: Indonesiens neue Hauptstadt wird 
 event.infrastructure_boom.description,"Ein Jahrzehnt nachhaltiger Infrastrukturinvestitionen hat nun seine Früchte getragen. Neue Hochgeschwindigkeitsbahnstrecken, modernisierte Häfen, ausgebaute Breitbandnetze und modernisierte Stromnetze sorgen für Produktivitätssteigerungen in der gesamten Wirtschaft.\n\nDie Logistikkosten sind stark gesunken, regionale Ungleichheiten verringern sich, und das Land hat in den globalen Wettbewerbsrankings deutlich an Boden gewonnen."
 event.infrastructure_boom.option1.text,Die nächste Phase der Infrastrukturinvestitionen ankündigen
 event.infrastructure_boom.option1.tooltip,Zinseszins-Effekt durch anhaltendes Engagement
-event.infrastructure_boom.option2.text,Öffnung der Infrastruktur für die Nachbarn in der Region
+event.infrastructure_boom.option2.text,Infrastruktur für Nachbarstaaten in der Region öffnen
 event.infrastructure_boom.option2.tooltip,"Die Gewinne teilen, um diplomatische und wirtschaftliche Vorteile zu erzielen"
 event.infrastructure_boom.option3.text,Infrastruktur-Know-how international exportieren
 event.infrastructure_boom.option3.tooltip,Werden Sie Partner für regionale Entwicklung
@@ -1385,6 +1385,7 @@ help.recruitment.title,Einstellungsgremium
 help.technology.body,"Erforsche neue Technologien, um Boni freizuschalten. Die Dauer der Forschung hängt von deinem Forschungsbudget und deinen Punkten ab."
 help.technology.title,Technologie-Podiumsdiskussion
 honorguarantee,Ehrengarantie
+hud.advisor.btn_tooltip,Berater-Tipps
 hud.agenda.activate_goal,Aktives Ziel festlegen
 hud.agenda.active_goal_label,AKTIVES ZIEL
 hud.agenda.active_goal_tag,AKTIV
@@ -3428,7 +3429,7 @@ hud.alert.resource_shortage,Ressourcenknappheit
 hud.alert.war_declared,Kriegserklärung!
 hud.army_tooltip.country,LAND
 hud.army_tooltip.total_strength,GESAMTSTÄRKE
-hud.army_tooltip.unknown_force,Unbekannte Kraft
+hud.army_tooltip.unknown_force,Unbekannte Truppen
 hud.auto.1000m,Eine Milliarde Dollar
 hud.auto.10_gdp,Ein Wachstum des BIP um zehn Prozent
 hud.auto.12_months,12 Monate
@@ -3484,7 +3485,7 @@ hud.auto.event_title_1,Veranstaltungstitel
 hud.auto.explored,ENTDECKT
 hud.auto.final_score,ENDSTAND
 hud.auto.fleet,FLOTTE
-hud.auto.force_comparison,Kraftvergleich
+hud.auto.force_comparison,Kräftevergleich
 hud.auto.gdp,BIP
 hud.auto.gdp_1,BIP
 hud.auto.geopolitical_crisis,GEOPOLITISCHE KRISE
@@ -3576,6 +3577,7 @@ hud.auto.u2713,✓
 hud.auto.u2715,✕
 hud.auto.u2717,✗
 hud.auto.ud83d_udcca,📊
+hud.auto.un,UN
 hud.auto.unexplored,UNERFORSCHT
 hud.auto.unit,EINHEIT
 hud.auto.units,Einheiten: —
@@ -3591,6 +3593,8 @@ hud.auto.war_details,KRIEGSDETAILS
 hud.auto.war_score_0,KRIEGSBILANZ: 0 %
 hud.auto.warheads,SPRENGKÖPFE
 hud.auto.wars,KRIEGE
+hud.building.tooltip.active_output,Aktive Ausgabe
+hud.building.tooltip.input_mix,Effektiver Eingabemix
 hud.building.tooltip.produces,Erzeugt
 hud.building.tooltip.requires,Erfordert
 hud.building.tooltip.unlocks,Freischaltungen
@@ -3617,6 +3621,8 @@ hud.common.none,KEINE
 hud.confirm.no,ABBRECHEN
 hud.confirm.title,AKTION BESTÄTIGEN
 hud.confirm.yes,BESTÄTIGEN
+hud.controlgroup.saved.body,{0} Einheit(en) gespeichert
+hud.controlgroup.saved.title,Steuerungsgruppe {0} gespeichert
 hud.country.active_research,AKTUELLE FORSCHUNG
 hud.country.back,◄ ZURÜCK ZU {0}
 hud.country.bud_infra,INFRA %
@@ -3697,6 +3703,29 @@ hud.defcon.non_nuclear,NICHT-NUKLEAR
 hud.defcon.peace,FRIEDEN
 hud.defcon.primary_adversary,HAUPTGEGNER: Entität #{0}
 hud.defcon.standby,STANDBY
+hud.dev.console.desc.admin,Admin-Panel öffnen/schließen
+hud.dev.console.desc.clear,Ausgabe löschen
+hud.dev.console.desc.economy_auto,Wirtschaftsstatus alle N Sekunden automatisch exportieren
+hud.dev.console.desc.economy_auto_off,periodische Wirtschafts-Exporte deaktivieren
+hud.dev.console.desc.economy_export,aktuellen Wirtschaftsstatus in CSV exportieren
+hud.dev.console.desc.help,alle Befehle auflisten
+hud.dev.console.desc.logs_ai,letzte N KI-Entscheidungen anzeigen
+hud.dev.console.desc.logs_ai_details,ausführliche KI-Entscheidungsdetails umschalten
+hud.dev.console.desc.logs_ai_disable,KI-Entscheidungsprotokollierung deaktivieren
+hud.dev.console.desc.logs_ai_enable,KI-Entscheidungsprotokollierung aktivieren
+hud.dev.console.desc.logs_cmd,letzte N Spielerbefehle anzeigen
+hud.dev.console.desc.snapshot_ai,KI-Entscheidungen zusammenfassen und Snapshot speichern
+hud.dev.console.desc.stats_ai,Zusammenfassung des KI-Entscheidungspuffers
+hud.dev.console.help_header,Verfügbare Befehle:
+hud.dev.console.help_logs_ai_details,logs ai details [on|off] schaltet die ausführliche KI-Entscheidungsausgabe um
+hud.dev.console.help_snapshot_ai,snapshot ai            fasst KI-Entscheidungen zusammen und speichert einen Schnappschuss
+hud.dev.console.logs_ai_details_disabled,Der Detailmodus für KI-Entscheidungen wurde deaktiviert.
+hud.dev.console.logs_ai_details_enabled,Der Detailmodus für KI-Entscheidungen wurde aktiviert.
+hud.dev.console.logs_ai_details_status,Detailmodus für KI-Entscheidungen: {0}
+hud.dev.console.logs_ai_details_usage,Verwendung: logs ai details [on|off]
+hud.dev.console.press_escape_hint,"Drücken Sie Escape oder `, um zu schließen."
+hud.dev.console.snapshot_ai_no_entries,Es wurden noch keine KI-Entscheidungen protokolliert.
+hud.dev.console.snapshot_ai_usage,Verwendung: snapshot ai
 hud.diplo.actions_section,DIPLOMATISCHE MASSNAHMEN
 hud.diplo.ae_coalition,AGGRESSIVE EXPANSION UND KOALITION
 hud.diplo.ae_perceptions,AE-Wahrnehmungen
@@ -3887,6 +3916,7 @@ hud.diplo.opinion_modifiers,MEINUNGSMODIFIKATOREN
 hud.diplo.opinion_row_label,{0}: {1}
 hud.diplo.org_memberships,INTERNATIONALE ORGANISATIONEN
 hud.diplo.our_relation,UNSERE BEZIEHUNG
+hud.diplo.pending_guarantee_honor,Ausstehende Garantieeinlösung
 hud.diplo.persona_non_grata,Persona non grata
 hud.diplo.prestige,PRESTIGE
 hud.diplo.prestige_econ,WIRTSCHAFTLICHES ANSEHEN
@@ -3899,15 +3929,21 @@ hud.diplo.propose_unsc_sanction,VORSCHLAG FÜR EINE SANKTION DES UN-Sicherheitsr
 hud.diplo.proposed_by,vorgeschlagen von
 hud.diplo.provinces_occupied,BESETZTE PROVINZEN
 hud.diplo.reason.allied,Ein Verbündeter kann nicht als Ziel ausgewählt werden
+hud.diplo.reason.already_in_bloc,Sie sind bereits Mitglied eines Handelsblocks
 hud.diplo.reason.already_un_member,Das Land ist bereits Mitglied der Vereinten Nationen
 hud.diplo.reason.at_war,Derzeit im Krieg
 hud.diplo.reason.cooldown,Diese diplomatische Maßnahme wurde kürzlich ergriffen. Sie wird ab {0} wieder zur Verfügung stehen.
+hud.diplo.reason.debt_trap_healthy,"{0} hat das Kreditangebot abgelehnt, da die Staatskasse gesund ist und derzeit keine zusätzlichen Schulden benötigt werden."
+hud.diplo.reason.debt_trap_relations,{0} hat das Kreditangebot aufgrund schlechter diplomatischer Beziehungen abgelehnt.
 hud.diplo.reason.defense_pact,Ein Verteidigungsabkommen verhindert dies
 hud.diplo.reason.embassy_relations,Die Beziehungen sind zu angespannt für eine Botschaft (erforderlich: -20 oder besser)
 hud.diplo.reason.has_treaty,Es besteht bereits ein Vertrag
+hud.diplo.reason.insufficient_funds,Nicht genügend Staatskassenmittel
 hud.diplo.reason.no_cb,Wähle zuerst einen Casus Belli aus
 hud.diplo.reason.not_at_war,Kein Krieg
 hud.diplo.reason.not_unsc_member,Erfordert die Mitgliedschaft im UN-Sicherheitsrat
+hud.diplo.reason.same_bloc,Bereits im selben Handelsblock
+hud.diplo.reason.target_no_bloc,Das Zielland gehört keinem Handelsblock an
 hud.diplo.reason.truce,Aktiver Waffenstillstand
 hud.diplo.reason.unavailable,NICHT VERFÜGBAR
 hud.diplo.reason.unexplored,Noch unerforschtes Gebiet
@@ -3937,11 +3973,19 @@ hud.diplo.response_accepted_body,Du hast {0}s {1} angenommen.
 hud.diplo.response_accepted_title,{0} Akzeptiert
 hud.diplo.response_rejected_body,Du hast {0}s {1} abgelehnt.
 hud.diplo.response_rejected_title,{0} Abgelehnt
+hud.diplo.result.aid_package,Hilfspaket an {0} gesendet. Kosten: {1}. Beziehungen +{2}
+hud.diplo.result.currency_manip,{0} von Währungsmanipulationen betroffen. Inflation +{1}
+hud.diplo.result.debt_trap,Hochverzinslicher Kredit an {0} vergeben. Monatliche Zinsen: {1}
+hud.diplo.result.trade_war,Der Handelskrieg gegen {0} eskalierte auf die Stufe {1}. Zoll +{2}
 hud.diplo.revoke_guarantee,WIDERRUFSRECHT
 hud.diplo.rival,Rival
 hud.diplo.rival_count,RIVALENZÄHLUNG
 hud.diplo.rivals,KONKURRENTEN
 hud.diplo.sanction,SANKTION
+hud.diplo.sanction_type.arms_embargo,Waffenembargo
+hud.diplo.sanction_type.asset_freeze,Einfrieren von Vermögenswerten
+hud.diplo.sanction_type.bilateral,Bilaterale Sanktion
+hud.diplo.sanction_type.trade_embargo,Handelsembargo
 hud.diplo.sanctions_section,SANKTIONEN
 hud.diplo.search_placeholder,Länder filtern...
 hud.diplo.select_cb,CASUS BELLI
@@ -3954,6 +3998,9 @@ hud.diplo.sphere_of_influence,Einflussbereich
 hud.diplo.sphere_release,AUS DER SPHÄRE ENTLASSEN
 hud.diplo.start_trade_war,HANDELSKRIEG BEGINNEN
 hud.diplo.states_section,DIPLOMATISCHE VERTRETUNGEN
+hud.diplo.subtab_actions,BILATERALE AKTIONEN
+hud.diplo.subtab_overview,ÜBERSICHT
+hud.diplo.subtab_relations,BEZIEHUNGSBUCH
 hud.diplo.trade_active,AKTIVES HANDELSABKOMMEN
 hud.diplo.trade_agreement,HANDELSABKOMMEN
 hud.diplo.trade_bloc_partner,Handelsblock-Partner
@@ -4159,6 +4206,7 @@ hud.econ.policy_target_low,NIEDRIGES INFLATIONSZIEL
 hud.econ.production,PRODUKTION
 hud.econ.res_col_cons,HINWEIS
 hud.econ.res_col_eff,Electronic Frontier Foundation
+hud.econ.res_col_income,Einnahmen
 hud.econ.res_col_net,NETTO
 hud.econ.res_col_price,PREIS
 hud.econ.res_col_prod,PRODUKTION
@@ -4166,6 +4214,8 @@ hud.econ.res_col_resource,RESSOURCE
 hud.econ.res_col_stock,LAGER
 hud.econ.res_col_value,WERT
 hud.econ.research_pct,FORSCHUNG
+hud.econ.reserve_auto_buy,AUTO-KAUF
+hud.econ.reserve_auto_sell,AUTO-VERKAUF
 hud.econ.reserve_contribution,+ DIESEN MONAT
 hud.econ.reserve_flow_section,RESERVESTROM
 hud.econ.reserve_last_spend,- LETZTE AUSGABE
@@ -4188,6 +4238,10 @@ hud.econ.social_pct,SOZIALES
 hud.econ.spending_allocation,AUSGABENALLOKATION
 hud.econ.stabilization_reserve,STABILISIERUNGSRESERVE
 hud.econ.stock_months,{0:F1}{1}
+hud.econ.subtab_budget,HAUSHALT & FINANZEN
+hud.econ.subtab_overview,ÜBERSICHT
+hud.econ.subtab_policy,GELDPOLITIK
+hud.econ.subtab_resources,RESERVEN & VORRÄTE
 hud.econ.tariff_rate,Zollsatz
 hud.econ.tax_income,STEUEREINKÜNFTE
 hud.econ.tax_rate,STEUERSATZ
@@ -4312,10 +4366,15 @@ hud.event.reason.requires_war,"Voraussetzung ist, dass sich das Land im Krieg be
 hud.event.reason.sanction_target_unresolved,Das Sanktionsziel konnte nicht ermittelt werden.
 hud.event.reason.sanctions_already_active,Gegen dieses Ziel sind bereits Sanktionen in Kraft.
 hud.event.stat.budget_treasury,Staatskasse
+hud.event.stat.economy_energy_resilience,Energy Resilience
 hud.event.stat.economy_gdp,BIP
 hud.event.stat.economy_growth_rate,BIP-Wachstum
 hud.event.stat.economy_inflation,Inflation
 hud.event.stat.government_corruption,Korruption
+hud.event.stat.government_deterrence_credibility,Deterrence Credibility
+hud.event.stat.government_disaster_resilience,Disaster Resilience
+hud.event.stat.government_institutional_resilience,Institutional Resilience
+hud.event.stat.government_integration_capacity,Integration Capacity
 hud.event.stat.government_stability,Stabilität
 hud.event.stat.military_active_personnel,MANNSTÄRKE
 hud.event.stat.military_defense_budget,Verteidigungshaushalt
@@ -4330,6 +4389,13 @@ hud.event.trade_agreement,HANDELSABKOMMEN
 hud.event.trade_agreement_desc,Einrichtung einer Freihandelszone mit den Nachbarstaaten
 hud.event.war_declared,Kriegserklärung!
 hud.event.war_declared_desc,{0} hat {1} den Krieg erklärt (CB: {2})
+hud.eventlog.cat.crisis,KRISE
+hud.eventlog.cat.diplomacy,DIPLOMATIE
+hud.eventlog.cat.economy,WIRTSCHAFT
+hud.eventlog.cat.intelligence,GEHEIMDIENST
+hud.eventlog.cat.military,MILITÄR
+hud.eventlog.cat.politics,POLITIK
+hud.eventlog.cat.tech,TECHNOLOGIE
 hud.eventlog.detail.fallback_context,Der Ereigniskontext ist teilweise verfügbar.
 hud.eventlog.detail.fallback_impact,"Überprüfen Sie die zugehörigen Overlays, um umgehend entsprechende Maßnahmen zu ergreifen."
 hud.eventlog.detail.fallback_why,"Diese Entwicklung könnte sich auf Ihre diplomatische, wirtschaftliche oder militärische Planung auswirken."
@@ -4370,6 +4436,7 @@ hud.inbox.title,DIPLOMATISCHER POSTEINGANG
 hud.inbox.toast.alliance_crisis,{0} hat ein Bündnismitglied angegriffen. Ihre Stimme ist erforderlich.
 hud.inbox.toast.alliance_proposal,{0} schlägt ein Bündnis vor.
 hud.inbox.toast.call_to_arms,{0} ruft euch zu den Waffen!
+hud.inbox.toast.debt_trap_proposal,{0} hat Ihnen ein Schuldenfallen-Kreditangebot unterbreitet.
 hud.inbox.toast.generic,{0} hat eine diplomatische Anfrage gesendet.
 hud.inbox.toast.honor_guarantee,{0} steht unter Beschuss – Ihre Garantie ist nun in Kraft getreten!
 hud.inbox.toast.nap_proposal,{0} schlägt einen Nichtangriffspakt vor.
@@ -4383,6 +4450,7 @@ hud.inbox.toast_title,DIPLOMATISCHE ANFRAGE
 hud.inbox.tooltip.accept.alliance_crisis,Sie erklären {0} solidarisch den Krieg.
 hud.inbox.tooltip.accept.alliance_proposal,Du schließt ein Bündnis mit {0}.
 hud.inbox.tooltip.accept.call_to_arms,Du schließt dich dem Krieg deines Verbündeten gegen {0} an.
+hud.inbox.tooltip.accept.debt_trap_proposal,Akzeptieren Sie den Kredit von {0} und erhalten Sie sofort {1}
 hud.inbox.tooltip.accept.generic,Die Anfrage wurde angenommen.
 hud.inbox.tooltip.accept.honor_guarantee,Du beginnst den Verteidigungskrieg gegen {0}.
 hud.inbox.tooltip.accept.nap_proposal,Du unterzeichnest einen Nichtangriffspakt mit {0}.
@@ -4397,6 +4465,7 @@ hud.inbox.tooltip.button_reject_desc,Lehnen Sie diesen Antrag unverzüglich ab.
 hud.inbox.tooltip.desc.alliance_crisis,Ein Mitglied des kollektiven Verteidigungsbündnisses hat ein anderes angegriffen. Sie können solidarisch handeln oder sich enthalten — für eine Enthaltung gibt es keine Strafe.
 hud.inbox.tooltip.desc.alliance_proposal,Dieses Land strebt ein formelles Bündnis an.
 hud.inbox.tooltip.desc.call_to_arms,"Ein Verbündeter bittet dich, dich an einem laufenden Krieg zu beteiligen."
+hud.inbox.tooltip.desc.debt_trap_proposal,"Sie bieten an, 5 % unseres BIP in unsere Staatskasse zu überweisen. Wir zahlen ihnen monatliche Zinsen zu einem jährlichen Zinssatz von 8 %, bis der Kredit beglichen ist."
 hud.inbox.tooltip.desc.generic,Prüfen Sie dieses diplomatische Ersuchen und wählen Sie Ihre Antwort aus.
 hud.inbox.tooltip.desc.honor_guarantee,"Ein Land, für das eine Garantie besteht, wird angegriffen und bittet dich, deiner Garantie nachzukommen."
 hud.inbox.tooltip.desc.nap_proposal,Dieses Land schlägt einen Nichtangriffspakt vor.
@@ -4420,6 +4489,7 @@ hud.inbox.tooltip.label.war_score,Kriegsbilanz
 hud.inbox.tooltip.reject.alliance_crisis,"Sie enthalten sich. Keine Strafe — Solidarität ist freiwillig, keine Vertragsverpflichtung."
 hud.inbox.tooltip.reject.alliance_proposal,Die Beziehungen zu {0} verschlechtern sich.
 hud.inbox.tooltip.reject.call_to_arms,Du bringst Schande über den Ruf. Die Allianz zerbricht. -10 Ansehen. -40 Beziehungen zu {0}.
+hud.inbox.tooltip.reject.debt_trap_proposal,Den Kredit von {0} ablehnen
 hud.inbox.tooltip.reject.generic,Der Antrag wird abgelehnt.
 hud.inbox.tooltip.reject.honor_guarantee,Deine Garantie ist erloschen. Dein Ansehen sinkt und deine Beziehungen zu {0} verschlechtern sich.
 hud.inbox.tooltip.reject.nap_proposal,Die Beziehungen zu {0} lassen leicht nach.
@@ -4432,6 +4502,7 @@ hud.inbox.tooltip.title,{0} von {1}
 hud.inbox.type_alliance_crisis,Bündniskrisen-Abstimmung
 hud.inbox.type_alliance_proposal,Vorschlag für ein Bündnis
 hud.inbox.type_call_to_arms,Aufruf zu den Waffen
+hud.inbox.type_debt_trap_proposal,Schuldenfallen-Kreditangebot
 hud.inbox.type_generic,Diplomatische Anfrage
 hud.inbox.type_honor_guarantee,Garantie in Anspruch genommen
 hud.inbox.type_nap_proposal,Nichtangriffspakt
@@ -4511,6 +4582,8 @@ hud.intel.state_caught,ERWISCHT
 hud.intel.state_failed,FEHLGESCHLAGEN
 hud.intel.state_success,ERFOLG
 hud.intel.status,Status
+hud.intel.subtab_intel,NACHRICHTENDIENST
+hud.intel.subtab_specialists,SPEZIALISTEN
 hud.intel.target_country,Zielland
 hud.intel.type_counterintel,Spionageabwehr
 hud.intel.type_gather,Informationen sammeln
@@ -4964,7 +5037,7 @@ hud.log.request_expired.who,Anfragender: {0}.
 hud.log.request_expired.why,Verfallene Ersuchen können diplomatische Möglichkeiten zunichte machen und die Optionen für eine kurzfristige Zusammenarbeit einschränken.
 hud.log.request_response.impact,Aufgrund Ihrer Entscheidung hat sich Ihre diplomatische Haltung gegenüber diesem Land geändert.
 hud.log.request_response.title,{0} von {1} {2}
-hud.log.request_response.what,You {0} a {1} request from {2}.
+hud.log.request_response.what,Du hast eine {1}-Anfrage von {2} {0}.
 hud.log.request_response.who,Antragsteller: {0}. Entscheidungsträger: Sie.
 hud.log.request_response.why,Diese Reaktion wirkt sich auf das gegenseitige Vertrauen und den Ausgang künftiger Vorschläge aus.
 hud.log.resource_shortage.impact,"Öffnen Sie das Ressourcenfenster, um die fehlenden Inputs zu ermitteln und zu entscheiden, ob Handel oder Gewinnung Vorrang haben soll."
@@ -5028,6 +5101,10 @@ hud.log.war_result.term_status_quo,Weißer Frieden – der Status quo bleibt erh
 hud.log.war_result.what,{0} setzte sich mit einer Kriegsbilanz von {1:F0} % durch. {2} erzielte {3:F0} %.
 hud.log.war_result.who,{0} vs. {1} – Casus belli: {2}
 hud.log.war_result.why,Kämpfe — {0}: {1}/{2} hat gewonnen. {3}: {4}/{5} hat gewonnen. Der Krieg dauerte {6} Tage.
+hud.main_menu.steam_page_desc,Global Protocol auf Steam ansehen.
+hud.main_menu.steam_page_title,STEAM-SEITE
+hud.main_menu.steam_wishlist_desc,Unterstütze die Entwicklung und merke Global Protocol auf Steam vor.
+hud.main_menu.steam_wishlist_title,AUF STEAM VORMERKEN
 hud.mapmode.diplomatic.desc,"Beziehungen zu Ihrem Land – rot = feindlich, gelb = neutral, grün = freundlich."
 hud.mapmode.diplomatic.title,Diplomatisch
 hud.mapmode.economic.desc,"BIP-Dichte nach Bundesland – dunkler = ärmer, goldfarben = am wohlhabendsten."
@@ -5062,7 +5139,7 @@ hud.mil.army_busy_combat,Die Armee befindet sich im Kampf und kann sich nicht be
 hud.mil.army_embarking_eta,"⛴ Einschiffung in P#{0}, voraussichtliche Ankunftszeit {1}d"
 hud.mil.army_in_retreat,Die Armee befindet sich im erzwungenen Rückzug und kann nicht umgeleitet werden.
 hud.mil.army_moving,→ P#{0} ({1:F0}%)
-hud.mil.army_moving_eta,→ P#{0} ({1:F0}%) ETA {2}d
+hud.mil.army_moving_eta,→ P#{0} ({1:F0}%) UND {2}d
 hud.mil.army_name,Armee #{0}
 hud.mil.army_target_sea_zone,Landstreitkräfte können nicht in Seegebiete beordert werden.
 hud.mil.army_unavailable,Army ist derzeit nicht erreichbar und kann derzeit keine Bestellungen annehmen.
@@ -5215,6 +5292,9 @@ hud.mil.split_tooltip,Einheiten in eine neue Armee aufteilen
 hud.mil.split_unavailable,Es werden mindestens 2 Einheiten zur Aufteilung benötigt
 hud.mil.strike_history,STREIKVERLAUF
 hud.mil.submarines,U-BOOTE
+hud.mil.subtab_armies,ARMEEN & KRIEGE
+hud.mil.subtab_nuclear,STRATEGISCHE SYSTEME
+hud.mil.subtab_overview,STREITKRÄFTE & DEFCON
 hud.mil.tanks,TANKS
 hud.mil.target_province,ZIELPROVINZ
 hud.mil.transport.confirm_army_legacy,Armee {0}: temporäre Transportflotte
@@ -5399,7 +5479,7 @@ hud.missile.status.production_queued,"Produktion in der Warteschlange ({0} Monat
 hud.missile.status.select_target_first,"Wählen Sie „Ziel auf der Karte auswählen“, um ein Ziel auszuwählen."
 hud.missile.strike.btn_launch,Startangriff
 hud.missile.strike.btn_select_target,Ziel auf der Karte auswählen
-hud.missile.strike.choice,{0} x{1} (R:{2})
+hud.missile.strike.choice,{0} x {1} (R: {2})
 hud.missile.strike.missile,Rakete
 hud.missile.strike.no_conv_but_nuclear,"{0} Atomsprengköpfe verfügbar – erkläre den Krieg, um den Reiter „Atomwaffen“ freizuschalten."
 hud.missile.strike.no_missile_selected,Es wurde keine Rakete ausgewählt.
@@ -5440,6 +5520,7 @@ hud.nav.recruit,REKRUT.
 hud.nav.recruit_desc,Neue Einheiten rekrutieren und ausbilden
 hud.nav.tech,TECHNOLOGIE
 hud.nav.tech_desc,Neue Technologien erforschen
+hud.notification.iran_hormuz_closed,Iran has closed the Strait of Hormuz - major powers consider intervention
 hud.outliner.actor_player,Ihre Regierung
 hud.outliner.agenda_entry_body,Öffnen Sie die Agenda und legen Sie Ihr aktuelles Hauptziel fest. Die Aufgaben im Outliner richten sich nach dieser Auswahl.
 hud.outliner.agenda_entry_title,Offene strategische Agenda
@@ -5709,6 +5790,7 @@ hud.province.efx_maintenance,WARTUNG
 hud.province.efx_pop_growth,BEVÖLKERUNGSWACHSTUM
 hud.province.efx_research,FORSCHUNG
 hud.province.efx_unrest_reduction,VERRINGERUNG VON UNRUHEN
+hud.province.error_no_state,Diese Provinz kann gerade nicht ausgewählt werden.
 hud.province.fertility,FRUCHTBARKEIT
 hud.province.gdp,BIP
 hud.province.geo_requirement.continental_shelf,ERFORDERT EINE LAGE AN DER KÜSTE
@@ -5885,7 +5967,7 @@ hud.quickbuild.recommendations_subtitle,Wählen Sie eine Empfehlung aus oder nut
 hud.quickbuild.recommendations_title,EMPFEHLUNGEN DER PROVINZ
 hud.quickbuild.slots,{0}/{1}-Steckplätze frei
 hud.quickbuild.slots_build,{0} Bild
-hud.quickbuild.slots_short,{0} kostenlos
+hud.quickbuild.slots_short,{0} frei
 hud.quickbuild.slots_upgrade,{0} upg
 hud.quickbuild.stale_target,Die Provinz wurde geändert. Bitte wählen Sie erneut eine Empfehlung aus.
 hud.quickbuild.strategy_all,Alle
@@ -5994,13 +6076,23 @@ hud.res_world.col_prod,Produktion
 hud.res_world.col_stock,Vorrat
 hud.res_world.col_value,Wert
 hud.res_world.no_data,Es liegen keine Produktionsdaten vor.
+hud.res_world.policy_auto_buy,Defizit automatisch kaufen: {0}
+hud.res_world.policy_auto_buy_off,AUS
+hud.res_world.policy_auto_buy_on,EIN
 hud.res_world.policy_auto_sell,Überschuss automatisch verkaufen: {0}
 hud.res_world.policy_auto_sell_off,AUS
 hud.res_world.policy_auto_sell_on,EIN
+hud.res_world.policy_bulk_enable_auto_buy_noop,Keine Reserveziele wurden fuer Auto-Kauf aktualisiert.
+hud.res_world.policy_bulk_enable_auto_sell_noop,Keine Reserveziele wurden fuer Auto-Verkauf aktualisiert.
+hud.res_world.policy_enable_all_auto_buy,Automatischen Kauf fur alle Reserveziele aktivieren
 hud.res_world.policy_enable_all_auto_sell,Automatischen Verkauf für alle Reserveziele aktivieren
 hud.res_world.policy_resource,Ressource
 hud.res_world.policy_section,Lagerpolitik
 hud.res_world.policy_status,Aktuell: {0} | Ziel: {1} | Überschuss: {2}
+hud.res_world.policy_status_auto_buy_off,Auto-Kauf ist derzeit AUS.
+hud.res_world.policy_status_no_consumption,Automatik inaktiv: Diese Ressource hat keinen monatlichen Verbrauch.
+hud.res_world.policy_status_no_target,Automatik inaktiv: Zielreserve ist 0 Monate.
+hud.res_world.policy_status_treasury_floor,Auto-Kauf pausiert: Schatz liegt unter der Sicherheitsgrenze ({0}).
 hud.res_world.policy_target_months,Zielreserve
 hud.res_world.policy_view_only,NUR ANZEIGE: Die Lagerpolitik kann nur für dein eigenes Land bearbeitet werden.
 hud.res_world.title,{0} — Weltweite Produktion
@@ -6131,6 +6223,8 @@ hud.tech.status_available,VERFÜGBAR
 hud.tech.status_locked,GESPERRT
 hud.tech.status_researched,GEPRÜFT ✓
 hud.tech.status_researching,RECHERCHE {0:F0}%
+hud.tech.subtab_overview,FORSCHUNGSÜBERSICHT
+hud.tech.subtab_suggestions,VORSCHLÄGE
 hud.tech.suggested_section,EMPFOHLENE WEITERE TECHNOLOGIEN
 hud.tech.surveillance_visibility,ÜBERBLICK ÜBER DIE ÜBERWACHUNG
 hud.tech.toast_prereq_desc,Fehlt: {0}
@@ -6212,6 +6306,7 @@ hud.toast.envoy_threat_detected_desc,"Es wurde festgestellt, dass ein ausländis
 hud.toast.fleet_lost,FLOTTE VERLOREN
 hud.toast.fleet_lost_desc,{0} Flottenverbände gingen im Seekampf verloren.
 hud.toast.fleet_move_blocked,Flottenbewegung blockiert
+hud.toast.host_controls_time,Nur der Host kann Pause und Spielgeschwindigkeit steuern.
 hud.toast.incoming_strike_desc,Eine anfliegende Rakete ist auf unserem Staatsgebiet eingeschlagen.
 hud.toast.independence_guaranteed.body,{0} hat Ihre Unabhängigkeit gesichert.
 hud.toast.independence_guaranteed.title,Unabhängigkeit garantiert
@@ -6260,6 +6355,7 @@ hud.toast.resource_shortage.body,"Baufortschritt bei {0:F0} %, Rekrutierungskost
 hud.toast.resource_shortage.title,Ressourcenknappheit
 hud.toast.rival_designated.body,{0} hat dich als Rivalen ausgewiesen.
 hud.toast.rival_designated.title,Als Rivale benannt
+hud.toast.sanction_enforcers,{0} Länder setzen durch
 hud.toast.sanction_imposed.body,{0} hat Sanktionen gegen dich verhängt.
 hud.toast.sanction_imposed.title,Verhängte Sanktionen
 hud.toast.selection_mode_desc,Zur Auswahl „{0}“ gewechselt.
@@ -6436,6 +6532,8 @@ hud.year_summary.best_province,TOP-PROVINZ
 hud.year_summary.buildings,ERRICHTETE GEBÄUDE
 hud.year_summary.close,WEITER
 hud.year_summary.defense_spend,VERTEIDIGUNGSAUSGABEN
+hud.year_summary.demo_button,STEAM-SEITE ÖFFNEN
+hud.year_summary.demo_prompt,Gefällt dir die Demo? Wishlist Global Protocol auf Steam.
 hud.year_summary.gdp_change,Veränderung des BIP
 hud.year_summary.gdp_events,AUSWIRKUNGEN DER VERANSTALTUNG
 hud.year_summary.gdp_ledger_title,JAHRESABRECHNUNG DES BIP-DELTA
@@ -6451,6 +6549,7 @@ improverelations,Die Beziehungen verbessern
 insult,Schlaganfall
 liberation,Befreiung
 liftsanction,Aufhebung der Sanktion
+menu.back,ZURÜCK
 menu.continue,WEITER
 menu.credits,IMPRESSUM
 menu.load_game,SPIEL LADEN
@@ -6468,7 +6567,7 @@ menu.mods.badge.scenario,SCENARIO
 menu.mods.badge.scripted,SCRIPTED
 menu.mods.badge.workshop,WORKSHOP
 menu.mods.badge.write_flags,FLAGS
-menu.mods.badge.write_treasury,TREASURY
+menu.mods.badge.write_treasury,STAATSKASSE
 menu.mods.close,SCHLIESSEN
 menu.mods.delete_confirm.body,'{0}' vom Datenträger löschen? Dies kann nicht rückgängig gemacht werden.
 menu.mods.delete_confirm.title,MOD LÖSCHEN
@@ -6481,8 +6580,9 @@ menu.mods.status.disabled,DEAKTIVIERT
 menu.mods.status.enabled,AKTIVIERT
 menu.mods.subtitle,Lokale Mods aktivieren und das Szenario für das nächste neue Spiel auswählen.
 menu.mods.title,MOD-ZUSAMMENSTELLUNG
-menu.mods.wasm_error_bar,{0} mod(s) failed to initialize scripting. The game continues normally.
+menu.mods.wasm_error_bar,{0} Mod(s) fAI haben zur Initialisierung des Skripts geführt. Das Spiel läuft normal weiter.
 menu.mods_broken_section,MISSING MODS
+menu.multiplayer,MULTIPLAYER
 menu.new_game,NEUES SPIEL
 menu.pause.quitting,Beendet und kehrt zum Desktop zurück...
 menu.quit,BEENDEN
@@ -6524,6 +6624,67 @@ month.may,Mai
 month.nov,Nov
 month.oct,Okt
 month.sep,Sep
+mp.diag.confirmed_tick,Bestätigter Tick
+mp.diag.is_desynced,Nicht synchron
+mp.diag.is_stalled,Blockiert
+mp.diag.last_3_hashes,Letzte 3 Hashes
+mp.diag.lifecycle_state,Status
+mp.diag.local_tick,Lokaler Tick
+mp.diag.snapshot_progress,Snapshot-Fortschritt
+mp.error.lobby_create_failed,FAI hat zur Einrichtung der Lobby geführt: {0}
+mp.error.lobby_join_failed,FAI wurde in die Lobby geführt: {0}
+mp.error.steam_unavailable,Steam ist nicht gestartet. Für den Mehrspielermodus muss Steam aktiv sein.
+mp.handshake.mismatch,Multiplayer-Versionskonflikt. Alle Spieler müssen dieselbe Spielversion und dieselben Mods verwenden.
+mp.lobby.column.host,GASTGEBER
+mp.lobby.column.mods,MODS
+mp.lobby.column.players,SPIELER
+mp.lobby.column.scenario,SZENARIO
+mp.lobby.column.version,VERSION
+mp.lobby.empty,Es wurden keine Lobbys gefunden.
+mp.lobby.host,Heimspiel
+mp.lobby.hosting,WIRD ERSTELLT...
+mp.lobby.join,MITMACHEN
+mp.lobby.refresh,AKTUALISIEREN
+mp.lobby.refreshing,SUCHT...
+mp.lobby.title,MEHRSPIELER-LOBBY
+mp.modal.connection_lost.body,"Die Verbindung zur Multiplayer-Sitzung wurde unterbrochen. Das Spiel wurde angehalten, während wir versuchen, die Verbindung wiederherzustellen."
+mp.modal.connection_lost.quit,ZUM MENÜ ZURÜCK
+mp.modal.connection_lost.restored_body,Die Verbindung zur Multiplayer-Sitzung wurde wiederhergestellt.
+mp.modal.connection_lost.retry,NEU VERSUCHEN
+mp.modal.connection_lost.title,VERBINDUNG UNTERBROCHEN
+mp.peer.offline,Offline
+mp.peer.online,Online
+mp.resync.failed_save_load,"fAI wurde neu synchronisiert. Bitte speichern und laden Sie die Sitzung, um die Synchronisation wiederherzustellen."
+mp.resync.initial_sync,Anfangszustand wird empfangen…
+mp.resync.initial_sync_host,Anfangszustand wird vorbereitet…
+mp.resync.retry,SYNCHRONISIERUNG WIEDERHOLEN
+mp.resync.subtitle.failed,"Synchronisierung fehlgeschlagen. Drücke „Wiederholen"", um es erneut zu versuchen."
+mp.resync.subtitle.sending,Anfangszustand wird gesendet…
+mp.resync.subtitle.syncing,Anfangszustand wird empfangen…
+mp.resync.synchronizing,Synchronisierung mit Host…
+mp.room.cannot_start_not_ready,"Ich hoffe, dass alle Spieler bereit sind."
+mp.room.cannot_start_pick_country,"Es wird gewartet, bis alle Spieler ein Land ausgewählt haben."
+mp.room.cannot_start_unique_country,Jeder Spieler muss ein einzigartiges Land auswählen.
+mp.room.chat_placeholder,Gib eine Nachricht ein...
+mp.room.country_label,Land
+mp.room.host_label,GASTGEBER
+mp.room.leave,VERLASSEN
+mp.room.mod_mismatch,Modell-Mismatch: {0}
+mp.room.not_ready,NOCH NICHT BEREIT
+mp.room.pick_country,Land auswählen
+mp.room.ready,BEREIT
+mp.room.scenario_label,Szenario
+mp.room.start,START
+mp.room.title,LOBBY
+mp.room.version_mismatch,Spielversionen stimmen nicht überein: {0}
+mp.roster.you,DU
+mp.stall.waiting,Warten auf {0}...
+mp.toast.host_changed.body,{0} ist nun der Sitzungshost.
+mp.toast.host_changed.title,HOST GEÄNDERT
+mp.toast.player_disconnected.body,{0} ist nicht mehr erreichbar. AI hat die Macht im Land übernommen.
+mp.toast.player_disconnected.title,Spieler getrennt
+mp.toast.player_reconnected.body,{0} schlossen sich wieder an und übernahmen erneut die Kontrolle über ihr Land.
+mp.toast.player_reconnected.title,SPIELER WIEDER VERBUNDEN
 none,Keine
 nuclearnonproliferation,Nichtverbreitung von Kernwaffen
 pause.load,SPIEL LADEN
@@ -6733,6 +6894,8 @@ resource.name.wool,Wolle
 saveload.autosave,Automatisches Speichern
 saveload.autosave.language_switch,Automatische Speicherung – Sprachumschaltung
 saveload.back,◀ ZURÜCK
+saveload.badge.multiplayer,MP
+saveload.badge.singleplayer,SP
 saveload.cannot_load,Dieser Spielstand kann nicht geladen werden.
 saveload.cloud_synced,☁ Mit der Cloud synchronisiert
 saveload.confirm_delete,„{0}“ löschen?
@@ -6741,15 +6904,17 @@ saveload.date_format,{0}/{1}/{2}
 saveload.deferred_init_not_ready,Die Initialisierung ist nach {0}s noch nicht abgeschlossen. Bitte versuchen Sie es erneut.
 saveload.deferred_init_timeout,Die Initialisierung ist nach {0}s abgelaufen. Bitte versuchen Sie es erneut.
 saveload.delete_btn,LÖSCHEN
+saveload.err.mp_save_in_sp,"Dies ist ein Multiplayer-Speicherstand. Öffne eine Multiplayer-Lobby, um ihn zu laden."
 saveload.err_empty_name,Gib zuerst einen Namen für die Speicherdatei ein
 saveload.err_no_selection,Wählen Sie zunächst eine Speicherdatei aus
 saveload.error,Fehler: {0}
+saveload.game_mode,Mode: {0}
 saveload.invalid_or_corrupted,Ungültige oder beschädigte Speicherdatei.
 saveload.load_btn,LADEN
 saveload.load_title,SPIEL LADEN
 saveload.loaded_ok,Das Spiel wurde erfolgreich geladen
 saveload.manager_missing,Das Speichersystem ist derzeit nicht verfügbar
-saveload.mod_mismatch,This save requires the same enabled mods as when it was created.
+saveload.mod_mismatch,Für diesen Spielstand müssen dieselben Mods aktiviert sein wie zum Zeitpunkt seiner Erstellung.
 saveload.mods_used,Mods: {0}
 saveload.no_saves,Es wurden keine Speicherstände gefunden
 saveload.not_in_cloud,○ Nicht in der Cloud
@@ -7055,6 +7220,7 @@ select.badge_hard,ANSPRUCHSVOLL
 select.badge_normal,NORMAL
 select.col_name,Name
 select.col_rank,Rang
+select.confirm_country,LAND BESTÄTIGEN
 select.difficulty_1,★ ANFÄNGER
 select.difficulty_2,★★ EINFACH
 select.difficulty_3,★★★ NORMAL
@@ -7096,6 +7262,8 @@ settings.cancel,ABBRECHEN
 settings.controls.action.CameraMove,Kamerabewegung
 settings.controls.action.CameraZoom,Zoom-Kamera
 settings.controls.action.ContextMenu,Kontextmenü
+settings.controls.action.ControlGroupRecall,Steuerungsgruppe aufrufen
+settings.controls.action.ControlGroupSave,Steuerungsgruppe speichern
 settings.controls.action.Escape,Zurück / Zurück
 settings.controls.action.GoHome,Nach Hause
 settings.controls.action.MapModeDiplomatic,Diplomatische Karte
@@ -7106,20 +7274,20 @@ settings.controls.action.MapModeNuclear,Kernkraftkarte
 settings.controls.action.MapModePolitical,Politische Karte
 settings.controls.action.MapModePopulation,Bevölkerung
 settings.controls.action.MapModeTerrain,Geländekarte
+settings.controls.action.OpenAgenda,Tagesordnung öffnen
 settings.controls.action.OpenDiplomacy,Diplomatie öffnen
 settings.controls.action.OpenEconomy,Wirtschaft öffnen
+settings.controls.action.OpenEnvoys,Spezialisten öffnen
 settings.controls.action.OpenEventLog,Ereignisprotokoll öffnen
 settings.controls.action.OpenIntel,Geheimdienst öffnen
 settings.controls.action.OpenLedger,Hauptbuch öffnen
 settings.controls.action.OpenMilitary,Militär öffnen
+settings.controls.action.OpenOverview,Überblick öffnen
 settings.controls.action.OpenProvinces,Provinzen öffnen
+settings.controls.action.OpenRecruit,Rekrutierung öffnen
 settings.controls.action.OpenSearch,Suche starten
 settings.controls.action.OpenTech,Technologie öffnen
 settings.controls.action.SelectProvince,Provinz auswählen
-settings.controls.action.Speed1,Geschwindigkeit 1
-settings.controls.action.Speed2,Geschwindigkeit 2
-settings.controls.action.Speed3,Geschwindigkeit 3
-settings.controls.action.Speed5,Geschwindigkeit 5
 settings.controls.action.SpeedDown,Geschwindigkeit verringern
 settings.controls.action.SpeedPause,Anhalten / Fortsetzen
 settings.controls.action.SpeedUp,Beschleunigen
@@ -7127,6 +7295,7 @@ settings.controls.active_prompt_family,Familie der aktiven Eingabeaufforderungen
 settings.controls.controller_cursor,STEUER-CURSOR
 settings.controls.controller_cursor_enabled,Virtuellen Cursor aktivieren
 settings.controls.controller_cursor_speed,Geschwindigkeit des virtuellen Cursors (%)
+settings.controls.controller_note,Mit Xbox-Controller getestet. Funktioniert nicht? Schreib uns: contact@dorlioninteractive.com
 settings.controls.gamepad,GAMEPAD
 settings.controls.keyboard_mouse,TASTATUR & MAUS
 settings.controls.listening,Ich höre zu...
@@ -7170,6 +7339,7 @@ settings.gameplay.auto_unpause_events_desc,"Wenn diese Option aktiviert ist, wir
 settings.gameplay.autosave,Intervall für die automatische Speicherung
 settings.gameplay.disable_edge_pan,Kantenverschiebung deaktivieren
 settings.gameplay.disable_edge_pan_desc,"Verhindert, dass sich die Kamera bewegt, wenn der Cursor die Bildschirmränder berührt."
+settings.gameplay.experimental_section,EXPERIMENTAL
 settings.gameplay.font_left_panel,Schriftgröße im linken Bereich (%)
 settings.gameplay.font_main_hud,Haupt-HUD-Schriftgröße (%)
 settings.gameplay.font_other,Andere UI-Schriftarten (%)
@@ -7177,8 +7347,12 @@ settings.gameplay.font_outliner,Schriftgröße (%)
 settings.gameplay.font_scale_section,SCHRIFTGRÖSSE
 settings.gameplay.general_section,ALLGEMEINES
 settings.gameplay.interface_section,SCHNITTSTELLE
+settings.gameplay.mp_enabled,Mehrspieler-Modus aktivieren (experimentell)
+settings.gameplay.mp_enabled_desc,"Zeigt das Mehrspieler-Menü an und aktiviert die Steam-Lobby-Integration. Die Änderung wird erst wirksam, wenn man zum Hauptmenü zurückkehrt. Experimentell – es sind Fehler zu erwarten."
 settings.gameplay.notif_verbosity,Benachrichtigungsstufe
 settings.gameplay.pause_on_event,Popup bei Ereignis anzeigen
+settings.gameplay.pause_on_focus_loss,Bei Fokusverlust pausieren
+settings.gameplay.pause_on_focus_loss_desc,"Pausiert das Spiel automatisch, wenn die Anwendung den Fokus verliert (z. B. wenn das Steam-Overlay geöffnet wird)."
 settings.gameplay.steam_cloud,Steam-Cloud-Speicherstände
 settings.gameplay.suppress_event_popups,Ereignis-Popups unterdrücken
 settings.gameplay.suppress_event_popups_desc,Wähle automatisch die erste gültige Option aus und blende Ereignis-Popups aus. Ideal für die Aufzeichnung von Trailern.
@@ -7190,6 +7364,11 @@ settings.graphics.fps_monitor,Monitor ({0} Hz)
 settings.graphics.fps_target,Ziel-FPS
 settings.graphics.fps_uncapped,Unbegrenzt
 settings.graphics.fullscreen,Vollbild
+settings.graphics.hdr,HDR
+settings.graphics.hdr_desc,Aktiviert HDR-Anzeigeausgabe. Erfordert einen HDR-fähigen Monitor mit aktiviertem Windows HDR in den Anzeigeeinstellungen.
+settings.graphics.hdr_unavailable,Kein HDR-Display erkannt. Aktivieren Sie Windows HDR in den Anzeigeeinstellungen.
+settings.graphics.paper_white_nits,UI-Helligkeit (Nits)
+settings.graphics.paper_white_nits_desc,Kalibriert die Helligkeit weißer Elemente auf Ihrem HDR-Display. Standard ist 160 Nits. Erhöhen Sie den Wert wenn die Benutzeroberfläche zu dunkel erscheint.
 settings.graphics.quality,Voreinstellung
 settings.graphics.quality_section,QUALITÄT
 settings.graphics.resolution,Auflösung
@@ -7262,20 +7441,25 @@ tech.advanced_espionage.description,"HUMINT-Netzwerke, geheime Kontaktstellen un
 tech.advanced_espionage.name,Fortgeschrittene Spionagetechniken
 tech.advanced_materials.description,Kohlefaser- und Keramikverbundwerkstoffe für hochwertige Panzerungen und Konstruktionen.
 tech.advanced_materials.name,Hochleistungsverbundwerkstoffe
-tech.agi_research.description,Eine KI auf menschlichem Niveau mit umfassenden Denk- und Lernfähigkeiten.
-tech.agi_research.name,Allgemeine künstliche Intelligenz
+tech.agi_research.description,Einheitliche agentenbasierte Systeme für autonome strategische Planung und Logistikoptimierung.
+tech.agi_research.name,Kognitive Automatisierung & Deep Learning
 tech.agritech.description,"Mechanisierte landwirtschaftliche Betriebe, Düngemittelkonzerne und intensive Tierhaltung für die großflächige Nahrungsmittelproduktion."
 tech.agritech.name,Industrielle Landwirtschaft
 tech.asat_weapons.description,Kinetische Abfangkörper und koorbitale Abfangraketen zur Verhinderung des Zugangs zum Weltraum.
 tech.asat_weapons.name,Anti-Satellitenwaffen
-tech.asteroid_mining.description,Robotergestützter Abbau seltener Rohstoffe auf erdnahen Asteroiden.
-tech.asteroid_mining.name,Rohstoffgewinnung auf Asteroiden
+tech.asteroid_mining.description,Robotische Vorbeiflüge und Ressourcenkartierungsmissionen zu Asteroiden als Grundlage für den kommerziellen Abbau.
+tech.asteroid_mining.name,Prospektion erdnaher Objekte (NEOs)
 tech.autonomous_drones.description,"KI-gesteuerte Drohnen, die in der Lage sind, Ziele selbstständig zu erfassen."
 tech.autonomous_drones.name,Autonome Kampfdrohnen
+tech.autonomous_drones.name.CHN,Schwarm-Kampfdrohnensystem
+tech.autonomous_drones.name.TUR,Autonomer Angriffsschwarm
+tech.autonomous_drones.name.USA,Autonomer Kampfflugzeugverbund
 tech.ballistic_missile_program.description,"Grundlage für die Entwicklung einheimischer Raketen. Ermöglicht die Herstellung von SRBM/MRBM, den Bau mobiler Abschussvorrichtungen sowie die Entwicklung konventioneller Marschflugkörper."
 tech.ballistic_missile_program.name,Programm für ballistische Raketen
-tech.bioengineering.description,"Maßgeschneiderte Organismen für industrielle, medizinische und landwirtschaftliche Zwecke."
-tech.bioengineering.name,Synthetische Biologie
+tech.bioengineering.description,"Synthetisierte biologische Komponenten für Spezialpolymere, medizinischen Bedarf und landwirtschaftliche Resilienz."
+tech.bioengineering.name,Fortschrittliche Biomaterialien & Biosynthese
+tech.civil_defense_infrastructure.description,"Integrierte nationale Warnnetzwerke, Notunterkünfte und koordinierte Katastrophenschutzsysteme."
+tech.civil_defense_infrastructure.name,Zivilschutz & Notfallinfrastruktur
 tech.counterintel_doctrine.description,Systematische Ansätze zur Aufdeckung und Bekämpfung ausländischer nachrichtendienstlicher Operationen.
 tech.counterintel_doctrine.name,Doktrin der Spionageabwehr
 tech.cyber_operations.description,Offensive und defensive Cyberfähigkeiten.
@@ -7284,20 +7468,25 @@ tech.cyber_warfare_2.description,Angriffe auf staatliche Infrastruktur und Vorr�
 tech.cyber_warfare_2.name,Fortgeschrittene Cyberkriegsführung
 tech.deep_cover_operations.description,Langfristige Unterwanderungs- und Einflussnahmeoperationen in ausländischen Regierungen.
 tech.deep_cover_operations.name,Verdeckte Ermittlungen
-tech.directed_energy.description,Hochenergielaser und Mikrowellenwaffen für die Punktabwehr.
-tech.directed_energy.name,Strahlwaffen
+tech.directed_energy.description,Hochenergie-Festkörperlaser und Mikrowellensysteme zur Abwehr von Drohnen und Raketen.
+tech.directed_energy.name,Taktische Laserabwehr
 tech.drone_swarms.description,"Tausende kleiner Drohnen, die als koordiniertes Waffensystem agieren."
 tech.drone_swarms.name,Koordinierte Drohnenschwärme
 tech.drone_warfare.description,Bewaffnete Drohnen und Loitering-Munition für die asymmetrische Kriegsführung.
 tech.drone_warfare.name,Unbemannte Kampfsysteme
+tech.drone_warfare.name.CHN,Taktisches UAV-System
+tech.drone_warfare.name.ISR,System zur Bekämpfung von Herumlungernden
+tech.drone_warfare.name.RUS,UAV für Fernaufklärung und -angriffe
+tech.drone_warfare.name.TUR,Kampf-Drohnen-Einheit
+tech.drone_warfare.name.USA,UAV für Angriffe über große Entfernungen
 tech.electronic_warfare.description,"Störmaßnahmen, Signalabfang und Waffen mit elektromagnetischem Impuls."
 tech.electronic_warfare.name,Elektronische Kampfsystem
 tech.extraction_basics.description,"Maschinelles Bohren, Tiefbaubergbau und nachhaltige Forstwirtschaft. Grundlage für die Selbstversorgung mit Rohstoffen."
 tech.extraction_basics.name,Moderne Extraktionsverfahren
-tech.fusion_power.description,"Fusionsreaktoren mit positiver Energiebilanz, die nahezu unbegrenzt saubere Energie liefern."
-tech.fusion_power.name,Kommerzielle Fusionsenergie
-tech.gene_therapy.description,In-vivo-Behandlungen zur Genbearbeitung bei genetisch bedingten Erkrankungen und im Zusammenhang mit dem Alterungsprozess.
-tech.gene_therapy.name,Klinische Gentherapie
+tech.fusion_power.description,"In Serie gefertigte SMRs und fortschrittliche geschlossene Brennstoffkreisläufe für saubere, dezentrale Energie."
+tech.fusion_power.name,Kleine modulare Kernkraftwerke (SMRs)
+tech.gene_therapy.description,Einsatz hochspezifischer mRNA-basierter Therapeutika und Impfstoffe zur Stärkung der nationalen Gesundheitsresilienz.
+tech.gene_therapy.name,Zielgerichtete RNA-Therapeutika
 tech.genomics.description,"CRISPR-Geneditierung für Landwirtschaft, Medizin und Biotechnologie."
 tech.genomics.name,Angewandte Genomik
 tech.green_hydrogen.description,Wasserstoffgewinnung durch Elektrolyse für Industrie und Verkehr.
@@ -7310,26 +7499,28 @@ tech.icbm_program.description,Technologie für Interkontinentalraketen. Ermögli
 tech.icbm_program.name,Entwicklungsprogramm für Interkontinentalraketen
 tech.integrated_missile_shield.description,"Mehrschichtige Raketenabwehr, die bodengestützte, seegestützte und weltraumgestützte Systeme kombiniert."
 tech.integrated_missile_shield.name,Integriertes Raketenabwehrnetzwerk
-tech.lunar_base.description,Eine bemannte Forschungsstation auf dem Mond für wissenschaftliche Zwecke und die Gewinnung von Rohstoffen.
-tech.lunar_base.name,Ständiger Mondstützpunkt
+tech.lunar_base.description,Einrichtung bemannter orbitaler Plattformen und robotischer Erkundungsmodule für die Prospektion des Mondes.
+tech.lunar_base.name,Tiefraumoperationen & Mondorbiter
 tech.machine_learning.description,"Deep Learning in den Bereichen industrielle Optimierung, Logistik und Prognosen."
 tech.machine_learning.name,Angewandtes maschinelles Lernen
+tech.microsatellite_networks.description,"Kostengünstige, schnell einsetzbare Mikrosatellitenkonstellationen für kommerzielle Kommunikation und Fernerkundung."
+tech.microsatellite_networks.name,Mikrosatelliten- & Cubesat-Arrays
 tech.next_gen_fighter.description,Optional bemannter Stealth-Jäger mit Integration von KI-Flugbegleitern.
 tech.next_gen_fighter.name,Kampfflugzeug der 6. Generation
 tech.orbital_manufacturing.description,Schwerelosigkeitsfabriken für hochmoderne Werkstoffe und Arzneimittel.
 tech.orbital_manufacturing.name,Orbital Manufacturing
-tech.orbital_weapons.description,Kinetische Beschusswaffen aus dem Weltraum und Strahlenwaffen.
-tech.orbital_weapons.name,Orbital-Angriffsplattform
+tech.orbital_weapons.description,Einsatz von reaktionsschnellen suborbitalen Gleitflugkörpersystemen für prompte globale Schläge.
+tech.orbital_weapons.name,Fraktionale orbitale Bombardierungssysteme
 tech.precision_agriculture.description,KI-gestützte Landwirtschaft mit Drohnenüberwachung und automatisierter Ernte.
 tech.precision_agriculture.name,Präzisionslandwirtschaft
 tech.precision_manufacturing.description,Montagelinien in der Luft- und Raumfahrt sowie die generische Fertigung durch Tier-3-Zulieferer stoßen an die Grenzen der Produktionskapazitäten.
 tech.precision_manufacturing.name,Präzisionsfertigung & fortschrittliche Extraktion
-tech.quantum_computing.description,Fehlerkorrigierte Quantenprozessoren für Kryptografie und Simulation.
-tech.quantum_computing.name,Grundlagen des Quantencomputings
+tech.quantum_computing.description,Entwicklung quantenverschlüsselter Kommunikation und taktischer Sensorsysteme.
+tech.quantum_computing.name,Quantenkryptographie & sichere Netzwerke
 tech.quantum_encryption_mil.description,Unknackbare militärische Kommunikation mittels Quantenschlüsselverteilung.
 tech.quantum_encryption_mil.name,Quantum-gesicherte Kommunikation
-tech.railgun_technology.description,Hochgeschwindigkeitsgeschosse mit elektromagnetischem Antrieb.
-tech.railgun_technology.name,Elektromagnetische Railgun
+tech.railgun_technology.description,Entwicklung elektromagnetischer Abschusstechnologien und lenkbarer Hochgeschwindigkeitsgeschosse für die Seekriegsführung.
+tech.railgun_technology.name,Artillerie mit Hypergeschwindigkeitsgeschossen
 tech.reactive_armor.description,Explosiv reaktive Panzerung und aktive Schutzsysteme für gepanzerte Kampffahrzeuge.
 tech.reactive_armor.name,Reaktive Panzerungssysteme
 tech.refining.description,"Raffinerien und Chemiewerke, die Rohöl in hochwertige Verarbeitungsprodukte umwandeln."
@@ -7342,6 +7533,11 @@ tech.sat_based_internet.description,Universelle Breitbandverbindung über eine L
 tech.sat_based_internet.name,Satellitengestütztes globales Internet
 tech.satellite_constellation.description,Satellitennetzwerke in der erdnahen Umlaufbahn für Kommunikation und Überwachung.
 tech.satellite_constellation.name,Globale Satellitenkonstellation
+tech.satellite_constellation.name.CHN,Nationales Ortungsnetz
+tech.satellite_constellation.name.JPN,QZSS-Navigationssystem
+tech.satellite_constellation.name.RUS,GLONASS Network
+tech.satellite_constellation.name.TUR,TURKSAT Satellite System
+tech.satellite_constellation.name.USA,GPS-Betriebsblock
 tech.signals_intelligence.description,Elektronische Kommunikation zum Zwecke der Informationsgewinnung abfangen und auswerten.
 tech.signals_intelligence.name,Signalaufklärung (SIGINT)
 tech.slbm_integration.description,Technologie für U-Boot-gestützte ballistische Raketen. Ermöglicht die Bestückung von U-Boot-Flotten mit SLBMs sowie den Bau von U-Boot-Bunkeranlagen zur Gewährleistung der Zweitschlagfähigkeit.
@@ -7352,16 +7548,18 @@ tech.smart_grid.description,KI-gesteuerte Stromverteilung mit Lastausgleich in E
 tech.smart_grid.name,Smart-Grid-Infrastruktur
 tech.space_based_radar.description,Kontinuierliche weltweite Überwachung aus dem Orbit zur Frühwarnung.
 tech.space_based_radar.name,Weltraumgestütztes Radarnetzwerk
-tech.space_dominance.description,Vollständige militärische und wirtschaftliche Kontrolle über den cislunaren Raum.
-tech.space_dominance.name,Vollständige Vorherrschaft im Weltraum
-tech.space_solar_power.description,"Sonnenkollektoren im Orbit, die Energie an Empfänger auf der Erde senden."
-tech.space_solar_power.name,Weltraumgestützte Solarenergie
+tech.space_dominance.description,"Umfassende Koordinierung von militärischen Weltraumkommandoebenen, sicheren Kommunikationssatelliten und Gegenmaßnahmen im Weltraum."
+tech.space_dominance.name,Strategische Cislunar-Sicherheitsinitiative
+tech.space_solar_power.description,Entwicklung von Mikrowellen- und Laser-Energieübertragungssystemen aus niedrigen Erdumlaufbahnen.
+tech.space_solar_power.name,Drahtlose Energieübertragung im Orbit
 tech.space_surveillance.description,Verfolgung und Identifizierung aller Objekte in der Erdumlaufbahn.
 tech.space_surveillance.name,Weltraumlageerfassung
 tech.stealth_coatings.description,Hochentwickelte Tarnbeschichtungen zur Verringerung des Radarquerschnitts.
 tech.stealth_coatings.name,radarabsorbierende Materialien
-tech.superintelligence.description,"Eine auf den Menschen ausgerichtete, übermenschliche KI, die alle Bereiche der Wissenschaft und Politik vorantreibt."
-tech.superintelligence.name,Kontrollierte Superintelligenz
+tech.superintelligence.description,"Hochintegrierte, sichere Hochleistungsrechner-Cluster zur Optimierung staatlicher Logistik und Infrastruktur."
+tech.superintelligence.name,Nationales kognitives Gitter & Supercomputing
+tech.tactical_air_defense.description,Mobile Flugabwehrraketen- und Flaknetzwerke kurzer bis mittlerer Reichweite.
+tech.tactical_air_defense.name,Taktische Luftabwehrsysteme
 territorial,Territorial
 tooltip.agenda.activate_goal.desc,Macht das ausgewählte strategische Ziel zu Ihrem aktuellen nationalen Ziel.
 tooltip.agenda.activate_goal.title,AKTIVES ZIEL FESTLEGEN
@@ -7469,6 +7667,23 @@ tooltip.diplo.aid_package.desc,"Sende ein Hilfspaket, um die Beziehungen zu verb
 tooltip.diplo.aid_package.title,ENTWICKLUNGSHILFE
 tooltip.diplo.alliance.desc,Schlage ein Verteidigungsbündnis vor. Verbündete beteiligen sich automatisch an Verteidigungskriegen.
 tooltip.diplo.alliance.title,VORSCHLAG EINER ALLIANZ
+tooltip.diplo.breakdown.active_modifiers,Aktive Modifikatoren
+tooltip.diplo.breakdown.allied_to_defensive_rival,  - Mit defensivem Rivalen verbündet
+tooltip.diplo.breakdown.allied_to_enemy,  - Mit Feinden verbündet
+tooltip.diplo.breakdown.allied_to_friend,  - Mit Freunden verbündet
+tooltip.diplo.breakdown.allied_to_rival,  - Mit Rivalen verbündet
+tooltip.diplo.breakdown.current_relation,Aktuelle Beziehung
+tooltip.diplo.breakdown.decay,Zerfall in Richtung Basisziel
+tooltip.diplo.breakdown.ideological_alignment,  - Ideologische Ausrichtung
+tooltip.diplo.breakdown.leadership_stance,  - Führungsstil
+tooltip.diplo.breakdown.month_suffix,/Monat
+tooltip.diplo.breakdown.neutral_zone,  - Dämpfung der neutralen Zone
+tooltip.diplo.breakdown.no_data,Keine Daten verfügbar.
+tooltip.diplo.breakdown.passive_drift,Passive Driftfaktoren (Monatlich)
+tooltip.diplo.breakdown.regional_base,Regionale Basis (Natürlich)
+tooltip.diplo.breakdown.shared_enemies,  - Gemeinsame Feinde
+tooltip.diplo.breakdown.tick_suffix,/Tag
+tooltip.diplo.breakdown.total_drift,Gesamte monatliche dynamische Drift
 tooltip.diplo.cancel_nap.desc,Den Nichtangriffspakt aufkündigen. Dies hat erhebliche diplomatische Nachteile zur Folge.
 tooltip.diplo.cancel_nap.title,DEN NICHTANGRIFFSPAKT AUFKÜNDIGEN
 tooltip.diplo.cancel_trade.desc,Das derzeitige Handelsabkommen kündigen. Dies könnte die Beziehungen beeinträchtigen.
@@ -7493,6 +7708,25 @@ tooltip.diplo.dip_power.desc,"Aktuelle diplomatische Kapazität nach Abzug der M
 tooltip.diplo.dip_power.title,DIPLOMATISCHE MACHT
 tooltip.diplo.diplomatic_weight.desc,"Einflusswert, der von internationalen Systemen zur Bewertung Ihrer Verhandlungsmacht herangezogen wird."
 tooltip.diplo.diplomatic_weight.title,DIPLOMATISCHES GEWICHT
+tooltip.diplo.ew.bilateral_tariff_max,Bilateral: Maximaler Zoll
+tooltip.diplo.ew.bilateral_tariff_step,Bilateral: Zoll / Schritt
+tooltip.diplo.ew.cost_pct_gdp,Kosten (% BIP)
+tooltip.diplo.ew.dependency_threshold,Dependency Threshold
+tooltip.diplo.ew.detection_risk,Detection Risk
+tooltip.diplo.ew.duration_months,Duration
+tooltip.diplo.ew.inflation_pct,Inflation Impact
+tooltip.diplo.ew.inflation_sideeffect,Inflation Nebenwirkung
+tooltip.diplo.ew.loan_interest,Monthly Interest
+tooltip.diplo.ew.max_loans,Maximale Kredite
+tooltip.diplo.ew.max_tariff,Max Tariff
+tooltip.diplo.ew.monthly_interest,Monatliche Zinseinnahmen
+tooltip.diplo.ew.no_detection,Keine – direkte Aktion
+tooltip.diplo.ew.permanent,Permanent
+tooltip.diplo.ew.relation_bonus,Relation Bonus
+tooltip.diplo.ew.relation_per_step,Beziehung / Schritt
+tooltip.diplo.ew.tariff_per_step,Tarif / Eskalation
+tooltip.diplo.ew.upfront_cost,Vorauszahlung
+tooltip.diplo.ew.upfront_loan,Kreditsumme
 tooltip.diplo.expel_ambassador,Botschafter ausweisen
 tooltip.diplo.expel_ambassador.desc,Weisen Sie den Botschafter dieses Landes aus Ihrem Land aus. Eine drastische diplomatische Maßnahme.
 tooltip.diplo.guarantee,UNABHÄNGIGKEIT SICHERN
@@ -7571,6 +7805,28 @@ tooltip.diplo.revoke_guarantee.desc,Ziehen Sie Ihre Garantie für die Unabhängi
 tooltip.diplo.rival.desc,"Als Rivalen festlegen. Verringert die Beliebtheit, ermöglicht Spionageboni. KI-Länder kündigen Handelsabkommen mit Rivalen."
 tooltip.diplo.sanction.desc,Den Handel mit dem Zielland einschränken. Verringert dessen Handelseffizienz.
 tooltip.diplo.sanction.title,VERHÄNGT SANKTIONEN
+tooltip.diplo.state.coalition.desc,Bilaterale Ausrichtung innerhalb eines breiteren anti-expansionistischen Verteidigungsbündnisses.
+tooltip.diplo.state.defense_pact.desc,"Militärbündnis, das gegenseitigen Beistand garantiert, falls eine der Parteien angegriffen wird."
+tooltip.diplo.state.guarantee.desc,Einseitige Verpflichtung zur Verteidigung des Ziellandes gegen Aggressionen von außen.
+tooltip.diplo.state.improve_relations.desc,Aktive diplomatische Mission zur Stärkung des gegenseitigen Vertrauens und der Gesinnung.
+tooltip.diplo.state.label.actor,Initiierendes Land
+tooltip.diplo.state.label.expiry,Ablaufdatum
+tooltip.diplo.state.label.permanent,Dauerhaft
+tooltip.diplo.state.label.remaining,Verbleibende Zeit
+tooltip.diplo.state.label.target,Zielland
+tooltip.diplo.state.multilateral_sanction.desc,"Koordinierte Handelsembargos und Sanktionen, die von mehreren Nationen verhängt wurden."
+tooltip.diplo.state.nap.desc,Nichtangriffspakt. Verhindert eine direkte militärische Kriegserklärung zwischen den Unterzeichnern.
+tooltip.diplo.state.pending_guarantee_honor.desc,"Diplomatischer Status, der auf die formelle Entscheidung zur Erfüllung einer Verteidigungsgarantie wartet."
+tooltip.diplo.state.persona_non_grata.desc,"Diplomatische Sanktion, mit der bestimmte ausländische Beamte zu unerwünschten Personen erklärt werden."
+tooltip.diplo.state.rival.desc,"Erklärte geopolitische Rivalität, die gegenseitige Spannungen und dynamische Nachteile verursacht."
+tooltip.diplo.state.sanction.desc,Aktive Handelsbeschränkungen und wirtschaftliche Sanktionen gegen das Ziel.
+tooltip.diplo.state.sphere_of_influence.desc,"Geopolitische Projektion, die die diplomatische Dominanz über das Zielland behauptet."
+tooltip.diplo.state.spy_caught.desc,"Bilaterale Spannungen, die durch aufgedeckte Spionageoperationen verursacht wurden."
+tooltip.diplo.state.trade_agreement.desc,"Bilaterales Handelsabkommen, das Zölle senkt und das gegenseitige Wirtschaftswachstum ankurbelt."
+tooltip.diplo.state.trade_bloc_partner.desc,Gemeinsame Mitgliedschaft in einem wirtschaftlichen Handelsblock mit hoher Integration.
+tooltip.diplo.state.trade_war.desc,"Feindseliger Handelskonflikt, geprägt von Strafzöllen und aggressiven Marktbarrieren."
+tooltip.diplo.state.treaty.desc,Formelles internationales Abkommen zur Einführung bindender bilateraler Protokolle.
+tooltip.diplo.state.truce.desc,Temporäre Einstellung der militärischen Feindseligkeiten. Kriegserklärung bis zum Ablauf blockiert.
 tooltip.diplo.title.alliance_target,PARTNERSCHAFT MIT {0}: {1}
 tooltip.diplo.title.guarantee_target,GARANTIE: {0}
 tooltip.diplo.title.improve_target,BEZIEHUNGEN VERBESSERN - {0}
@@ -7585,8 +7841,17 @@ tooltip.diplo.trade.desc,"Schlagen Sie ein bilaterales Handelsabkommen vor, das 
 tooltip.diplo.trade.title,ANGEBOT ZUM HANDELSABKOMMEN
 tooltip.diplo.trade_war.desc,Die Handelsspannungen durch Vergeltungszölle verschärfen. Das schadet beiden Volkswirtschaften.
 tooltip.diplo.trade_war.title,HANDELSKRIEG
+tooltip.diplo.treaty.auto_join_war,Gegenseitige Verteidigung
+tooltip.diplo.treaty.break_penalty,Bruchstrafe
+tooltip.diplo.treaty.compliance,Einhaltung
 tooltip.diplo.treaty.desc,Schlagen Sie einen bilateralen oder multilateralen Vertrag zu einem bestimmten Thema vor.
+tooltip.diplo.treaty.infra_cost,Infrastrukturkosten
+tooltip.diplo.treaty.mil_spend_cap,Militärausgabengrenze
+tooltip.diplo.treaty.min_relation,Mindestbeziehung
+tooltip.diplo.treaty.prestige_per_month,Prestige / Monat
 tooltip.diplo.treaty.title,EINEN VERTRAG VORSCHLAGEN
+tooltip.diplo.treaty.value.no_warheads,Keine Sprengköpfe
+tooltip.diplo.treaty.violation_penalty,Verstoßstrafe
 tooltip.diplo.treaty_cap.desc,"Die maximale Anzahl aktiver Verträge, die Ihre derzeitige diplomatische Kapazität zulässt."
 tooltip.diplo.treaty_cap.title,VERTRAGSKAPITEL
 tooltip.diplo.unsc_sanction.desc,Multilaterale Sanktionen über den UN-Sicherheitsrat vorschlagen. Dies erfordert eine Abstimmung im UN-Sicherheitsrat.
@@ -7696,6 +7961,8 @@ tooltip.econ.hdi_income.desc,"Einkommens-Teilindex des HDI, basierend auf dem lo
 tooltip.econ.hdi_income.title,Einkommensindex
 tooltip.econ.imports.desc,Wert der zur Deckung des Verbrauchsdefizits erworbenen Ressourcen.
 tooltip.econ.imports.title,GESAMTIMPORTE
+tooltip.econ.income.header_desc,Monatliche Einnahmen aus dem Export von Produktionsüberschüssen auf den Weltmärkten. Nur Ressourcen mit positivem Überschuss generieren Einnahmen.
+tooltip.econ.income.title,Monatliche Exporteinnahmen
 tooltip.econ.inflation.desc,"Inflationsrate. Steigt, wenn die Ausgaben die Einnahmen übersteigen; bremst das BIP-Wachstum und mindert die Kaufkraft."
 tooltip.econ.inflation.title,INFLATIONSQUOTE
 tooltip.econ.infra_pct.desc,"Anteil des Budgets, der in die Infrastruktur der Provinz investiert wird. Steigert das BIP, das Entwicklungstempo und die Produktionskapazität."
@@ -7722,6 +7989,10 @@ tooltip.econ.policy_target_low.desc,Untergrenze Ihres Inflationszielkorridors. H
 tooltip.econ.policy_target_low.title,INFLATIONSZIEL UNTERGRENZE (MIN)
 tooltip.econ.res_pct.desc,"Anteil des Budgets, der für die Technologieforschung vorgesehen ist. Beschleunigt den Fortschritt und erschließt neue Möglichkeiten."
 tooltip.econ.res_pct.title,FORSCHUNGSAUSGABEN
+tooltip.econ.reserve_auto_buy.desc,Diese Ressource automatisch bei Handelspartnern kaufen wenn der Lagerbestand unter das Ziel fallt. Halt den Puffer aufrecht kostet aber Mittel aus der Staatskasse.
+tooltip.econ.reserve_auto_buy.title,AUTO-KAUF BEI DEFIZIT
+tooltip.econ.reserve_auto_sell.desc,Uberschussigen Lagerbestand uber dem Ziel automatisch auf dem Weltmarkt verkaufen. Bringt Einnahmen reduziert aber den Puffer uber dem Ziel.
+tooltip.econ.reserve_auto_sell.title,AUTO-VERKAUF VON UBERSCHUSS
 tooltip.econ.reserve_contribution.desc,In diesem Monat in die Stabilisierungsreserve eingezahlter Betrag.
 tooltip.econ.reserve_contribution.title,RÜCKLAGENZULAGE
 tooltip.econ.reserve_last_spend.desc,Aus der Stabilisierungsreserve im vorangegangenen Zyklus ausgegebener Betrag.
@@ -7946,7 +8217,7 @@ tooltip.prov.mode_build_ops.title,BAU-BETRIEBSMODUS
 tooltip.prov.mode_overview.desc,"Zeigt die wichtigsten Statistiken der Provinzen an, um einen schnellen Vergleich und eine schnelle Auswahl zu ermöglichen."
 tooltip.prov.mode_overview.title,ÜBERBLICK-MODUS
 tooltip.prov.ops_action_build.desc,Stellt das Bauwerk mit der höchsten Priorität in dieser Provinz in die Warteschlange.
-tooltip.prov.ops_action_build.title,QUEUE BEST BUILDING
+tooltip.prov.ops_action_build.title,QUEUE BESTES GEBÄUDE
 tooltip.prov.ops_action_cancel.desc,Löscht den letzten Eintrag in der Bauwarteschlange dieser Provinz.
 tooltip.prov.ops_action_cancel.title,LETZTEN EINTRAG IN DER WARTESCHLANGE LÖSCHEN
 tooltip.prov.ops_action_upgrade.desc,Stellt die relevanteste verfügbare Gebäudeaufwertung in dieser Provinz in die Warteschlange.
@@ -8126,6 +8397,8 @@ tooltip.statbar.trade.imports,Gesamte Einfuhren
 tooltip.statbar.trade.title,HANDELSBILANZ
 tooltip.statbar.treasury.desc,Aktuelle Geldreserven. Monatliche Einnahmen abzüglich Ausgaben.
 tooltip.statbar.treasury.title,STAATSKASSE
+tooltip.statbar.un.desc,Verfolgen Sie aktive UN-Resolutionen und Mitgliedschaftsvorschläge und stimmen Sie darüber ab. Zum Öffnen klicken.
+tooltip.statbar.un.title,UN-KOMMANDOZENTRALE
 tooltip.statbar.unemployment.desc,"Anteil der Erwerbslosen an der Erwerbsbevölkerung. Wirkt sich auf Stabilität, Unruhen und den Druck auf die Sozialausgaben aus. Klicken Sie hier, um die Registerkarte „Wirtschaft“ zu öffnen."
 tooltip.statbar.unemployment.note,- Eine hohe Arbeitslosigkeit schürt Unruhen und mindert die Steuereffizienz
 tooltip.statbar.unemployment.title,ARBEITSLOSENQUOTE
@@ -8428,9 +8701,9 @@ tutorial.prompt.title,Anleitung verfügbar
 tutorial.skip,ANLEITUNG ÜBERSPRINGEN
 tutorial.step1.body,"Dies ist eine kurze Einführung. Wir gehen kurz auf die Steuerelemente ein, die du jetzt benötigst, und leiten dich dann zur aufgabenbasierten Anleitung weiter.\n\nDas Spiel beginnt im Pausenmodus, damit du die Umgebung in aller Ruhe erkunden kannst."
 tutorial.step1.title,Willkommen bei Global Protocol
-tutorial.step2.body,"Verwende die obere Leiste, um die Zeit zu steuern. Pausiere oder setze mit {0} fort. Nutze {1}, {2}, {3} und {4} für direkte Geschwindigkeiten oder tippe auf {5} und {6}, um die Geschwindigkeit schrittweise zu erhöhen oder zu verringern.\n\nDie obere Leiste zeigt außerdem auf einen Blick deinen Schatz, dein BIP, deine Mannstärke und deine Bevölkerung an."
+tutorial.step2.body,Use these buttons to control game speed. Pause or resume with {0}. Tap {1} to step speed up or {2} to step speed down.
 tutorial.step2.title,Zeitkontrollen
-tutorial.step3.body,"In diesem Bereich werden die Flagge, der Name und die wichtigsten Statistiken deines Landes angezeigt. Klicke auf die Flagge, um jederzeit zu deiner Hauptstadt zurückzukehren.\n\nÜber die Registerkarten unten kannst du zwischen den Ansichten „Übersicht“, „Wirtschaft“, „Militär“, „Diplomatie“, „Technologie“, „Nachrichtendienst“, „Spezialisten“, „Provinzen“ und „Agenda“ wechseln."
+tutorial.step3.body,"In diesem Bereich werden die Flagge, der Name und die wichtigsten Statistiken deines Landes angezeigt. Klicke auf die Flagge, um jederzeit zu deiner Hauptstadt zurückzukehren.\n\nÜber die Registerkarten unten kannst du zwischen den Ansichten „Übersicht“, „Wirtschaft“, „Militär“, „Rekrutierung“, „Diplomatie“, „Technologie“, „Nachrichtendienst“, „Spezialisten“, „Provinzen“ und „Agenda“ wechseln."
 tutorial.step3.title,Ihr Länderpanel
 tutorial.step4.body,"Über diese Registerkarten kannst du alle wichtigen Übersichten deiner Nation aufrufen.\n\nWir werden kurz auf jede einzelne eingehen, damit du schon vor Spielbeginn weißt, welche Funktionen dir zur Verfügung stehen."
 tutorial.step4.title,Ihre Registerkarten
@@ -8444,15 +8717,17 @@ tutorial.step8.body,"Das waren die Grundlagen. Denk daran:\n\n• Fahre mit der 
 tutorial.step8.title,Du bist bereit!
 tutorial.step_agenda.body,"Auf der Registerkarte „Agenda“ findest du die strategischen Ziele deines Landes sowie einen aktiven Zielpfad.\n\nDeine Agenda passt sich den Stärken deines Landes an – nutze sie, um die langfristige Ausrichtung festzulegen und auf Kurs zu bleiben."
 tutorial.step_agenda.title,Nationale Agenda
+tutorial.step_alertbar.body,"Diese Schaltflächen zeigen die dringendsten Aufgaben an — ein Haushaltsdefizit, Unruhen oder eine militärische Bedrohung. Klicke auf eine Schaltfläche, um direkt zum entsprechenden Fenster zu springen."
+tutorial.step_alertbar.title,WARNLEISTE
 tutorial.step_diplomacy.body,"Über die Registerkarte „Diplomatie“ ({0}) kannst du Bündnisse schließen oder Kriege gegen Nachbarländer führen.\n\nGehe strategisch vor – die Aushandlung von Verträgen braucht Zeit, und Kriege haben langfristige wirtschaftliche Folgen."
 tutorial.step_diplomacy.title,Registerkarte „Diplomatie“
 tutorial.step_economy.body,"Deine Staatskasse füllt sich durch Steuereinnahmen. Öffne den Reiter „Wirtschaft“ ({0}), um die Schieberegler für deine Haushaltsprioritäten anzupassen:\n\n• Militär – finanziere deine Streitkräfte\n• Forschung – beschleunige den technologischen Fortschritt\n• Infrastruktur – entwickle deine Provinzen\n• Soziales – sorge für die Zufriedenheit deiner Bevölkerung"
 tutorial.step_economy.title,Registerkarte „Wirtschaft“
-tutorial.step_envoys.body,"Über die Registerkarte „Spezialisten“ ({0}) kannst du im eigenen Land Gesandte rekrutieren und ungenutzte Spezialisten im Ausland einsetzen.\n\nNutze diese Funktion, um Druckmaßnahmen durchzuführen, die Präsenz zu überwachen und auf entdeckte ausländische Spezialisten zu reagieren."
+tutorial.step_envoys.body,"Das Spezialistenfeld ({0}) befindet sich jetzt im Nachrichtendienstfeld. Klicke auf Nachrichtendienst und wähle dann SPEZIALISTEN oben aus, um Gesandte zu rekrutieren und in ausländische Länder zu entsenden."
 tutorial.step_envoys.title,Registerkarte „Spezialisten“
 tutorial.step_intel.body,Die Registerkarte „Geheimdienst“ ({0}) dient verdeckten Operationen.\n\nHier kannst du Spionagemissionen gegen andere Länder starten und die Erkenntnisse deiner Spione einsehen.
 tutorial.step_intel.title,Registerkarte „Intelligenz“
-tutorial.step_military.body,"Auf der Registerkarte „Militär“ ({0}) verwaltest du deine Streitkräfte.\n\nDort kannst du deine Armeeeinheiten einsehen, deinen DEFCON-Stand überprüfen und bei Bedarf neue Truppen rekrutieren oder nukleare Waffen einsetzen."
+tutorial.step_military.body,"Auf der Registerkarte „Militär“ ({0}) verwaltest du deine Streitkräfte.\n\nDort kannst du deine Armeeeinheiten einsehen, deinen DEFCON-Stand überprüfen und bei Bedarf nukleare Waffen einsetzen, falls vorhanden."
 tutorial.step_military.title,Registerkarte „Militär“
 tutorial.step_objectives.body,"Im Abschnitt „ZIELE“ oben im rechten Bereich werden die nächsten drei Aufgaben aus dem aktuellen Agenda-Ziel angezeigt.\n\nWenn Sie auf ein Ziel klicken, wird der entsprechende Bereich direkt geöffnet. Das Verfolgen eines Plans ist der beste Weg, um zu lernen und gleichzeitig Fortschritte zu erzielen."
 tutorial.step_objectives.title,Weiter zu den Zielen
@@ -8460,6 +8735,8 @@ tutorial.step_overview.body,"Die Registerkarte „Übersicht“ bietet einen sch
 tutorial.step_overview.title,Registerkarte „Übersicht“
 tutorial.step_provinces.body,"Auf der Registerkarte „Provinzen“ ({0}) erhältst du eine tabellarische Übersicht über jede einzelne Provinz, die du kontrollierst.\n\nNutze diese Ansicht, um Unruhen schnell zu erkennen oder die Wirtschaftsleistung verschiedener Regionen zu vergleichen."
 tutorial.step_provinces.title,Registerkarte „Provinzen“
+tutorial.step_quickactions.body,Diese zwei Schaltflächen sparen viel Zeit. Schnellbau empfiehlt priorisierte Gebäude; Schnellrekrutierung zeigt die besten Einheitenwarteschlangen.
+tutorial.step_quickactions.title,SCHNELLAKTIONEN
 tutorial.step_recruit.body,"In der Registerkarte „Rekrutierung“ ({0}) stellst du neue Land-, See- und Lufteinheiten in die Warteschlange. Halte ausgewogene Streitkräfte und stetige Verstärkung vor, bevor Kriege beginnen."
 tutorial.step_recruit.title,Registerkarte „Rekrutierung“
 tutorial.step_tech.body,"Die Registerkarte „Technologie“ ({0}) enthält deinen Forschungsbaum. Investitionen in die Forschung verschaffen dir Boni auf das BIP, die Militärmacht und das Bevölkerungswachstum.\n\nKonzentriere dich auf Technologien, die deine Gesamtstrategie unterstützen."
@@ -8486,6 +8763,7 @@ unit.armor.name,Kampfpanzer
 unit.artillery.capability,Bietet Fernfeuerunterstützung hinter der Frontlinie.
 unit.artillery.description,"Einheiten zur Feuerunterstützung aus der Ferne, die feindliche Stellungen aus sicherer Entfernung beschießen."
 unit.artillery.name,Artillerie
+unit.b,B
 unit.bomber.capability,Entfesselt massive Schlagkraft gegen fest verankerte Bodenziele und Infrastruktur.
 unit.bomber.description,"Strategische und taktische Flugzeuge, die in der Lage sind, schwere Munition auf Bodenziele abzuwerfen."
 unit.bomber.name,Bomber
@@ -8528,4 +8806,5 @@ unit.special_forces.name,Spezialeinheiten
 unit.submarine.capability,"Eine getarnte Jäger-Killer-Plattform, ideal für Seeverteidigungs- und Überraschungsangriffe."
 unit.submarine.description,"Ein getarntes Unterwasserfahrzeug, das in der Lage ist, Überwasserschiffe zu versenken und unbemerkt Raketen abzufeuern."
 unit.submarine.name,U-Boot
+unit.t,T
 warreparations,Kriegsentschädigungen
