@@ -673,13 +673,13 @@ date.month.10,Okt
 date.month.11,Nov
 date.month.12,Dez
 date.month.2,Feb
-date.month.3,Mar
+date.month.3,Mär
 date.month.4,Apr
 date.month.5,Mai
 date.month.6,Jun
-date.month.7,Jul
+date.month.7,Juli
 date.month.8,Aug
-date.month.9,Sep
+date.month.9,Sept
 date.on_month_year,auf {0} {1}
 declarewar,Den Krieg erklären
 defense,Verteidigung
@@ -826,7 +826,7 @@ enum.WorldRegion.WesternEurope,Westeuropa
 envoy.archetype.economic_hitman,Wirtschaftskiller
 envoy.archetype.political_architect,Politischer Architekt
 envoy.archetype.shadow_operator,Schattenoperator
-envoy.archetype.tech_scout,Tech Scout
+envoy.archetype.tech_scout,Tech-Scout
 envoy.op.covert_sabotage,Verdeckte Sabotage
 envoy.op.debt_diplomacy,Schulden-Diplomatie
 envoy.op.election_interference,Einmischung in Wahlen
@@ -1392,8 +1392,8 @@ hud.agenda.active_goal_tag,AKTIV
 hud.agenda.active_tasks_header,Aktive Zielaufgaben
 hud.agenda.active_tasks_subtitle,Aktuelle Zielpipeline für: {0}
 hud.agenda.empty,Für dieses Land sind keine Termindaten konfiguriert.
-hud.agenda.goal.afg_taliban_consolidation.description,"Die Herrschaft der Taliban stabilisieren, internationale Anerkennung erlangen und die Rohstoffindustrie ausbauen."
-hud.agenda.goal.afg_taliban_consolidation.title,Konsolidierung des Taliban-Staates
+hud.agenda.goal.afg_taliban_consolidation.description,"Das Land unter zentraler Autorität vereinen, selektives internationales Engagement betreiben und die Ressourcengewinnung als Fundament der Staatseinnahmen entwickeln."
+hud.agenda.goal.afg_taliban_consolidation.title,Nationale Konsolidierung
 hud.agenda.goal.ago_oil_diversification.description,"Die Wirtschaft sollte diversifiziert und von der Abhängigkeit vom Öl weg hin zu Landwirtschaft, Bergbau und Dienstleistungen ausgerichtet werden."
 hud.agenda.goal.ago_oil_diversification.title,Jenseits des Öls
 hud.agenda.goal.are_economic_diversification.description,Den Übergang zu einer Wissens- und Dienstleistungswirtschaft über Dubai und Abu Dhabi als globale Finanz- und Tourismuszentren vollziehen.
@@ -1474,7 +1474,7 @@ hud.agenda.goal.bgd_climate_adaptation.description,"Die Klimaresilienz stärken,
 hud.agenda.goal.bgd_climate_adaptation.title,Klimaanpassung
 hud.agenda.goal.bgd_garment_dominance.description,Die führende Stellung Bangladeschs in der weltweiten Textil- und Bekleidungsindustrie sichern und ausbauen.
 hud.agenda.goal.bgd_garment_dominance.title,Weltweite Bekleidungshauptstadt
-hud.agenda.goal.blr_lukashenko_survival.description,Das Lukaschenko-Regime durch russische Militärhilfe und interne Repressionen am Leben erhalten.
+hud.agenda.goal.blr_lukashenko_survival.description,Den Machterhalt der Regierung Lukaschenko durch enge Anlehnung an russische Sicherheitsgarantien und strikte Aufrechterhaltung der inneren Ordnung sichern.
 hud.agenda.goal.blr_lukashenko_survival.title,Überleben des Regimes
 hud.agenda.goal.bra_agricultural_superpower.description,"Die Position als weltweit führender Exporteur von Soja, Rindfleisch, Kaffee und Zucker behaupten."
 hud.agenda.goal.bra_agricultural_superpower.title,Agrarsupermacht
@@ -1534,8 +1534,8 @@ hud.agenda.goal.col_total_peace.description,"Mit den verbleibenden Guerillagrupp
 hud.agenda.goal.col_total_peace.title,Umfassender Friedensprozess
 hud.agenda.goal.cub_lift_embargo.description,"Sicherstellen, dass das US-Handelsembargo auf diplomatischem Wege aufgehoben wird."
 hud.agenda.goal.cub_lift_embargo.title,Beendigung des US-Embargos
-hud.agenda.goal.cub_regime_survival.description,Das kommunistische System aufrechterhalten und gleichzeitig die Wirtschaftskrise sowie wachsende interne Unruhen bewältigen.
-hud.agenda.goal.cub_regime_survival.title,Das Überleben des kommunistischen Regimes
+hud.agenda.goal.cub_regime_survival.description,"Kubas sozialistisches System trotz wirtschaftlicher Schwierigkeiten und äußerem Druck bewahren, US-Sanktionen navigieren und gleichzeitig innenpolitische Stabilität aufrechterhalten."
+hud.agenda.goal.cub_regime_survival.title,Kontinuität des Revolutionsstaates
 hud.agenda.goal.cyp_air_defense.description,"Moderne Luftabwehrsysteme anschaffen, um den zyprischen Luftraum vor türkischen Überflügen zu schützen."
 hud.agenda.goal.cyp_air_defense.title,Luftabwehrschild
 hud.agenda.goal.cyp_coastal_defense.description,Aufbau einer glaubwürdigen Küstenverteidigung zur Abwehr amphibischer Invasionen.
@@ -1708,8 +1708,8 @@ hud.agenda.goal.irn_counter_us_presence.description,"Den Abzug der amerikanische
 hud.agenda.goal.irn_counter_us_presence.title,Die USA aus der Region vertreiben
 hud.agenda.goal.irn_cyber_warfare.description,"Entwicklung asymmetrischer Fähigkeiten zur Cyberkriegsführung, um die Infrastruktur der USA und Israels anzugreifen."
 hud.agenda.goal.irn_cyber_warfare.title,Fähigkeiten im Bereich der Cyberkriegsführung
-hud.agenda.goal.irn_destroy_israel.description,"Unterstützung der Bemühungen, Israel durch Stellvertreterkriege und letztendlich durch eine direkte Konfrontation zu vernichten."
-hud.agenda.goal.irn_destroy_israel.title,Beseitigung der zionistischen Entität
+hud.agenda.goal.irn_destroy_israel.description,"Die militärische und politische Vorherrschaft Israels in der Levante herausfordern, indem das Widerstandsnetzwerk gestärkt, die Raketendeterrence ausgebaut und Israels Machtprojektion in der Region bekämpft wird."
+hud.agenda.goal.irn_destroy_israel.title,Israelische Regionalmacht untergraben
 hud.agenda.goal.irn_nuclear_capability.description,"Aufbau von Nuklearwaffenkapazitäten, um das Überleben des Regimes zu sichern und israelische bzw. amerikanische Aggressionen abzuschrecken."
 hud.agenda.goal.irn_nuclear_capability.title,Nukleare Abschreckung
 hud.agenda.goal.irn_oil_revenue_restoration.description,Die Ölförderung wieder auf das Niveau vor den Sanktionen bringen und neue Exportmärkte in Asien erschließen.
@@ -1718,14 +1718,14 @@ hud.agenda.goal.irn_persian_gulf_dominance.description,Die Kontrolle über die S
 hud.agenda.goal.irn_persian_gulf_dominance.title,Vorherrschaft am Persischen Golf
 hud.agenda.goal.irn_sanctions_evasion.description,"Aufbau alternativer Handelsnetzwerke mit China, Russland und Indien, um westliche Sanktionen zu umgehen."
 hud.agenda.goal.irn_sanctions_evasion.title,Das Sanktionsregime durchbrechen
-hud.agenda.goal.irn_shia_crescent.description,Einen zusammenhängenden Korridor schiitischen Einflusses von Teheran bis Beirut schaffen.
-hud.agenda.goal.irn_shia_crescent.title,Den schiitischen Halbmond vervollständigen
-hud.agenda.goal.isr_annex_west_bank.description,"Gebiet C des Westjordanlands schrittweise annektieren und die Siedlungen ausweiten, wodurch die territoriale Kontinuität der Palästinenser eingeschränkt wird."
-hud.agenda.goal.isr_annex_west_bank.title,Anhang: Westjordanland
+hud.agenda.goal.irn_shia_crescent.description,"Einen durchgehenden Korridor verbündeter Staaten und Proxynetzwerke vom Iran bis zur Levante schaffen, um strategische Tiefe und Vorwärtsabschreckung gegenüber Gegnern zu sichern."
+hud.agenda.goal.irn_shia_crescent.title,Strategische Tiefe zum Mittelmeer
+hud.agenda.goal.isr_annex_west_bank.description,"Die israelische Verwaltungskontrolle über Zone C des Westjordanlands ausweiten, strategische Gemeinschaften ausbauen und Sicherheitskorridore zum Schutz der nationalen Grenzen konsolidieren."
+hud.agenda.goal.isr_annex_west_bank.title,Strategische Integration des Westjordanlands
 hud.agenda.goal.isr_arab_normalization.description,Die Beziehungen zu Saudi-Arabien und anderen Golfstaaten normalisieren und eine Anti-Iran-Koalition aufbauen.
 hud.agenda.goal.isr_arab_normalization.title,Die Abraham-Abkommen ausweiten
-hud.agenda.goal.isr_gaza_control.description,"Eine dauerhafte militärische Kontrolle über den Gazastreifen etablieren, um ein Wiederaufleben der Hamas zu verhindern."
-hud.agenda.goal.isr_gaza_control.title,Dauerhafte Kontrolle über den Gazastreifen
+hud.agenda.goal.isr_gaza_control.description,"Eine dauerhafte militärische und administrative Präsenz in Gaza aufbauen, um militante Infrastruktur zu zerschlagen und erneute Angriffe auf israelisches Territorium zu verhindern."
+hud.agenda.goal.isr_gaza_control.title,Gaza-Umschlagszone sichern
 hud.agenda.goal.isr_intelligence_dominance.description,Aufrechterhaltung weltweit führender nachrichtendienstlicher Fähigkeiten für die Terrorismusbekämpfung und verdeckte Operationen.
 hud.agenda.goal.isr_intelligence_dominance.title,Die Vorherrschaft des Mossad im Geheimdienstbereich
 hud.agenda.goal.isr_iron_dome.description,"Die Systeme „Iron Dome“, „David’s Sling“ und „Arrow“ sollen gegen alle Bedrohungen gewartet und ausgebaut werden."
@@ -1793,13 +1793,13 @@ hud.agenda.goal.mar_africa_gateway.title,Tor zu Afrika
 hud.agenda.goal.mar_western_sahara.description,Die dauerhafte internationale Anerkennung der marokkanischen Souveränität über die Westsahara sicherstellen.
 hud.agenda.goal.mar_western_sahara.title,Konsolidierung in der Westsahara
 hud.agenda.goal.mda_eu_integration.description,"Die EU-Mitgliedschaft sichern und sich vom russischen Einfluss befreien, einschließlich einer Lösung der Transnistrien-Frage."
-hud.agenda.goal.mda_eu_integration.title,EU Integration
+hud.agenda.goal.mda_eu_integration.title,EU-Integration
 hud.agenda.goal.mex_cartel_war.description,Den Einfluss der Kartelle auf dem Staatsgebiet einschränken und die Fentanyl-Produktion unter dem Druck der USA unterbinden.
 hud.agenda.goal.mex_cartel_war.title,Kartell-Aufhebung
 hud.agenda.goal.mex_nearshoring.description,Die Entkopplung der Fertigung zwischen den USA und China durch Nearshoring nutzen und dabei die USMCA sowie die geografische Nähe zu unserem Vorteil einsetzen.
 hud.agenda.goal.mex_nearshoring.title,Nearshoring-Großmacht
-hud.agenda.goal.mmr_junta_consolidation.description,Bewegungen zur Unterdrückung von Widerstand und Festigung der Militärherrschaft in allen ethnischen Regionen.
-hud.agenda.goal.mmr_junta_consolidation.title,Festigung der Militärjunta
+hud.agenda.goal.mmr_junta_consolidation.description,"Bewaffnete Widerstandsfraktionen unterdrücken und die zentrale Militärgewalt in allen Regionen durchsetzen, um eine einheitliche Staatskontrolle wiederherzustellen."
+hud.agenda.goal.mmr_junta_consolidation.title,Wiederherstellung der nationalen Ordnung
 hud.agenda.goal.nga_continental_leader.description,Die Position als größte Volkswirtschaft und bevölkerungsreichstes Land Afrikas behaupten und den Einfluss auf dem Kontinent ausbauen.
 hud.agenda.goal.nga_continental_leader.title,Afrikas größte Volkswirtschaft
 hud.agenda.goal.nga_security_challenge.description,"Boko Haram im Nordosten und die Bandenkriminalität im Nordwesten bekämpfen, um die territoriale Kontrolle wiederherzustellen."
@@ -1850,9 +1850,9 @@ hud.agenda.goal.pol_us_military_base.description,Sich für einen dauerhaften US-
 hud.agenda.goal.pol_us_military_base.title,Fort Trump – Ständiger Stützpunkt der USA
 hud.agenda.goal.pol_visegrad_leader.description,"Führungsrolle des V4-Blocks (Polen, Tschechien, Slowakei, Ungarn) innerhalb der EU."
 hud.agenda.goal.pol_visegrad_leader.title,Führung der Visegrád-Gruppe
-hud.agenda.goal.prk_korean_reunification.description,Die Wiedervereinigung der koreanischen Halbinsel unter nordkoreanischer Kontrolle – ein dauerhaftes Ziel.
-hud.agenda.goal.prk_korean_reunification.title,Wiedervereinigung Koreas (unter der DVRK)
-hud.agenda.goal.prk_regime_survival.description,"Die Machtposition der Kim-Dynastie durch nukleare Abschreckung, interne Unterdrückung und Isolation aufrechterhalten."
+hud.agenda.goal.prk_korean_reunification.description,"Die koreanische Wiedervereinigung als höchstes nationales Ziel verfolgen – durch Abschreckung, ideologischen Druck und Aufrechterhaltung politischen Hebels gegenüber Seoul."
+hud.agenda.goal.prk_korean_reunification.title,Wiedervereinigung der koreanischen Halbinsel
+hud.agenda.goal.prk_regime_survival.description,"Die politische Stabilität der DVRK durch strategische Abschreckung, die eigenständige Juche-Ideologie und strikte Abschirmung von äußerer Einmischung aufrechterhalten."
 hud.agenda.goal.prk_regime_survival.title,Überleben des Regimes
 hud.agenda.goal.qat_lng_dominance.description,"Ausbau der LNG-Produktion, um europäische Märkte zu erschließen, die sich vom russischen Gas abwenden."
 hud.agenda.goal.qat_lng_dominance.title,Marktbeherrschung im LNG-Sektor
@@ -1882,7 +1882,7 @@ hud.agenda.goal.rus_nuclear_arsenal.description,Das weltweit größte Atomwaffen
 hud.agenda.goal.rus_nuclear_arsenal.title,Überlegenheit im Nukleararsenal
 hud.agenda.goal.rus_reclaim_ukraine.description,"Die besetzten Gebiete der Oblasten Donezk, Luhansk, Saporischschja und Cherson in die Russische Föderation eingliedern. Eine Landbrücke zur Krim herstellen."
 hud.agenda.goal.rus_reclaim_ukraine.title,Die Ostukraine zurückerobern
-hud.agenda.goal.rwa_eastern_congo_influence.description,Durch Stellvertreterkräfte strategischen Einfluss auf den mineralreichen Osten der Demokratischen Republik Kongo aufrechterhalten.
+hud.agenda.goal.rwa_eastern_congo_influence.description,Strategischen Zugang zu den rohstoffreichen östlichen Kongoprovinzen durch verbündete bewaffnete Gruppen und Sicherheitspartnerschaften aufrechterhalten und nationale Interessen über die Grenze hinaus schützen.
 hud.agenda.goal.rwa_eastern_congo_influence.title,Einfluss im Ostkongo
 hud.agenda.goal.sau_abraham_accords.description,Die Beziehungen zu Israel im Rahmen einer strategischen Neuausrichtung gegen den Iran normalisieren.
 hud.agenda.goal.sau_abraham_accords.title,Normalisierung der Beziehungen zu Israel
@@ -1894,7 +1894,7 @@ hud.agenda.goal.sau_oil_dominance.description,Durch die Förderquoten der OPEC d
 hud.agenda.goal.sau_oil_dominance.title,Ölpreisregulierung durch die OPEC
 hud.agenda.goal.sau_renewable_energy.description,"In Solar- und Windenergie investieren, um zum Exporteur erneuerbarer Energien zu werden und gleichzeitig die Ölförderung aufrechtzuerhalten."
 hud.agenda.goal.sau_renewable_energy.title,Führende Rolle im Bereich erneuerbare Energien
-hud.agenda.goal.sau_sunni_leadership.description,Saudi-Arabien als unangefochtenen Führer der sunnitischen muslimischen Welt etablieren und dem Einfluss der Türkei und des Iran entgegenwirken.
+hud.agenda.goal.sau_sunni_leadership.description,"Saudi-Arabien als wichtigste Stimme der muslimischen Welt etablieren, regionale Stabilität verankern und Rivalenmächte durch diplomatische und religiöse Autorität in Schach halten."
 hud.agenda.goal.sau_sunni_leadership.title,Führende Persönlichkeiten der sunnitischen Welt
 hud.agenda.goal.sau_tech_hub.description,Saudi-Arabien zum Technologie- und Innovationszentrum des Nahen Ostens machen.
 hud.agenda.goal.sau_tech_hub.title,Regionales Technologiezentrum
@@ -1910,7 +1910,7 @@ hud.agenda.goal.som_reunification.description,Die Kontrolle der Zentralregierung
 hud.agenda.goal.som_reunification.title,Wiedervereinigung Somalias
 hud.agenda.goal.srb_eu_accession.description,"Treten Sie der Europäischen Union bei, um die wirtschaftliche Entwicklung und die Integration in den Westen zu sichern."
 hud.agenda.goal.srb_eu_accession.title,EU-Beitritt (Alternative)
-hud.agenda.goal.srb_kosovo_recovery.description,Die Unabhängigkeit des Kosovo rückgängig machen und das Land auf diplomatischem Wege oder mit Gewalt wieder in Serbien eingliedern.
+hud.agenda.goal.srb_kosovo_recovery.description,Kosovos einseitige Unabhängigkeitserklärung durch anhaltenden diplomatischen Druck und internationale Rechtsmittel rückgängig machen und die serbische Souveränität über sein historisches Kernland wiederherstellen.
 hud.agenda.goal.srb_kosovo_recovery.title,Das Kosovo zurückerobern
 hud.agenda.goal.tha_asean_leadership.description,Thailand durch Investitionen in die digitale Wirtschaft und die Produktion von Elektrofahrzeugen als wirtschaftlichen Motor der ASEAN positionieren.
 hud.agenda.goal.tha_asean_leadership.title,Wirtschaftliche Führungsrolle der ASEAN
@@ -2173,7 +2173,7 @@ hud.agenda.task.aus_fiveeyes_operations.title,Nachrichtendienstliche Operationen
 hud.agenda.task.aus_fiveeyes_usa.description,Das Bündnis mit den USA aufrechterhalten.
 hud.agenda.task.aus_fiveeyes_usa.title,Zusammenarbeit der US-Geheimdienste
 hud.agenda.task.aus_pacific_aid.description,Die Finanzreserven für Hilfsprogramme auf über 30 Milliarden Dollar halten.
-hud.agenda.task.aus_pacific_aid.title,Pacific Aid
+hud.agenda.task.aus_pacific_aid.title,Pazifikhilfe
 hud.agenda.task.aus_pacific_relations.description,Verbessere die Beziehungen zu mindestens acht Pazifikstaaten auf über 70.
 hud.agenda.task.aus_pacific_relations.title,Beziehungen zum Pazifikraum
 hud.agenda.task.aus_quad_india.description,Die Beziehungen zu Indien auf über 70 verbessern.
@@ -2315,7 +2315,7 @@ hud.agenda.task.cyp_defense_build.title,Küstenschutz
 hud.agenda.task.cyp_defense_research.description,Schließe mindestens eine Forschung im Bereich Militärtechnologie ab.
 hud.agenda.task.cyp_defense_research.title,Verteidigungstechnologie
 hud.agenda.task.cyp_defense_ships.description,Baue mindestens 5 Schiffe für die Küstenpatrouille.
-hud.agenda.task.cyp_defense_ships.title,Build Patrol Navy
+hud.agenda.task.cyp_defense_ships.title,Baue eine Patrouillenmarine
 hud.agenda.task.cyp_eu_dpact_deu.description,Einen Verteidigungspakt mit Deutschland schließen.
 hud.agenda.task.cyp_eu_dpact_deu.title,Deutscher Verteidigungspakt
 hud.agenda.task.cyp_eu_embassy_multi.description,Eröffnung von Botschaften in mindestens drei EU-Ländern.
@@ -2399,7 +2399,7 @@ hud.agenda.task.deu_energy_trade.title,Energieversorger diversifizieren
 hud.agenda.task.deu_eu_alliances.description,Schließe Bündnisse mit mindestens sechs EU-Mitgliedstaaten.
 hud.agenda.task.deu_eu_alliances.title,Verteidigungszusammenarbeit in der EU
 hud.agenda.task.deu_eu_military.description,Mindestens 100.000 aktive Soldaten einsetzen.
-hud.agenda.task.deu_eu_military.title,Build Bundeswehr
+hud.agenda.task.deu_eu_military.title,Bundeswehr aufbauen
 hud.agenda.task.deu_eu_spending.description,Die Staatskasse für Verteidigungszwecke auf über 150 Milliarden Dollar halten.
 hud.agenda.task.deu_eu_spending.title,NATO-Ausgabenziel
 hud.agenda.task.deu_euint_alliances.description,Schließe Bündnisse mit mindestens 10 EU-Mitgliedstaaten.
@@ -2698,8 +2698,8 @@ hud.agenda.task.irn_gulf_fleet.description,"Mindestens 80 Marineschiffe, darunte
 hud.agenda.task.irn_gulf_fleet.title,Golf-Flotte aufbauen
 hud.agenda.task.irn_israel_missiles.description,Stelle mindestens 200 Panzer und gepanzerte Fahrzeuge für regionale Konflikte her.
 hud.agenda.task.irn_israel_missiles.title,Raketenarsenal aufbauen
-hud.agenda.task.irn_israel_proxies.description,Spionage gegen Israel betreiben.
-hud.agenda.task.irn_israel_proxies.title,Unterstützung anti-israelischer Stellvertreter
+hud.agenda.task.irn_israel_proxies.description,"Geheimdienstoperationen durchführen, um israelische Stellungen in der Region zu beobachten und zu bekämpfen."
+hud.agenda.task.irn_israel_proxies.title,Regionales Widerstandsnetzwerk unterstützen
 hud.agenda.task.irn_missile_production.description,Baue mindestens 12 Raketenproduktionsanlagen.
 hud.agenda.task.irn_missile_production.title,Raketenproduktionsanlagen
 hud.agenda.task.irn_missile_research.description,Schließe mindestens 8 Waffenforschungen ab.
@@ -2942,7 +2942,7 @@ hud.agenda.task.pol_eastern_armor.title,Panzerabwehr
 hud.agenda.task.pol_eastern_military.description,Mindestens 150.000 aktive Soldaten an der Ostgrenze stationieren.
 hud.agenda.task.pol_eastern_military.title,Streitkräfte an der Ostgrenze
 hud.agenda.task.pol_eastern_nato.description,Das Bündnis mit den USA aufrechterhalten.
-hud.agenda.task.pol_eastern_nato.title,NATO Integration
+hud.agenda.task.pol_eastern_nato.title,NATO-Integration
 hud.agenda.task.pol_energy_infrastructure.description,Baue mindestens 20 Energieanlagen.
 hud.agenda.task.pol_energy_infrastructure.title,Energieinfrastruktur
 hud.agenda.task.pol_energy_research.description,Schließe mindestens 5 Energieforschungsprojekte ab.
@@ -3733,8 +3733,8 @@ hud.diplo.ae_score,AE-SCORE
 hud.diplo.agreements_section,VEREINBARUNGEN
 hud.diplo.ai_broke_guarantee,{0} hat seine Garantie gegenüber {1} nicht eingehalten.
 hud.diplo.ai_honored_guarantee,"{0} kam seiner Verpflichtung nach und erklärte {1} den Krieg, um {2} zu verteidigen."
-hud.diplo.alliance_type.ally,ALLY
-hud.diplo.alliance_type.collective_def,KOLLEKTIVE DEFINITION
+hud.diplo.alliance_type.ally,VERBÜNDETE
+hud.diplo.alliance_type.collective_def,KOLLEKTIVE VERTEIDIGUNG
 hud.diplo.alliance_type.defense_pact,VERTEIDIGUNGSPAKT
 hud.diplo.alliance_type.economic,WIRTSCHAFTLICH
 hud.diplo.alliance_type.intl_org,Internationale Organisation
@@ -3840,7 +3840,7 @@ hud.diplo.header_relation,BEZIEHUNG
 hud.diplo.header_value,WERT
 hud.diplo.impose_sanctions,VERHÄNGT SANKTIONEN
 hud.diplo.improve_relations,DIE BEZIEHUNGEN VERBESSERN
-hud.diplo.insult,INSULT
+hud.diplo.insult,BELEIDIGUNG
 hud.diplo.international_section,INTERNATIONAL
 hud.diplo.join_coalition,DER KOALITION BEITRETEN
 hud.diplo.join_trade_bloc,WERDE MITGLIED BEI TRADE BLOC
@@ -3868,7 +3868,7 @@ hud.diplo.modifier.nuke_nearby,Atomexplosion in der Nähe
 hud.diplo.modifier.past_war,Vergangener Krieg
 hud.diplo.modifier.province_taken,Provinz eingenommen
 hud.diplo.modifier.returned_prov,Zurückgekehrte Provinz
-hud.diplo.modifier.rival,Rival
+hud.diplo.modifier.rival,Rivale
 hud.diplo.modifier.same_ideology,Gleiche Ideologie
 hud.diplo.modifier.sanctions_applied,Verhängte Sanktionen
 hud.diplo.modifier.sanctions_recv,Verhängte Sanktionen
@@ -3876,7 +3876,7 @@ hud.diplo.modifier.sphere_left,Sphäre verlassen
 hud.diplo.modifier.sphere_member,Sphären-Mitglied
 hud.diplo.modifier.spy_caught,Spion überführt
 hud.diplo.modifier.trade_partner,Handelspartner
-hud.diplo.ms_enforcers,Enforcers: {0}
+hud.diplo.ms_enforcers,Vollstrecker: {0}
 hud.diplo.ms_evasion,Umgehungsquote
 hud.diplo.ms_fatigue,Strafe wegen Ermüdung
 hud.diplo.ms_proposer,Vorgeschlagen von: {0}
@@ -3978,7 +3978,7 @@ hud.diplo.result.currency_manip,{0} von Währungsmanipulationen betroffen. Infla
 hud.diplo.result.debt_trap,Hochverzinslicher Kredit an {0} vergeben. Monatliche Zinsen: {1}
 hud.diplo.result.trade_war,Der Handelskrieg gegen {0} eskalierte auf die Stufe {1}. Zoll +{2}
 hud.diplo.revoke_guarantee,WIDERRUFSRECHT
-hud.diplo.rival,Rival
+hud.diplo.rival,Rivale
 hud.diplo.rival_count,RIVALENZÄHLUNG
 hud.diplo.rivals,KONKURRENTEN
 hud.diplo.sanction,SANKTION
@@ -4064,7 +4064,7 @@ hud.econ.actual_bonds,Anleiheemission
 hud.econ.actual_debt_int,ZINSEN
 hud.econ.actual_debt_repayment,SCHULDENRÜCKZAHLUNG
 hud.econ.actual_envoy,NET ENVOY-BETRIEB
-hud.econ.actual_events,NET EVENTS
+hud.econ.actual_events,NET-EREIGNISSE
 hud.econ.actual_expense,Ausgaben
 hud.econ.actual_gdp_envoy,ENVOY IMPACT
 hud.econ.actual_gdp_events,AUSWIRKUNGEN DER VERANSTALTUNG
@@ -4087,7 +4087,7 @@ hud.econ.actual_soc_budget,Sozialausgaben
 hud.econ.actual_tariff,Zoll-Einnahmen
 hud.econ.actual_tax,STEUEREINNAHMEN
 hud.econ.alloc_note,Der Steuersatz ist nicht in der Gesamtsumme von 100 % enthalten.
-hud.econ.alloc_total,GESAMTALLOKATION
+hud.econ.alloc_total,GESAMT: {0:F1}%
 hud.econ.apply_budget,BUDGET ANWENDEN
 hud.econ.bond_issuance,Anleiheemission
 hud.econ.breakdown.imported_pressure,Importierter Druck
@@ -4366,15 +4366,15 @@ hud.event.reason.requires_war,"Voraussetzung ist, dass sich das Land im Krieg be
 hud.event.reason.sanction_target_unresolved,Das Sanktionsziel konnte nicht ermittelt werden.
 hud.event.reason.sanctions_already_active,Gegen dieses Ziel sind bereits Sanktionen in Kraft.
 hud.event.stat.budget_treasury,Staatskasse
-hud.event.stat.economy_energy_resilience,Energy Resilience
+hud.event.stat.economy_energy_resilience,Energieresilienz
 hud.event.stat.economy_gdp,BIP
 hud.event.stat.economy_growth_rate,BIP-Wachstum
 hud.event.stat.economy_inflation,Inflation
 hud.event.stat.government_corruption,Korruption
-hud.event.stat.government_deterrence_credibility,Deterrence Credibility
-hud.event.stat.government_disaster_resilience,Disaster Resilience
-hud.event.stat.government_institutional_resilience,Institutional Resilience
-hud.event.stat.government_integration_capacity,Integration Capacity
+hud.event.stat.government_deterrence_credibility,Glaubwürdigkeit der Abschreckung
+hud.event.stat.government_disaster_resilience,Katastrophenresilienz
+hud.event.stat.government_institutional_resilience,Institutionelle Resilienz
+hud.event.stat.government_integration_capacity,Integrationsfähigkeit
 hud.event.stat.government_stability,Stabilität
 hud.event.stat.military_active_personnel,MANNSTÄRKE
 hud.event.stat.military_defense_budget,Verteidigungshaushalt
@@ -4524,7 +4524,7 @@ hud.intel.defense,Verteidigung
 hud.intel.estimate.high,Hoch
 hud.intel.estimate.low,Niedrig
 hud.intel.estimate.medium,Mittel
-hud.intel.five_eyes,Five Eyes
+hud.intel.five_eyes,Fünf Augen
 hud.intel.five_eyes_no,VON
 hud.intel.five_eyes_yes,JA – Mitglied
 hud.intel.founded,Gegründet
@@ -4622,7 +4622,7 @@ hud.ledger.col.mil_attack,Gelände-Kit-Modus
 hud.ledger.col.mil_defense,Verteidigungsmodus
 hud.ledger.col.missile_defense,Raketenabwehr
 hud.ledger.col.missile_range,RANGES DER RAKETEN
-hud.ledger.col.nukes,NUKES
+hud.ledger.col.nukes,Atomwaffen
 hud.ledger.col.personnel,PERSONAL
 hud.ledger.col.population,BEVÖLKERUNG
 hud.ledger.col.prestige,PRESTIGE
@@ -4639,7 +4639,7 @@ hud.ledger.col.sphere_size,SPHÄRE
 hud.ledger.col.stability,STABILITÄT
 hud.ledger.col.submarines,UNTERTITEL
 hud.ledger.col.tanks,TANKS
-hud.ledger.col.tech_count,TECHS
+hud.ledger.col.tech_count,TECHNIK
 hud.ledger.col.treasury,STAATSKASSE
 hud.ledger.col.unemployment,UNEMP
 hud.ledger.col.urbanization,STÄDTISCH
@@ -5182,9 +5182,9 @@ hud.mil.confirm_merge,Soll die Armee #{0} mit einer anderen Armee in dieser Prov
 hud.mil.confirm_split,Sollten {0} Einheiten der Armee #{1} in eine neue Armee aufgeteilt werden?
 hud.mil.confirm_transport_ships,"Für diesen Vorgang ist ein Seetransport erforderlich. Es werden {0} Schiffe für {1} Fahrten reserviert, um {2} Truppen nach {3} zu transportieren. Möchten Sie fortfahren?"
 hud.mil.cost,KOSTEN
-hud.mil.defcon_level,DEFCON LEVEL
+hud.mil.defcon_level,DEFCON-EBENE
 hud.mil.defcon_prefix,DEFCON {0}
-hud.mil.defcon_section,DEFCON STATUS
+hud.mil.defcon_section,DEFCON-STATUS
 hud.mil.defense_budget,VERTEIDIGUNGSHAUSHALT
 hud.mil.detonated,ZÜNDET
 hud.mil.early_warning,Frühwarnradare
@@ -5232,7 +5232,7 @@ hud.mil.missile_inventory,Raketenbestand
 hud.mil.mode_attack,"⚔ Klicke auf eine Provinz mit feindlichen Truppen, um anzugreifen..."
 hud.mil.mode_move,"→ Klicken Sie auf eine Provinz, um das Ziel der Armee festzulegen..."
 hud.mil.morale_percent,MORAL {0}%
-hud.mil.move,MOVE
+hud.mil.move,BEWEGEN
 hud.mil.move_map,→ VERSCHIEBEN
 hud.mil.move_to,WEITER ZU...
 hud.mil.no_active_battles,Keine laufenden Kämpfe
@@ -5249,8 +5249,8 @@ hud.mil.nuclear_warheads,ATOMSPRENGKÖPFE
 hud.mil.ongoing_battle_title,Kampf – {0}
 hud.mil.ongoing_battle_vs,{0} vs. {1}
 hud.mil.ongoing_battles_section,LAUFENDE KÄMPFE
-hud.mil.ongoing_siege_title,Siege - {0}
-hud.mil.open_missile_command,OPEN MISSILE COMMAND
+hud.mil.ongoing_siege_title,Belagerung - {0}
+hud.mil.open_missile_command,Offenes Raketenkommando
 hud.mil.open_nuclear_controls,OFFENE KERNKONTROLLEN
 hud.mil.pending_strikes,ANSTEHENDE STREIKS
 hud.mil.pick_air_unit,Wählen Sie den Einheitentyp für die Luftflotte aus:
@@ -5263,7 +5263,7 @@ hud.mil.province_short,P#{0}
 hud.mil.recruit,REKRUT
 hud.mil.recruit_unit,REKRUTIEREN
 hud.mil.recruitment_section,REKRUT.
-hud.mil.reserve_personnel,RESERVE
+hud.mil.reserve_personnel,RESERVIEREN
 hud.mil.select_missile_type,RAKETENTYP
 hud.mil.select_target_province,Geben Sie die ID der Zielprovinz ein:
 hud.mil.selection_mode_air,WASSER
@@ -5278,7 +5278,7 @@ hud.mil.siege_blocker_strong_defense,Die starke Präsenz der Verteidiger verlang
 hud.mil.siege_defender_army,{0} Garnison ({1} Einheiten)
 hud.mil.siege_defense,Provinzverteidigung
 hud.mil.siege_defense_value,Verteidigung: {0:F1}/{1:F1}
-hud.mil.siege_details_title,Siege Details
+hud.mil.siege_details_title,Belagerungsdetails
 hud.mil.siege_eta_ticks,Voraussichtlicher Ablauf: {0} Tage
 hud.mil.siege_eta_unknown,Voraussichtlicher Einsturz: --
 hud.mil.siege_progress,Verlauf der Belagerung
@@ -5287,7 +5287,7 @@ hud.mil.siege_section,AKTIVE BELAGERUNG
 hud.mil.slbm_capability,SLBM-FÄHIGKEIT
 hud.mil.slbm_count_label,SLBMs: {0}
 hud.mil.source_province,Quelle: Provinz
-hud.mil.split_army,✂ SPLIT
+hud.mil.split_army,✂ GETEILT
 hud.mil.split_tooltip,Einheiten in eine neue Armee aufteilen
 hud.mil.split_unavailable,Es werden mindestens 2 Einheiten zur Aufteilung benötigt
 hud.mil.strike_history,STREIKVERLAUF
@@ -5362,7 +5362,7 @@ hud.mil.unit_speed,SPD: {0}
 hud.mil.unit_type_unresolved,Einheitentyp nicht aufgelöst (Bereitstellungen nach militärischer Konfiguration neu importieren)
 hud.mil.unknown_unit,Unbekannte Einheit
 hud.mil.war_exhaustion,Kriegsmüdigkeit
-hud.mil.warhead_count,WARHEADS
+hud.mil.warhead_count,Sprengköpfe
 hud.mil.warhead_type,Sprengkopftyp
 hud.missile.btn.cancel,Abbrechen
 hud.missile.btn.focus,Schwerpunkt
@@ -5377,7 +5377,7 @@ hud.missile.confirm.rebase.body,Soll eine Rakete von {0} nach {1} verlegt werden
 hud.missile.confirm.rebase.title,Rebase-Rakete
 hud.missile.defcon.adversary,HAUPTGEGNER
 hud.missile.defcon.adversary_fallback,Entität #{0}
-hud.missile.defcon.level,DEFCON LEVEL
+hud.missile.defcon.level,DEFCON-EBENE
 hud.missile.defcon.none,Keine
 hud.missile.defcon.status,STATUS
 hud.missile.defcon.status_elevated,Erhöht
@@ -5385,7 +5385,7 @@ hud.missile.defcon.status_exchange,AKTIVER KERNENERGIEAUSTAUSCH
 hud.missile.defcon.status_imminent,Unmittelbare Gefahr
 hud.missile.defcon.status_mobilized,Mobilisiert
 hud.missile.defcon.status_peace,Friedenszeit
-hud.missile.defcon.status_standby,Standby
+hud.missile.defcon.status_standby,Stehen zu
 hud.missile.defense.early_warning,Frühwarnradare
 hud.missile.defense.intercept_slots,Intercept-Steckplätze
 hud.missile.defense.saturation,Sättigungsschwelle
@@ -5464,7 +5464,7 @@ hud.missile.production.time_months,{0} Monate
 hud.missile.production.warhead,Sprengkopf
 hud.missile.production.warhead.conventional,Herkömmlich
 hud.missile.production.warhead.nuclear,Nuklear
-hud.missile.section.defcon,DEFCON STATUS
+hud.missile.section.defcon,DEFCON-STATUS
 hud.missile.section.defense,RAKETENABWEHR
 hud.missile.section.fleet_slbm,VERWALTUNG DER FLOTTEN-SLBM
 hud.missile.section.history,STREIKGESCHICHTE
@@ -5520,7 +5520,7 @@ hud.nav.recruit,REKRUT.
 hud.nav.recruit_desc,Neue Einheiten rekrutieren und ausbilden
 hud.nav.tech,TECHNOLOGIE
 hud.nav.tech_desc,Neue Technologien erforschen
-hud.notification.iran_hormuz_closed,Iran has closed the Strait of Hormuz - major powers consider intervention
+hud.notification.iran_hormuz_closed,Iran hat die Straße von Hormus geschlossen – Großmächte erwägen Intervention
 hud.outliner.actor_player,Ihre Regierung
 hud.outliner.agenda_entry_body,Öffnen Sie die Agenda und legen Sie Ihr aktuelles Hauptziel fest. Die Aufgaben im Outliner richten sich nach dieser Auswahl.
 hud.outliner.agenda_entry_title,Offene strategische Agenda
@@ -5634,7 +5634,7 @@ hud.overlay.mil_force_title,ÜBERBLICK ÜBER DIE FORCE
 hud.overlay.mil_plan_desc,"Auswahl der Militärdoktrin, Produktionspläne für Ausrüstung, Wehrpflichtpolitik."
 hud.overlay.mil_plan_title,VERTEIDIGUNGSPLANUNG
 hud.overlay.military_title,MILITÄR
-hud.overlay.missile_title,MISSILE COMMAND
+hud.overlay.missile_title,Raketenkommando
 hud.overlay.tech_invest_desc,"Zuweisung von Forschungs- und Entwicklungsmitteln, Forschungspartnerschaften, Vereinbarungen zum Technologieaustausch."
 hud.overlay.tech_invest_title,INVESTITION
 hud.overlay.tech_title,TECHNOLOGIE
@@ -5653,7 +5653,7 @@ hud.peace.demand_humiliation,Demütigung
 hud.peace.demand_liberation,Befreiung
 hud.peace.demand_provincetransfer,Provinzwechsel
 hud.peace.demand_regimechange,Regimewechsel
-hud.peace.demand_statusquo,Status Quo (White Peace)
+hud.peace.demand_statusquo,Status Quo (Weißer Frieden)
 hud.peace.demand_warreparations,Kriegsentschädigungen
 hud.peace.failed.reason_cost_exceeds,Die Gesamtnachfragekosten übersteigen den aktuellen Kriegsstand.
 hud.peace.failed.reason_generic,Bitte überprüfen Sie die ausgewählten Begriffe und versuchen Sie es erneut.
@@ -5701,9 +5701,9 @@ hud.prov.filter_unrest,Unruhen >30
 hud.prov.mode,MODUS:
 hud.prov.mode_build_ops,Gebäudebetrieb
 hud.prov.mode_overview,Übersicht
-hud.prov.ops_action_build,Erstellen
+hud.prov.ops_action_build,Bauen
 hud.prov.ops_action_cancel,Abbrechen
-hud.prov.ops_action_upgrade,Upgrade
+hud.prov.ops_action_upgrade,Verbessern
 hud.prov.ops_build_failed,In dieser Provinz kann kein verfügbares Gebäude in die Warteschlange gestellt werden.
 hud.prov.ops_cancel_failed,"Es gibt keine Bauwarteschlangenposition, die storniert werden könnte."
 hud.prov.ops_col_actions,AKTIONEN
@@ -5728,15 +5728,15 @@ hud.prov.ops_sort_queue,Warteschlange
 hud.prov.ops_upgrade_failed,"In dieser Provinz gibt es kein Gebäude, das ausgebaut werden kann."
 hud.prov.sort_by,ERGEBNIS:
 hud.prov.sort_gdp,BIP
-hud.prov.sort_infra,Infra
+hud.prov.sort_infra,Infrarot
 hud.prov.sort_name,Name
 hud.prov.sort_pop,Pop
 hud.prov.sort_unrest,Unruhen
 hud.prov.total_gdp,GESAMT-BIP
 hud.prov.total_pop,GESAMTBEVÖLKERUNG
 hud.prov.total_provinces,PROVINZEN
-hud.province.action_build,erstellen
-hud.province.action_upgrade,Upgrade
+hud.province.action_build,bauen
+hud.province.action_upgrade,verbessern
 hud.province.area,GEBIET
 hud.province.armies,STATIONIERTE ARMEE
 hud.province.army_morale,Moral: {0:F0}/{1:F0}
@@ -5747,7 +5747,7 @@ hud.province.base_production,PRODUKTIONSSTÄTTE
 hud.province.battle,AKTIVER KAMPF
 hud.province.battle_armies,Armeen: {0}
 hud.province.battle_attacker,Angriffe: {0}
-hud.province.battle_defender,Defender: {0}
+hud.province.battle_defender,Verteidiger: {0}
 hud.province.battle_domain_land,LAND
 hud.province.battle_domain_naval,MARINE
 hud.province.battle_duration,Dauer: {0} Tage
@@ -5755,7 +5755,7 @@ hud.province.battle_participant,{0} [{1}]
 hud.province.battle_power,Leistung: {0:F0}
 hud.province.battle_side_atk,EDV
 hud.province.battle_side_def,Verteidigen
-hud.province.build,ERSTELLEN
+hud.province.build,BAUEN
 hud.province.build_new,+ NEU ERSTELLEN
 hud.province.building_effects,BAULICHE AUSWIRKUNGEN
 hud.province.building_fallback,Gebäude #{0}
@@ -5857,7 +5857,7 @@ hud.province.terrain,GRUNDSTÜCK
 hud.province.terrain_prod,FLÄCHENPRODUKTIVITÄT
 hud.province.unavailable_buildings,NICHT VERFÜGBARE GEBÄUDE
 hud.province.unrest,UNRUHEN
-hud.province.upgrade,UPGRADE
+hud.province.upgrade,VERBESSERN
 hud.province.upgrading,WIRD AKTUALISIERT...
 hud.province.urbanization,URBANISIERUNG
 hud.province.vis_reason.adjacent_explored,In der Nähe des eigenen Territoriums (erkundet)
@@ -5900,7 +5900,7 @@ hud.quickbuild.col_province,Provinz
 hud.quickbuild.col_rank,#
 hud.quickbuild.col_recommend,Empfehlen
 hud.quickbuild.col_score,Ergebnis
-hud.quickbuild.col_slots,Slots
+hud.quickbuild.col_slots,Spielautomaten
 hud.quickbuild.col_threat,STABILITÄT
 hud.quickbuild.compact_subtitle,Durchsuche Provinzen mit hoher Priorität und stelle die beste Empfehlung schnell in die Warteschlange.
 hud.quickbuild.ctx_deterrence,Abwehreignung
@@ -5944,7 +5944,7 @@ hud.quickbuild.placement.mini_building,Gebäude: {0}
 hud.quickbuild.placement.mini_cancel,Abbrechen
 hud.quickbuild.placement.mini_label,Bau-Modus
 hud.quickbuild.placement.mode_label,Platzierung der Bauelemente
-hud.quickbuild.queue_short,Q:{0}
+hud.quickbuild.queue_short,F:{0}
 hud.quickbuild.reason_chain_coverage,Risiko der Unterdeckung ({0} %)
 hud.quickbuild.reason_country_priority,Entspricht den aktuellen Schwerpunkten des Staatshaushalts.
 hud.quickbuild.reason_defense_overconcentration,Die Verteidigung konzentriert sich auf andere Bereiche; diese Empfehlung sorgt für eine ausgewogene Abdeckung.
@@ -6014,7 +6014,7 @@ hud.quickrecruit.province_fallback,Provinz {0}
 hud.quickrecruit.recruitment_failed,Die Personalbeschaffung ist gescheitert
 hud.quickrecruit.resources_per_month,Ressourcen/Monat:
 hud.quickrecruit.resources_required,Voraussetzungen:
-hud.quickrecruit.target.auto,AUTO TARGET {0}   INF {1:F0}   POP {2}
+hud.quickrecruit.target.auto,AUTO TARGET {0} INF {1:F0} POP {2}
 hud.quickrecruit.target.none,Keine berechtigte Provinz
 hud.quickrecruit.target.req,AUTO ERFORDERT {0}
 hud.quickrecruit.time_require,ZEIT {0:F0} {1}
@@ -6055,7 +6055,7 @@ hud.recruit.required_building_fallback,Gebäude #{0}
 hud.recruit.required_building_named,Erfordert: {0}
 hud.recruit.required_none,Keine
 hud.recruit.sel_facilities,Ausstattung: {0}
-hud.recruit.sel_infra,Infra: {0:F0}
+hud.recruit.sel_infra,Infrastruktur: {0:F0}
 hud.recruit.sel_pop,Pop: {0}
 hud.recruit.select_province,PROVINZ AUSWÄHLEN
 hud.recruit.sort_infra,Infrastruktur ▼
@@ -6151,7 +6151,7 @@ hud.summary.mil_aircraft,FLUGZEUGE
 hud.summary.mil_budget,BUDGET
 hud.summary.mil_manpower,MANNSTÄRKE
 hud.summary.mil_tanks,TANKS
-hud.summary.mil_tech,TECH POWER
+hud.summary.mil_tech,TECHNIK
 hud.summary.military,MILITÄR
 hud.summary.tech,TECH
 hud.summary.tech_invest,INVESTITION
@@ -6171,11 +6171,11 @@ hud.tech.current_impact,WIRKUNG DER FORSCHUNG
 hud.tech.current_section,AKTUELLE FORSCHUNG
 hud.tech.cyber_attack,CYBERANGRIFF
 hud.tech.defense_modifier,VERTEIDIGUNG ÄNDERN
-hud.tech.effect_type_boost,BOOST
-hud.tech.effect_type_intel,MAP INTEL
+hud.tech.effect_type_boost,SCHUB
+hud.tech.effect_type_intel,KARTE INTEL
 hud.tech.focus_graph_btn,DIAGRAMM
 hud.tech.fx_attack,Atk {0:+0.0%;-0.0%}
-hud.tech.fx_cyber,Cyber {0:+0.0%;-0.0%}
+hud.tech.fx_cyber,Cyber ​​{0:+0.0%;-0.0%}
 hud.tech.fx_defense,Führe {0:+0.0%;-0.0%} aus
 hud.tech.fx_gdp,BIP {0:+0.0%;-0.0%}
 hud.tech.fx_hint_attack,militärisches Vergehen
@@ -6259,7 +6259,7 @@ hud.toast.army_lost_desc,{0} Armeeformation(en) sind im Kampf verloren gegangen.
 hud.toast.army_merged,ARMY ZUSAMMENGELEGT
 hud.toast.army_merged_desc,{0} hat sich mit {1} zusammengeschlossen.
 hud.toast.army_move_blocked,Verschieben gesperrt
-hud.toast.army_split,ARMY SPLIT
+hud.toast.army_split,ARMEESPLITTUNG
 hud.toast.army_split_desc,{0} hat seine Armee in {1} aufgeteilt.
 hud.toast.battle_won,Sieg errungen
 hud.toast.battle_won_desc,Die feindlichen Truppen wurden zurückgeschlagen. {0} Formation(en) gingen verloren.
@@ -6335,7 +6335,7 @@ hud.toast.missile_lost_source_unresolved_desc,"Unsere Rakete wurde abgefeuert, d
 hud.toast.missile_lost_target_unresolved_desc,"Unsere Rakete wurde abgefeuert, doch das Ziel konnte für die Verfolgung nicht erfasst werden."
 hud.toast.missile_lost_title,RAKETE VERLOREN
 hud.toast.missile_production_queued_title,Raketenproduktion in der Warteschlange
-hud.toast.multilateral_sanction.body,{0} hat Sanktionen einer Koalition gegen Sie organisiert.
+hud.toast.multilateral_sanction.body,{0} hat einen {1} gegen Sie organisiert. {2}
 hud.toast.multilateral_sanction.title,Koalition verhängt Sanktionen
 hud.toast.nuclear_launch,NUKLEARER START
 hud.toast.nuclear_launch_desc,Nuklearschlag eingeleitet.
@@ -6356,7 +6356,7 @@ hud.toast.resource_shortage.title,Ressourcenknappheit
 hud.toast.rival_designated.body,{0} hat dich als Rivalen ausgewiesen.
 hud.toast.rival_designated.title,Als Rivale benannt
 hud.toast.sanction_enforcers,{0} Länder setzen durch
-hud.toast.sanction_imposed.body,{0} hat Sanktionen gegen dich verhängt.
+hud.toast.sanction_imposed.body,{0} hat einen {1} gegen Sie verhängt.
 hud.toast.sanction_imposed.title,Verhängte Sanktionen
 hud.toast.selection_mode_desc,Zur Auswahl „{0}“ gewechselt.
 hud.toast.selection_mode_title,AUSWAHLMODUS
@@ -6388,7 +6388,7 @@ hud.tooltip.being_occupied,WIRD BESETZT
 hud.tooltip.buildings,Gebäude
 hud.tooltip.ctx.area,GEBIET
 hud.tooltip.ctx.army_strength,STÄRKE DER ARMEE
-hud.tooltip.ctx.defcon,DEFCON LEVEL
+hud.tooltip.ctx.defcon,DEFCON-EBENE
 hud.tooltip.ctx.defense_bonus,VERTEIDIGUNGSBONUS
 hud.tooltip.ctx.diplo_state,STATUS
 hud.tooltip.ctx.gdp,BIP
@@ -6406,7 +6406,7 @@ hud.tooltip.occupation,BESETZT VON
 hud.tooltip.owner_international_waters,INTERNATIONALE GEWÄSSER
 hud.tooltip.owner_unknown,Unbekannt
 hud.tooltip.population,BEVÖLKERUNG
-hud.tooltip.province_default,PROVINZ-DETAILS
+hud.tooltip.province_default,Provinz #{0}
 hud.tooltip.relation.friendly,Freundlich
 hud.tooltip.relation.hostile,Feindselig
 hud.tooltip.relation.neutral,Neutral
@@ -6492,15 +6492,15 @@ hud.war.role_attacker,ANGRIFFE
 hud.war.role_defender,VERTEIDIGEN
 hud.war.score_fmt,KRIEGSBILANZ: {0:F1}%
 hud.war.score_limited_engagement,Geringe Punktzahl – geringe Interaktion
-hud.war.starter,War Starter: {0}
+hud.war.starter,Kriegsstarter: {0}
 hud.war.starter_cb,Start-CB: {0}
-hud.war.starter_cb_label,Starter CB
+hud.war.starter_cb_label,Anlasser CB
 hud.war.starter_label,Kriegsauslöser
 hud.war.stat_battles,Gewonnene Kämpfe: {0}/{1}
 hud.war.stat_exhaustion,Kriegsmüdigkeit: {0:F1}%
 hud.war.stat_manpower,Mannstärke: {0}
-hud.war.stat_reserve,Reserve: {0}
-hud.war.sue_peace,SUE PEACE
+hud.war.stat_reserve,Reservieren: {0}
+hud.war.sue_peace,VERKLAGEN SIE FRIEDEN
 hud.war.summary_title,ZUSAMMENFASSUNG DES KRIEGES
 hud.war.tooltip.ally_country,Verbündeter Teilnehmer an diesem Krieg.
 hud.war.tooltip.side_breakdown,Beiträge nach Ländern auf dieser Seite.
@@ -6558,15 +6558,15 @@ menu.mods.action.delete,LÖSCHEN
 menu.mods.action.unsubscribe,ABMELDEN
 menu.mods.active_scenario,Aktives Szenario: {0}
 menu.mods.active_scenario_none,Kein aktives Szenario
-menu.mods.badge.fire_triggers,TRIGGERS
-menu.mods.badge.inject_ui,INJECT UI
-menu.mods.badge.local,LOCAL
-menu.mods.badge.no_permissions,NO PERMISSIONS
-menu.mods.badge.read_economy,ECONOMY
-menu.mods.badge.scenario,SCENARIO
-menu.mods.badge.scripted,SCRIPTED
-menu.mods.badge.workshop,WORKSHOP
-menu.mods.badge.write_flags,FLAGS
+menu.mods.badge.fire_triggers,AUSLÖSER
+menu.mods.badge.inject_ui,INJECT-Benutzeroberfläche
+menu.mods.badge.local,LOKAL
+menu.mods.badge.no_permissions,KEINE ERLAUBNISSE
+menu.mods.badge.read_economy,WIRTSCHAFT
+menu.mods.badge.scenario,SZENARIO
+menu.mods.badge.scripted,GESCHRIFT
+menu.mods.badge.workshop,WERKSTATT
+menu.mods.badge.write_flags,FLAGGEN
 menu.mods.badge.write_treasury,STAATSKASSE
 menu.mods.close,SCHLIESSEN
 menu.mods.delete_confirm.body,'{0}' vom Datenträger löschen? Dies kann nicht rückgängig gemacht werden.
@@ -6581,8 +6581,8 @@ menu.mods.status.enabled,AKTIVIERT
 menu.mods.subtitle,Lokale Mods aktivieren und das Szenario für das nächste neue Spiel auswählen.
 menu.mods.title,MOD-ZUSAMMENSTELLUNG
 menu.mods.wasm_error_bar,{0} Mod(s) fAI haben zur Initialisierung des Skripts geführt. Das Spiel läuft normal weiter.
-menu.mods_broken_section,MISSING MODS
-menu.multiplayer,MULTIPLAYER
+menu.mods_broken_section,FEHLENDE MODS
+menu.multiplayer,MEHRSPIELER
 menu.new_game,NEUES SPIEL
 menu.pause.quitting,Beendet und kehrt zum Desktop zurück...
 menu.quit,BEENDEN
@@ -6619,7 +6619,7 @@ month.feb,Feb
 month.jan,Jan
 month.jul,Jul
 month.jun,Jun
-month.mar,Mar
+month.mar,Mär
 month.may,Mai
 month.nov,Nov
 month.oct,Okt
@@ -6908,7 +6908,7 @@ saveload.err.mp_save_in_sp,"Dies ist ein Multiplayer-Speicherstand. Öffne eine 
 saveload.err_empty_name,Gib zuerst einen Namen für die Speicherdatei ein
 saveload.err_no_selection,Wählen Sie zunächst eine Speicherdatei aus
 saveload.error,Fehler: {0}
-saveload.game_mode,Mode: {0}
+saveload.game_mode,Modus: {0}
 saveload.invalid_or_corrupted,Ungültige oder beschädigte Speicherdatei.
 saveload.load_btn,LADEN
 saveload.load_title,SPIEL LADEN
@@ -6921,7 +6921,7 @@ saveload.not_in_cloud,○ Nicht in der Cloud
 saveload.preview_saved,Gespeichert: {0}
 saveload.preview_size,Für Sie: {0} MB
 saveload.preview_speed,Geschwindigkeit: {0}
-saveload.save_btn,SAVE
+saveload.save_btn,SPEICHERN
 saveload.save_name,Name speichern...
 saveload.save_title,SPIEL SPEICHERN
 saveload.saved_ok,Spiel erfolgreich gespeichert
@@ -6950,7 +6950,7 @@ sea.name.baird_inlet,Baird-Bucht
 sea.name.balearic_sea,Balearisches Meer
 sea.name.bali_sea,Andere Meere
 sea.name.baltic_sea,Ostsee
-sea.name.banda_sea,Banda Sea
+sea.name.banda_sea,Bandasee
 sea.name.barents_sea,Barentssee
 sea.name.bass_strait,Bass-Straße
 sea.name.bathurst_inlet,Bathurst-Bucht
@@ -6958,7 +6958,7 @@ sea.name.bay_inútil,Bucht der Nutzlosigkeit
 sea.name.bay_of_bengal,Golf von Bengalen
 sea.name.bay_of_biscay,Biskaya
 sea.name.bay_of_fundy,Fundy-Bucht
-sea.name.bay_of_plenty,Bay of Plenty
+sea.name.bay_of_plenty,Bucht des Überflusses
 sea.name.baía_de_marajó,Marajó-Bucht
 sea.name.baía_de_são_marcos,Markusbucht
 sea.name.beaufort_sea,Beaufortsee
@@ -6973,7 +6973,7 @@ sea.name.boca_grande,Boca Grande
 sea.name.bohol_sea,Das Meer von Bohol
 sea.name.boknafjorden,Boknafjord
 sea.name.bransfield_strait,Bransfield-Straße
-sea.name.bras_dor_lake,Bras d'Or Lake
+sea.name.bras_dor_lake,Bras d'Or-See
 sea.name.bristol_bay,Bristol Bay
 sea.name.bristol_channel,Bristol-Kanal
 sea.name.canal_do_norte,Nordkanal
@@ -6983,19 +6983,19 @@ sea.name.caribbean_sea,Karibik
 sea.name.caspian_sea,Kaspisches Meer
 sea.name.celebes_sea,Celebes-Meer
 sea.name.ceram_sea,Wir hoffen auf das Meer
-sea.name.chaun_bay,Chaun Bay
+sea.name.chaun_bay,Chaun-Bucht
 sea.name.chesapeake_bay,Chesapeake-Bucht
 sea.name.chukchi_sea,Tschuktschensee
 sea.name.columbia_river,Columbia River
 sea.name.cook_inlet,Cook-Bucht
 sea.name.cook_strait,Cook-Straße
 sea.name.coral_sea,Korallenmeer
-sea.name.cordova_bay,Cordova Bay
+sea.name.cordova_bay,Cordova-Bucht
 sea.name.cumberland_sound,Cumberland Sound
 sea.name.dardanelles,Dardanellen
 sea.name.darnley_bay,Darnley Bay
 sea.name.davao_gulf,Golf von Davao
-sea.name.davis_sea,Davis Sea
+sea.name.davis_sea,Davissee
 sea.name.davis_strait,Davis-Straße
 sea.name.delaware_bay,Delaware-Bucht
 sea.name.denmark_strait,Dänemarkstraße
@@ -7005,10 +7005,10 @@ sea.name.dmitriy_laptev_strait,Dmitriy-Laptev-Straße
 sea.name.east_china_sea,Ostchinesisches Meer
 sea.name.east_korea_bay,Ostkoreanische Bucht
 sea.name.east_siberian_sea,Ostsibirisches Meer
-sea.name.eclipse_sound,Eclipse Sound
+sea.name.eclipse_sound,Eclipse-Sound
 sea.name.english_channel,Ärmelkanal
 sea.name.estrecho_de_magellanes,Magellanstraße
-sea.name.flores_sea,Flores Sea
+sea.name.flores_sea,Flores-Meer
 sea.name.foxe_basin,Foxe-Becken
 sea.name.franklin_bay,Franklin Bay
 sea.name.frobisher_bay,Frobisher Bay
@@ -7072,7 +7072,7 @@ sea.name.halmahera_sea,Halmahera-Meer
 sea.name.hamilton_inlet,Hamilton-Bucht
 sea.name.hangzhou_bay,Hangzhou-Bucht
 sea.name.hecate_strait,Hekate-Straße
-sea.name.hudson_bay,Hudson Bay
+sea.name.hudson_bay,Hudsonbai
 sea.name.hudson_strait,Hudson-Straße
 sea.name.husky_lakes,Husky-Seen
 sea.name.indian_ocean,Indischer Ozean
@@ -7104,7 +7104,7 @@ sea.name.laptev_sea,Laptev-Meer
 sea.name.leyte_gulf,Golf von Leyte
 sea.name.liddon_gulf,Liddon-Bucht
 sea.name.ligurian_sea,Ligurisches Meer
-sea.name.lincoln_sea,Lincoln Sea
+sea.name.lincoln_sea,Lincolnsee
 sea.name.long_island_sound,Long Island Sound
 sea.name.lützow_holm_bay,Lützow-Holm-Bucht
 sea.name.mackenzie_bay,Mackenzie Bay
@@ -7130,10 +7130,10 @@ sea.name.norwegian_sea,Norwegische See
 sea.name.ozero_mogotoyevo,Ozero Mogotoyevo
 sea.name.palk_strait,Palk-Straße
 sea.name.pamlico_sound,Pamlico Sound
-sea.name.peacock_sound,Peacock Sound
+sea.name.peacock_sound,Pfauenklang
 sea.name.persian_gulf,Persischer Golf
 sea.name.philippine_sea,Philippinisches Meer
-sea.name.porpoise_bay,Porpoise Bay
+sea.name.porpoise_bay,Schweinswalbucht
 sea.name.prince_albert_sound,Prince-Albert-Straße
 sea.name.prince_of_wales_strait,Prinz-von-Wales-Straße
 sea.name.prince_william_sound,Prince William Sound
@@ -7296,7 +7296,7 @@ settings.controls.controller_cursor,STEUER-CURSOR
 settings.controls.controller_cursor_enabled,Virtuellen Cursor aktivieren
 settings.controls.controller_cursor_speed,Geschwindigkeit des virtuellen Cursors (%)
 settings.controls.controller_note,Mit Xbox-Controller getestet. Funktioniert nicht? Schreib uns: contact@dorlioninteractive.com
-settings.controls.gamepad,GAMEPAD
+settings.controls.gamepad,Gamepad
 settings.controls.keyboard_mouse,TASTATUR & MAUS
 settings.controls.listening,Ich höre zu...
 settings.controls.map_mode_modifier_hint,"Halte LB + Steuerkreuz gedrückt, um zwischen den Kartenmodi zu wechseln"
@@ -7508,7 +7508,7 @@ tech.microsatellite_networks.name,Mikrosatelliten- & Cubesat-Arrays
 tech.next_gen_fighter.description,Optional bemannter Stealth-Jäger mit Integration von KI-Flugbegleitern.
 tech.next_gen_fighter.name,Kampfflugzeug der 6. Generation
 tech.orbital_manufacturing.description,Schwerelosigkeitsfabriken für hochmoderne Werkstoffe und Arzneimittel.
-tech.orbital_manufacturing.name,Orbital Manufacturing
+tech.orbital_manufacturing.name,Orbitale Fertigung
 tech.orbital_weapons.description,Einsatz von reaktionsschnellen suborbitalen Gleitflugkörpersystemen für prompte globale Schläge.
 tech.orbital_weapons.name,Fraktionale orbitale Bombardierungssysteme
 tech.precision_agriculture.description,KI-gestützte Landwirtschaft mit Drohnenüberwachung und automatisierter Ernte.
@@ -7535,7 +7535,7 @@ tech.satellite_constellation.description,Satellitennetzwerke in der erdnahen Uml
 tech.satellite_constellation.name,Globale Satellitenkonstellation
 tech.satellite_constellation.name.CHN,Nationales Ortungsnetz
 tech.satellite_constellation.name.JPN,QZSS-Navigationssystem
-tech.satellite_constellation.name.RUS,GLONASS Network
+tech.satellite_constellation.name.RUS,GLONASS-Netzwerk
 tech.satellite_constellation.name.TUR,TURKSAT Satellite System
 tech.satellite_constellation.name.USA,GPS-Betriebsblock
 tech.signals_intelligence.description,Elektronische Kommunikation zum Zwecke der Informationsgewinnung abfangen und auswerten.
@@ -7668,20 +7668,20 @@ tooltip.diplo.aid_package.title,ENTWICKLUNGSHILFE
 tooltip.diplo.alliance.desc,Schlage ein Verteidigungsbündnis vor. Verbündete beteiligen sich automatisch an Verteidigungskriegen.
 tooltip.diplo.alliance.title,VORSCHLAG EINER ALLIANZ
 tooltip.diplo.breakdown.active_modifiers,Aktive Modifikatoren
-tooltip.diplo.breakdown.allied_to_defensive_rival,  - Mit defensivem Rivalen verbündet
-tooltip.diplo.breakdown.allied_to_enemy,  - Mit Feinden verbündet
-tooltip.diplo.breakdown.allied_to_friend,  - Mit Freunden verbündet
-tooltip.diplo.breakdown.allied_to_rival,  - Mit Rivalen verbündet
+tooltip.diplo.breakdown.allied_to_defensive_rival,- Mit defensivem Rivalen verbündet
+tooltip.diplo.breakdown.allied_to_enemy,- Mit Feinden verbündet
+tooltip.diplo.breakdown.allied_to_friend,- Mit Freunden verbündet
+tooltip.diplo.breakdown.allied_to_rival,- Mit Rivalen verbündet
 tooltip.diplo.breakdown.current_relation,Aktuelle Beziehung
 tooltip.diplo.breakdown.decay,Zerfall in Richtung Basisziel
-tooltip.diplo.breakdown.ideological_alignment,  - Ideologische Ausrichtung
-tooltip.diplo.breakdown.leadership_stance,  - Führungsstil
+tooltip.diplo.breakdown.ideological_alignment,- Ideologische Ausrichtung
+tooltip.diplo.breakdown.leadership_stance,- Führungsstil
 tooltip.diplo.breakdown.month_suffix,/Monat
-tooltip.diplo.breakdown.neutral_zone,  - Dämpfung der neutralen Zone
+tooltip.diplo.breakdown.neutral_zone,- Dämpfung der neutralen Zone
 tooltip.diplo.breakdown.no_data,Keine Daten verfügbar.
 tooltip.diplo.breakdown.passive_drift,Passive Driftfaktoren (Monatlich)
 tooltip.diplo.breakdown.regional_base,Regionale Basis (Natürlich)
-tooltip.diplo.breakdown.shared_enemies,  - Gemeinsame Feinde
+tooltip.diplo.breakdown.shared_enemies,- Gemeinsame Feinde
 tooltip.diplo.breakdown.tick_suffix,/Tag
 tooltip.diplo.breakdown.total_drift,Gesamte monatliche dynamische Drift
 tooltip.diplo.cancel_nap.desc,Den Nichtangriffspakt aufkündigen. Dies hat erhebliche diplomatische Nachteile zur Folge.
@@ -7711,18 +7711,18 @@ tooltip.diplo.diplomatic_weight.title,DIPLOMATISCHES GEWICHT
 tooltip.diplo.ew.bilateral_tariff_max,Bilateral: Maximaler Zoll
 tooltip.diplo.ew.bilateral_tariff_step,Bilateral: Zoll / Schritt
 tooltip.diplo.ew.cost_pct_gdp,Kosten (% BIP)
-tooltip.diplo.ew.dependency_threshold,Dependency Threshold
-tooltip.diplo.ew.detection_risk,Detection Risk
-tooltip.diplo.ew.duration_months,Duration
-tooltip.diplo.ew.inflation_pct,Inflation Impact
+tooltip.diplo.ew.dependency_threshold,Abhängigkeitsschwellenwert
+tooltip.diplo.ew.detection_risk,Entdeckungsrisiko
+tooltip.diplo.ew.duration_months,Dauer
+tooltip.diplo.ew.inflation_pct,Auswirkungen der Inflation
 tooltip.diplo.ew.inflation_sideeffect,Inflation Nebenwirkung
-tooltip.diplo.ew.loan_interest,Monthly Interest
+tooltip.diplo.ew.loan_interest,Monatliche Zinsen
 tooltip.diplo.ew.max_loans,Maximale Kredite
-tooltip.diplo.ew.max_tariff,Max Tariff
+tooltip.diplo.ew.max_tariff,Maximaler Tarif
 tooltip.diplo.ew.monthly_interest,Monatliche Zinseinnahmen
 tooltip.diplo.ew.no_detection,Keine – direkte Aktion
-tooltip.diplo.ew.permanent,Permanent
-tooltip.diplo.ew.relation_bonus,Relation Bonus
+tooltip.diplo.ew.permanent,Dauerhaft
+tooltip.diplo.ew.relation_bonus,Beziehungsbonus
 tooltip.diplo.ew.relation_per_step,Beziehung / Schritt
 tooltip.diplo.ew.tariff_per_step,Tarif / Eskalation
 tooltip.diplo.ew.upfront_cost,Vorauszahlung
@@ -7736,7 +7736,7 @@ tooltip.diplo.guarantee_reason_military,"Das Ziel ist zu mächtig, um eine Garan
 tooltip.diplo.guarantee_reason_relations,Die Werte sind zu niedrig
 tooltip.diplo.improve.desc,"Entsende einen Diplomaten, um die bilateralen Beziehungen im Laufe der Zeit zu verbessern."
 tooltip.diplo.improve.title,DIE BEZIEHUNGEN VERBESSERN
-tooltip.diplo.insult,INSULT
+tooltip.diplo.insult,BELEIDIGUNG
 tooltip.diplo.insult.desc,"Sende eine diplomatische Beleidigung, um die Beziehungen zu belasten. Dies steigert das Ansehen, schadet jedoch den bilateralen Beziehungen."
 tooltip.diplo.insult.title,Beleidigung senden
 tooltip.diplo.join_bloc.desc,"Beantragen Sie den Beitritt zu einem bestehenden Handelsblock, um von Zollsenkungen und wirtschaftlicher Integration zu profitieren."
@@ -7836,7 +7836,7 @@ tooltip.diplo.title.rival_target,RIVALEN BENENNEN - {0}
 tooltip.diplo.title.sanction_target,AUSWIRKUNGEN DER SANKTIONEN - {0}
 tooltip.diplo.title.trade_target,HANDELN SIE MIT {0}: {1}
 tooltip.diplo.title.treaty_target,Vertrag mit {0}: {1}
-tooltip.diplo.title.war_target,WAR VS {0}: {1}
+tooltip.diplo.title.war_target,KRIEG GEGEN {0}: {1}
 tooltip.diplo.trade.desc,"Schlagen Sie ein bilaterales Handelsabkommen vor, das die Handelseffizienz für beide Länder steigert."
 tooltip.diplo.trade.title,ANGEBOT ZUM HANDELSABKOMMEN
 tooltip.diplo.trade_war.desc,Die Handelsspannungen durch Vergeltungszölle verschärfen. Das schadet beiden Volkswirtschaften.
@@ -7924,7 +7924,7 @@ tooltip.econ.deficit.row.severity_critical,Kritisch
 tooltip.econ.deficit.row.severity_moderate,Mäßig
 tooltip.econ.deficit.row.severity_warning,Hoch
 tooltip.econ.deficit.row.stock_buffer,VORRATSPUFFER
-tooltip.econ.deficit.row.stock_buffer_fmt,~{0:F1} mo
+tooltip.econ.deficit.row.stock_buffer_fmt,~{0:F1} Mo
 tooltip.econ.deficit.row.title,DETAILS ZUR RESSOURCENKNAPFHEIT
 tooltip.econ.deficit.unrest.desc,"Fehlende strategische Inputs verstärken den passiven Unruhedruck bei Unruhen-Updates. Positive Werte erhöhen die Instabilität, sofern die Engpässe nicht behoben werden."
 tooltip.econ.deficit.unrest.title,UNRUHEN AUFGRUND VON VERKNAPPTEN VORRÄTEN
@@ -8031,7 +8031,7 @@ tooltip.econ.treasury.title,STAATSKASSE
 tooltip.econ.unemployment.desc,Anteil der Erwerbsbevölkerung ohne Beschäftigung. Beeinflusst durch das BIP-Wachstum und die Sozialausgaben.
 tooltip.econ.unemployment.title,ARBEITSLOSENQUOTE
 tooltip.intel.agency_acronym.desc,"Kurzcode, der in Berichten und Einsatzprotokollen verwendet wird."
-tooltip.intel.agency_acronym.title,AGENCY ACRONYM
+tooltip.intel.agency_acronym.title,AGENTUR-AKRONYM
 tooltip.intel.agency_name.desc,Offizieller Name Ihres Geheimdienstes.
 tooltip.intel.agency_name.title,NAME DER AGENTUR
 tooltip.intel.counter_intel,SPIONAGEABWEHR
@@ -8050,7 +8050,7 @@ tooltip.intel.defense,VERTEIDIGUNGSEINSÄTZE
 tooltip.intel.defense.desc,"Die Fähigkeit der Behörde, ausländische nachrichtendienstliche Operationen auf heimischem Boden aufzudecken und zu unterbinden."
 tooltip.intel.defense.title,VERTEIDIGUNGSPUNKTESTAND
 tooltip.intel.estimated_capability.desc,Nachrichtendienstliche Einschätzungen auf der Grundlage Ihrer gesammelten Berichte. Höhere Genauigkeit durch erfolgreiche Missionen zur Informationsbeschaffung.
-tooltip.intel.five_eyes,FIVE EYES
+tooltip.intel.five_eyes,FÜNF AUGEN
 tooltip.intel.five_eyes.desc,Mitgliedschaft im Geheimdienstbündnis „Five Eyes“. Ermöglicht den Austausch von Geheimdienstinformationen mit verbündeten Staaten.
 tooltip.intel.fiveeyes.desc,Die Mitgliedschaft im „Five Eyes“-Bündnis bietet Vorteile beim Austausch von Geheimdienstinformationen und ermöglicht gemeinsame Operationen.
 tooltip.intel.fiveeyes.title,Mitglied der „Five Eyes“
@@ -8115,7 +8115,7 @@ tooltip.mil.arty.title,ARTILLERIE
 tooltip.mil.budget.desc,"Monatlicher Anteil des Nationaleinkommens, der für Verteidigungszwecke aufgewendet wird. Umfasst die Rekrutierung und den Unterhalt von Truppen, die Entwicklung und Beschaffung von Raketen sowie militärische Ausrüstung."
 tooltip.mil.budget.title,VERTEIDIGUNGSHAUSHALT
 tooltip.mil.defcon.desc,"Bedrohungsstufe. DEFCON 5 = Frieden, DEFCON 1 = unmittelbar bevorstehender Atomkrieg."
-tooltip.mil.defcon.title,DEFCON LEVEL
+tooltip.mil.defcon.title,DEFCON-EBENE
 tooltip.mil.heli.desc,Drehflügler. Unterstützung von Bodenoperationen und Transport.
 tooltip.mil.heli.title,HELIKOPTER
 tooltip.mil.icbm.desc,Kann Interkontinentalraketen abschießen. Weltweite Reichweite.
@@ -8147,7 +8147,7 @@ tooltip.missile.action.focus.title,IM FOKUS: DIE PROVINZ
 tooltip.missile.action.launch.desc,Den aktuell ausgewählten Raketenangriff ausführen.
 tooltip.missile.action.launch.title,START
 tooltip.missile.action.load_slbm.desc,Lade eine für U-Boote geeignete Rakete aus dem benachbarten Hafenlager.
-tooltip.missile.action.load_slbm.title,LOAD SLBM
+tooltip.missile.action.load_slbm.title,SLBM LADEN
 tooltip.missile.action.load_slbm.transfer_desc,In diesem Hafen gibt es keine SLBM. Eine Rakete wird aus dem nationalen Bestand hierher verlegt und anschließend verladen.
 tooltip.missile.action.pick_destination.desc,Wählen Sie die Zielprovinz direkt auf der Karte aus.
 tooltip.missile.action.pick_destination.title,AUF DER KARTE AUSWÄHLEN
@@ -8161,7 +8161,7 @@ tooltip.missile.action.select_target.title,ZIEL AUSWÄHLEN
 tooltip.missile.action.unload.desc,Eine SLBM aus der Flotte zurück in den Hafenbestand verlegen.
 tooltip.missile.action.unload.title,SLBM entladen
 tooltip.missile.defcon.desc,Aktuelle strategische Bereitschaft. DEFCON 5 entspricht der Friedensbereitschaft; DEFCON 1 deutet auf einen unmittelbar bevorstehenden Atomkrieg hin.
-tooltip.missile.defcon.title,DEFCON STATUS
+tooltip.missile.defcon.title,DEFCON-STATUS
 tooltip.missile.ew.desc,Die Leistungsfähigkeit des Radarnetzwerks unterstützt die Abfangsysteme. Eine bessere Frühwarnung verbessert die Wirksamkeit des Abfangens.
 tooltip.missile.ew.title,FRÜHWARNRADARE
 tooltip.missile.intercept.desc,"Die maximale Anzahl an gleichzeitig anfliegenden Sprengköpfen, die Ihr Raketenabwehrsystem abfangen kann, bevor Sättigungsmalusse zum Tragen kommen."
@@ -8273,7 +8273,7 @@ tooltip.province.literacy.title,ALPHABETISIERUNGSQUOTE
 tooltip.province.migration.desc,"Nettozuwanderungssaldo in diesem Monat. Positiv = Nettozuwanderung (attraktive Provinz). Bedingt durch Unterschiede im Entwicklungsstand, Unruhen und wirtschaftliche Chancen."
 tooltip.province.migration.title,MIGRATIONSDRUCK
 tooltip.province.move_capital.desc,Verlege die Hauptstadt deines Landes in diese Provinz. Kosten: {0} % Stabilität.
-tooltip.province.move_capital.title,MOVE CAPITAL
+tooltip.province.move_capital.title,HAUPTSTADT VERLEGEN
 tooltip.province.pop.desc,"Gesamtbevölkerung dieser Provinz. Die Zahl ergibt sich aus der Differenz zwischen Geburten und Sterbefällen, abzüglich Abwanderung und Bevölkerungszuwachs durch Neubauten."
 tooltip.province.pop.title,BEVÖLKERUNG
 tooltip.province.prodmod.desc,"Gesamtbonus von Gebäuden, die das BIP steigern. Jedes Gebäude mit BIP-Effekt trägt additiv dazu bei."
@@ -8358,7 +8358,7 @@ tooltip.statbar.debtgdp.threshold_critical,Die Verschuldung übersteigt 100 % de
 tooltip.statbar.debtgdp.threshold_warning,Eine Verschuldung von über 60 % des BIP – steigende Zinskosten und Wachstumsbremse.
 tooltip.statbar.debtgdp.title,SCHULDENQUOTE
 tooltip.statbar.defcon.desc,"Verteidigungsbereitschaftsstufe (5 = Frieden, 1 = höchste Alarmstufe)."
-tooltip.statbar.defcon.title,DEFCON LEVEL
+tooltip.statbar.defcon.title,DEFCON-EBENE
 tooltip.statbar.diplweight.base,Grundgewicht
 tooltip.statbar.diplweight.desc,"Einflussmultiplikator bei internationalen Verhandlungen. Größeres Gewicht durch die Mitgliedschaft in der G7, der G20 und im UN-Sicherheitsrat. Klicken Sie hier, um die Registerkarte „Diplomatie“ zu öffnen."
 tooltip.statbar.diplweight.orgs,Organisationsboni
@@ -8576,7 +8576,7 @@ tooltip.war.label.occ_provinces,Eroberte Provinzen
 tooltip.war.label.occupation,Beruf
 tooltip.war.label.ramp_days,Fortschritt beim Bau der Rampe
 tooltip.war.title.score,KRIEGSBILANZ: {0:F1}%
-tooltip.war.value.anti_farm_cap,Max {0:F1}%
+tooltip.war.value.anti_farm_cap,Max. {0:F1} %
 tooltip.war.value.ramp_progress,{0}/{1} Tage
 treaty.arms_limitation,Rüstungsbegrenzung
 treaty.climate_agreement,Klimaschutzabkommen
@@ -8701,7 +8701,7 @@ tutorial.prompt.title,Anleitung verfügbar
 tutorial.skip,ANLEITUNG ÜBERSPRINGEN
 tutorial.step1.body,"Dies ist eine kurze Einführung. Wir gehen kurz auf die Steuerelemente ein, die du jetzt benötigst, und leiten dich dann zur aufgabenbasierten Anleitung weiter.\n\nDas Spiel beginnt im Pausenmodus, damit du die Umgebung in aller Ruhe erkunden kannst."
 tutorial.step1.title,Willkommen bei Global Protocol
-tutorial.step2.body,Use these buttons to control game speed. Pause or resume with {0}. Tap {1} to step speed up or {2} to step speed down.
+tutorial.step2.body,"Verwenden Sie diese Tasten, um die Spielgeschwindigkeit zu steuern. Mit {0} anhalten oder fortfahren. Tippen Sie auf {1}, um die Geschwindigkeit zu erhöhen, oder auf {2}, um die Geschwindigkeit zu verringern."
 tutorial.step2.title,Zeitkontrollen
 tutorial.step3.body,"In diesem Bereich werden die Flagge, der Name und die wichtigsten Statistiken deines Landes angezeigt. Klicke auf die Flagge, um jederzeit zu deiner Hauptstadt zurückzukehren.\n\nÜber die Registerkarten unten kannst du zwischen den Ansichten „Übersicht“, „Wirtschaft“, „Militär“, „Rekrutierung“, „Diplomatie“, „Technologie“, „Nachrichtendienst“, „Spezialisten“, „Provinzen“ und „Agenda“ wechseln."
 tutorial.step3.title,Ihr Länderpanel
@@ -8744,7 +8744,7 @@ tutorial.step_tech.title,Registerkarte „Technologie“
 ui.button.ok,OK
 ui.hint.back,Zurück
 ui.hint.confirm,Bestätigen
-ui.vkbd.backspace,BACKSPACE
+ui.vkbd.backspace,RÜCKTASTE
 ui.vkbd.cancel,ABBRECHEN
 ui.vkbd.clear,LÖSCHEN
 ui.vkbd.done,FERTIG
