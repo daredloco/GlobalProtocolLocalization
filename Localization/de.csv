@@ -7339,7 +7339,7 @@ settings.gameplay.auto_unpause_events_desc,"Wenn diese Option aktiviert ist, wir
 settings.gameplay.autosave,Intervall für die automatische Speicherung
 settings.gameplay.disable_edge_pan,Kantenverschiebung deaktivieren
 settings.gameplay.disable_edge_pan_desc,"Verhindert, dass sich die Kamera bewegt, wenn der Cursor die Bildschirmränder berührt."
-settings.gameplay.experimental_section,EXPERIMENTAL
+settings.gameplay.experimental_section,EXPERIMENTELL
 settings.gameplay.font_left_panel,Schriftgröße im linken Bereich (%)
 settings.gameplay.font_main_hud,Haupt-HUD-Schriftgröße (%)
 settings.gameplay.font_other,Andere UI-Schriftarten (%)
