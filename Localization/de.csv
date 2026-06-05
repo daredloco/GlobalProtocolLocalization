@@ -8531,7 +8531,7 @@ tooltip.topbar.treasury.building_cost,Baukosten
 tooltip.topbar.treasury.building_maint,Gebäudewartung
 tooltip.topbar.treasury.desc,Prognostizierter monatlicher Mittelzufluss und jüngste tatsächliche Veränderung des Kassenbestands.
 tooltip.topbar.treasury.envoy,Gesandten-Operationen
-tooltip.topbar.treasury.events,Net-Veranstaltungen
+tooltip.topbar.treasury.events,Saldo der Ereignisse
 tooltip.topbar.treasury.events_expense,Ereigniskosten
 tooltip.topbar.treasury.formula,Prognostiziert = Einnahmen – monatliche Gesamtkosten. Sonstiges = Kosten – (Militär + Forschung + Infrastruktur + Soziales). Realisiert = Kassenbestand bei Monatswechsel.
 tooltip.topbar.treasury.infra,Infrastrukturausgaben
