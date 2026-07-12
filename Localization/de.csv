@@ -6101,7 +6101,7 @@ hud.nav.tech_desc,Neue Technologien erforschen
 hud.notification.iran_hormuz_closed,Iran hat die Straße von Hormus geschlossen – Großmächte erwägen Intervention
 hud.outliner.actor_player,Ihre Regierung
 hud.outliner.agenda_entry_body,Öffnen Sie die Agenda und legen Sie Ihr aktuelles Hauptziel fest. Die Aufgaben im Outliner richten sich nach dieser Auswahl.
-hud.outliner.agenda_entry_title,Offene strategische Agenda
+hud.outliner.agenda_entry_title,Öffne strategische Agenda
 hud.outliner.air_wing_entry,Luftflügel {0} ({1})
 hud.outliner.alerts,BENACHRICHTIGUNGEN
 hud.outliner.and_more,...und {0} weitere
