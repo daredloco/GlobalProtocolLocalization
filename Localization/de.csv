@@ -48,7 +48,7 @@ advisor.defcon_escalation.body,"Die weltweiten Spannungen nehmen zu. Staaten, di
 advisor.defcon_escalation.title,DEFCON-Eskalation
 advisor.dismiss,Verstanden
 advisor.first_event.body,"Ereignisse stellen dich vor Entscheidungen, die das Schicksal deiner Nation bestimmen. Lies dir alles genau durch – jede Option hat andere Konsequenzen."
-advisor.first_event.title,Deine erste Veranstaltung
+advisor.first_event.title,Deine erstes Ereignis
 advisor.first_month.body,"Dein erster Monat ist vorbei! Öffne die Registerkarte „Übersicht“, um die Leistungsübersicht deiner Nation einzusehen."
 advisor.first_month.title,Der erste Monat ist vorbei
 advisor.first_year.body,"Ein Jahr an der Spitze! Schau dir die historischen Diagramme an, um zu sehen, wie sich deine Nation im Laufe der Zeit entwickelt hat."
@@ -1762,7 +1762,7 @@ help.economy.title,Wirtschaftsforum
 help.envoy.body,"Rekrutieren Sie Spezialisten in Ihrem eigenen Land. Um sie einzusetzen, wechseln Sie zur Länderübersicht eines anderen Landes und klicken Sie auf „Einsetzen“. Die Option „Zurückrufen“ wird nur für bereits eingesetzte Spezialisten angezeigt."
 help.envoy.title,Expertengremium
 help.events.body,"Ereignisse sind strategische Weggabelungen: Lies dir den Text zu den Auswirkungen durch, bevor du eine Entscheidung triffst, gib Optionen den Vorrang, die die Finanzlage und die Stabilität sichern, und zögere gegebenenfalls, bevor du risikoreiche Entscheidungen bestätigst."
-help.events.title,Veranstaltungshinweise
+help.events.title,Ereignishinweise
 help.intelligence.body,"Führe Spionagemissionen durch, leite deinen Geheimdienst und beobachte Aktivitäten im Ausland."
 help.intelligence.title,Ausschuss für Nachrichtendienste
 help.military.body,"Sehen Sie sich Ihre Streitkräfte an, entsenden Sie Armeen und verwalten Sie die Verteidigungsausgaben. Hier werden die Ausrüstungszahlen und der Nuklearstatus angezeigt."
@@ -3805,7 +3805,7 @@ hud.alert.desc.no_active_goal,"Setzen Sie sich ein nationales Ziel, um Fortschri
 hud.alert.desc.no_research,"Es wird derzeit keine Technologie erforscht. Weisen Sie Forschungsarbeiten zu, um den Anschluss nicht zu verlieren."
 hud.alert.desc.resource_shortage,"Baugeschwindigkeit {0:F0} %, Rekrutierungskosten {1:F0} %, Unruhedruck +{2:F1} %. Strategische Einsatzmöglichkeiten gesperrt: {3}. Sichern Sie Importe oder die heimische Produktion, um die Produktionsleistung wiederherzustellen."
 hud.alert.diplomatic_requests,DIPLOMATISCHE ANFRAGEN
-hud.alert.events_pending,Anstehende Veranstaltungen
+hud.alert.events_pending,Ausstehende Ereignisse
 hud.alert.filter_all,ALLE
 hud.alert.filter_diplomacy,Diplomatie
 hud.alert.filter_economy,Wirtschaft
@@ -3868,17 +3868,17 @@ hud.auto.defcon_5,DEFCON 5
 hud.auto.defeat,NIEDERLAGE
 hud.auto.demolish,Abriss
 hud.auto.detail_panel_content_will_be_loaded_here,Der Inhalt des Detailfensters wird hier geladen.
-hud.auto.detailed_description_of_the_event_goes_here,Hier folgt die detaillierte Beschreibung der Veranstaltung.
+hud.auto.detailed_description_of_the_event_goes_here,Hier folgt die detaillierte Beschreibung des Ereignisses.
 hud.auto.dev_level,ENTWICKLUNGSSTUFE
 hud.auto.diplomacy,DIPLOMATIE
 hud.auto.dorlion_interactive,DORLION INTERACTIVE
 hud.auto.economy,WIRTSCHAFT
 hud.auto.enemy_allies,Feinde und Verbündete
-hud.auto.event,VERANSTALTUNG
-hud.auto.event_description_goes_here,Hier kommt die Beschreibung der Veranstaltung.
-hud.auto.event_description_goes_here_this_can_be_multiple_lines_of_text_explaining_the_situation,"Hier steht die Beschreibung der Veranstaltung. Dies können mehrere Zeilen Text sein, in denen die Situation erläutert wird."
-hud.auto.event_title,VERANSTALTUNGSTITEL
-hud.auto.event_title_1,Veranstaltungstitel
+hud.auto.event,EREIGNIS
+hud.auto.event_description_goes_here,Hier kommt die Beschreibung des Ereignisses.
+hud.auto.event_description_goes_here_this_can_be_multiple_lines_of_text_explaining_the_situation,"Hier steht die Beschreibung des Ereignisses. Dies können mehrere Zeilen Text sein, in denen die Situation erläutert wird."
+hud.auto.event_title,EREIGNISTITEL
+hud.auto.event_title_1,Ereignistitel
 hud.auto.explored,ENTDECKT
 hud.auto.final_score,ENDSTAND
 hud.auto.fleet,FLOTTE
@@ -4837,7 +4837,7 @@ hud.event.allies_joined_war_desc,{0} ist seinem Bündnis treu geblieben und hat 
 hud.event.ally_joined_war,Ally ist dem Krieg beigetreten
 hud.event.ally_joined_war_desc,{0} ist seiner Allianz treu geblieben und hat sich dem Krieg gegen {1} angeschlossen
 hud.event.auto_timer,Standardwert automatisch auswählen in {0} Tag(en)…
-hud.event.cat_default,VERANSTALTUNG
+hud.event.cat_default,EREIGNIS
 hud.event.cat_diplomatic_opportunity,DIPLOMATISCHE CHANCE
 hud.event.cat_economic_shock,WIRTSCHAFTLICHER SCHOCK
 hud.event.cat_geopolitical_crisis,GEOPOLITISCHE KRISE
@@ -6133,7 +6133,7 @@ hud.outliner.envoy_threats,Bedrohungen aus dem Ausland: {0}
 hud.outliner.espionage,SPIONAGE
 hud.outliner.espionage_mission,{0} vs. {1} ({2}%)
 hud.outliner.event_log,PROTOKOLL
-hud.outliner.events,VERANSTALTUNGEN
+hud.outliner.events,EREIGNISSE
 hud.outliner.fleet_entry,Flotte {0} ({1})
 hud.outliner.military,MILITÄR
 hud.outliner.no_alerts,Keine Benachrichtigungen
@@ -7194,7 +7194,7 @@ hud.year_summary.defense_spend,VERTEIDIGUNGSAUSGABEN
 hud.year_summary.demo_button,STEAM-SEITE ÖFFNEN
 hud.year_summary.demo_prompt,Gefällt dir die Demo? Wishlist Global Protocol auf Steam.
 hud.year_summary.gdp_change,Veränderung des BIP
-hud.year_summary.gdp_events,AUSWIRKUNGEN DER VERANSTALTUNG
+hud.year_summary.gdp_events,AUSWIRKUNGEN DES EREIGNISSES
 hud.year_summary.gdp_ledger_title,JAHRESABRECHNUNG DES BIP-DELTA
 hud.year_summary.gdp_net,NETTO-BIP-DELTA
 hud.year_summary.gdp_resource,Ressourcenabgleich
@@ -8153,7 +8153,7 @@ settings.controls.section.time,Zeitkontrollen
 settings.controls.unsaved_changes,Sie haben noch nicht gespeicherte Änderungen.
 settings.gameplay.auto_unpause_escape,Automatische Wiederaufnahme (Esc-Menü)
 settings.gameplay.auto_unpause_escape_desc,"Wenn diese Option aktiviert ist, wird das Spiel automatisch fortgesetzt, sobald das Escape-Menü geschlossen wird."
-settings.gameplay.auto_unpause_events,Automatische Wiederaufnahme (Veranstaltungen)
+settings.gameplay.auto_unpause_events,Automatische Wiederaufnahme (Ereignisse)
 settings.gameplay.auto_unpause_events_desc,"Wenn diese Option aktiviert ist, wird das Spiel nach dem Schließen eines Ereignis-Popups automatisch fortgesetzt."
 settings.gameplay.autosave,Intervall für die automatische Speicherung
 settings.gameplay.disable_edge_pan,Kantenverschiebung deaktivieren
@@ -9036,7 +9036,7 @@ tooltip.outliner.diplomacy.desc,"Aktive Bündnisse, Abkommen und diplomatische B
 tooltip.outliner.diplomacy.title,DIPLOMATIE
 tooltip.outliner.espionage.desc,"Aktive verdeckte Operationen, die von Ihren Geheimdiensten durchgeführt werden."
 tooltip.outliner.espionage.title,SPIONAGE
-tooltip.outliner.events,VERANSTALTUNGEN
+tooltip.outliner.events,EREIGNISSE
 tooltip.outliner.events.desc,"Aktuelle Spielereignisse, gefiltert nach Kategorie."
 tooltip.outliner.events.title,Ereignisprotokoll
 tooltip.outliner.military,Militär
@@ -9364,7 +9364,7 @@ tooltip.topbar.gdp.base,Basiswachstum
 tooltip.topbar.gdp.desc,Prognostizierte Veränderung des BIP im nächsten Monat und geschätzter Einfluss der Provinzen auf diese Differenz.
 tooltip.topbar.gdp.difficulty,Anpassung des Schwierigkeitsgrades
 tooltip.topbar.gdp.education,Bildungseffekt
-tooltip.topbar.gdp.events,Auswirkungen der Veranstaltung
+tooltip.topbar.gdp.events,Auswirkungen des Ereignisses
 tooltip.topbar.gdp.formula,BIP der Provinz = Basiswert × Modifikatoren × (1 – Unruhen)
 tooltip.topbar.gdp.inflation,Inflationsdruck
 tooltip.topbar.gdp.monetary,Geldpolitik
@@ -9439,8 +9439,8 @@ tooltip.topbar.treasury.building_cost,Baukosten
 tooltip.topbar.treasury.building_maint,Gebäudewartung
 tooltip.topbar.treasury.desc,Prognostizierter monatlicher Mittelzufluss und jüngste tatsächliche Veränderung des Kassenbestands.
 tooltip.topbar.treasury.envoy,Gesandten-Operationen
-tooltip.topbar.treasury.events,Net-Veranstaltungen
-tooltip.topbar.treasury.events_expense,Veranstaltungskosten
+tooltip.topbar.treasury.events,Net-Ereignis
+tooltip.topbar.treasury.events_expense,Ereigniskosten
 tooltip.topbar.treasury.formula,Prognostiziert = Einnahmen – monatliche Gesamtkosten. Sonstiges = Kosten – (Militär + Forschung + Infrastruktur + Soziales). Realisiert = Kassenbestand bei Monatswechsel.
 tooltip.topbar.treasury.hostile_ops,Ausländische Operationen
 tooltip.topbar.treasury.infra,Infrastrukturausgaben
@@ -9563,7 +9563,7 @@ tutorial.obj.econ_open.body,Öffnen Sie über die Navigationsregisterkarten den 
 tutorial.obj.econ_open.title,Öffnen Sie das Fenster „Wirtschaft“
 tutorial.obj.first_war.body,"Erkläre über die Diplomatie den Krieg, um die Front- und Konfliktsysteme kennenzulernen."
 tutorial.obj.first_war.title,Kriegsroute: Starte deinen ersten Krieg
-tutorial.obj.foundations_event.body,"Wenn ein Veranstaltungs-Popup erscheint, lies dir die Optionen durch und triff eine Wahl. Veranstaltungen prägen die Zukunft deines Landes durch Krisen, Chancen und Entscheidungen."
+tutorial.obj.foundations_event.body,"Wenn ein Ereignis-Popup erscheint, lies dir die Optionen durch und triff eine Wahl. Ereignisse prägen die Zukunft deines Landes durch Krisen, Chancen und Entscheidungen."
 tutorial.obj.foundations_event.title,Auf ein Ereignis reagieren
 tutorial.obj.foundations_ledger.body,"Drücke G oder klicke auf „Ledger“, um die globalen Ranglisten anzuzeigen – vergleiche Länder hinsichtlich Ansehen, Wirtschaftskraft, Militärmacht und mehr."
 tutorial.obj.foundations_ledger.title,Das Hauptbuch öffnen
