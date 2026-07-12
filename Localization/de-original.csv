@@ -89,6 +89,15 @@ advisor.unsc_vote.body,"Derzeit findet eine Abstimmung im UN-Sicherheitsrat stat
 advisor.unsc_vote.title,Abstimmung im UN-Sicherheitsrat
 advisor.war_declared.body,"Du befindest dich nun im Krieg. Setze deine Truppen strategisch ein und erwäge, Verbündete um Unterstützung zu bitten."
 advisor.war_declared.title,Kriegserklärung!
+ai.aggressiveness.armageddon,ARMAGEDDON
+ai.aggressiveness.armageddon.desc,KI-Nationen erklären häufig und aggressiv Krieg.
+ai.aggressiveness.less_aggressive,WENIGER AGGRESSIV
+ai.aggressiveness.less_aggressive.desc,Die KI zögert Konflikte anzufangen.
+ai.aggressiveness.normal,NORMAL
+ai.aggressiveness.normal.desc,Standardmäßige KI-Kriegshäufigkeit.
+ai.aggressiveness.peaceful,FRIEDLICH
+ai.aggressiveness.peaceful.desc,KI-Nationen werden niemals Krieg erklären.
+ai.aggressiveness.title,KI-AGGRESSIVITÄT
 armslimitation,Rüstungsbegrenzung
 boot.fiction_disclaimer,"Dieses Spiel ist ein fiktionales Werk. Verweise auf reale Länder, Staats- und Regierungschefs, Organisationen und Ereignisse werden im Rahmen einer geopolitischen Simulation mit alternativem Geschichtsverlauf verwendet. Alle dargestellten Handlungen, Entscheidungen und Ergebnisse sind fiktiv und spiegeln nicht das tatsächliche Verhalten, die Ansichten oder Absichten realer Personen, Regierungen oder Institutionen wider."
 breakalliance,Allianz auflösen
@@ -272,6 +281,8 @@ building.refinery.description,Raffineriekomplex zur Herstellung von Erdölproduk
 building.refinery.name,Ölraffinerie
 building.research_lab.description,Spitzenforschungszentrum mit herausragender Forschungsleistung.
 building.research_lab.name,Forschungslabor
+building.satellite_launch_facility.description,"Raumfahrtinfrastruktur zur Montage und zum Start von Aufklärungssatelliten in die Umlaufbahn. Erforderlich, um Aufklärungssatelliten einzusetzen und neu zu positionieren."
+building.satellite_launch_facility.name,Satellitenstartanlage
 building.school.description,"Eine Bildungseinrichtung, die Unruhen verringert und das Bevölkerungswachstum leicht ankurbelt."
 building.school.name,Öffentliche Schule
 building.semiconductor_fab.description,Hochmoderne Waferfertigungsanlage. Strategischer Standort; sehr kapitalintensiv.
@@ -685,6 +696,272 @@ declarewar,Den Krieg erklären
 defense,Verteidigung
 defensepact,Verteidigungsabkommen
 defensive,Defensiv
+demographics.identity.Afghan,Afghanen
+demographics.identity.Albanian,Albaner
+demographics.identity.Algerian,Algerier
+demographics.identity.American,Amerikaner
+demographics.identity.American Samoan,Amerikanisch-Samoaner
+demographics.identity.Andorran,Andorraner
+demographics.identity.Angolan,Angolaner
+demographics.identity.Antiguan,Antiguaner
+demographics.identity.Arab,Araber
+demographics.identity.Arab-Berber,Araber-Berber
+demographics.identity.Arab_Berber,Araber-Berber
+demographics.identity.Argentinian,Argentinier
+demographics.identity.Armenian,Armenier
+demographics.identity.Aruban,Arubaner
+demographics.identity.Ashkenazi,Aschkenasim
+demographics.identity.Australian,Australier
+demographics.identity.Austrian,Österreicher
+demographics.identity.Azerbaijani,Aserbaidschaner
+demographics.identity.Bahamian,Bahamaer
+demographics.identity.Bahraini,Bahrainer
+demographics.identity.Bamar,Birmanen
+demographics.identity.Barbadian,Barbadier
+demographics.identity.Basotho,Basotho
+demographics.identity.Belarusian,Belarussen
+demographics.identity.Belgian,Belgier
+demographics.identity.Belizean,Belizer
+demographics.identity.Bengali,Bengalen
+demographics.identity.Beninese,Beniner
+demographics.identity.Bermudian,Bermuder
+demographics.identity.Bhutanese,Bhutaner
+demographics.identity.Bissau-Guinean,Guinea-Bissauer
+demographics.identity.Bolivian,Bolivianer
+demographics.identity.Bosniak,Bosniaken
+demographics.identity.Bosnian,Bosnier
+demographics.identity.Brazilian,Brasilianer
+demographics.identity.British,Briten
+demographics.identity.Bruneian,Bruneier
+demographics.identity.Bulgarian,Bulgaren
+demographics.identity.Burkinabe,Burkiner
+demographics.identity.Burmese,Birmanen
+demographics.identity.Burundian,Burundier
+demographics.identity.Cambodian,Kambodschaner
+demographics.identity.Cameroonian,Kameruner
+demographics.identity.Canadian,Kanadier
+demographics.identity.Cape Verdean,Kapverdier
+demographics.identity.Caymanian,Kaimaner
+demographics.identity.Central African,Zentralafrikaner
+demographics.identity.Chadian,Tschader
+demographics.identity.Chilean,Chilenen
+demographics.identity.Chinese,Chinesen
+demographics.identity.Colombian,Kolumbianer
+demographics.identity.Comorian,Komorer
+demographics.identity.Congolese,Kongolesen
+demographics.identity.Costa Rican,Costa-Ricaner
+demographics.identity.Croatian,Kroaten
+demographics.identity.Cuban,Kubaner
+demographics.identity.Cypriot,Zyprer
+demographics.identity.Czech,Tschechen
+demographics.identity.Danish,Dänen
+demographics.identity.Djiboutian,Dschibutier
+demographics.identity.Dominican,Dominikaner
+demographics.identity.Dominican (Dominica),Dominicaner
+demographics.identity.Dutch,Niederländer
+demographics.identity.Ecuadorian,Ecuadorianer
+demographics.identity.Egyptian,Ägypter
+demographics.identity.Egyptian_Arab,Ägyptische Araber
+demographics.identity.Emirati,Emirater
+demographics.identity.Equatoguinean,Äquatorialguineer
+demographics.identity.Eritrean,Eritreer
+demographics.identity.Estonian,Esten
+demographics.identity.Ethiopian,Äthiopier
+demographics.identity.Faroese,Färöer
+demographics.identity.Fijian,Fidschianer
+demographics.identity.Filipino,Filipinos
+demographics.identity.Finnish,Finnen
+demographics.identity.Flemish,Flamen
+demographics.identity.French,Franzosen
+demographics.identity.Fulani,Fulbe
+demographics.identity.Gabonese,Gabuner
+demographics.identity.Gambian,Gambier
+demographics.identity.Georgian,Georgier
+demographics.identity.German,Deutsche
+demographics.identity.German_Swiss,Deutschschweizer
+demographics.identity.Ghanaian,Ghanaer
+demographics.identity.Gibraltarian,Gibraltarer
+demographics.identity.Greek,Griechen
+demographics.identity.Greek_Cypriot,Griechische Zyprer
+demographics.identity.Greenlandic,Grönländer
+demographics.identity.Grenadian,Grenader
+demographics.identity.Guamanian,Guamer
+demographics.identity.Guatemalan,Guatemalteken
+demographics.identity.Guinean,Guineer
+demographics.identity.Guyanese,Guyaner
+demographics.identity.Haitian,Haitianer
+demographics.identity.Han,Han
+demographics.identity.Hausa,Hausa
+demographics.identity.Honduran,Honduraner
+demographics.identity.Hong Konger,Hongkonger
+demographics.identity.Hungarian,Ungarn
+demographics.identity.Hutu,Hutu
+demographics.identity.I-Kiribati,I-Kiribati
+demographics.identity.Icelandic,Isländer
+demographics.identity.Indian,Inder
+demographics.identity.Indonesian,Indonesier
+demographics.identity.Iranian,Iraner
+demographics.identity.Iraqi,Iraker
+demographics.identity.Irish,Iren
+demographics.identity.Israeli,Israelis
+demographics.identity.Italian,Italiener
+demographics.identity.Ivorian,Ivorer
+demographics.identity.Jamaican,Jamaikaner
+demographics.identity.Japanese,Japaner
+demographics.identity.Javanese,Javaner
+demographics.identity.Jordanian,Jordanier
+demographics.identity.Kazakh,Kasachen
+demographics.identity.Kenyan,Kenianer
+demographics.identity.Khalkha,Mongolen
+demographics.identity.Khmer,Khmer
+demographics.identity.Kinh,Vietnamesen
+demographics.identity.Korean,Koreaner
+demographics.identity.Kosovar,Kosovaren
+demographics.identity.Kuwaiti,Kuwaiter
+demographics.identity.Kuwaiti_Arab,Kuwaitische Araber
+demographics.identity.Kyrgyz,Kirgisen
+demographics.identity.Lao,Laoten
+demographics.identity.Latvian,Letten
+demographics.identity.Lebanese,Libanesen
+demographics.identity.Liberian,Liberianer
+demographics.identity.Libyan,Libyer
+demographics.identity.Liechtensteiner,Liechtensteiner
+demographics.identity.Lithuanian,Litauer
+demographics.identity.Luxembourgish,Luxemburger
+demographics.identity.Macanese,Macauer
+demographics.identity.Macedonian,Mazedonier
+demographics.identity.Malagasy,Madagassen
+demographics.identity.Malawian,Malawier
+demographics.identity.Malay,Malaien
+demographics.identity.Maldivian,Malediver
+demographics.identity.Malian,Malier
+demographics.identity.Maltese,Malteser
+demographics.identity.Manx,Manx
+demographics.identity.Marshallese,Marshaller
+demographics.identity.Mauritanian,Mauretanier
+demographics.identity.Mauritian,Mauritier
+demographics.identity.Mestizo,Mestizen
+demographics.identity.Mestizo_White,Mestizen und Weiße
+demographics.identity.Mexican,Mexikaner
+demographics.identity.Moldovan,Moldauer
+demographics.identity.Moldovan_Romanian,Moldauer
+demographics.identity.Monegasque,Monegassen
+demographics.identity.Mongolian,Mongolen
+demographics.identity.Montenegrin,Montenegriner
+demographics.identity.Moroccan,Marokkaner
+demographics.identity.Motswana,Tswana
+demographics.identity.Mozambican,Mosambikaner
+demographics.identity.Namibian,Namibier
+demographics.identity.Nauruan,Nauruer
+demographics.identity.Nepalese,Nepalesen
+demographics.identity.New Caledonian,Neukaledonier
+demographics.identity.New_Zealander,Neuseeländer
+demographics.identity.Ni-Vanuatu,Ni-Vanuatu
+demographics.identity.Nicaraguan,Nicaraguaner
+demographics.identity.Nigerian,Nigerianer
+demographics.identity.Nigerien,Nigrer
+demographics.identity.North_Korean,Nordkoreaner
+demographics.identity.Norwegian,Norweger
+demographics.identity.Omani,Omaner
+demographics.identity.Oromo,Oromo
+demographics.identity.Pakistani,Pakistaner
+demographics.identity.Palauan,Palauer
+demographics.identity.Palestinian,Palästinenser
+demographics.identity.Palestinian_Arab,Palästinensische Araber
+demographics.identity.Panamanian,Panamaer
+demographics.identity.Papua_New_Guinean,Papua-Neuguineer
+demographics.identity.Paraguayan,Paraguayer
+demographics.identity.Pashtun,Paschtunen
+demographics.identity.Persian,Perser
+demographics.identity.Peruvian,Peruaner
+demographics.identity.Polish,Polen
+demographics.identity.Portuguese,Portugiesen
+demographics.identity.Puerto Rican,Puerto-Ricaner
+demographics.identity.Punjabi,Pandschabi
+demographics.identity.Qatari,Katarer
+demographics.identity.Romanian,Rumänen
+demographics.identity.Russian,Russen
+demographics.identity.Rwandan,Ruander
+demographics.identity.Sahrawi,Saharauis
+demographics.identity.Sahrawi_Arab,Sahrauische Araber
+demographics.identity.Salvadoran,Salvadorianer
+demographics.identity.Sammarinese,San-Marinesen
+demographics.identity.Samoan,Samoaner
+demographics.identity.Saudi_Arab,Saudi-Araber
+demographics.identity.Senegalese,Senegalesen
+demographics.identity.Serbian,Serben
+demographics.identity.Seychellois,Seychellois
+demographics.identity.Shona,Shona
+demographics.identity.Sierra Leonean,Sierra-Leoner
+demographics.identity.Singaporean,Singapurer
+demographics.identity.Sinhalese,Singhalesen
+demographics.identity.Slovak,Slowaken
+demographics.identity.Slovene,Slowenen
+demographics.identity.Solomon Islander,Salomonen
+demographics.identity.Somali,Somalier
+demographics.identity.Sotho,Sotho
+demographics.identity.South Sudanese,Südsudanesen
+demographics.identity.South_African,Südafrikaner
+demographics.identity.Spanish,Spanier
+demographics.identity.Sri_Lankan,Sri-Lanker
+demographics.identity.Sudanese,Sudanesen
+demographics.identity.Sudanese_Arab,Sudanesische Araber
+demographics.identity.Surinamese,Surinamer
+demographics.identity.Swazi,Swasi
+demographics.identity.Swedish,Schweden
+demographics.identity.Swiss,Schweizer
+demographics.identity.Syrian,Syrer
+demographics.identity.Tahitian,Tahitianer
+demographics.identity.Taiwanese,Taiwaner
+demographics.identity.Tajik,Tadschiken
+demographics.identity.Tanzanian,Tansanier
+demographics.identity.Thai,Thai
+demographics.identity.Tigrinya,Tigrinya
+demographics.identity.Timorese,Timorer
+demographics.identity.Togolese,Togoer
+demographics.identity.Tongan,Tongaer
+demographics.identity.Trinidadian,Trinidader
+demographics.identity.Tswana,Tswana
+demographics.identity.Tunisian,Tunesier
+demographics.identity.Turkish,Türken
+demographics.identity.Turkish Cypriot,Türkische Zyprer
+demographics.identity.Turkish_Cypriot,Türkische Zyprer
+demographics.identity.Turkmen,Turkmenen
+demographics.identity.Tuvaluan,Tuvaluer
+demographics.identity.Ugandan,Ugander
+demographics.identity.Ukrainian,Ukrainer
+demographics.identity.Uruguayan,Uruguayer
+demographics.identity.Uzbek,Usbeken
+demographics.identity.Vatican,Vatikaner
+demographics.identity.Venezuelan,Venezolaner
+demographics.identity.Vietnamese,Vietnamesen
+demographics.identity.Vincentian,Vincenter
+demographics.identity.White_British,Briten
+demographics.identity.Wolof,Wolof
+demographics.identity.Yemeni,Jemeniten
+demographics.identity.Zambian,Sambier
+demographics.identity.Zimbabwean,Simbabwer
+demographics.religion.Buddhism,Buddhismus
+demographics.religion.Christianity,Christentum
+demographics.religion.Druze,Drusen
+demographics.religion.Folk,Volksglaube
+demographics.religion.Hinduism,Hinduismus
+demographics.religion.Islam,Islam
+demographics.religion.Judaism,Judentum
+demographics.religion.Korean_Shamanism,Koreanischer Schamanismus
+demographics.religion.Modekngei,Modekngei
+demographics.religion.None,Konfessionslos
+demographics.religion.Other,Sonstige
+demographics.religion.Rastafari,Rastafari
+demographics.religion.Santeria,Santería
+demographics.religion.Shamanism,Schamanismus
+demographics.religion.Shintoism,Shintoismus
+demographics.religion.Sikhism,Sikhismus
+demographics.religion.Spiritism,Spiritismus
+demographics.religion.Taoism,Taoismus
+demographics.religion.Traditional,Traditionell
+demographics.religion.Vodou,Voodoo
+demographics.religion.Vodun,Vodun
 difficulty.easy,EINFACH
 difficulty.easy.desc,"Geringere Aggressivität der KI, wirtschaftliche Boni, schnellere Forschung."
 difficulty.expert,EXPERTE
@@ -694,6 +971,12 @@ difficulty.hard.desc,"Aggressive KI, wirtschaftliche Sanktionen, verlangsamte Fo
 difficulty.normal,NORMAL
 difficulty.normal.desc,Das klassische Spielerlebnis. So ist das Spiel gedacht.
 difficulty.title,SCHWIERIGKEITSGRAD
+diplomacy.ultimatum.demand_humiliation,Öffentliche Demütigung
+diplomacy.ultimatum.demand_liberation,Besetzte Völker befreien
+diplomacy.ultimatum.demand_province,Umstrittenes Gebiet abtreten
+diplomacy.ultimatum.demand_regime,Regierungswechsel
+diplomacy.ultimatum.demand_reparations,Kriegsreparationen
+diplomacy.ultimatum.demand_statusquo,Rückzug
 effect.defense,VERTEIDIGUNG
 effect.gdp,BIP
 effect.infra,INFRA
@@ -778,7 +1061,7 @@ enum.Resource.Manganese,Mangan
 enum.Resource.NaturalGas,Erdgas
 enum.Resource.Nickel,Nickel
 enum.Resource.None,Keine
-enum.Resource.Oil,Öl
+enum.Resource.Oil,Rohöl
 enum.Resource.PalmOil,Palmöl
 enum.Resource.Pharmaceuticals,Arzneimittel
 enum.Resource.Phosphate,Phosphat
@@ -1250,6 +1533,114 @@ event.venezuelan_migration_wave.description,"Der wirtschaftliche Zusammenbruch i
 event.venezuelan_migration_wave.option1.text,Grenzen öffnen und humanitäre Hilfe leisten
 event.venezuelan_migration_wave.option2.text,Einreise beschränken und mit Venezuela verhandeln
 event.venezuelan_migration_wave.title,Massenflucht aus Venezuela
+faq.category.diplomacy_intel,Diplomatie & Geheimdienst
+faq.category.gov_stability,Regierung & Stabilität
+faq.category.military_conflict,Militär & Konflikt
+faq.category.pop_development,Bevölkerung & Technologie
+faq.category.resources_industry,Ressourcen & Industrie
+faq.category.trade_economy,Handel & Wirtschaft
+faq.close,Schließen
+faq.q1.answer,"Handel ist der Austausch von Ressourcen zwischen Nationen. Wenn Ihr Land ein Defizit bei einer Ressource aufweist (der Verbrauch übersteigt die Produktion), wird diese automatisch vom globalen Markt importiert (sofern der automatische Kauf aktiviert ist), oder Sie können sie manuell erwerben. Überschüssige Ressourcen werden automatisch exportiert, um Einnahmen zu generieren. Alle Ressourcenpreise schwanken dynamisch auf der Grundlage von weltweitem Angebot und weltweiter Nachfrage."
+faq.q1.question,Wie funktioniert der Handel?
+faq.q10.answer,"Zölle sind Steuern auf importierte Waren. Hohe Zölle generieren Einnahmen und schützen die heimische Industrie vor ausländischer Konkurrenz, erhöhen jedoch die Importkosten für Ressourcen Ihrer eigenen Fabriken und schaden den diplomatischen Beziehungen zu Handelspartnern. Niedrigere Zölle fördern das Handelsvolumen und das BIP-Wachstum."
+faq.q10.question,Wie funktionieren Zölle und wann sollte ich sie ändern?
+faq.q11.answer,"Die Raffination von Erdöl erfordert Rohöl als Input und ein aktives Ölraffinerie-Gebäude. Raffinerien wandeln im Inland produziertes oder importiertes Rohöl automatisch in raffiniertes Erdöl um. Stellen Sie sicher, dass Sie über eine stabile Rohölversorgung sowie ausreichend Strom und Infrastruktur verfügen, damit die Raffinerie mit maximaler Kapazität betrieben werden kann."
+faq.q11.question,Wie raffiniere ich Erdöl?
+faq.q12.answer,"Ein Mangel tritt auf, wenn der Gesamtverbrauch einer Ressource in Ihrem Land Ihre Produktion plus Importe übersteigt. Um einen Mangel zu beheben, können Sie:\n1. Gebäude errichten, die diese Ressource produzieren (z. B. Minen, Farmen, Fabriken).\n2. Manuelle Kaufaufträge einrichten oder den automatischen Kauf für diese Ressource auf dem Bildschirm 'Reserven & Vorräte' aktivieren.\n3. Ein Handelsabkommen mit einem großen Produzenten abschließen, um diese kostengünstig zu importieren.\n4. Den inländischen Verbrauch senken, indem Sie Gebäude schließen oder pausieren, die diese Ressource als Input benötigen."
+faq.q12.question,Wie behebe ich einen Ressourcenmangel?
+faq.q13.answer,"Ressourcenengpässe haben schwerwiegende, sich verstärkende Auswirkungen:\n- Rohstoffe (wie Rohöl, Stahl oder Kohle) erleiden erhebliche Durchsatzeinbußen, was Ihr BIP und Ihre Steuereinnahmen verringert.\n- Zivile Güter (wie Nahrungsmittel oder Strom) verursachen hohe Unruhen in den Provinzen, was zu Instabilität, verringerter Effizienz bei der Steuererhebung und potenziellen Putschen führt.\n- Militärische Ressourcen (wie Waffen oder raffiniertes Erdöl) verringern drastisch die Kampfbereitschaft und Leistung Ihrer Streitkräfte."
+faq.q13.question,Wie groß sind die Auswirkungen eines Ressourcenmangels?
+faq.q14.answer,"Jede Provinz verfügt über eine maximale Anzahl an Bauplätzen, die auf ihrer Geografie, ihrem Entwicklungsstand und ihrer Infrastruktur basiert. Der Ausbau einer Provinz oder die Errichtung von Infrastrukturen wie Autobahnen und Wasseraufbereitungsanlagen schaltet zusätzliche Bauplätze frei, sodass Sie fortschrittlichere Industrie- oder Militärgebäude errichten können."
+faq.q14.question,Wie funktionieren Bauplätze in Provinzen?
+faq.q15.answer,"Rohstoffe (wie Rohöl, Eisenerz, Bauxit und Kohle) werden direkt aus der Erde gewonnen und als Inputs verwendet. Verarbeitete Ressourcen (wie Stahl, Aluminium, raffiniertes Erdöl und Elektronik) werden mithilfe spezieller Industriegebäude aus Rohstoffen veredelt. Verarbeitete Güter haben auf dem Weltmarkt einen höheren Wert und werden für High-Tech-Bauten und Militäreinheiten benötigt."
+faq.q15.question,Was ist der Unterschied zwischen Rohstoffen und verarbeiteten Ressourcen?
+faq.q16.answer,"Die Betriebseffizienz eines Gebäudes hängt von drei Hauptfaktoren ab: Ressourcen-Inputs (sinken bei einem Mangel), Infrastruktur (schlechte Provinzinfrastruktur begrenzt den Ausstoß) und Unruhen/Schäden (Unruhen oder Kriegsverwüstung verringern die Produktion). Beheben Sie Ressourcendefizite und errichten Sie Wasseraufbereitungsanlagen/Autobahnen, um die Effizienz wiederherzustellen."
+faq.q16.question,Warum ist ein Gebäude in meiner Provinz inaktiv oder arbeitet mit geringer Effizienz?
+faq.q17.answer,"Ihr Land kann Ressourcen als Reserven für den Einsatz in Kriegen oder bei Versorgungsunterbrechungen auf Vorrat legen. Sie können auf der Registerkarte 'Reserven' einen Zielvorratsbestand (gemessen in Verbrauchsmonaten) festlegen. Ihr Handelssystem kauft und speichert automatisch Ressourcen, bis dieses Ziel erreicht ist."
+faq.q17.question,Wie funktioniert die Bevorratung von Ressourcen?
+faq.q18.answer,"Seltene Ressourcen sind geografisch begrenzt und erfordern bestimmte latente Ressourcenlagerstätten in einer Provinz. Überprüfen Sie den Ressourcenmodus oder die Provinzdetails, um zu sehen, ob Ihr Land über diese Vorkommen verfügt. Wenn ja, errichten Sie spezialisierte Gebäude wie Uranminen oder Seltene-Erden-Minen. Wenn Sie keine Vorkommen besitzen, müssen Sie diese aus Ländern importieren, die darüber verfügen."
+faq.q18.question,Wie erwerbe ich seltene Ressourcen wie Uran oder Seltene Erden?
+faq.q19.answer,"Latente Ressourcen repräsentieren die natürlichen geologischen Lagerstätten im Boden einer Provinz (z. B. Ölfelder, Eisenadern, fruchtbarer Boden). Eine Provinz kann eine Rohressource nur produzieren, wenn sie über die entsprechende latente Ressource verfügt. Sie können keine Goldmine in einer Provinz errichten, die nicht über latentes Gold verfügt."
+faq.q19.question,Was sind „latente Ressourcen“?
+faq.q2.answer,"Öffnen Sie den Diplomatie-Bildschirm oder klicken Sie auf ausländische Länder auf der Karte, um deren Ressourcenbilanzen einzusehen. Suchen Sie nach Ländern, die einen Überschuss an Ressourcen haben, die Sie benötigen, oder ein Defizit an Ressourcen, die Sie produzieren. Sie können auch die Registerkarte 'Weltressourcen-Übersicht' konsultieren, um wichtige Produzenten und Verbraucher zu identifizieren."
+faq.q2.question,Wie finde ich Handelspartner?
+faq.q20.answer,"Wenn Ihre Staatskasse unter Null sinkt, gerät Ihre Nation in die Verschuldung. Während Sie verschuldet sind, ist Ihre Fähigkeit zum Import von Ressourcen stark eingeschränkt, und automatische Kaufsysteme können automatisch deaktiviert oder von internationalen Verkäufern blockiert werden, um einen weiteren Zahlungsausfall zu verhindern. Stabilisieren Sie Ihre Staatskasse, um den normalen Import wieder aufzunehmen."
+faq.q20.question,"Kann ich Ressourcen importieren, wenn meine Staatskasse negativ ist?"
+faq.q21.answer,"Stabilität repräsentiert die Legitimität und Kontrolle Ihrer Regierung. Eine hohe Stabilität steigert die Effizienz der Steuererhebung, erhöht das BIP-Wachstum und senkt die Unruhe in den Provinzen. Eine geringe Stabilität führt zu Steuerstrafen, höherer Korruption, zunehmenden Unruhen und einem potenziellen Zusammenbruch der Regierung."
+faq.q21.question,Wie wirkt sich die nationale Stabilität auf mein Land aus?
+faq.q22.answer,"Ihre Regierungsform (Demokratie, Monarchie, Hybridregime, kommunistischer Staat, Militärjunta usw.) bestimmt den Titel Ihres Führers (z. B. Präsident, König, Premierminister, General) und die Widerstandsfähigkeit Ihres Landes gegen Militärputsche. Demokratien und Hybridregime sind widerstandsfähiger gegen Putsche, während andere Regierungsformen anfälliger sind, wenn die Stabilität zu tief sinkt."
+faq.q22.question,Wie wirkt sich die Regierungsform auf das Gameplay aus?
+faq.q23.answer,"Die Ideologie (liberal, sozialistisch, konservativ, nationalistisch, kommunistisch, faschistisch) repräsentiert die politische Ausrichtung Ihrer Nation. Die Ideologie beeinflusst die diplomatischen Beziehungen, da Länder mit ähnlichen Ideologien naturgemäß besser miteinander auskommen. Die Ideologie kann sich im Laufe der Zeit durch nationale Ereignisse, Krisen, Regierungswechsel oder ausländische Geheimdienstoperationen verschieben."
+faq.q23.question,Was ist die nationale Ideologie und wie ändert sie sich?
+faq.q24.answer,"Korruption zehrt an Ihren Steuereinnahmen und verringert die Stabilität. Sie können die Korruption senken, indem Sie die Stabilität hoch halten, einen ausgeglichenen Haushalt führen sowie Antikorruptionsreformen verabschieden oder bei nationalen Ereignissen saubere Optionen wählen."
+faq.q24.question,Wie kann ich die Korruption in meiner Regierung verringern?
+faq.q25.answer,"Der nationale Machtindex ist ein globales Ranking, das die Gesamtmacht Ihres Landes auf der Grundlage der Wirtschaftsleistung (BIP), der militärischen Stärke (Armeen, Flotten, Nukleararsenal), des technologischen Fortschritts und des diplomatischen Einflusses misst. Eine Erhöhung Ihres Machtindex steigert Ihr globales Prestige und Ihr Gewicht bei internationalen Verhandlungen."
+faq.q25.question,Was ist der Machtindex?
+faq.q26.answer,"Die Anpassung der Finanzierungsregler für Militär, Forschung, Infrastruktur und Sozialprogramme wirkt sich auf Ihre Stabilität aus. Hohe Sozialausgaben verringern direkt die Unruhe und steigern die Stabilität. Drastische Kürzungen der Mittel für einen Sektor können Proteste auslösen, die Stabilität verringern und Leistungseinbußen in diesen Systemen verursachen."
+faq.q26.question,Wie wirken sich innenpolitische Maßnahmen (Budgetregler) auf die Stabilität aus?
+faq.q27.answer,"Wenn die Stabilität auf Null sinkt, besteht ein extremes Risiko für einen Zusammenbruch Ihrer Regierung. Es kann zu einem Militärputsch kommen, der einen Regierungswechsel auslöst, Ihren Führer ersetzt und Ihre Regierungsform ändert. Dies kann massive Störungen Ihres Budgets und Ihrer Diplomatie verursachen."
+faq.q27.question,"Was passiert, wenn die Stabilität 0 % erreicht?"
+faq.q28.answer,"Nationen, die dieselbe Ideologie teilen, erhalten einen Bonus auf die diplomatischen Beziehungen, was Verhandlungen erleichtert. Umgekehrt erleiden gegensätzliche Ideologien (wie Kommunistisch vs. Kapitalistisch oder Demokratisch vs. Faschistisch) inhärente diplomatische Nachteile, was die Wahrscheinlichkeit von Rivalität und Konflikten erhöht."
+faq.q28.question,Wie wirkt sich der ideologische Zusammenhalt auf die Beziehungen aus?
+faq.q29.answer,"Die Stabilität erholt sich im Laufe der Zeit langsam, wenn Ihre Nation eine positive monatliche Bilanz, geringe Unruhen in den Provinzen und eine niedrige Inflation aufweist. Sie können die Stabilität auch durch bestimmte positive Entscheidungen bei nationalen Ereignissen oder durch eine Erhöhung Ihres Budgets für Sozialausgaben steigern."
+faq.q29.question,Wie stelle ich die Stabilität der Regierung wieder her?
+faq.q3.answer,"Ein Handelsabkommen ist ein bilaterales Abkommen, das Zölle zwischen zwei Nationen abschafft und diese als Handelspartner bevorzugt. Im Rahmen eines Abkommens werden Ressourcen zu geringeren Kosten gehandelt, was Ihre Exporteinnahmen erhöht und die Importkosten senkt. Zudem baut es im Laufe der Zeit positive diplomatische Beziehungen auf."
+faq.q3.question,Wie funktionieren Handelsabkommen?
+faq.q30.answer,"Kriegsmüdigkeit baut sich auf, je länger Ihre Nation in einem aktiven Konflikt verbleibt, insbesondere wenn Sie hohe Verluste erleiden oder Provinzen besetzt werden. Eine hohe Müdigkeit verringert die Stabilität und erhöht die Unruhe in den Provinzen. Sie baut sich im Frieden langsam ab oder kann durch Sozialausgaben und Ereignisse gemildert werden."
+faq.q30.question,Was ist Kriegsmüdigkeit und wie bewältige ich sie?
+faq.q31.answer,"Die Meinung repräsentiert, wie ein ausländischer Staat Ihre Nation sieht. Eine bessere Meinung erleichtert die Bildung von Bündnissen, die Unterzeichnung von Nichtangriffspakten und den Abschluss vorteilhafter Handelsabkommen. Eine feindselige Meinung erhöht die Wahrscheinlichkeit, dass die KI Sie als Rivalen einstuft, Sanktionen verhängt oder den Krieg erklärt."
+faq.q31.question,Wie wirkt sich die Meinung auf die Diplomatie aus?
+faq.q32.answer,"Ein Verteidigungspakt verpflichtet die Partner nur zur gegenseitigen Verteidigung, wenn einer von ihnen von einer dritten Partei angegriffen wird. Ein Militärbündnis ist eine vollwertige Koalition, bei der Sie Ihre Verbündeten rufen können, um Ihnen in Offensivkriegen beizutreten. Das Brechen eines Bündnisses oder die Ablehnung eines Rufs zu den Waffen zieht jedoch schwere diplomatische Strafen nach sich."
+faq.q32.question,Was ist der Vorteil eines Verteidigungspakts gegenüber einem Militärbündnis?
+faq.q33.answer,"Die UN befasst sich mit globalen Resolutionen. Mitglieder des Sicherheitsrats (UNSC) können über internationale Maßnahmen wie Sanktionen, Rüstungsbegrenzungen und Friedenssicherungsmaßnahmen abstimmen und diese vorschlagen. Die Verabschiedung von Resolutionen kann erhebliche Auswirkungen auf die Wirtschaft oder das Militär der betroffenen Staaten haben."
+faq.q33.question,Wie funktionieren die Vereinten Nationen (UN) und der Sicherheitsrat (UNSC)?
+faq.q34.answer,"Spezialisten sind hochrangige Diplomaten- und Spionageagenten. Sie können sie in ausländischen Staaten einsetzen, um die Beziehungen zu verbessern, Spionagenetzwerke aufzubauen, Cyberangriffe durchzuführen, Technologien zu stehlen oder Sabotage zu inszenieren."
+faq.q34.question,Was sind Gesandte und Spezialisten?
+faq.q35.answer,"Wenn Sie ausländische Spionage entdecken, errichten Sie in Schlüsselprovinzen ein Amt für Spionageabwehr und weisen Sie Spezialisten Aufgaben zur Spionageabwehr zu. Dies erhöht die Entdeckungsrate ausländischer Spione und verringert den Schaden durch Sabotage."
+faq.q35.question,Wie gehe ich gegen ausländische Spionageoperationen vor?
+faq.q36.answer,"Sie können eine Botschaft in einem anderen Land durch diplomatische Aktionen einrichten. Eine Botschaft bietet einen dauerhaften Schub für die bilateralen Beziehungen, erhöht die Geschwindigkeit der diplomatischen Kommunikation und ist eine Voraussetzung für fortgeschrittenere Abkommen wie Bündnisse."
+faq.q36.question,Wie richte ich eine Botschaft ein?
+faq.q37.answer,"Sanktionen sind Handelsbeschränkungen, die einem Land auferlegt werden. Sie können einseitig (von einer Nation auferlegt) oder mehrseitig (von einem Block oder der UN auferlegt) sein. Sanktionen belegen die Handelseffizienz, die Ressourcenpreise und das Exportpotenzial des Ziels mit schweren Strafen und lähmen dessen Wirtschaft."
+faq.q37.question,Was sind diplomatische Sanktionen und wie schaden sie?
+faq.q38.answer,"Ein Nichtangriffspakt ist ein bilaterales Abkommen, bei dem beide Nationen versprechen, sich gegenseitig nicht den Krieg zu erklären. Das Brechen eines NAP zieht eine massive diplomatische Strafe, den ruinösen Verlust des globalen Ansehens nach sich und kann internationale Sanktionen auslösen."
+faq.q38.question,Wie funktioniert ein Nichtangriffspakt (NAP)?
+faq.q39.answer,"Rivalität repräsentiert tiefe nationale Feindseligkeit. Wenn ein anderes Land Sie als Rivalen einstuft, ist dessen Meinung über Sie auf 'feindselig' festgelegt und diplomatische Aktionen sind blockiert. Sie können versuchen, die Rivalität zu entschärfen, indem Sie die Beziehungen mithilfe von Spezialisten verbessern, Hilfspakete anbieten oder darauf warten, dass gemeinsame Bedrohungen Ihre Interessen angleichen."
+faq.q39.question,Wie löse ich eine diplomatische Rivalität?
+faq.q4.answer,"Das BIP (Bruttoinlandsprodukt) repräsentiert die gesamte Wirtschaftsleistung Ihrer Nation. Sie können es steigern, indem Sie Fabriken, Gewerbegebiete, Infrastruktur (wie Autobahnen und Kraftwerke) sowie Ressourcen abbauende Gebäude (wie Minen und Farmen) errichten. Die Erforschung von Wirtschafts- und Industrietechnologien steigert zudem dauerhaft die Produktivität und das BIP-Wachstum."
+faq.q4.question,Wie steigt das BIP?
+faq.q40.answer,"Der diplomatische Posteingang ist ein Panel, das über die Pille 'Diplomatische Anfragen' der Alarmleiste zugänglich ist. Er zeigt alle ausstehenden diplomatischen Anfragen, die von anderen Nationen an Sie gesendet wurden (wie Bündnisvorschläge, Handelsabkommen, Friedensangebote, Nichtangriffspakte, UN-Stimmen und Schuldenfallen). Von hier aus können Sie Details überprüfen, zustimmen oder diese ablehnen."
+faq.q40.question,Was ist der diplomatische Posteingang?
+faq.q41.answer,"Die Anpassung Ihres Militärhaushalts betrifft drei Hauptbereiche: Unterhaltsdeckung, Personalregeneration und Reserveaufnahme. Er deckt die Unterhaltskosten aktiver Einheiten (Armeen, Flotten, Geschwader); wenn der gesamte Unterhalt Ihrer Einheiten Ihr Verteidigungsbudget übersteigt, wird der Überschuss direkt von Ihrer Kasse abgezogen. Er skaliert zudem die Rate, mit der das Bevölkerungswachstum in Ihre Militärreserven einfließt, sowie die Geschwindigkeit, mit der Reserven in aktive, rekrutierbare Soldaten umgewandelt werden. Er erhöht nicht direkt die Kampfstärke der Einheiten."
+faq.q41.question,Was beeinflussen die Ausgaben für den Militärhaushalt?
+faq.q42.answer,"DEFCON repräsentiert die strategische Bereitschaft Ihres Landes und reicht von Stufe 5 (Frieden) bis Stufe 1 (Unmittelbar bevorstehend). Sie können die Registerkarte 'Nuklear' im Raketenkommando-Panel öffnen und Ziele auswählen, sobald Ihre DEFCON Stufe 3 (Bereitschaft) oder niedriger erreicht (ausgelöst durch Krieg oder globale Spannungen). Die Anordnung eines Nuklearschlags zwingt Ihre DEFCON automatisch auf Stufe 1 (Unmittelbar), um den Start zu autorisieren, und sobald nukleare Raketen im Flug sind, eskaliert DEFCON zum Austausch (Stufe 0 im System, die in der Benutzeroberfläche als Stufe 1 angezeigt wird). DEFCON wird sich im Frieden langsam wieder auf Stufe 5 zurückstufen."
+faq.q42.question,Wie funktioniert DEFCON?
+faq.q43.answer,"Um eine Rakete zu starten, öffnen Sie das Raketenkommando-Panel, wählen Sie Ihre Startplattform (ein Raketensilo-Gebäude, eine Armee mit einer mobilen Startrampe oder eine U-Boot-Flotte), wählen Sie den Raketentyp und den Sprengkopf, wählen Sie 'Ziel auf Karte auswählen' und klicken Sie mit der linken Maustaste auf eine feindliche Provinz. Das Zielland muss eines sein, mit dem Sie im Krieg stehen, und die Provinz muss sich in Reichweite befinden (gemessen in Provinzsprüngen). Konventionelle Raketen können auf jeder DEFCON-Stufe gestartet werden, während nukleare Raketen DEFCON 3 oder niedriger erfordern, um auf die Registerkarte 'Nuklear' zuzugreifen."
+faq.q43.question,Wie funktioniert die Raketenzielung?
+faq.q44.answer,"Armeen erhalten Kampfboni oder -abzüge auf der Grundlage des Geländes der Provinz, in der sie kämpfen. Gebirgiges, Wald- oder Dschungelgelände bietet Verteidigern erhebliche Verteidigungsboni, was es schwierig macht, sie zu vertreiben. Achten Sie auf die Geländetypen, bevor Sie einen Angriff befehlen."
+faq.q44.question,Wie funktioniert der Kampf der Armeen auf verschiedenen Geländen?
+faq.q45.answer,"Flotten kontrollieren Seezonen, schützen den Seehandel und können Landarmeen über das Wasser transportieren. Geschwader operieren von Provinzen mit Flugplätzen aus und bieten verbündeten Armeen in angrenzenden Kampfzonen Luftüberlegenheit oder Bodenunterstützung."
+faq.q45.question,Wie operieren Flotten und Geschwader?
+faq.q46.answer,"Während des Krieges besetzt das Bewegen einer Armee in eine feindliche Provinz diese und schneidet deren Ressourcen und Steuern für den feindlichen Besitzer ab. Sie bleibt jedoch rechtlich in dessen Besitz, bis ein Friedensvertrag unterzeichnet ist. Die Annexion ist die dauerhafte Übertragung des Provinzbesitzes, die im Friedensvertrag ausgehandelt und abgeschlossen wird."
+faq.q46.question,Was ist der Unterschied zwischen der Besetzung und der Annexion einer Provinz?
+faq.q47.answer,"Einheiten werden aus Provinzen rekrutiert, die über die erforderlichen Rekrutierungsgebäude verfügen (Kasernen für Bodeneinheiten, Marinestützpunkte für Schiffe, Flugplätze für Flugzeuge). Die Rekrutierung kostet Personal und Staatskasse. Die Trainingsgeschwindigkeit hängt von der Provinzinfrastruktur und der Militärtechnologie ab."
+faq.q47.question,Wie rekrutiere und trainiere ich Einheiten?
+faq.q48.answer,"Sie können Raketenabwehrbatterien und Frühwarnradare in Ihren Provinzen errichten. Diese Systeme erkennen und versuchen automatisch, anfliegende ballistische Raketen und Marschflugkörper abzufangen, was den schade an Ihren Gebäuden und Ihrer Bevölkerung verringert oder vollständig neutralisiert."
+faq.q48.question,Wie funktioniert die Raketenabwehr?
+faq.q49.answer,"Unruhen werden durch hohe Steuersätze, Ressourcenengpässe, Kriegsmüdigkeit, hohe Inflation und geringe Stabilität verursacht. Sie verringern die Steuereffizienz und das BIP. Unruhen werden durch Sozialausgaben, Krankenhäuser/Schulen und Garnisonen gesenkt. Die Bevölkerung wächst auf der Grundlage von Geburten- und Sterberaten (verbessert durch Gesundheitsinfrastruktur). Bürger migrieren aus konfliktträchtigen oder armen Provinzen, um Chancen in friedlichen, reichen Provinzen zu suchen."
+faq.q49.question,"Wie funktionieren Unruhen in den Provinzen, Bevölkerungswachstum und Migration?"
+faq.q5.answer,"Das BIP fließt nicht direkt in die Staatskasse. Stattdessen wird Ihre Staatskasse durch die Besteuerung der durch Ihr BIP generierten Wirtschaftsaktivität finanziert. Durch Festlegung Ihres nationalen Steuersatzes wird ein Prozentsatz Ihres BIP als monatliche Einnahme eingezogen. Ein höheres BIP vergrößert das steuerbare Gesamtvolumen, sodass Sie selbst bei gleichem Steuersatz mehr Einnahmen erzielen. Zu hohe Steuersätze können jedoch das BIP-Wachstum verlangsamen und Unruhen stiften."
+faq.q5.question,Wie fließt das BIP in die Staatskasse?
+faq.q50.answer,"Die Forschungsgeschwindigkeit wird durch Ihre monatliche Forschungsbudgetzuweisung gesteuert. Höhere Budgets beschleunigen den Fortschritt. Sie können auch Universitäten, öffentliche Bibliotheken und Forschungslabors errichten, um die Produktion von Forschungspunkten zu steigern, oder Forschungsvorschläge auswählen, die sich an Ihrem strategischen Fokus ausrichten."
+faq.q50.question,Wie beschleunige ich die Forschung?
+faq.q6.answer,"Aktivieren Sie niemals den automatischen Kauf für alle Ressourcen gleichzeitig, da dies Ihre Staatskasse schnell leeren kann, insbesondere bei Preisspitzen. Aktivieren Sie den automatischen Kauf nur selektiv für kritische Ressourcen, die Sie nicht im Inland produzieren können. Wenn Sie nicht extrem reich sind, verwalten Sie Ihre Vorräte manuell und prioritieren Sie zuerst die Sicherung von Handelsabkommen."
+faq.q6.question,Welche Empfehlungen gibt es für die automatische Kaufpolitik?
+faq.q7.answer,"Inflation stellt die Rate dar, mit der die Preise steigen. Eine hohe Inflation (insbesondere über 8 %) zieht Ihr BIP-Wachstum nach unten, erhöht die Baukosten für Gebäude und steigert die Unruhe in den Provinzen. Sie können die Inflation durch geldpolitische Maßnahmen (wie die Anpassung von Zinssätzen oder eine Verschärfung der Währungskontrollen) kontrollieren oder die Staatsausgaben senken."
+faq.q7.question,Wie wirkt sich die Inflation auf meine Wirtschaft aus?
+faq.q8.answer,"Eine negative monatliche Bilanz entsteht, wenn die Staatsausgaben (Militärunterhalt, Forschungsbudgets, Infrastrukturinvestitionen und Sozialausgaben) Ihre Steuereinnahmen übersteigen. Überprüfen Sie die Registerkarte 'Budget', um die Regler zu senken oder den Steuersatz zu erhöhen. Beachten Sie, dass hohe Steuern das Wirtschaftswachstum dämpfen und Unruhen verstärken können."
+faq.q8.question,Warum ist meine monatliche Bilanz negativ?
+faq.q9.answer,"Ein Handelsblock ist eine Allianz von Nationen, die gemeinsame Handelsregeln, Nullzölle und eine einheitliche Wirtschaftspolitik teilen. Sie können einem Handelsblock über das Panel 'Erweiterte Diplomatie' beitreten oder diesen verlassen, sofern die Blockmitglieder Ihren Beitritt genehmigen. Die Mitgliedschaft in einem Block erhöht die Handelseffizienz und das BIP-Wachstum unter den Mitgliedern erheblich."
+faq.q9.question,Was ist ein Handelsblock und wie kann ich einem beitreten?
+faq.title,FAQ
 formalliance,Allianz bilden
 format.month_year,{0} {1}
 gov.change.ally_desc,"{0} (Verbündeter): {1} übernimmt die Macht – {2}, {3}"
@@ -1380,6 +1771,8 @@ help.military.defcon.title,DEFCON-Warnung
 help.military.title,Militärgremium
 help.overview.body,"Ein Überblick über Ihr Land: die wichtigsten Kennzahlen, aktuelle Ereignisse und die aktuelle Lage auf einen Blick."
 help.overview.title,Übersichtsbereich
+help.politics.body,"Ihr Regierungstyp, Regierungspartei und Koalition, Wählerblöcke, Parteienstand und politische Aktionen: Blöcke unterdrücken oder verbieten, Reformen erlassen, Generäle säubern und eine ausländische Opposition finanzieren."
+help.politics.title,Politik
 help.recruitment.body,"Neue Militäreinheiten ausbilden und mobilisieren. Die Dauer und die Kosten der Rekrutierung hängen von deiner Wirtschaft, deinen personellen Ressourcen und den geltenden Mobilisierungsgesetzen ab."
 help.recruitment.title,Einstellungsgremium
 help.technology.body,"Erforsche neue Technologien, um Boni freizuschalten. Die Dauer der Forschung hängt von deinem Forschungsbudget und deinen Punkten ab."
@@ -3385,12 +3778,15 @@ hud.air.ctx.air_superiority.desc,Patrouillieren Sie den Ziel-Luftraum um feindli
 hud.air.ctx.close_air_support.desc,Führen Sie direkte Angriffe auf feindliche Bodentruppen in umkämpften feindlichen Provinzen durch.
 hud.air.ctx.naval_strike.desc,Bekämpfen Sie feindliche Seestreitkräfte in Seezonen mit Anti-Schiff-Einsätzen.
 hud.air.ctx.rebase.desc,Verlegen Sie ausgewählte Luftgeschwader auf einen freundlichen Flugplatz und erweitern Sie die Reichweite oder unterstützen Sie eine andere Front.
+hud.air.ctx.rebase_carrier,Auf Träger verlegen
+hud.air.ctx.rebase_carrier.desc,Verlegt ausgewählte Luftgeschwader auf einen verbündeten Flugzeugträger sodass sie von der Position der Flotte aus operieren.
 hud.air.ctx.reconnaissance.desc,Sammeln Sie Luftaufklärung um Sichtbarkeit und Zielinformationen zu verbessern.
 hud.air.ctx.strategic_bombing.desc,Greifen Sie strategische Infrastruktur- und Produktionsziele in feindlich kontrollierten Provinzen an.
 hud.air.idle,Leerlauf
 hud.air.leg_inbound,Rückflug
 hud.air.leg_outbound,Hinflug
 hud.air.mission_label,Mission: {0}
+hud.air.panel.based_on_carrier,Stationiert auf Träger (Flotte {0})
 hud.air.range_provinces,Geltungsbereich: {0:0.#} Provinzen
 hud.air.wing_name,Luftflügel #{0}
 hud.alert.budget_deficit,Haushaltsdefizit
@@ -3426,6 +3822,7 @@ hud.alert.negative_treasury,Negative Staatskasse
 hud.alert.no_active_goal,Kein aktives Ziel
 hud.alert.no_research,Keine laufenden Forschungsarbeiten
 hud.alert.resource_shortage,Ressourcenknappheit
+hud.alert.resource_shortage.drivers_fmt,Verursacht durch: {0}.
 hud.alert.war_declared,Kriegserklärung!
 hud.army_tooltip.country,LAND
 hud.army_tooltip.total_strength,GESAMTSTÄRKE
@@ -3533,6 +3930,7 @@ hud.auto.panel,PANEL
 hud.auto.paused,PAUSE
 hud.auto.paused_ribbon,SPIEL UNTERBROCHEN
 hud.auto.peace,FRIEDEN
+hud.auto.politics,Politics
 hud.auto.pop,Pop
 hud.auto.pop_1,Pop:
 hud.auto.population,BEVÖLKERUNG
@@ -3593,7 +3991,16 @@ hud.auto.war_details,KRIEGSDETAILS
 hud.auto.war_score_0,KRIEGSBILANZ: 0 %
 hud.auto.warheads,SPRENGKÖPFE
 hud.auto.wars,KRIEGE
-hud.building.tooltip.active_output,Aktive Ausgabe
+hud.bilateral_trade.buy,Partnerkäufe
+hud.bilateral_trade.sell,Partnerverkäufe
+hud.building.detail.auto,Automatisch (empfohlen)
+hud.building.detail.fixed_output,Dieses Gebäude nutzt ein festes Rezept.
+hud.building.detail.output_hint,Legt den primären (verstärkten) Ertrag fest. Etwaige weitere Vorkommen der Provinz werden weiterhin mit reduzierter Rate gefördert.
+hud.building.detail.recipe,Eingangsrohstoff
+hud.building.detail.recipe_hint,"Wählen Sie, welchen Rohstoff dieses Gebäude verbraucht. Automatisch wählt den, den Sie am besten liefern können."
+hud.building.tooltip.active_output,Primärer Ertrag
+hud.building.tooltip.alternatives,Alternativen
+hud.building.tooltip.click_to_change,{0} Optionen — zum Ändern klicken
 hud.building.tooltip.input_mix,Effektiver Eingabemix
 hud.building.tooltip.produces,Erzeugt
 hud.building.tooltip.requires,Erfordert
@@ -3639,7 +4046,13 @@ hud.country.corruption,KORRUPTION
 hud.country.demo_area,GEBIET
 hud.country.demo_capital,HAUPTSTADT
 hud.country.demo_continent,KONTINENT
+hud.country.demo_culture,KULTUR
+hud.country.demo_ethnicity,ETHNIE
+hud.country.demo_ethnicity_diverse,Multiethnisch
+hud.country.demo_homogeneity,HOMOGENITÄT
 hud.country.demo_pop,BEVÖLKERUNG
+hud.country.demo_religion,RELIGION
+hud.country.demo_religion_nonreligious,Konfessionslos
 hud.country.demo_section,Demografie
 hud.country.demographics,Demografie
 hud.country.econ_debt,SCHULDENQUOTE
@@ -3703,6 +4116,52 @@ hud.defcon.non_nuclear,NICHT-NUKLEAR
 hud.defcon.peace,FRIEDEN
 hud.defcon.primary_adversary,HAUPTGEGNER: Entität #{0}
 hud.defcon.standby,STANDBY
+hud.dev.admin.btn.add_stockpile_100k,+100.000 Einheiten
+hud.dev.admin.btn.add_stockpile_10k,+10.000 Einheiten
+hud.dev.admin.btn.add_stockpile_1k,+1.000 Einheiten
+hud.dev.admin.btn.build_now_skip_queue,Jetzt bauen (Warteschlange überspringen)
+hud.dev.admin.btn.raise_absolute_max_infra,Auf absolutes Maximalniveau der Infrastruktur erhöhen
+hud.dev.admin.btn.raise_max_prereq_infra,Auf maximales Voraussetzungen-Infrastrukturniveau erhöhen
+hud.dev.admin.btn.unlock_all_tech,Alle Technologien freischalten
+hud.dev.admin.error.building_config_ref_missing,BuildingConfigRef-Singleton ist nicht verfügbar.
+hud.dev.admin.error.building_index_out_of_range,Gebäudeindex ist außerhalb des gültigen Bereichs.
+hud.dev.admin.error.country_budget_missing,Dem aufgelösten Land fehlt die CountryBudget-Komponente.
+hud.dev.admin.error.country_tech_buffer_missing,Die Länder-Entität hat keinen CountryTechElement-Buffer.
+hud.dev.admin.error.ecs_world_not_ready,ECS-Welt ist nicht bereit. Wechseln Sie zuerst in den Play Mode.
+hud.dev.admin.error.invalid_treasury_injection_amount,Ungültiger Betrag für Treasury-Injektion.
+hud.dev.admin.error.no_country_resolved,Kein Land konnte aufgelöst werden.
+hud.dev.admin.error.no_nonzero_prereq_infra,Kein Gebäude hat einen PrereqInfrastructure-Wert größer als Null.
+hud.dev.admin.error.no_resource_selected,Wähle zuerst einen gültigen Rohstoff aus.
+hud.dev.admin.error.province_buffers_missing,Der Provinz fehlen ProvinceBuilding- oder ConstructionSlot-Buffer.
+hud.dev.admin.error.province_entity_invalid,Provinz-Entität ist ungültig oder ProvinceState fehlt.
+hud.dev.admin.error.province_not_owned,Provinz gehört nicht dem aufgelösten Land.
+hud.dev.admin.error.select_valid_building,Bitte eine gültige Provinz auswählen.
+hud.dev.admin.error.select_valid_province,Bitte ein gültiges Gebäude auswählen.
+hud.dev.admin.error.stockpile_buffer_missing,Land hat keinen Vorratsspeicher.
+hud.dev.admin.error.tech_config_ref_missing,TechConfigRef-Singleton ist nicht verfügbar.
+hud.dev.admin.feedback.build_now_result,'{0}' in {1} gebaut. Gebäude: {2} -> {3}
+hud.dev.admin.feedback.game_paused,"Spiel ist pausiert - drücken Sie Leertaste, um die Zeit zu starten."
+hud.dev.admin.feedback.no_provinces_changed,"Keine Provinzen geändert. Ziel-Infrastruktur ist {0:F0} ({1}), bereits von allen eigenen Provinzen erfüllt."
+hud.dev.admin.feedback.no_provinces_changed_with_source,"Keine Provinzen geändert. Ziel-Infrastruktur ist {0:F0} ({1}), bereits von allen eigenen Provinzen erfüllt. Quellgebäude: {2}."
+hud.dev.admin.feedback.raised_infra,{0} Provinz(en) auf Infrastruktur {1:F0} ({2}) erhöht; {3} erfüllten das Ziel bereits.
+hud.dev.admin.feedback.raised_infra_with_source,{0} Provinz(en) auf Infrastruktur {1:F0} ({2}) erhöht; {3} erfüllten das Ziel bereits. Quellgebäude: {4}.
+hud.dev.admin.feedback.unlock_all_tech_result,"{0} Technologien freigeschaltet ({1} bereits erforscht, {2} gesamt)."
+hud.dev.admin.field.building,Gebäude
+hud.dev.admin.field.province,Provinz
+hud.dev.admin.field.resource,Rohstoff
+hud.dev.admin.inject_treasury_1b,1B USD in die Staatskasse injizieren
+hud.dev.admin.inject_treasury_1m,1M USD in die Staatskasse injizieren
+hud.dev.admin.inject_treasury_1t,1T USD in die Staatskasse injizieren
+hud.dev.admin.inject_treasury_success,{0} wurde erfolgreich in die Staatskasse injiziert.
+hud.dev.admin.placeholder.open_panel_first,(Panel zuerst öffnen)
+hud.dev.admin.section.immediate_build,SOFORT BAUEN
+hud.dev.admin.section.infrastructure,INFRASTRUKTUR
+hud.dev.admin.section.research,FORSCHUNG
+hud.dev.admin.section.stockpile,ROHSTOFFVORRAT
+hud.dev.admin.section.treasury,STAATSKASSE
+hud.dev.admin.stockpile.success,{0} Einheiten hinzugefügt – {1}. Neuer Gesamtwert: {2}.
+hud.dev.admin.title,ADMIN-PANEL
+hud.dev.admin.use_viewed_country,Betrachtetes Land verwenden (Standard: Spielerland)
 hud.dev.console.desc.admin,Admin-Panel öffnen/schließen
 hud.dev.console.desc.clear,Ausgabe löschen
 hud.dev.console.desc.economy_auto,Wirtschaftsstatus alle N Sekunden automatisch exportieren
@@ -3730,7 +4189,7 @@ hud.diplo.actions_section,DIPLOMATISCHE MASSNAHMEN
 hud.diplo.ae_coalition,AGGRESSIVE EXPANSION UND KOALITION
 hud.diplo.ae_perceptions,AE-Wahrnehmungen
 hud.diplo.ae_score,AE-SCORE
-hud.diplo.agreements_section,VEREINBARUNGEN
+hud.diplo.agreements_section,PAKTE & VERTRÄGE
 hud.diplo.ai_broke_guarantee,{0} hat seine Garantie gegenüber {1} nicht eingehalten.
 hud.diplo.ai_honored_guarantee,"{0} kam seiner Verpflichtung nach und erklärte {1} den Krieg, um {2} zu verteidigen."
 hud.diplo.alliance_type.ally,VERBÜNDETE
@@ -3754,6 +4213,7 @@ hud.diplo.break_alliance,ALLIANZ AUFLÖSEN
 hud.diplo.cancel_improve_relations,ABBRECHEN BEZIEHUNGEN VERBESSERN
 hud.diplo.cancel_nap,NICHTANGRIFFSPAKT AUFHEBEN
 hud.diplo.cancel_trade,HANDELSABKOMMEN AUFHEBEN
+hud.diplo.cancel_treaty,VERTRAG KÜNDIGEN
 hud.diplo.casus_belli,CB: {0}
 hud.diplo.cb_coalition_war,Koalitionskrieg
 hud.diplo.cb_defense,Defensiv
@@ -3794,7 +4254,9 @@ hud.diplo.confirm.open_embassy,Eine Botschaft in {0} eröffnen?
 hud.diplo.confirm.recall_embassy,Ihre Botschaft aus {0} abberufen?
 hud.diplo.confirm.sanction,Sollen Sanktionen gegen {0} verhängt werden? Dies wird den Handel einschränken und die Beziehungen beeinträchtigen.
 hud.diplo.confirm.trade,Ein Handelsabkommen mit {0} vorschlagen?
+hud.diplo.confirm.ultimatum,{0} ein Ultimatum stellen? Nachgeben oder Krieg riskieren.
 hud.diplo.confirm_aid_package,Möchtest du wirklich ein Hilfspaket an {0} senden?
+hud.diplo.confirm_cancel_treaty,{0}-Vertrag kündigen?
 hud.diplo.confirm_coalition_sanction,Sollte eine multilaterale Koalition Sanktionen gegen {0} verhängen?
 hud.diplo.confirm_currency_manip,Versuchte Währungsmanipulation gegen {0}?
 hud.diplo.confirm_debt_trap,{0} einen hochverzinslichen Wucherkredit anbieten?
@@ -3842,6 +4304,7 @@ hud.diplo.impose_sanctions,VERHÄNGT SANKTIONEN
 hud.diplo.improve_relations,DIE BEZIEHUNGEN VERBESSERN
 hud.diplo.insult,BELEIDIGUNG
 hud.diplo.international_section,INTERNATIONAL
+hud.diplo.issue_ultimatum,ULTIMATUM STELLEN
 hud.diplo.join_coalition,DER KOALITION BEITRETEN
 hud.diplo.join_trade_bloc,WERDE MITGLIED BEI TRADE BLOC
 hud.diplo.leave_coalition,KOALITION VERLASSEN
@@ -3915,6 +4378,7 @@ hud.diplo.opinion_expiry,(läuft ab {0})
 hud.diplo.opinion_modifiers,MEINUNGSMODIFIKATOREN
 hud.diplo.opinion_row_label,{0}: {1}
 hud.diplo.org_memberships,INTERNATIONALE ORGANISATIONEN
+hud.diplo.other_pacts_treaties,WEITERE PAKTE & VERTRÄGE
 hud.diplo.our_relation,UNSERE BEZIEHUNG
 hud.diplo.pending_guarantee_honor,Ausstehende Garantieeinlösung
 hud.diplo.persona_non_grata,Persona non grata
@@ -3934,6 +4398,8 @@ hud.diplo.reason.already_un_member,Das Land ist bereits Mitglied der Vereinten N
 hud.diplo.reason.at_war,Derzeit im Krieg
 hud.diplo.reason.cooldown,Diese diplomatische Maßnahme wurde kürzlich ergriffen. Sie wird ab {0} wieder zur Verfügung stehen.
 hud.diplo.reason.debt_trap_healthy,"{0} hat das Kreditangebot abgelehnt, da die Staatskasse gesund ist und derzeit keine zusätzlichen Schulden benötigt werden."
+hud.diplo.reason.debt_trap_max_loans,Sie halten bereits die maximale Anzahl von {0} Schuldenfallen-Krediten gegen dieses Land.
+hud.diplo.reason.debt_trap_no_funds,Ihre Staatskasse kann den Kredit über {0} nicht decken.
 hud.diplo.reason.debt_trap_relations,{0} hat das Kreditangebot aufgrund schlechter diplomatischer Beziehungen abgelehnt.
 hud.diplo.reason.defense_pact,Ein Verteidigungsabkommen verhindert dies
 hud.diplo.reason.embassy_relations,Die Beziehungen sind zu angespannt für eine Botschaft (erforderlich: -20 oder besser)
@@ -4018,6 +4484,9 @@ hud.diplo.treaty_arms_limitation,Rüstungsbegrenzung
 hud.diplo.treaty_climate_agreement,Klimaschutzabkommen
 hud.diplo.treaty_defense_pact,Verteidigungsabkommen
 hud.diplo.treaty_non_proliferation,Nichtverbreitung
+hud.diplo.treaty_picker_row,{1} {0}
+hud.diplo.treaty_row_cancel_verb,Kündigen
+hud.diplo.treaty_row_propose_verb,Vorschlagen
 hud.diplo.truce,WAFFENRUHE
 hud.diplo.un_membership_proposals,Vorschläge zur UN-Mitgliedschaft
 hud.diplo.un_vote_in_panel_hint,Die Steuerung der Abstimmung wurde in die Kommandozentrale der Vereinten Nationen verlegt
@@ -4066,11 +4535,18 @@ hud.econ.actual_debt_repayment,SCHULDENRÜCKZAHLUNG
 hud.econ.actual_envoy,NET ENVOY-BETRIEB
 hud.econ.actual_events,NET-EREIGNISSE
 hud.econ.actual_expense,Ausgaben
+hud.econ.actual_gdp_country_adjustments,LÄNDERANPASSUNGEN
+hud.econ.actual_gdp_country_net,NATIONALES NETTO-BIP
 hud.econ.actual_gdp_envoy,ENVOY IMPACT
-hud.econ.actual_gdp_events,AUSWIRKUNGEN DER VERANSTALTUNG
-hud.econ.actual_gdp_net,NETTO-BIP-DELTA
+hud.econ.actual_gdp_events,EVENT IMPACT
+hud.econ.actual_gdp_headwinds,MACRO HEADWINDS
+hud.econ.actual_gdp_negative,NEGATIVE GDP LANES
+hud.econ.actual_gdp_net,NET GDP DELTA
+hud.econ.actual_gdp_positive,POSITIVE GDP LANES
+hud.econ.actual_gdp_province_gross,BRUTTOSUMME DER PROVINZEN
 hud.econ.actual_gdp_resource,Ressourcenabgleich
-hud.econ.actual_gdp_section,Komponenten des BIP-Wachstums
+hud.econ.actual_gdp_territory,Gebietsänderung
+hud.econ.actual_hostile_ops,AUSLÄNDISCHE OPERATIONEN
 hud.econ.actual_income,Einkommen
 hud.econ.actual_inf_budget,INFRASTRUKTUR-AUSGABEN
 hud.econ.actual_mil_budget,MILITÄRAUSGABEN
@@ -4078,14 +4554,17 @@ hud.econ.actual_mil_maint,MILITÄRISCHE INSTANDHALTUNG
 hud.econ.actual_net,NETTOVERÄNDERUNG
 hud.econ.actual_other_expense,SONSTIGE AUFWENDUNGEN
 hud.econ.actual_other_income,SONSTIGE EINNAHMEN
+hud.econ.actual_political,Politische Operationen
 hud.econ.actual_recruit,REKRUTIERUNGSKOSTEN
 hud.econ.actual_refunds,RÜCKERSTATTUNGEN
 hud.econ.actual_res_budget,FORSCHUNGSAUSGABEN
 hud.econ.actual_reserve_contrib,RÜCKLAGENZULAGE
+hud.econ.actual_reserve_drawdown,RÜCKLAGENABBAU
 hud.econ.actual_reserve_spend,RESERVEAUSGABEN
 hud.econ.actual_soc_budget,Sozialausgaben
 hud.econ.actual_tariff,Zoll-Einnahmen
 hud.econ.actual_tax,STEUEREINNAHMEN
+hud.econ.actual_total_expense,TATSÄCHLICHE GESAMTAUSGABEN
 hud.econ.alloc_note,Der Steuersatz ist nicht in der Gesamtsumme von 100 % enthalten.
 hud.econ.alloc_total,GESAMT: {0:F1}%
 hud.econ.apply_budget,BUDGET ANWENDEN
@@ -4103,6 +4582,8 @@ hud.econ.budget_status_ready,"Passen Sie die Schieberegler an, um Ihre Budgetauf
 hud.econ.budget_status_summary,STEUERN {0:F1} % | MILITÄR {1:F1} % | EINWOHNER {2:F1} % | INFRASTRUKTUR {3:F1} % | SOZIALES {4:F1} % | RESERVE {5:F1} %
 hud.econ.budget_status_view_only,NUR ANZEIGEN: Die Bearbeitung des Budgets ist nur für Ihr Land verfügbar.
 hud.econ.consumption,VERBRAUCH
+hud.econ.coverage_months_fmt,Vorrat {0:F1} Mon.
+hud.econ.coverage_secure,Vorrat 3+ Mon.
 hud.econ.debt_gdp,SCHULDEN/BIP
 hud.econ.debt_payment_apply,ZAHLUNG VORNEHMEN
 hud.econ.debt_payment_note,Reduzieren Sie die Staatsverschuldung direkt mit Mitteln aus der Staatskasse. Einmal pro Monat verfügbar.
@@ -4178,8 +4659,10 @@ hud.econ.national_debt,STAATSVERSCHULDUNG
 hud.econ.net,Nicht
 hud.econ.net_income,REINGEWINN
 hud.econ.no_resources,KEINE RESSOURCEN
+hud.econ.off_budget_drains,AUSSERPLANMÄSSIGE ABFLÜSSE (ZINSEN + UNTERHALT)
 hud.econ.overview_section,WIRTSCHAFTLICHER ÜBERBLICK
 hud.econ.pause_hint,PAUSIERT
+hud.econ.planned_discretionary,GEPLANTE AUSGABEN
 hud.econ.policy_apply,RICHTLINIEN ANWENDEN
 hud.econ.policy_error_rejected,Die Aktualisierung der Richtlinie wurde bei der Validierung abgelehnt.
 hud.econ.policy_error_target_band,Ungültiger Zielbereich: Der untere Wert muss kleiner oder gleich dem oberen Wert sein.
@@ -4204,6 +4687,9 @@ hud.econ.policy_status_view_only,NUR ANZEIGEN: Die Bearbeitung der Richtlinien i
 hud.econ.policy_target_high,HOHES INFLATIONSZIEL
 hud.econ.policy_target_low,NIEDRIGES INFLATIONSZIEL
 hud.econ.production,PRODUKTION
+hud.econ.recent_trade_detail,{0} @ {1} · {2} · {3}
+hud.econ.recent_trades_empty,Keine aktuellen Geschäfte.
+hud.econ.recent_trades_section,LETZTE GESCHÄFTE
 hud.econ.res_col_cons,HINWEIS
 hud.econ.res_col_eff,Electronic Frontier Foundation
 hud.econ.res_col_income,Einnahmen
@@ -4214,11 +4700,28 @@ hud.econ.res_col_resource,RESSOURCE
 hud.econ.res_col_stock,LAGER
 hud.econ.res_col_value,WERT
 hud.econ.research_pct,FORSCHUNG
+hud.econ.reserve_activity_bought,Gekauft
+hud.econ.reserve_activity_close,SCHLIESSEN
+hud.econ.reserve_activity_empty,Keine Auto-Kauf/Verkauf-Aktivität im letzten Monat.
+hud.econ.reserve_activity_open,VORRATSAKTIVITÄT
+hud.econ.reserve_activity_sold,Verkauft
+hud.econ.reserve_activity_title,VORRATSAKTIVITÄT — LETZTER MONAT
+hud.econ.reserve_activity_title_current,VORRATSAKTIVITÄT — DIESER MONAT
+hud.econ.reserve_activity_unfilled,Nicht gekauft
+hud.econ.reserve_all_buy,ALLE KAUFEN
+hud.econ.reserve_all_sell,ALLE VERKAUFEN
 hud.econ.reserve_auto_buy,AUTO-KAUF
 hud.econ.reserve_auto_sell,AUTO-VERKAUF
+hud.econ.reserve_clear_all,ALLES LÖSCHEN
 hud.econ.reserve_contribution,+ DIESEN MONAT
 hud.econ.reserve_flow_section,RESERVESTROM
 hud.econ.reserve_last_spend,- LETZTE AUSGABE
+hud.econ.reserve_limit_affordability,Schatzkammer-Limit
+hud.econ.reserve_limit_buycap,Kauf-Limit pro Tick
+hud.econ.reserve_limit_other,Limit
+hud.econ.reserve_limit_spendcap,monatliches Ausgabenlimit
+hud.econ.reserve_limit_suspended,Auto-Kauf pausiert
+hud.econ.reserve_limit_txcap,Transaktionslimit
 hud.econ.reserve_manager_open,RESSOURCENVORRÄTE VERWALTEN
 hud.econ.reserve_pct,RESERVIEREN
 hud.econ.reserve_toast_desc,Das Ziel {0} wurde auf {1} Monate festgelegt.
@@ -4230,7 +4733,13 @@ hud.econ.reset_budget,ZURÜCKSETZEN
 hud.econ.resource_short.natural_gas,Erdgas
 hud.econ.resource_short.pharmaceuticals,Pharma
 hud.econ.resource_short.rare_earths,Seltene Erden
-hud.econ.resource_short.refined_petroleum,Ref. Erdöl
+hud.econ.resource_short.refined_petroleum,Raf. Mineralöl
+hud.econ.resource_sort_default,Standard
+hud.econ.resource_sort_label,SORTIEREN NACH
+hud.econ.resource_sort_production,Höchste Produktion
+hud.econ.resource_sort_shortage,Mangel zuerst
+hud.econ.resource_sort_surplus,Überschuss zuerst
+hud.econ.resource_sort_value,Höchster Wert
 hud.econ.resources_section,ROHSTOFFPRODUKTION
 hud.econ.revenue_sources,EINNAHMEQUELLEN
 hud.econ.sanctions_modifier,HANDELSEFFIZIENZ
@@ -4251,7 +4760,16 @@ hud.econ.toast_invalid_budget_body,"Die Ausgaberegler müssen insgesamt 100 % er
 hud.econ.toast_invalid_budget_title,Ungültige Budgetzuweisung
 hud.econ.trade_balance,HANDELSBILANZ
 hud.econ.trade_section,ÜBERBLICK ÜBER DEN HANDEL
+hud.econ.trade_type.auto_buy,Auto-Kauf
+hud.econ.trade_type.auto_sell,Auto-Verkauf
+hud.econ.trade_type.bilateral_buy,Abkommen-Kauf
+hud.econ.trade_type.bilateral_sell,Abkommen-Verkauf
+hud.econ.trade_type.spot_buy,Spotkauf
+hud.econ.trade_type.spot_sell,Spotverkauf
+hud.econ.trade_world_market,Weltmarkt
 hud.econ.treasury,STAATSKASSE
+hud.econ.treasury_depleted_desc,"Staatskasse bei 0 $ — {0} wurden als neue Schulden ausgegeben, um Zinsen und Unterhalt zu decken."
+hud.econ.treasury_depleted_title,Staatskasse erschöpft
 hud.econ.unemployment,ARBEITSLOSIGKEIT
 hud.envoy.activate_signature,Signatur aktivieren
 hud.envoy.delta.exposure,Exposition
@@ -4410,6 +4928,7 @@ hud.eventlog.filter_intelligence,Intel
 hud.eventlog.filter_military,MIL
 hud.eventlog.filter_politics,POL
 hud.eventlog.filter_tech,TECH
+hud.fleet.panel.hosted_air_wings,Stationierte Geschwader: {0} / {1}
 hud.global_search.button,SUCHEN [F]
 hud.global_search.hint,"Geben Sie mindestens zwei Buchstaben ein, um nach Ländern oder Provinzen zu suchen. Drücken Sie die ESC-Taste, um das Fenster zu schließen."
 hud.global_search.placeholder,Länder oder Bundesländer suchen...
@@ -4481,9 +5000,13 @@ hud.inbox.tooltip.desc.un_membership_vote,Über einen Antrag auf Aufnahme in die
 hud.inbox.tooltip.label.accept,Falls angenommen
 hud.inbox.tooltip.label.context,Kontext
 hud.inbox.tooltip.label.expires,Gültig bis
+hud.inbox.tooltip.label.note,Hinweis
 hud.inbox.tooltip.label.reject,Im Falle einer Ablehnung
 hud.inbox.tooltip.label.requester,Anfragender
 hud.inbox.tooltip.label.target,Ziel
+hud.inbox.tooltip.label.trade_scope,Umfasst
+hud.inbox.tooltip.label.trade_they_buy,Gegenseite kauft
+hud.inbox.tooltip.label.trade_you_buy,Sie kaufen
 hud.inbox.tooltip.label.treaty_type,Vertragsart
 hud.inbox.tooltip.label.war_score,Kriegsbilanz
 hud.inbox.tooltip.reject.alliance_crisis,"Sie enthalten sich. Keine Strafe — Solidarität ist freiwillig, keine Vertragsverpflichtung."
@@ -4499,6 +5022,8 @@ hud.inbox.tooltip.reject.treaty_proposal,Die Beziehungen zu {0} lassen leicht na
 hud.inbox.tooltip.reject.un_membership_consideration,"Sie lehnen die Prüfung ab, und die Nominierung scheitert."
 hud.inbox.tooltip.reject.un_membership_vote,Sie stimmen gegen die UN-Mitgliedschaft von {0}.
 hud.inbox.tooltip.title,{0} von {1}
+hud.inbox.tooltip.trade_reserve_note,Käufe stoppen sobald dein strategisches Reserveziel erreicht ist; sie überschreiten es nie.
+hud.inbox.tooltip.trade_scope_general,Allgemeiner Überschussaustausch
 hud.inbox.type_alliance_crisis,Bündniskrisen-Abstimmung
 hud.inbox.type_alliance_proposal,Vorschlag für ein Bündnis
 hud.inbox.type_call_to_arms,Aufruf zu den Waffen
@@ -4586,6 +5111,7 @@ hud.intel.subtab_intel,NACHRICHTENDIENST
 hud.intel.subtab_specialists,SPEZIALISTEN
 hud.intel.target_country,Zielland
 hud.intel.type_counterintel,Spionageabwehr
+hud.intel.type_fund_opposition,Opposition finanzieren
 hud.intel.type_gather,Informationen sammeln
 hud.intel.type_influence,Auf die Regierung Einfluss nehmen
 hud.intel.type_sabotage_econ,Sabotagewirtschaft
@@ -4641,7 +5167,7 @@ hud.ledger.col.submarines,UNTERTITEL
 hud.ledger.col.tanks,TANKS
 hud.ledger.col.tech_count,TECHNIK
 hud.ledger.col.treasury,STAATSKASSE
-hud.ledger.col.unemployment,UNEMP
+hud.ledger.col.unemployment,ARBEITSL.
 hud.ledger.col.urbanization,STÄDTISCH
 hud.ledger.col.war_exhaustion,KRIEGSMÜDIGK.
 hud.ledger.col.wars,KRIEGE
@@ -4976,6 +5502,7 @@ hud.log.envoy_what_deployed,Eingesetzt
 hud.log.envoy_what_operation_failed,Vorgang fehlgeschlagen
 hud.log.envoy_what_operation_succeeded,Die Operation war erfolgreich
 hud.log.envoy_what_recalled,Zurückgerufen
+hud.log.envoy_what_targeted,Zielte auf Ihre Staatskasse
 hud.log.envoy_what_threat,Ausländischer Agent erkannt
 hud.log.envoy_who,{0}
 hud.log.event_choice.auto.impact,"Sehen Sie sich die obige Zusammenfassung der Auswirkungen an, um zu verstehen, was sich geändert hat, und überprüfen Sie die zugehörigen Überlagerungen für weitere Schritte."
@@ -5122,6 +5649,7 @@ hud.mapmode.terrain.title,Grundstück
 hud.mil.active_personnel,MANNSTÄRKE
 hud.mil.air_busy_combat,Luftgeschwader ist im Kampf und kann keine Befehle annehmen.
 hud.mil.air_busy_rebasing,Luftgeschwader verlegt derzeit den Stützpunkt.
+hud.mil.air_carrier_full,Der Träger hat keine freien Flugzeugplätze.
 hud.mil.air_mission_already_assigned,Luftgeschwader hat diese Mission und dieses Ziel bereits.
 hud.mil.air_mission_unavailable,Ausgewähltes Luftgeschwader kann diese Mission derzeit nicht ausführen.
 hud.mil.air_needs_airfield,Erfordert einen Flugplatz in dieser Provinz.
@@ -5148,12 +5676,23 @@ hud.mil.attack,ANGRIFF
 hud.mil.attack_map,⚔ ANGRIFF
 hud.mil.attack_target,ANGRIFF...
 hud.mil.btn_cancel_move_tooltip,Den aktuellen Bewegungsauftrag stornieren
+hud.mil.btn_context_menu_label,⋯
+hud.mil.btn_context_menu_tooltip,More Actions
 hud.mil.btn_deselect_tooltip,Auswahl löschen
+hud.mil.btn_disband_hint,"Permanently disband this unit, refunding manpower"
+hud.mil.btn_disband_tooltip,Disband Unit
+hud.mil.btn_launch_missile,Rakete abfeuern
+hud.mil.btn_launch_missile_disabled_defcon,Atomarer Start erfordert DEFCON 3 oder höher
+hud.mil.btn_launch_missile_tooltip,Eine geladene Rakete von diesem U-Boot auf ein Ziel auf der Karte abfeuern
 hud.mil.btn_load_slbm_tooltip,SLBMs von diesem Hafen auf U-Boote verladen
+hud.mil.btn_merge_airwing_hint,Select 2+ air wings at the same base or carrier to merge
 hud.mil.btn_merge_army_only,Die Funktion „Zusammenführen“ steht nur für Armeen zur Verfügung
+hud.mil.btn_merge_fleet_hint,Select 2+ fleets in the same sea zone to merge
 hud.mil.btn_merge_hint,Wähle mindestens zwei stationäre Armeen aus; jede Provinz wird separat zusammengeführt
 hud.mil.btn_merge_tooltip,Alle ausgewählten Armeen zu einer zusammenführen
+hud.mil.btn_split_airwing_hint,Select one idle air wing with at least 2 unit types to split
 hud.mil.btn_split_army_only,„Split“ ist nur für Armeen verfügbar
+hud.mil.btn_split_fleet_hint,Select one stationary fleet with at least 2 unit types to split
 hud.mil.btn_split_hint,"Wähle eine stationäre Armee mit mindestens 2 Einheiten aus, die aufgeteilt werden soll"
 hud.mil.btn_split_tooltip,Einheiten aus der Hauptarmee abspalten
 hud.mil.budget_last_month,"Das letzte, {0}."
@@ -5161,6 +5700,8 @@ hud.mil.build_air_wing,Luftflügel anheben
 hud.mil.build_fleet,Flotte der Kommission
 hud.mil.build_time,BAUZEIT
 hud.mil.cancel_mode,ABBRECHEN (ESC)
+hud.mil.chase_started,"Feindliche Einheit wird verfolgt. Ihre Streitkräfte folgen ihr, bis sie zerstört ist, der Krieg endet oder Sie einen neuen Befehl erteilen."
+hud.mil.chase_started_title,Verfolgung
 hud.mil.combat_attacker,Angriffe
 hud.mil.combat_attacker_advantage,Vorteil für den Angreifer
 hud.mil.combat_defender,Verteidigen
@@ -5206,20 +5747,33 @@ hud.mil.launch_cancel,ABTREIBUNG
 hud.mil.launch_confirm,START BESTÄTIGEN
 hud.mil.launch_controls,Startsteuerung
 hud.mil.launch_nuclear,ATOMANGREIF STARTEN
+hud.mil.launch_picker_item,{0} ×{1}
 hud.mil.manpower_cost,MANNSTÄRKE
 hud.mil.merge.error.config_missing,Konfiguration nicht verfügbar
 hud.mil.merge.error.different_categories,Armeen mit unterschiedlichen Einheitenkategorien können nicht zusammengelegt werden
 hud.mil.merge.error.different_owners,Armeen verschiedener Besitzer können nicht zusammengelegt werden
+hud.mil.merge.error.different_owners.airwing,Luftgeschwader verschiedener Besitzer können nicht zusammengelegt werden
+hud.mil.merge.error.different_owners.fleet,Flotten verschiedener Besitzer können nicht zusammengelegt werden
 hud.mil.merge.error.get_category_failed,Die Einheitskategorie konnte nicht ermittelt werden
 hud.mil.merge.error.in_combat,Armeen können im Kampf nicht zusammengelegt werden
+hud.mil.merge.error.in_combat.airwing,Luftgeschwader können im Kampf nicht zusammengelegt werden
+hud.mil.merge.error.in_combat.fleet,Flotten können im Kampf nicht zusammengelegt werden
 hud.mil.merge.error.invalid_structure,Ungültige Armeestruktur
 hud.mil.merge.error.moving,Armeen können während der Bewegung nicht zusammengelegt werden
+hud.mil.merge.error.moving.fleet,Flotten können während der Bewegung nicht zusammengelegt werden
 hud.mil.merge.error.need_min_armies,Zum Zusammenlegen sind mindestens 2 Armeen erforderlich
+hud.mil.merge.error.need_min_armies.airwing,Mindestens 2 Luftgeschwader zum Zusammenlegen erforderlich
+hud.mil.merge.error.need_min_armies.fleet,Mindestens 2 Flotten zum Zusammenlegen erforderlich
 hud.mil.merge.error.no_armies,Es wurden keine Armeen ausgewählt
 hud.mil.merge.error.no_merges,"Es gibt keine Armeen, die zusammengelegt werden könnten"
+hud.mil.merge.error.no_merges.airwing,Es konnten keine Luftgeschwader zusammengelegt werden
+hud.mil.merge.error.no_merges.fleet,Es konnten keine Flotten zusammengelegt werden
 hud.mil.merge.error.normalize_failed,Die Normalisierung der Armeen ist fehlgeschlagen
+hud.mil.merge.error.rebasing.airwing,Luftgeschwader können beim Umstationieren nicht zusammengelegt werden
 hud.mil.merge.error.target_missing,Zielarmee fehlt
 hud.mil.merge.success,Vereinigte Armeen
+hud.mil.merge.success.airwing,Luftgeschwader zusammengelegt
+hud.mil.merge.success.fleet,Flotten zusammengelegt
 hud.mil.merge.success_provinces_suffix,({0} Provinzen)
 hud.mil.merge.toast_complete_title,ZUSAMMENFÜHRUNG ABGESCHLOSSEN
 hud.mil.merge.toast_failed_title,ZUSAMMENFÜHRUNG FEHLGESCHLAGEN
@@ -5229,6 +5783,8 @@ hud.mil.merge_tooltip,Schließe dich in dieser Provinz mit einer anderen Armee z
 hud.mil.merge_unavailable,Keine andere verbündete Armee in dieser Provinz
 hud.mil.missile_defense,RAKETENABWEHR
 hud.mil.missile_inventory,Raketenbestand
+hud.mil.missile_tooltip.loaded,Geladen
+hud.mil.missile_tooltip.range,Reichweite
 hud.mil.mode_attack,"⚔ Klicke auf eine Provinz mit feindlichen Truppen, um anzugreifen..."
 hud.mil.mode_move,"→ Klicken Sie auf eine Provinz, um das Ziel der Armee festzulegen..."
 hud.mil.morale_percent,MORAL {0}%
@@ -5252,6 +5808,7 @@ hud.mil.ongoing_battles_section,LAUFENDE KÄMPFE
 hud.mil.ongoing_siege_title,Belagerung - {0}
 hud.mil.open_missile_command,Offenes Raketenkommando
 hud.mil.open_nuclear_controls,OFFENE KERNKONTROLLEN
+hud.mil.open_satellite_command,SATELLITENBEFEHL ÖFFNEN
 hud.mil.pending_strikes,ANSTEHENDE STREIKS
 hud.mil.pick_air_unit,Wählen Sie den Einheitentyp für die Luftflotte aus:
 hud.mil.pick_fleet_unit,Wählen Sie den Fahrzeugtyp für die Flotte aus:
@@ -5287,6 +5844,21 @@ hud.mil.siege_section,AKTIVE BELAGERUNG
 hud.mil.slbm_capability,SLBM-FÄHIGKEIT
 hud.mil.slbm_count_label,SLBMs: {0}
 hud.mil.source_province,Quelle: Provinz
+hud.mil.split.btn_move_all,››
+hud.mil.split.btn_move_all_tooltip,Move all to new unit
+hud.mil.split.btn_move_half,›½
+hud.mil.split.btn_move_half_tooltip,Move half to new unit
+hud.mil.split.btn_move_one,›
+hud.mil.split.btn_move_one_tooltip,Move 1 to new unit
+hud.mil.split.btn_take_all,‹‹
+hud.mil.split.btn_take_all_tooltip,Take all back
+hud.mil.split.btn_take_half,‹½
+hud.mil.split.btn_take_half_tooltip,Take half back
+hud.mil.split.btn_take_one,‹
+hud.mil.split.btn_take_one_tooltip,Take 1 back
+hud.mil.split.col_new,New
+hud.mil.split.col_source,Current
+hud.mil.split.header,Split Unit
 hud.mil.split_army,✂ GETEILT
 hud.mil.split_tooltip,Einheiten in eine neue Armee aufteilen
 hud.mil.split_unavailable,Es werden mindestens 2 Einheiten zur Aufteilung benötigt
@@ -5311,6 +5883,8 @@ hud.mil.transport_best_sea,"Beste Option: SEA-Transport über P#{0} → P#{1} (F
 hud.mil.transport_cancelled,Der Transport wurde abgesagt.
 hud.mil.transport_enemy_naval_control,Der Feind kontrolliert die erforderliche Seeroute.
 hud.mil.transport_failed_capacity,"Der Transport konnte nicht gestartet werden, da sich die freie Schiffskapazität geändert hat. Bitte versuchen Sie es erneut."
+hud.mil.transport_interrupted_body,Der Seetransport wurde während der Fahrt abgebrochen. Die Armee kehrte zur Einschiffungsprovinz zurück.
+hud.mil.transport_interrupted_title,Transport unterbrochen
 hud.mil.transport_merge_deferred.desc,Der letzte Transport ist an {0} eingetroffen. Ihre Reserveeinheit bleibt dort weiterhin getrennt.
 hud.mil.transport_merge_deferred.impact,"Zwei Armeen verbleiben in der Provinz, bis sie manuell zusammengelegt werden"
 hud.mil.transport_merge_deferred.title,TRANSPORTSPLIT BEIBEHALTEN
@@ -5364,6 +5938,7 @@ hud.mil.unknown_unit,Unbekannte Einheit
 hud.mil.war_exhaustion,Kriegsmüdigkeit
 hud.mil.warhead_count,Sprengköpfe
 hud.mil.warhead_type,Sprengkopftyp
+hud.mil.warheads_summary,{0} nukl. / {1} konv.
 hud.missile.btn.cancel,Abbrechen
 hud.missile.btn.focus,Schwerpunkt
 hud.missile.btn.load_slbms,SLBMs laden
@@ -5495,6 +6070,7 @@ hud.missile.strike.tab_nuclear,Kernenergie
 hud.missile.targeting.hint_cancel,Rechtsklick oder ESC zum Abbrechen
 hud.missile.targeting.hint_confirm,"Klicke mit der linken Maustaste auf die Karte, um das Ziel zu bestätigen"
 hud.missile.targeting.title,Zielangriff
+hud.missile.type.unknown,Unbekannte Rakete
 hud.missile.unknown,--
 hud.missile.warhead_tag_conventional,[C]
 hud.missile.warhead_tag_nuclear,[N]
@@ -5512,6 +6088,8 @@ hud.nav.military,MILITÄR
 hud.nav.military_desc,Streitkräfte und deren Einsatz verwalten
 hud.nav.overview,ÜBERBLICK
 hud.nav.overview_desc,Länderstatistiken auf einen Blick
+hud.nav.politics,POLITICS
+hud.nav.politics_desc,"Voter blocs, parties, internal control, and foreign operations."
 hud.nav.provinces,PROVINZEN
 hud.nav.provinces_desc,Liste der eigenen Provinzen
 hud.nav.quick_build_tooltip,Schnellbau
@@ -5532,6 +6110,7 @@ hud.outliner.army_entry,Armee {0} (Prov {1})
 hud.outliner.category_air_wings,LUFTFLÜGEL
 hud.outliner.category_fleet,FLOTTE
 hud.outliner.category_land,LAND
+hud.outliner.category_satellites,SATELLITEN
 hud.outliner.category_units,{0} {1}
 hud.outliner.coalition_sanction_applied_impact,Die betroffenen Handels- und diplomatischen Kanäle stehen unter unmittelbarem Druck.
 hud.outliner.coalition_sanction_applied_what,Es wurden Koalitionssanktionen gegen {0} verhängt.
@@ -5566,6 +6145,7 @@ hud.outliner.no_espionage,Keine laufenden Vorgänge
 hud.outliner.no_events,Keine anstehenden Termine
 hud.outliner.no_events_log,Es wurden keine Ereignisse aufgezeichnet
 hud.outliner.no_military,Keine militärischen Einheiten
+hud.outliner.no_satellites,Keine Satelliten
 hud.outliner.no_specialists,Keine Spezialisten verfügbar
 hud.outliner.no_wars,Keine laufenden Kriege
 hud.outliner.objective_click_hint,"Klicken Sie hier, um das entsprechende Fenster zu öffnen."
@@ -5573,6 +6153,8 @@ hud.outliner.objectives,ZIELE
 hud.outliner.objectives_complete,Alle Lernziele des Tutorials sind erreicht
 hud.outliner.objectives_disabled,Lernziele deaktiviert
 hud.outliner.objectives_loading,Ziele werden vorbereitet...
+hud.outliner.satellite_entry,Satellit #{0}
+hud.outliner.satellites,SATELLITEN
 hud.outliner.specialist_burned_out,VERBRANNT
 hud.outliner.specialist_deployed,EINGESETZT
 hud.outliner.specialist_idle,Ich weiß es nicht
@@ -5665,6 +6247,7 @@ hud.peace.failed.reason_self_target,Ein Land kann sich selbst keinen Frieden bie
 hud.peace.failed_message,Der Friedensschluss mit {0} konnte nicht vollzogen werden. {1}
 hud.peace.failed_title,Friedensangebot gescheitert
 hud.peace.full_annexation.summary,Vollständige Eingliederung: {0}
+hud.peace.full_occupation_bonus,Vollständige Besetzung: maximales Druckmittel
 hud.peace.invalid_cb,Erfordert einen entsprechenden Casus Belli
 hud.peace.no_occupied_provinces,Es sind keine besetzten Provinzen verfügbar
 hud.peace.rejected_message,{0} lehnte dieses Friedensangebot ab.
@@ -5776,6 +6359,9 @@ hud.province.confirm_build,Möchten Sie diese Einrichtung wirklich {0}?
 hud.province.confirm_demolish,{0} abreißen? Es erfolgt eine teilweise Rückerstattung.
 hud.province.construction,WARTESCHLANGE
 hud.province.construction_upgrade,{0} (Upgrade)
+hud.province.country_queue_full,LANDESBAUZÄHLER ({0}/{1})
+hud.province.demo_homogeneity,ETHNISCHE HOMOGENITÄT
+hud.province.demo_religion_breakdown,RELIGION
 hud.province.demographics,Demografie
 hud.province.demolish,ABREISSEN
 hud.province.dev_level,ENTWICKLUNGSSTUFE
@@ -5828,10 +6414,13 @@ hud.province.pick_building,Wählen Sie das zu errichtende Gebäude aus
 hud.province.population,BEVÖLKERUNG
 hud.province.prod_modifier,PROD BEARBEITEN
 hud.province.produced_resources,PRODUZIERTE RESSOURCEN
+hud.province.projected_maintenance,+{0}/Mo. Unterhalt
+hud.province.projected_maintenance_over_budget,+{0}/Mo. Unterhalt (hoch)
 hud.province.queue_full,WARTESCHLANGE VOLL
 hud.province.radiation,STRAHLUNG
 hud.province.reason_cannot_construct,Das Gebäude kann nicht errichtet werden
 hud.province.recommend_badge,Freizeit
+hud.province.religion_none,Keine
 hud.province.req_infra,INFRA {0} (SIE {1})
 hud.province.req_population,POP {0} (DU {1})
 hud.province.req_tech,TECH {0}
@@ -5859,6 +6448,9 @@ hud.province.unavailable_buildings,NICHT VERFÜGBARE GEBÄUDE
 hud.province.unrest,UNRUHEN
 hud.province.upgrade,VERBESSERN
 hud.province.upgrading,WIRD AKTUALISIERT...
+hud.province.upkeep_warning,Der prognostizierte zusätzliche Unterhalt von {0}/Monat übersteigt Ihren monatlichen Überschuss von {1}/Monat.
+hud.province.upkeep_warning_short,! +{0}/Monat Landesunterhalt
+hud.province.upkeep_warning_title,UNTERHALTSWARNUNG
 hud.province.urbanization,URBANISIERUNG
 hud.province.vis_reason.adjacent_explored,In der Nähe des eigenen Territoriums (erkundet)
 hud.province.vis_reason.adjacent_visible,Angrenzend an das eigene Gebiet
@@ -5921,6 +6513,7 @@ hud.quickbuild.global_queue_empty,Es befinden sich keine Gebäude in der Bauwart
 hud.quickbuild.global_queue_title,WARTESCHLANGE
 hud.quickbuild.help_eligibility_tooltip,"„Schnellansicht“ zeigt lediglich eine Übersicht mit Empfehlungen und kurze Hinweise zur Verfügbarkeit an. Um die Anforderungen für einzelne Gebäude einzusehen, öffnen Sie das entsprechende Fenster mit den Details zur Provinz."
 hud.quickbuild.layout_label,Layout:
+hud.quickbuild.macro_headwind_cancel_hint,Wird voraussichtlich durch makrooekonomische Gegenwinde aufgehoben ({0})
 hud.quickbuild.mode_compact,Kompakt
 hud.quickbuild.mode_detailed,Ausführlich
 hud.quickbuild.mode_label,Ansicht:
@@ -6065,17 +6658,23 @@ hud.recruit.tabs.air,WASSER
 hud.recruit.tabs.fleet,FLOTTE
 hud.recruit.tabs.land,LAND
 hud.recruit.unit_fallback,Einheit #{0}
+hud.recruit.unit_unavailable,Diese Einheit ist in diesem Szenario nicht verfügbar.
 hud.recruit.warn.airfield,Für den Bau einer Luftflotte ist ein Flugplatz erforderlich.
 hud.recruit.warn.land_facility,"Für manche Einheiten sind Einrichtungen erforderlich, die in dieser Provinz nicht vorhanden sind. Nutzen Sie die Schnellsuche, um eine geeignete Provinz zu finden."
 hud.recruit.warn.naval_base,Für den Flottenbau ist ein Marinestützpunkt erforderlich.
 hud.res_world.col_cons,Verbrauch
 hud.res_world.col_country,Land
+hud.res_world.col_deposit,Vorkommen
 hud.res_world.col_net,Nicht
+hud.res_world.col_output,Ausstoß
 hud.res_world.col_price,Preis
 hud.res_world.col_prod,Produktion
+hud.res_world.col_province,Provinz
 hud.res_world.col_stock,Vorrat
 hud.res_world.col_value,Wert
+hud.res_world.global_quote_label,Globaler Marktpreis
 hud.res_world.no_data,Es liegen keine Produktionsdaten vor.
+hud.res_world.no_provinces,Keine Provinz produziert oder besitzt {0}.
 hud.res_world.policy_auto_buy,Defizit automatisch kaufen: {0}
 hud.res_world.policy_auto_buy_off,AUS
 hud.res_world.policy_auto_buy_on,EIN
@@ -6095,22 +6694,65 @@ hud.res_world.policy_status_no_target,Automatik inaktiv: Zielreserve ist 0 Monat
 hud.res_world.policy_status_treasury_floor,Auto-Kauf pausiert: Schatz liegt unter der Sicherheitsgrenze ({0}).
 hud.res_world.policy_target_months,Zielreserve
 hud.res_world.policy_view_only,NUR ANZEIGE: Die Lagerpolitik kann nur für dein eigenes Land bearbeitet werden.
+hud.res_world.tab_by_province,Nach Provinz
+hud.res_world.tab_world,Welt
 hud.res_world.title,{0} — Weltweite Produktion
 hud.res_world.totals,Weltweite Produktion: {0}  |  Konsum: {1}  |  {2} Produzenten
+hud.res_world.trade_button,Am Spotmarkt handeln
+hud.reserve.auto_buy_blocked_msg,Auto-Kauf für {0}-Reserven deaktiviert: Spot-Preis übersteigt verfügbaren Schatz
+hud.reserve.auto_buy_blocked_title,AUTO-KAUF DEAKTIVIERT
+hud.reserve.diag_price_unaffordable,PREIS ÜBERSTEIGT SCHATZ
+hud.satellite.btn.cancel_launch,Abbrechen
+hud.satellite.btn.launch,SATELLIT STARTEN
+hud.satellite.btn.reposition,NEU POSITIONIEREN
+hud.satellite.capacity,Satelliten: {0}/{1}
+hud.satellite.hops,{0} Hops
+hud.satellite.panel.intro,"Starte Aufklärungssatelliten, um den Nebel des Krieges über einer Region aufzudecken. Wähle hier oder auf dem Globus einen Satelliten aus und klicke dann mit der rechten Maustaste auf eine Provinz, um ihn zu bewegen. Jeder Satellit hat einmalige Startkosten sowie eine monatliche Wartung."
+hud.satellite.panel.no_satellites,Keine aktiven Satelliten.
+hud.satellite.panel.orbit_time,Orbit ETA:
+hud.satellite.panel.owner,Eigentümer:
+hud.satellite.panel.position,Position:
+hud.satellite.panel.production_empty,Keine Satelliten in Produktion.
+hud.satellite.panel.production_in_progress,{0} Monate verbleibend
+hud.satellite.panel.title,AUFKLÄRUNGSSATELLITEN
+hud.satellite.panel.upkeep,Monatliche Wartung:
+hud.satellite.panel.vision_range,Sichtweite:
+hud.satellite.reposition.hint,Klicke auf den Globus um den Satelliten neu zu positionieren.
+hud.satellite.status.reposition_pending,Repositionierungsauftrag gesendet.
+hud.satellite.toast.failed.no_building,Eine Satellitenstartanlage ist erforderlich.
+hud.satellite.toast.failed.no_funds,Unzureichende Schatzfonds für den Satellitenstart.
+hud.satellite.toast.failed.no_tech,Forsche zuerst die Technologie satellite_constellation.
+hud.satellite.toast.failed.title,SATELLITENSTART NICHT MÖGLICH
+hud.satellite.toast.launched.desc,Satellitenproduktion eingeplant. Geschätzte Zeit: {0} Monate.
+hud.satellite.toast.launched.title,SATELLIT GESTARTET
+hud.satellite.toast.orbit.desc,Dein Satellit hat die Umlaufbahn erreicht und liefert Aufklärung.
+hud.satellite.toast.orbit.title,SATELLIT IN UMLAUFBAHN
+hud.satellite.tooltip.owner,{0}
+hud.satellite.tooltip.range,Reichweite: {0} Hops
+hud.satellite.tooltip.title,AUFKLÄRUNGSSATELLIT
+hud.satellite.tooltip.upkeep,Wartung: {0}/Mo
 hud.spot_market.amount,Betrag
 hud.spot_market.buy,Kaufen
 hud.spot_market.buy_deficits,Defizit kaufen
 hud.spot_market.confirm,Bestellung bestätigen
 hud.spot_market.deficit_set.desc,"Die Menge wurde auf {0} Einheiten von {1} gesetzt, um den Sicherheitszielbestand zu erreichen."
 hud.spot_market.deficit_set.title,DEFIZITMENGE GESETZT
+hud.spot_market.limit,Limit pro Handel
+hud.spot_market.limit_tooltip,Maximalwert eines einzelnen Spotmarkt-Handels. Wächst mit Ihrer Handelsinfrastruktur - bauen und verbessern Sie Handelshäfen.
 hud.spot_market.no_deficit.desc,Ihr Lagerbestand erfüllt bereits den Sicherheitszielwert für diese Ressource.
 hud.spot_market.no_deficit.title,KEIN DEFIZIT
 hud.spot_market.open,Spotmarkt
+hud.spot_market.pressure,Marktdruck
+hud.spot_market.pressure.balanced,Ausgeglichen
+hud.spot_market.pressure.overbought,{0} (überkauft)
+hud.spot_market.pressure.oversold,{0} (überverkauft)
+hud.spot_market.pressure_tooltip,"Livemarkt: starkes Verkaufen drückt den Preis, starkes Kaufen treibt ihn hoch - jeder Ihrer Handel bewegt ihn weiter gegen Sie. Der Druck lässt in den Folgemonaten nach."
 hud.spot_market.resource,Ressource
 hud.spot_market.section.details,BESTELLDETAILS
 hud.spot_market.section.preview,VORSCHAU
 hud.spot_market.section.side,HANDEL
 hud.spot_market.sell,Schau mal
+hud.spot_market.status.clamped,Der Auftrag überschreitet Ihr Handelslimit - nur {0} Einheiten ({1}) werden gehandelt.
 hud.spot_market.status.no_funds,Für diesen Auftrag stehen nicht genügend Mittel zur Verfügung.
 hud.spot_market.status.no_price,Die Marktpreise sind noch nicht verfügbar. Sie werden erst nach Ablauf des ersten vollen Monats angezeigt.
 hud.spot_market.status.no_stock,"Der Lagerbestand reicht nicht aus, um diesen Verkaufsauftrag auszuführen."
@@ -6261,7 +6903,11 @@ hud.toast.army_merged_desc,{0} hat sich mit {1} zusammengeschlossen.
 hud.toast.army_move_blocked,Verschieben gesperrt
 hud.toast.army_split,ARMEESPLITTUNG
 hud.toast.army_split_desc,{0} hat seine Armee in {1} aufgeteilt.
+hud.toast.battle_lost,SCHLACHT VERLOREN
+hud.toast.battle_lost_at,Niederlage bei {0} gegen {1}.
+hud.toast.battle_no_losses_desc,Keine Verbände verloren.
 hud.toast.battle_won,Sieg errungen
+hud.toast.battle_won_at,Sieg bei {0} gegen {1}.
 hud.toast.battle_won_desc,Die feindlichen Truppen wurden zurückgeschlagen. {0} Formation(en) gingen verloren.
 hud.toast.build_action_desc,{0} wurde in {1} in die Warteschlange gestellt.
 hud.toast.building_complete,BAU ABGESCHLOSSEN
@@ -6301,8 +6947,12 @@ hud.toast.envoy_recruited,Fachkraft eingestellt
 hud.toast.envoy_recruited_desc,Ein neuer Spezialist wurde zu deinem Team hinzugefügt. Kosten: {0}.
 hud.toast.envoy_signature_activated,Signatur aktiviert
 hud.toast.envoy_signature_activated_desc,{0} hat die Deep-State-Signatur in {1} aktiviert.
+hud.toast.envoy_targeted,Ausländische Operation gegen Sie
+hud.toast.envoy_targeted_desc,{0} führte eine verdeckte Operation gegen Sie durch. Verlust der Staatskasse: {1}.
 hud.toast.envoy_threat_detected,Ausländische Bedrohung erkannt
 hud.toast.envoy_threat_detected_desc,"Es wurde festgestellt, dass ein ausländischer Agent von {0} in Ihrem Hoheitsgebiet tätig ist."
+hud.toast.exiled_armies.body,Einige Armeen sind nach dem Frieden in fremdem Gebiet exiliert. Sie ziehen sich nicht automatisch zurück. Bewege sie manuell.
+hud.toast.exiled_armies.title,Exilierte Armeen
 hud.toast.fleet_lost,FLOTTE VERLOREN
 hud.toast.fleet_lost_desc,{0} Flottenverbände gingen im Seekampf verloren.
 hud.toast.fleet_move_blocked,Flottenbewegung blockiert
@@ -6335,10 +6985,12 @@ hud.toast.missile_lost_source_unresolved_desc,"Unsere Rakete wurde abgefeuert, d
 hud.toast.missile_lost_target_unresolved_desc,"Unsere Rakete wurde abgefeuert, doch das Ziel konnte für die Verfolgung nicht erfasst werden."
 hud.toast.missile_lost_title,RAKETE VERLOREN
 hud.toast.missile_production_queued_title,Raketenproduktion in der Warteschlange
+hud.toast.missile_strike_title,RAKETENANGRIFF!
 hud.toast.multilateral_sanction.body,{0} hat einen {1} gegen Sie organisiert. {2}
 hud.toast.multilateral_sanction.title,Koalition verhängt Sanktionen
 hud.toast.nuclear_launch,NUKLEARER START
 hud.toast.nuclear_launch_desc,Nuklearschlag eingeleitet.
+hud.toast.nuclear_strike_title,NUKLEARSCHLAG!
 hud.toast.peace_offer_desc,{0} bietet Friedensbedingungen an.
 hud.toast.proposal_eval_desc,{0} hat {1} Ihren {2} Vorschlag erhalten.
 hud.toast.province_lost,VERLORENE PROVINZ
@@ -6427,6 +7079,13 @@ hud.topbar.rank_tier.minor,NEBENMACHT
 hud.topbar.rank_tier.regional,REGIONALMACHT
 hud.topbar.title,GLOBAL PROTOKOLL
 hud.topbar.treasury,STAATSKASSE:
+hud.trade_log.no_active_deals,Keine aktiven Handelsabkommen.
+hud.trade_log.no_history,Noch keine Geschäfte.
+hud.trade_log.related_transactions,Zugehörige Geschäfte
+hud.trade_log.tab_active_deals,Aktive Abkommen
+hud.trade_log.tab_history,Handelsverlauf
+hud.trade_log.title,Handelsprotokoll
+hud.trade_log.view_all,Handelsprotokoll anzeigen
 hud.trade_proposal.clear,Löschen
 hud.trade_proposal.export_boost,Exportschub
 hud.trade_proposal.priority_count,{0} von {1} ausgewählt
@@ -6458,7 +7117,7 @@ hud.un.command_center_target,Zielland
 hud.un.fail.already_un_member,Dieses Land ist bereits Mitglied der Vereinten Nationen.
 hud.un.fail.cooldown,"Der Vorschlag ist gesperrt. Warten Sie den Abstimmungszyklus und die Wartezeit ab, bevor Sie erneut einen Vorschlag einreichen."
 hud.un.fail.not_un,"Um diesen Vorschlag einzubringen, müssen Sie Mitglied der Vereinten Nationen sein."
-hud.un.fail.not_unsc,"Sie müssen Mitglied des UNSC sein, um diesen Vorschlag einzubringen."
+hud.un.fail.not_unsc,"Sie müssen Mitglied des UN-Sicherheitsrats sein, um diesen Vorschlag einzubringen."
 hud.un.fail.proposal_active,Ein Beitrittsantrag für dieses Land ist bereits gestellt.
 hud.un.fail.target_invalid,Wählen Sie ein gültiges Land als Ziel aus.
 hud.un.fail.unexpected,"Der Vorschlag konnte nicht übermittelt werden. Bitte überprüfen Sie, ob die Ziele und Mitgliedschaften gültig sind."
@@ -6539,6 +7198,7 @@ hud.year_summary.gdp_events,AUSWIRKUNGEN DER VERANSTALTUNG
 hud.year_summary.gdp_ledger_title,JAHRESABRECHNUNG DES BIP-DELTA
 hud.year_summary.gdp_net,NETTO-BIP-DELTA
 hud.year_summary.gdp_resource,Ressourcenabgleich
+hud.year_summary.gdp_territory,Gebietsänderung
 hud.year_summary.ledger_title,JAHRESABRECHNUNG
 hud.year_summary.title,JAHR {0} RÜCKBLICK
 hud.year_summary.treasury_change,ÄNDERUNG DER STAATSKASSE
@@ -6555,6 +7215,7 @@ menu.credits,IMPRESSUM
 menu.load_game,SPIEL LADEN
 menu.mods,MODS
 menu.mods.action.delete,LÖSCHEN
+menu.mods.action.open_workshop,ANZEIGEN
 menu.mods.action.unsubscribe,ABMELDEN
 menu.mods.active_scenario,Aktives Szenario: {0}
 menu.mods.active_scenario_none,Kein aktives Szenario
@@ -6568,10 +7229,14 @@ menu.mods.badge.scripted,GESCHRIFT
 menu.mods.badge.workshop,WERKSTATT
 menu.mods.badge.write_flags,FLAGGEN
 menu.mods.badge.write_treasury,STAATSKASSE
+menu.mods.browse_workshop,WORKSHOP DURCHSUCHEN
 menu.mods.close,SCHLIESSEN
 menu.mods.delete_confirm.body,'{0}' vom Datenträger löschen? Dies kann nicht rückgängig gemacht werden.
 menu.mods.delete_confirm.title,MOD LÖSCHEN
 menu.mods.delete_confirm.workshop_body,Abmelden und lokale Dateien für '{0}' entfernen?
+menu.mods.delete_failed,Löschen fehlgeschlagen: {0}
+menu.mods.deleted,Gelöscht: {0}
+menu.mods.download_progress,Wird heruntergeladen… {0}%
 menu.mods.empty,Es wurden keine lokalen Mods in den unterstützten Mods-Ordnern gefunden.
 menu.mods.reload_hint,Mod-Änderungen werden nach dem nächsten Neustart angewendet.
 menu.mods.scenario,Szenario
@@ -6581,6 +7246,8 @@ menu.mods.status.enabled,AKTIVIERT
 menu.mods.subtitle,Lokale Mods aktivieren und das Szenario für das nächste neue Spiel auswählen.
 menu.mods.title,MOD-ZUSAMMENSTELLUNG
 menu.mods.wasm_error_bar,{0} Mod(s) fAI haben zur Initialisierung des Skripts geführt. Das Spiel läuft normal weiter.
+menu.mods.workshop_no_manifest,"Installiert, aber keine mod.json gefunden"
+menu.mods.workshop_pending,Workshop-Objekt {0}
 menu.mods_broken_section,FEHLENDE MODS
 menu.multiplayer,MEHRSPIELER
 menu.new_game,NEUES SPIEL
@@ -6590,6 +7257,28 @@ menu.settings,EINSTELLUNGEN
 menu.subtitle,Ein Grand-Strategy-Spiel
 menu.title,GLOBAL PROTOKOLL
 menu.version,Version 0.1 – 2026
+menu.workshop.empty,Keine Workshop-Inhalte gefunden.
+menu.workshop.error,Workshop-Inhalte konnten nicht geladen werden.
+menu.workshop.feedback.subscribe_failed,Abonnieren fehlgeschlagen: {0}
+menu.workshop.feedback.subscribed,Abonniert: {0}
+menu.workshop.feedback.unsubscribe_failed,Abbestellen fehlgeschlagen: {0}
+menu.workshop.feedback.unsubscribed,Abbestellt: {0}
+menu.workshop.installed,Installiert ✓
+menu.workshop.loading,Workshop-Inhalte werden geladen…
+menu.workshop.next,WEITER ►
+menu.workshop.open_steam,IN STEAM ÖFFNEN
+menu.workshop.page,Seite {0}
+menu.workshop.prev,◄ ZURÜCK
+menu.workshop.results,{0} Inhalte
+menu.workshop.sort.popular,BELIEBT
+menu.workshop.sort.recent,NEUESTE
+menu.workshop.sort.subscribed,MEISTABONNIERT
+menu.workshop.subscribe,ABONNIEREN
+menu.workshop.subtitle,Community-Mods durchsuchen und abonnieren.
+menu.workshop.title,STEAM WORKSHOP
+menu.workshop.unavailable,Steam ist nicht verfügbar.
+menu.workshop.unsubscribe,ABBESTELLEN
+menu.workshop.votes,▲ {0}  ▼ {1}
 misc.balanced,AUSGEWOGEN
 misc.built,GEBAUT
 misc.collapsed_prefix,▶
@@ -6646,6 +7335,7 @@ mp.lobby.hosting,WIRD ERSTELLT...
 mp.lobby.join,MITMACHEN
 mp.lobby.refresh,AKTUALISIEREN
 mp.lobby.refreshing,SUCHT...
+mp.lobby.steam_unavailable,Steam läuft nicht oder dieser Build ist nicht mit Steam verbunden. Mehrspieler ist nicht verfügbar.
 mp.lobby.title,MEHRSPIELER-LOBBY
 mp.modal.connection_lost.body,"Die Verbindung zur Multiplayer-Sitzung wurde unterbrochen. Das Spiel wurde angehalten, während wir versuchen, die Verbindung wiederherzustellen."
 mp.modal.connection_lost.quit,ZUM MENÜ ZURÜCK
@@ -6654,9 +7344,12 @@ mp.modal.connection_lost.retry,NEU VERSUCHEN
 mp.modal.connection_lost.title,VERBINDUNG UNTERBROCHEN
 mp.peer.offline,Offline
 mp.peer.online,Online
+mp.resync.desync_detected,Spielstand weicht ab — erneute Synchronisation mit dem Host…
 mp.resync.failed_save_load,"fAI wurde neu synchronisiert. Bitte speichern und laden Sie die Sitzung, um die Synchronisation wiederherzustellen."
 mp.resync.initial_sync,Anfangszustand wird empfangen…
 mp.resync.initial_sync_host,Anfangszustand wird vorbereitet…
+mp.resync.next_retry_in,Nächster Versuch in {0} s
+mp.resync.receiving_progress,Weltdaten werden empfangen: {0}%
 mp.resync.retry,SYNCHRONISIERUNG WIEDERHOLEN
 mp.resync.subtitle.failed,"Synchronisierung fehlgeschlagen. Drücke „Wiederholen"", um es erneut zu versuchen."
 mp.resync.subtitle.sending,Anfangszustand wird gesendet…
@@ -6679,14 +7372,38 @@ mp.room.title,LOBBY
 mp.room.version_mismatch,Spielversionen stimmen nicht überein: {0}
 mp.roster.you,DU
 mp.stall.waiting,Warten auf {0}...
+mp.sync.stable.body,Alle Spieler sind synchron.
+mp.sync.stable.title,Synchronisiert
+mp.sync.waiting_stable,Synchronisation aller Spieler wird überprüft…
+mp.toast.backend_warning.body,Die Spieler verwenden unterschiedliche Laufzeitumgebungen ({0} vs. {1}). Desyncs sind möglich.
+mp.toast.backend_warning.title,Unterschiedliche Laufzeitumgebungen
 mp.toast.host_changed.body,{0} ist nun der Sitzungshost.
 mp.toast.host_changed.title,HOST GEÄNDERT
 mp.toast.player_disconnected.body,{0} ist nicht mehr erreichbar. AI hat die Macht im Land übernommen.
 mp.toast.player_disconnected.title,Spieler getrennt
 mp.toast.player_reconnected.body,{0} schlossen sich wieder an und übernahmen erneut die Kontrolle über ihr Land.
 mp.toast.player_reconnected.title,SPIELER WIEDER VERBUNDEN
+news.escalation.accepted_desc,{0} gab gegenüber {1} nach – Krieg abgewendet.
+news.escalation.accepted_title,Krieg abgewendet
+news.escalation.deescalated_desc,{0} und {1} haben deeskaliert; Kriegspläne aufgegeben.
+news.escalation.deescalated_title,Spannungen gelockert
+news.escalation.insult_desc,{0} hat {1} öffentlich verurteilt.
+news.escalation.insult_title,Öffentliche Verurteilung
+news.escalation.log.impact,Die diplomatischen Spannungen verschieben sich.
+news.escalation.log.who,{0} -> {1}
+news.escalation.log.why,Teil eines eskalierenden diplomatischen Konflikts.
+news.escalation.tradewar_desc,{0} hat den Handelskrieg gegen {1} verschärft.
+news.escalation.tradewar_title,Handelskrieg eskaliert
+news.escalation.ultimatum_desc,{0} stellte {1} ein Ultimatum: {2}.
+news.escalation.ultimatum_title,Ultimatum gestellt
+news.escalation.un_condemnation_desc,{0} beantragte eine Verurteilung von {1} im UN-Sicherheitsrat.
+news.escalation.un_condemnation_title,UN-Verurteilung
 none,Keine
 nuclearnonproliferation,Nichtverbreitung von Kernwaffen
+party.generic.authoritarian_theocratic,Authoritarian Bloc
+party.generic.liberal_capitalist,Liberal Capitalists
+party.generic.nationalist_conservative,Nationalist Conservatives
+party.generic.socialist_communist,Socialist Coalition
 pause.load,SPIEL LADEN
 pause.mechanic_tutorials_off,Anleitungen zur Mechanik: AUS
 pause.mechanic_tutorials_on,Anleitungen zur Mechanik: EIN
@@ -6698,6 +7415,108 @@ pause.resume,FORTSETZEN
 pause.save,SPIEL SPEICHERN
 pause.settings,EINSTELLUNGEN
 pause.title,SPIEL UNTERBROCHEN
+politics.age.middle,36-55 (Middle)
+politics.age.senior,56+ (Senior)
+politics.age.young,18-35 (Young)
+politics.age.youth,0-17 (Youth)
+politics.bloc.authoritarian_theocratic,Authoritarian-Theocratic
+politics.bloc.banned_tag,BANNED
+politics.bloc.liberal_capitalist,Liberal-Capitalist
+politics.bloc.nationalist_conservative,Nationalist-Conservative
+politics.bloc.socialist_communist,Socialist-Communist
+politics.bloc_short.authoritarian_theocratic,Authoritarian
+politics.bloc_short.liberal_capitalist,Liberal
+politics.bloc_short.nationalist_conservative,Nationalist
+politics.bloc_short.socialist_communist,Socialist
+politics.campaign.row,vs {0} — {1} mo
+politics.coalition.conservative,Konservativer Block
+politics.coalition.governing,Regierungskoalition
+politics.coalition.left,Linksblock
+politics.coalition.nation,Nationale Koalition
+politics.coalition.opposition,Oppositionsblock
+politics.coalition.peoples,Volkskoalition
+politics.coalition.progressive,Progressiver Block
+politics.coalition.prowest_opposition,Prowestlicher Oppositionsblock
+politics.coalition.unity,Einheitsregierung
+politics.cohort.middle,Middle (36-55)
+politics.cohort.senior,Senior (56+)
+politics.cohort.young,Young (18-35)
+politics.color.blue,Blaue
+politics.color.brown,Braune
+politics.color.crimson,Purpurne
+politics.color.cyan,Cyan
+politics.color.green,Grüne
+politics.color.grey,Graue
+politics.color.navy,Marineblaue
+politics.color.orange,Orange
+politics.color.purple,Lila
+politics.color.red,Rote
+politics.color.teal,Türkise
+politics.color.yellow,Gelbe
+politics.current_gov.coalition_fmt,{0} ({1})
+politics.decision.ban,Ban {0}
+politics.decision.banned,{0} banned.
+politics.decision.fund_failed,Operation failed (needs an intelligence HQ and a deployed agent).
+politics.decision.fund_launched,Funding operation launched for {0}.
+politics.decision.fund_needs_hq,Requires an intelligence HQ.
+politics.decision.fund_needs_strategist,Requires an idle political strategist.
+politics.decision.fund_no_strategist,No political strategist available.
+politics.decision.fund_opposition,Fund {0}
+politics.decision.fund_self,Use the internal-control tools for your own country.
+politics.decision.lift_ban,Lift Ban: {0}
+politics.decision.media_applied,Media campaign funded against {0}.
+politics.decision.media_rejected,Cannot fund campaign (insufficient treasury).
+politics.decision.no_campaigns,Keine
+politics.decision.player_only,Only available for your own country.
+politics.decision.purge,Purge Generals
+politics.decision.purge_done,Officer corps purged — institutional resilience raised.
+politics.decision.purge_failed,Cannot purge (insufficient treasury).
+politics.decision.suppress,Smear {0}
+politics.decision.unbanned,{0} ban lifted.
+politics.election.bloc_result,Winning bloc: {0} ({1}%)
+politics.election.party_result,Siegerpartei: {0} ({1}%)
+politics.ideo.authoritarian_theocratic,Traditionalisten
+politics.ideo.liberal_capitalist,Liberale
+politics.ideo.nationalist_conservative,Konservative
+politics.ideo.socialist_communist,Sozialisten
+politics.label.coalition,Coalition
+politics.label.coup_risk,Coup Risk
+politics.label.next_election,Next Election
+politics.label.resentment,Clandestine Resentment
+politics.label.ruling_party,Ruling Bloc
+politics.label.ruling_regime,Ruling Regime
+politics.label.vote_share,Vote Share
+politics.next_election.fmt,{0}/{1}
+politics.parliament.close,Close
+politics.parliament.legend_row,{0}: {1}
+politics.parliament.open,Parliament
+politics.parliament.title,Parliament — {0}
+politics.parliament.total_seats,{0} seats
+politics.party.fmt,{0} {1}
+politics.reform.enact,Enact {0}
+politics.reform.enacted_status,{0} enacted.
+politics.reform.labor_unions,Labor Unions
+politics.reform.land_reform,Land Reform
+politics.reform.national_curriculum,National Curriculum
+politics.reform.progressive_education,Progressive Education
+politics.reform.rejected,Cannot enact (already active or insufficient treasury).
+politics.reform.religious_authority,Religious Authority
+politics.reform.repeal,Repeal {0}
+politics.reform.repealed_status,{0} repealed.
+politics.reform.secular_state,Secular State
+politics.section.active_campaigns,Active Campaigns
+politics.section.active_reforms,Active Reforms
+politics.section.age,Age Structure
+politics.section.blocs,Voter Blocs
+politics.section.cohorts,Cohort Leanings
+politics.section.decisions,Decisions
+politics.section.foreign_ops,Foreign Operations
+politics.section.reforms,Reforms
+politics.section.ruling,Current Government
+politics.section.standings,Party Standings
+politics.standings.coalition_header,{0} coalition
+politics.standings.last_election,Letzte Wahl: {0}
+politics.standings.last_fmt,(zuletzt {0})
 privacy.consent.allow,Analytics zulassen (empfohlen)
 privacy.consent.body,"Erlaube die Spielanalyse, damit wir die Spielbalance, Leistung und Stabilität verbessern können. (Empfohlen)||Wenn diese Option aktiviert ist, erfassen wir anonyme Spielereignisse und technische Diagnosedaten (Version, Plattform, Absturz-/Fehlerkontext). Wir erfassen keine Chat-Nachrichten oder frei formulierte persönliche Texte.||Du kannst diese Einstellung jederzeit unter „Einstellungen“ > „Datenschutz“ ändern."
 privacy.consent.body.data_transfer.non_us,"Erlaube die Spielanalyse, damit wir die Spielbalance, Leistung und Stabilität verbessern können. (Empfohlen)||Wenn du die Analyse erlaubst, werden deine Spieldaten an Server der Google Cloud Platform in den Vereinigten Staaten übertragen und von Unity Technologies verarbeitet.||Bei Aktivierung erfassen wir anonyme Spielereignisse und technische Diagnosedaten (Version, Plattform, Absturz-/Fehlerkontext). Wir erfassen keine Chat-Nachrichten oder frei formulierte persönliche Texte.||Du kannst diese Einstellung jederzeit unter „Einstellungen > Datenschutz“ ändern."
@@ -6816,7 +7635,7 @@ resource.SolarPanels.name,Sonnenkollektoren
 resource.Soybeans.description,Proteinreiche Kulturpflanzen sind für die Tierfütterung und die Lebensmittelverarbeitung von entscheidender Bedeutung.
 resource.Soybeans.name,Sojabohnen
 resource.Steel.description,"Industrielle Legierungen als Grundpfeiler für Bauwesen, Fahrzeuge und Rüstungsindustrie."
-resource.Steel.name,Stiel
+resource.Steel.name,Stahl
 resource.Sugar.description,Kalorienreiche Kulturpflanze mit breiter Nachfrage im Lebensmittel- und Industriebereich.
 resource.Sugar.name,Zucker
 resource.Technology.description,Wissensintensive Dienstleistungen als Motor für Innovation und Wachstum im High-End-Bereich.
@@ -6881,7 +7700,7 @@ resource.name.ships,Schiffe
 resource.name.silver,Silber
 resource.name.solarpanels,Sonnenkollektoren
 resource.name.soybeans,Sojabohnen
-resource.name.steel,Stiel
+resource.name.steel,Stahl
 resource.name.sugar,Zucker
 resource.name.textiles,Textilien
 resource.name.timber,Holz
@@ -7339,6 +8158,8 @@ settings.gameplay.auto_unpause_events_desc,"Wenn diese Option aktiviert ist, wir
 settings.gameplay.autosave,Intervall für die automatische Speicherung
 settings.gameplay.disable_edge_pan,Kantenverschiebung deaktivieren
 settings.gameplay.disable_edge_pan_desc,"Verhindert, dass sich die Kamera bewegt, wenn der Cursor die Bildschirmränder berührt."
+settings.gameplay.edge_pan_threshold,Randverschiebungszone (%)
+settings.gameplay.edge_pan_threshold_desc,"Legt fest, wie breit der Randstreifen ist, der das Kamera-Schwenken auslöst. 100 % = Standard. Höhere Werte bedeuten eine größere Aktivierungszone."
 settings.gameplay.experimental_section,EXPERIMENTAL
 settings.gameplay.font_left_panel,Schriftgröße im linken Bereich (%)
 settings.gameplay.font_main_hud,Haupt-HUD-Schriftgröße (%)
@@ -7356,6 +8177,8 @@ settings.gameplay.pause_on_focus_loss_desc,"Pausiert das Spiel automatisch, wenn
 settings.gameplay.steam_cloud,Steam-Cloud-Speicherstände
 settings.gameplay.suppress_event_popups,Ereignis-Popups unterdrücken
 settings.gameplay.suppress_event_popups_desc,Wähle automatisch die erste gültige Option aus und blende Ereignis-Popups aus. Ideal für die Aufzeichnung von Trailern.
+settings.gameplay.tick_duration,Dauer des In-Game-Tages
+settings.gameplay.tick_duration_desc,Passe die Echtzeitdauer eines einzelnen In-Game-Tages bei normaler Geschwindigkeit an.
 settings.gameplay.tooltip_delay,Verzögerung bei Tooltips (ms)
 settings.gameplay.ui_scale,UI-Skalierung (%)
 settings.graphics.antialiasing,Kantenglättung
@@ -7364,6 +8187,7 @@ settings.graphics.fps_monitor,Monitor ({0} Hz)
 settings.graphics.fps_target,Ziel-FPS
 settings.graphics.fps_uncapped,Unbegrenzt
 settings.graphics.fullscreen,Vollbild
+settings.graphics.globe_view,Globusansicht
 settings.graphics.hdr,HDR
 settings.graphics.hdr_desc,Aktiviert HDR-Anzeigeausgabe. Erfordert einen HDR-fähigen Monitor mit aktiviertem Windows HDR in den Anzeigeeinstellungen.
 settings.graphics.hdr_unavailable,Kein HDR-Display erkannt. Aktivieren Sie Windows HDR in den Anzeigeeinstellungen.
@@ -7382,8 +8206,10 @@ settings.option.autosave_10m,10 Min.
 settings.option.autosave_2m,2 Min.
 settings.option.autosave_5m,5 Min.
 settings.option.critical_only,Nur Kritisches
+settings.option.full,Voll
 settings.option.high,Hoch
 settings.option.important_only,Nur Wichtiges
+settings.option.lite,Leicht
 settings.option.low,Niedrig
 settings.option.medium,Mittel
 settings.option.off,Aus
@@ -7601,8 +8427,12 @@ tooltip.country.continent.desc,Geografische Region. Beeinflusst regionale Diplom
 tooltip.country.continent.title,KONTINENT
 tooltip.country.corruption.desc,Korruptionsgrad der Regierung (0–100 %). Ein höheres Korruptionsniveau beeinträchtigt die Steuereffizienz und das BIP-Wachstum. Wird durch Stabilität gemindert.
 tooltip.country.corruption.title,KORRUPTION
+tooltip.country.culture.desc,Die primäre kulturelle Identität des Landes.
+tooltip.country.culture.title,Leitkultur
 tooltip.country.debt.desc,Staatsverschuldung im Verhältnis zur jährlichen Wirtschaftsleistung. Eine hohe Verschuldung führt zu wirtschaftlichen Turbulenzen und Wachstumsverluste.
 tooltip.country.debt.title,SCHULDENQUOTE
+tooltip.country.ethnicity.desc,Die größte ethnische Gruppe nach Bevölkerungsanteil. Länder mit derselben dominanten Ethnie nähern sich mit der Zeit an und ziehen selten ohne triftigen Grund in den Krieg.
+tooltip.country.ethnicity.title,Dominante Ethnie
 tooltip.country.exports.desc,"Wert der Überschussressourcen, die jeden Monat auf dem Weltmarkt verkauft werden."
 tooltip.country.exports.title,EXPORTE
 tooltip.country.gdp.desc,Bruttoinlandsprodukt – Gesamtwirtschaftsleistung. Summe der gesamten Produktion der Provinzen mit Berichtigungen.
@@ -7615,6 +8445,8 @@ tooltip.country.growth.desc,"Monatliche BIP-Wachstumsrate. Begünstigt durch Inv
 tooltip.country.growth.title,BIP-WACHSTUM
 tooltip.country.hdi.desc,"Zusammengesetzter Indikator (0–1) für Lebenserwartung, Bildungsniveau und Einkommen. Ein höherer HDI-Wert verringert soziale Unruhen."
 tooltip.country.hdi.title,INDEX DER MENSCHLICHEN ENTWICKLUNG
+tooltip.country.homogeneity.desc,"Wie ethnisch einheitlich die Bevölkerung ist. 100 % ist völlig homogen; niedrige Werte deuten auf eine vielfältige, gemischte Bevölkerung hin."
+tooltip.country.homogeneity.title,Ethnische Homogenität
 tooltip.country.ideology.desc,"Herrschende Ideologie. Beeinflusst die diplomatische Ausrichtung, Forschungsschwerpunkte und die Sozialpolitik."
 tooltip.country.ideology.title,IDEOLOGIE
 tooltip.country.imports.desc,Wert der auf dem Weltmarkt zur Deckung des Inlandsbedarfs erworbenen Ressourcen.
@@ -7643,6 +8475,8 @@ tooltip.country.mil_tanks.desc,Kampfpanzer. Kernkompetenz bei der Landoffensive.
 tooltip.country.mil_tanks.title,TANKS
 tooltip.country.pop.desc,Gesamtbevölkerung des Landes in allen Provinzen.
 tooltip.country.pop.title,BEVÖLKERUNG
+tooltip.country.religion.desc,Die größte Religion nach Bevölkerungsanteil. Eine gemeinsame Religion verbessert die Beziehungen leicht und dämpft die Aggression der KI.
+tooltip.country.religion.title,Dominante Religion
 tooltip.country.stability.desc,"Politische Stabilität (0–100 %). Eine geringe Stabilität führt zu Unruhen, Korruption und einem erhöhten Risiko für Zwischenfälle. Beeinflusst durch Regierungsmaßnahmen und Kriege."
 tooltip.country.stability.title,STABILITÄT
 tooltip.country.tariff.desc,"Prozentsatz des Einfuhrzolls. Bringt Einnahmen, verringert jedoch das Handelsvolumen und kann Vergeltungsmaßnahmen nach sich ziehen."
@@ -7914,7 +8748,12 @@ tooltip.econ.deficit.recruitment.desc,Strategische Engpässe erhöhen die Kosten
 tooltip.econ.deficit.recruitment.title,Druck durch Rekrutierungskosten
 tooltip.econ.deficit.row.available_ratio,VORRAT VERFÜGBAR
 tooltip.econ.deficit.row.deficit_ratio,Der Grund fehlt
-tooltip.econ.deficit.row.desc,{0} ist derzeit in Ihrer Inlandslieferkette nicht ausreichend vorrätig.
+tooltip.econ.deficit.row.desc,{0} ist derzeit in Ihrer Inlandslieferkette nicht ausreichend vorrätig. Dies ist eine monatliche Flusslücke (Verbrauch minus Produktion) — Käufe ändern sie nicht; ein Lagerpuffer von etwa 3 Monaten des Defizits hebt die Strafe auf.
+tooltip.econ.deficit.row.impact_construction,BAUGESCHWINDIGKEIT
+tooltip.econ.deficit.row.impact_none,STRATEGISCHE WIRKUNG
+tooltip.econ.deficit.row.impact_none_val,Keine – nur Produktionslücke
+tooltip.econ.deficit.row.impact_recruitment,REKRUTIERUNGSKOSTEN
+tooltip.econ.deficit.row.impact_unrest,UNRUHE-DRUCK
 tooltip.econ.deficit.row.missing,FEHLBETRAG PRO MONAT
 tooltip.econ.deficit.row.recommend_build,Ausgabe von {0} erhöhen
 tooltip.econ.deficit.row.recommend_trade,"Auf Importe und Handel zurückgreifen, bis sich die heimische Lieferkette erholt hat"
@@ -7989,12 +8828,16 @@ tooltip.econ.policy_target_low.desc,Untergrenze Ihres Inflationszielkorridors. H
 tooltip.econ.policy_target_low.title,INFLATIONSZIEL UNTERGRENZE (MIN)
 tooltip.econ.res_pct.desc,"Anteil des Budgets, der für die Technologieforschung vorgesehen ist. Beschleunigt den Fortschritt und erschließt neue Möglichkeiten."
 tooltip.econ.res_pct.title,FORSCHUNGSAUSGABEN
-tooltip.econ.reserve_auto_buy.desc,Diese Ressource automatisch bei Handelspartnern kaufen wenn der Lagerbestand unter das Ziel fallt. Halt den Puffer aufrecht kostet aber Mittel aus der Staatskasse.
+tooltip.econ.reserve_activity.desc,"Automatische Käufe und Verkäufe der strategischen Reserve im letzten Monat, einschließlich der Menge, die wegen Budget- oder Pro-Tick-Limits nicht gekauft werden konnte."
+tooltip.econ.reserve_activity.title,VORRATSAKTIVITÄT
+tooltip.econ.reserve_auto_buy.desc,"Kauft diese Ressource automatisch bei Handelspartnern, bis der Lagerbestand die Mangelstrafe aufhebt (etwa 3 Monate des monatlichen Defizits) oder Ihr festgelegtes Ziel erreicht (je nachdem, was höher ist). Käufe bauen den Puffer auf, der die Strafe aufhebt — sie ändern nicht das Verhältnis von Produktion und Verbrauch. Stoppt, bevor Zahlungsunfähigkeit droht (Mindestkasse)."
 tooltip.econ.reserve_auto_buy.title,AUTO-KAUF BEI DEFIZIT
 tooltip.econ.reserve_auto_sell.desc,Uberschussigen Lagerbestand uber dem Ziel automatisch auf dem Weltmarkt verkaufen. Bringt Einnahmen reduziert aber den Puffer uber dem Ziel.
 tooltip.econ.reserve_auto_sell.title,AUTO-VERKAUF VON UBERSCHUSS
 tooltip.econ.reserve_contribution.desc,In diesem Monat in die Stabilisierungsreserve eingezahlter Betrag.
 tooltip.econ.reserve_contribution.title,RÜCKLAGENZULAGE
+tooltip.econ.reserve_coverage.desc,"Aktuelle Vorratsdeckung in Monaten des monatlichen Defizits. 3+ Monate (grün) hebt die Mangelstrafe auf, 2-3 Monate (gelb) ist niedrig, unter 2 Monaten (rot) ist kritisch."
+tooltip.econ.reserve_coverage.title,VORRATSDECKUNG
 tooltip.econ.reserve_last_spend.desc,Aus der Stabilisierungsreserve im vorangegangenen Zyklus ausgegebener Betrag.
 tooltip.econ.reserve_last_spend.title,LETZTE RESERVE AUSGEBEN
 tooltip.econ.reserve_minus.desc,"Senken Sie das Reserveziel um einen Monatsverbrauch. Niedrigere Ziele senken zwar die Kosten, verringern aber Ihren Puffer gegen Versorgungsengpässe."
@@ -8003,6 +8846,10 @@ tooltip.econ.reserve_plus.desc,"Erhöhen Sie das Reservenziel um einen Monatsver
 tooltip.econ.reserve_plus.title,ZIELERHÖHUNG
 tooltip.econ.reserve_row.desc,"Zielvorratsmenge in Monaten des Inlandsverbrauchs. Das automatische Beschaffungssystem kauft bei Handelspartnern ein, um diesen Puffer aufrechtzuerhalten. Ein Puffer von 3 bis 6 Monaten schützt vor Handelsstörungen und Schocks in der Lieferkette."
 tooltip.econ.reserve_row.title,ZIEL FÜR DIE STRATEGISCHE RESERVE
+tooltip.econ.reserve_target.desc,Der Auto-Kauf füllt den Vorrat bis zum Zielbestand auf und stoppt dort; er kauft nie über das Ziel hinaus.
+tooltip.econ.reserve_target.label_months,Reserveziel
+tooltip.econ.reserve_target.label_stock,Vorrätig
+tooltip.econ.reserve_target.label_target,Zielbestand
 tooltip.econ.reset_budget.desc,Setzt nicht gespeicherte Anpassungen an Budget und Richtlinien auf die zuletzt festgeschriebenen Werte zurück.
 tooltip.econ.reset_budget.title,ÄNDERUNGEN ZURÜCKSETZEN
 tooltip.econ.reset_policy.desc,Setzt nicht gespeicherte geldpolitische Eingaben auf die zuletzt festgelegten Werte zurück.
@@ -8078,6 +8925,7 @@ tooltip.intel.launch.title,START DER MISSION
 tooltip.intel.launch_op,START DER OPERATION
 tooltip.intel.launch_op.desc,Starte eine neue Geheimdienstoperation gegen das Ziel. Dazu sind verfügbare Agenten und ein Einsatzbudget erforderlich.
 tooltip.intel.mission_desc.counterintel,"Setzt Verteidigungskräfte ein, um feindliche Spionage aufzudecken und zu vereiteln."
+tooltip.intel.mission_desc.fund_opposition,"Covertly funds an opposition bloc in the target country, growing its vote share to enable a soft regime change. Costs a monthly upkeep."
 tooltip.intel.mission_desc.gather,Zeigt die militärischen und wirtschaftlichen Daten des Ziels mit höherer Genauigkeit an. Zeigt die Provinzen auf der Karte an.
 tooltip.intel.mission_desc.influence,Destabilisiert die Zielregierung und beeinträchtigt die Stabilität. Schwer umzusetzen.
 tooltip.intel.mission_desc.sabotage_econ,Verringert vorübergehend das Ziel-BIP. Die Cyber-Fähigkeit erhöht den Schaden.
@@ -8197,6 +9045,8 @@ tooltip.outliner.military.title,MILITÄR
 tooltip.outliner.objectives,ZIELE
 tooltip.outliner.objectives.desc,"Ziele für das geführte Onboarding. Bewegen Sie den Mauszeiger über eine Zeile, um zu sehen, was erforderlich ist. Klicken Sie auf eine Zeile, um das entsprechende Fenster zu öffnen."
 tooltip.outliner.objectives.title,ZIELE
+tooltip.outliner.satellites.desc,"Ihre Aufklärungssatelliten im Orbit. Klicken Sie auf einen, um ihn auszuwählen und die Kamera zu fokussieren; klicken Sie mit der rechten Maustaste auf eine Provinz, um ihn neu zu positionieren."
+tooltip.outliner.satellites.title,Satelliten
 tooltip.outliner.wars,KRIEGE
 tooltip.outliner.wars.desc,Andauernde militärische Konflikte. Zeigt den Kriegsindex in Prozent an.
 tooltip.outliner.wars.title,AKTIVE KRIEGE
@@ -8206,6 +9056,32 @@ tooltip.panel.collapse.desc,Schaltet den linken Länderbereich zwischen dem erwe
 tooltip.panel.collapse.title,Länderübersicht ausblenden
 tooltip.panel.flag.desc,"Klicken Sie hier, um die Karte auf dieses Land zu zentrieren."
 tooltip.panel.flag.title,FOKUS AUF DAS LAND
+tooltip.politics.age.desc,Share of the population in this age band. Voting-age cohorts drive elections.
+tooltip.politics.age.title,Age Structure
+tooltip.politics.ban.desc,"Outlaw this bloc. Outcome: its vote share drops to zero and it wins no seats, blocking a rising party from power. Cost: a large Resentment spike plus ongoing discontent. Press again to lift the ban; support then regrows."
+tooltip.politics.ban.title,Ban Bloc
+tooltip.politics.bloc.desc,"National support for this ideological bloc. Shifts with the economy, unrest, and your decisions."
+tooltip.politics.bloc.title,Voter Bloc
+tooltip.politics.cohort.desc,The dominant ideological bloc within this age cohort.
+tooltip.politics.cohort.title,Cohort Leaning
+tooltip.politics.coup_risk.desc,The military's monthly chance of seizing power. Driven up by low Stability and high Corruption. Lower it by raising Stability or using Purge Generals.
+tooltip.politics.coup_risk.title,Coup Risk
+tooltip.politics.fund.desc,"Covertly bankroll this bloc's opposition in the selected foreign country. Outcome: its vote share there rises; if it then wins their election, a friendly regime takes power and auto-allies with you — regime change without war. Needs an intelligence HQ and an agent deployed there."
+tooltip.politics.fund.title,Fund Foreign Opposition
+tooltip.politics.parliament.desc,Open the legislature. Total seats scale with the country's population and province count; seats are split by current vote share. One-party states show a single-color house; non-elective governments have no parliament.
+tooltip.politics.parliament.title,Parliament
+tooltip.politics.purge.desc,Purge the officer corps before they move. Outcome: Coup Risk falls as Institutional Resilience rises. Cost: a treasury payment and a temporary Stability drop. Use it when Coup Risk climbs.
+tooltip.politics.purge.title,Purge Generals
+tooltip.politics.reform.desc,"Pass a permanent, society-shaping reform. Outcome: each month it pulls the whole electorate toward this reform's bloc, converting the country's politics over 10–20 years. Cost: an upfront treasury sum. Stack reforms on one bloc to convert faster."
+tooltip.politics.reform.title,Enact Reform
+tooltip.politics.resentment.desc,"Hidden anger built up by media smears and bans (0–100). The higher it climbs, the greater the risk of protests, strikes, and instability. It slowly decays when you stop suppressing."
+tooltip.politics.resentment.title,Clandestine Resentment
+tooltip.politics.ruling.desc,"The party currently in government, shown by its ideological bloc and color."
+tooltip.politics.ruling.title,Ruling Party
+tooltip.politics.suppress.desc,"Bankroll media that demonizes this bloc. Outcome: its support falls a few points a month for about a year, moving voters to rival blocs — but Clandestine Resentment rises and can erupt into unrest."
+tooltip.politics.suppress.title,Fund Media Campaign
+tooltip.politics.vote_share.desc,Share of the vote the ruling party won at the last election.
+tooltip.politics.vote_share.title,Vote Share
 tooltip.prov.avg_infra.desc,Durchschnittliches Infrastrukturniveau aller derzeit im Besitz befindlichen Provinzen.
 tooltip.prov.avg_infra.title,DURCHSCHNITTLICHE INFRASTRUKTUR
 tooltip.prov.avg_unrest.desc,Durchschnittlicher Unruhewert über alle derzeit im Besitz befindlichen Provinzen.
@@ -8317,7 +9193,14 @@ tooltip.recruit.tab_air.title,Registerkarte „Luftgeräte“
 tooltip.recruit.tab_fleet.desc,Zeigt Vorlagen für rekrutierbare Marineeinheiten und den aktuellen Fortschritt in der Flottenwarteschlange an.
 tooltip.recruit.tab_fleet.title,Registerkarte „Flotteneinheiten“
 tooltip.recruit.tab_land.desc,Zeigt Vorlagen für rekrutierbare Armeeeinheiten und den aktuellen Fortschritt der Land-Warteschlange an.
-tooltip.recruit.tab_land.title,REGISTERKARTE „LANDEINHEITEN“
+tooltip.recruit.tab_land.title,REGISTERKARTE „LANDEINHEITEN”
+tooltip.satellite.btn.launch.desc,Einen Satelliten für den Start einplanen. Dauert {0} Monate bis zur Umlaufbahn.
+tooltip.satellite.btn.launch.disabled,Voraussetzungen nicht erfüllt: satellite_constellation-Technologie erforschen und Satellitenstartanlage bauen.
+tooltip.satellite.btn.launch.title,SATELLIT STARTEN
+tooltip.satellite.btn.reposition.desc,Globus-Zielerfassungsmodus aktivieren. Klicke auf den Globus um den Satelliten zu bewegen.
+tooltip.satellite.btn.reposition.title,SATELLIT NEU POSITIONIEREN
+tooltip.select.ai_aggressiveness.desc,Bestimmt wie oft KI-Nationen Kriege erklären.
+tooltip.select.ai_aggressiveness.title,KI-AGGRESSIVITÄT
 tooltip.select.difficulty.desc,"Datengestützte Schwierigkeitsbewertung (1–5 Sterne). Berechnet anhand von BIP, Militärstärke, Stabilität und geopolitischer Lage."
 tooltip.select.difficulty.title,SCHWIERIGKEITSGRAD
 tooltip.select.gdp.desc,Bruttoinlandsprodukt – die gesamte Wirtschaftsleistung dieses Landes.
@@ -8346,7 +9229,9 @@ tooltip.stat.mp,"Personalkosten – Personal, das aus Ihrem Personalbestand für
 tooltip.stat.mp.title,Personalkosten
 tooltip.statbar.alliances.desc,"Anzahl der aktiven Bündnisse. Klicken Sie hier, um die Registerkarte „Diplomatie“ zu öffnen."
 tooltip.statbar.alliances.title,PARTNERSCHAFTEN
-tooltip.statbar.corruption.desc,"Korruption in der Regierung (0–100 %). Beeinträchtigt die Steuereffizienz und das BIP-Wachstum. Wird durch hohe Stabilität und Sozialausgaben verbessert. Klicken Sie hier, um die Registerkarte „Übersicht“ zu öffnen."
+tooltip.statbar.corruption.current,Aktuelle Korruption
+tooltip.statbar.corruption.desc,"”Korruption in der Regierung (0–100 %). Beeinträchtigt die Steuereffizienz und das BIP-Wachstum. Wird durch hohe Stabilität und Sozialausgaben verbessert. Klicken Sie hier, um die Registerkarte „Übersicht” zu öffnen.”"
+tooltip.statbar.corruption.events,Ereignisse
 tooltip.statbar.corruption.note,- beeinträchtigt die Steuereffizienz und bremst das Wirtschaftswachstum
 tooltip.statbar.corruption.title,KORRUPTIONSGRAD
 tooltip.statbar.debtgdp.debt,Gesamtverschuldung
@@ -8365,16 +9250,24 @@ tooltip.statbar.diplweight.orgs,Organisationsboni
 tooltip.statbar.diplweight.title,DIPLOMATISCHES GEWICHT
 tooltip.statbar.gdp.desc,"Bruttoinlandsprodukt des angezeigten Landes. Klicken Sie hier, um die Registerkarte „Wirtschaft“ zu öffnen."
 tooltip.statbar.gdp.title,BIP
+tooltip.statbar.inflation.baseline,Grundlinie
 tooltip.statbar.inflation.current,Aktuelle Inflationsrate
+tooltip.statbar.inflation.demand_pull,Nachfragedruck
 tooltip.statbar.inflation.desc,"Preisanstiegsrate. Eine hohe Inflation beeinträchtigt das BIP-Wachstum und die Kaufkraft. Klicken Sie hier, um die Registerkarte „Wirtschaft“ zu öffnen."
 tooltip.statbar.inflation.effect,Auswirkungen auf das BIP
+tooltip.statbar.inflation.fiscal_deficit,Haushaltsdefizit
 tooltip.statbar.inflation.imported,Importierte Inflation
+tooltip.statbar.inflation.mean_reversion,Ziel-Rückkehr
+tooltip.statbar.inflation.monetary,Geldpolitik
 tooltip.statbar.inflation.policy_hint,"Erwägen Sie eine Anhebung des Leitzinses, um die Inflation zu bekämpfen."
+tooltip.statbar.inflation.reserve_stab,Reservestabilisierung
+tooltip.statbar.inflation.stance_bias,Haltungsneigung
 tooltip.statbar.inflation.target,Inflationsziel
 tooltip.statbar.inflation.target_band,Zielgruppe
 tooltip.statbar.inflation.title,INFLATIONSQUOTE
 tooltip.statbar.military.desc,"Aktives Militärpersonal. Klicken Sie hier, um die Registerkarte „Militär“ zu öffnen."
 tooltip.statbar.military.title,MILITÄR
+tooltip.statbar.net_change,Monatliche Änderung
 tooltip.statbar.pop.desc,Gesamtbevölkerung aller Provinzen in unserem Besitz.
 tooltip.statbar.pop.title,BEVÖLKERUNG
 tooltip.statbar.prestige.base,Grundpunktzahl
@@ -8388,8 +9281,13 @@ tooltip.statbar.research.current,Aktuelles Projekt
 tooltip.statbar.research.desc,"Aktuelle Fortschritte in der Technologieforschung. Klicken Sie hier, um die Registerkarte „Technologie“ zu öffnen."
 tooltip.statbar.research.points,Monatlicher Fortschritt
 tooltip.statbar.research.title,FORSCHUNGSFORTSCHRITTE
-tooltip.statbar.stability.desc,"Politische Stabilität (0–100 %). Geringe Stabilität führt zu Unruhen, Korruption und Krisenereignissen. Klicken Sie hier, um die Registerkarte „Übersicht“ zu öffnen."
+tooltip.statbar.stability.current,Aktuelle Stabilität
+tooltip.statbar.stability.desc,"”Politische Stabilität (0–100 %). Geringe Stabilität führt zu Unruhen, Korruption und Krisenereignissen. Klicken Sie hier, um die Registerkarte „Übersicht” zu öffnen.”"
+tooltip.statbar.stability.events,Ereignisse
+tooltip.statbar.stability.government,Regierungswechsel
+tooltip.statbar.stability.national_goals,Nationale Ziele
 tooltip.statbar.stability.note,"- führt zu Unruhen, einem Putschrisiko und erhöht die Wahrscheinlichkeit von Ereignissen"
+tooltip.statbar.stability.political_drift,Politische Drift
 tooltip.statbar.stability.title,STABILITÄT DER REGIERUNG
 tooltip.statbar.trade.desc,"Exporte minus Importe. Ein Überschuss (grün) kurbelt das Wachstum an; ein Defizit (rot) belastet das BIP. Klicken Sie hier, um die Registerkarte „Wirtschaft“ zu öffnen."
 tooltip.statbar.trade.exports,Gesamtexporte
@@ -8399,8 +9297,10 @@ tooltip.statbar.treasury.desc,Aktuelle Geldreserven. Monatliche Einnahmen abzüg
 tooltip.statbar.treasury.title,STAATSKASSE
 tooltip.statbar.un.desc,Verfolgen Sie aktive UN-Resolutionen und Mitgliedschaftsvorschläge und stimmen Sie darüber ab. Zum Öffnen klicken.
 tooltip.statbar.un.title,UN-KOMMANDOZENTRALE
-tooltip.statbar.unemployment.desc,"Anteil der Erwerbslosen an der Erwerbsbevölkerung. Wirkt sich auf Stabilität, Unruhen und den Druck auf die Sozialausgaben aus. Klicken Sie hier, um die Registerkarte „Wirtschaft“ zu öffnen."
+tooltip.statbar.unemployment.desc,"”Anteil der Erwerbslosen an der Erwerbsbevölkerung. Wirkt sich auf Stabilität, Unruhen und den Druck auf die Sozialausgaben aus. Klicken Sie hier, um die Registerkarte „Wirtschaft” zu öffnen.”"
+tooltip.statbar.unemployment.growth_effect,BIP-Wachstumseffekt
 tooltip.statbar.unemployment.note,- Eine hohe Arbeitslosigkeit schürt Unruhen und mindert die Steuereffizienz
+tooltip.statbar.unemployment.social_effect,Sozialausgabeneffekt
 tooltip.statbar.unemployment.title,ARBEITSLOSENQUOTE
 tooltip.statbar.wars.active,Aktuelle Konflikte
 tooltip.statbar.wars.desc,"Anzahl der laufenden Kriege. Klicken Sie hier, um die Registerkarte „Diplomatie“ zu öffnen."
@@ -8468,14 +9368,17 @@ tooltip.topbar.gdp.events,Auswirkungen der Veranstaltung
 tooltip.topbar.gdp.formula,BIP der Provinz = Basiswert × Modifikatoren × (1 – Unruhen)
 tooltip.topbar.gdp.inflation,Inflationsdruck
 tooltip.topbar.gdp.monetary,Geldpolitik
-tooltip.topbar.gdp.more,... und {0} weitere Provinzen
-tooltip.topbar.gdp.net,Prognostizierter monatlicher Nettogewinn
+tooltip.topbar.gdp.more,... and {0} more provinces
+tooltip.topbar.gdp.negative_sum,Negative Lanes
+tooltip.topbar.gdp.net,Projected Monthly Net
+tooltip.topbar.gdp.positive_sum,Positive Lanes
 tooltip.topbar.gdp.resource,Abstimmung der Ressourcen
 tooltip.topbar.gdp.sanctions,Auswirkungen der Sanktionen
 tooltip.topbar.gdp.scale,Umfassende Anpassung der Wirtschaft
 tooltip.topbar.gdp.section.provinces,Die größten Beitragszahler in der Provinz Delta (geschätzt)
 tooltip.topbar.gdp.section.provinces_note,- geschätzter Anteil an der prognostizierten monatlichen BIP-Veränderung (formelbasiert)
 tooltip.topbar.gdp.tech,Technologieeffekt
+tooltip.topbar.gdp.territory,Gebietsänderung
 tooltip.topbar.gdp.tier,Einkommensstufeneffekt
 tooltip.topbar.gdp.title,BRUTTOINLANDSPRODUKT
 tooltip.topbar.gdp.trade,Auswirkungen auf die Handelsbilanz
@@ -8483,14 +9386,18 @@ tooltip.topbar.gdp.tradebloc,Handelsblock-Bonus
 tooltip.topbar.gdp.war,Kriegsmüdigkeit
 tooltip.topbar.group.negative,Negative Faktoren
 tooltip.topbar.group.positive,Positive Mitwirkende
+tooltip.topbar.manpower.combat_loss_actual,Gefechtsverluste
 tooltip.topbar.manpower.desc,Prognostizierte monatliche Veränderung des Personalbestands. Die Absolventen der Reserve werden zu Soldaten ausgebildet und in den Personalbestand aufgenommen.
-tooltip.topbar.manpower.direct_modifiers,Direkte Auswirkungen auf Gebäude und Technik
+tooltip.topbar.manpower.direct_modifiers,Direkte Modifikatoren
 tooltip.topbar.manpower.formula_note,"- Reserveübertragung = floor(Reserve × {0}), mindestens jedoch {1}, sofern Reserven vorhanden sind"
 tooltip.topbar.manpower.hp_recovery_drain,HP-Wiederherstellung (Personalkosten)
+tooltip.topbar.manpower.other_actual,Sonstige Änderungen
 tooltip.topbar.manpower.population_intake,Bevölkerungszuwachs (--> Reserve)
+tooltip.topbar.manpower.queue_actual,Rekrutierung
 tooltip.topbar.manpower.queue_impact,Auswirkungen der in der Warteschlange befindlichen Stellenausschreibungen
 tooltip.topbar.manpower.queue_note,- In der Warteschlange befindliche Aufträge zur Grundstücksbeschaffung: {0}
 tooltip.topbar.manpower.regen,Reserve -> Abschluss der Ausbildung
+tooltip.topbar.manpower.regen_actual,Regeneration
 tooltip.topbar.manpower.reserve_note,- Verfügbarer Reservepool: {0}
 tooltip.topbar.manpower.section.context,Mechanik – Kontext
 tooltip.topbar.manpower.siege_attrition,Geschätzte Kosten für die Belagerungsreserve
@@ -8499,6 +9406,7 @@ tooltip.topbar.pop.buildings,Boni für Gebäudewachstum
 tooltip.topbar.pop.desc,Prognostizierte monatliche Bevölkerungsentwicklung und aktuelle Zahlen.
 tooltip.topbar.pop.migration,Nettozuwanderung
 tooltip.topbar.pop.natural,Natürliches Wachstum
+tooltip.topbar.pop.natural_actual,Nettoveränderung
 tooltip.topbar.pop.prosperity,Wohlstandseffekt
 tooltip.topbar.pop.rounding,Rundungsanpassung
 tooltip.topbar.pop.title,BEVÖLKERUNG
@@ -8534,6 +9442,7 @@ tooltip.topbar.treasury.envoy,Gesandten-Operationen
 tooltip.topbar.treasury.events,Net-Veranstaltungen
 tooltip.topbar.treasury.events_expense,Veranstaltungskosten
 tooltip.topbar.treasury.formula,Prognostiziert = Einnahmen – monatliche Gesamtkosten. Sonstiges = Kosten – (Militär + Forschung + Infrastruktur + Soziales). Realisiert = Kassenbestand bei Monatswechsel.
+tooltip.topbar.treasury.hostile_ops,Ausländische Operationen
 tooltip.topbar.treasury.infra,Infrastrukturausgaben
 tooltip.topbar.treasury.interest,Zinsen
 tooltip.topbar.treasury.last_delta,Veränderung gegenüber dem letzten abgeschlossenen Monat
@@ -8686,6 +9595,8 @@ tutorial.obj.nuclear_defcon.title,Überprüfen Sie das DEFCON-Panel
 tutorial.obj.panel.hide,Ausblenden
 tutorial.obj.panel.show,Anzeigen
 tutorial.obj.panel.title,Lernziele des Tutorials
+tutorial.obj.politics_open.body,"Öffnen Sie den Politik-Reiter, um Regierung, Regierungspartei und Wählerblöcke einzusehen."
+tutorial.obj.politics_open.title,Politik-Reiter öffnen
 tutorial.obj.set_goal.body,"Öffnen Sie den Agenda-Planer und wählen Sie ein nationales Ziel aus, das die strategische Ausrichtung Ihres Landes bestimmt."
 tutorial.obj.set_goal.title,Ein nationales Ziel festlegen
 tutorial.obj.slbm_load.body,"Weisen Sie einem U-Boot-Bunker eine von einem U-Boot abgefeuerte ballistische Rakete zu, um die Fähigkeit zum Gegenschlag zu gewährleisten."
@@ -8725,6 +9636,8 @@ tutorial.step_economy.body,"Deine Staatskasse füllt sich durch Steuereinnahmen.
 tutorial.step_economy.title,Registerkarte „Wirtschaft“
 tutorial.step_envoys.body,"Das Spezialistenfeld ({0}) befindet sich jetzt im Nachrichtendienstfeld. Klicke auf Nachrichtendienst und wähle dann SPEZIALISTEN oben aus, um Gesandte zu rekrutieren und in ausländische Länder zu entsenden."
 tutorial.step_envoys.title,Registerkarte „Spezialisten“
+tutorial.step_faq.body,"Sie können das FAQ-Panel jederzeit über das Hauptmenü oder das Pausenmenü (ESC) öffnen, um Details zu Handel, Ressourcen, Regierung, Diplomatie, Militär und Bevölkerung anzuzeigen."
+tutorial.step_faq.title,Benötigen Sie weitere Hilfe?
 tutorial.step_intel.body,Die Registerkarte „Geheimdienst“ ({0}) dient verdeckten Operationen.\n\nHier kannst du Spionagemissionen gegen andere Länder starten und die Erkenntnisse deiner Spione einsehen.
 tutorial.step_intel.title,Registerkarte „Intelligenz“
 tutorial.step_military.body,"Auf der Registerkarte „Militär“ ({0}) verwaltest du deine Streitkräfte.\n\nDort kannst du deine Armeeeinheiten einsehen, deinen DEFCON-Stand überprüfen und bei Bedarf nukleare Waffen einsetzen, falls vorhanden."
@@ -8733,6 +9646,8 @@ tutorial.step_objectives.body,"Im Abschnitt „ZIELE“ oben im rechten Bereich 
 tutorial.step_objectives.title,Weiter zu den Zielen
 tutorial.step_overview.body,"Die Registerkarte „Übersicht“ bietet einen schnellen Überblick über die Leistungsfähigkeit Ihres Landes: BIP, Bevölkerung, Stabilität und Zustimmungsrate.\n\nBehalten Sie diese Anzeigen im Auge, um sicherzustellen, dass Ihr Land floriert."
 tutorial.step_overview.title,Registerkarte „Übersicht“
+tutorial.step_politics.body,"Der Politik-Reiter ({0}) zeigt Ihre Regierung, die Regierungspartei, Wählerblöcke und den Parteienstand – und lässt Sie Blöcke unterdrücken oder verbieten, Reformen erlassen, Generäle säubern und ausländische Oppositionen finanzieren."
+tutorial.step_politics.title,Politik-Reiter
 tutorial.step_provinces.body,"Auf der Registerkarte „Provinzen“ ({0}) erhältst du eine tabellarische Übersicht über jede einzelne Provinz, die du kontrollierst.\n\nNutze diese Ansicht, um Unruhen schnell zu erkennen oder die Wirtschaftsleistung verschiedener Regionen zu vergleichen."
 tutorial.step_provinces.title,Registerkarte „Provinzen“
 tutorial.step_quickactions.body,Diese zwei Schaltflächen sparen viel Zeit. Schnellbau empfiehlt priorisierte Gebäude; Schnellrekrutierung zeigt die besten Einheitenwarteschlangen.
