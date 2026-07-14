@@ -7106,7 +7106,7 @@ hud.un.card.turnout,Wahlbeteiligung: {0}/{1}
 hud.un.card.vetoed_by,VETO von {0}
 hud.un.card.vote_body_un,Abstimmung in der UN-Generalversammlung
 hud.un.card.vote_body_unsc,Abstimmung im UN-Sicherheitsrat · 15 Mitglieder
-hud.un.command_center_actions,ANTRAG AUF EINEN BESCHLUSS
+hud.un.command_center_actions,SCHUSSLÖSUNG BEANTRAGEN
 hud.un.command_center_active,AKTIVE ARTIKEL
 hud.un.command_center_history,Vorgeschichte
 hud.un.command_center_intro,"Verfolgen Sie alle UN-Resolutionen, den Stand der Abstimmungen und die Ergebnisse an einem Ort."
