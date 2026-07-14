@@ -1612,9 +1612,9 @@ faq.q40.answer,"Der diplomatische Posteingang ist ein Panel, das über die Pille
 faq.q40.question,Was ist der diplomatische Posteingang?
 faq.q41.answer,"Die Anpassung Ihres Militärhaushalts betrifft drei Hauptbereiche: Unterhaltsdeckung, Personalregeneration und Reserveaufnahme. Er deckt die Unterhaltskosten aktiver Einheiten (Armeen, Flotten, Geschwader); wenn der gesamte Unterhalt Ihrer Einheiten Ihr Verteidigungsbudget übersteigt, wird der Überschuss direkt von Ihrer Kasse abgezogen. Er skaliert zudem die Rate, mit der das Bevölkerungswachstum in Ihre Militärreserven einfließt, sowie die Geschwindigkeit, mit der Reserven in aktive, rekrutierbare Soldaten umgewandelt werden. Er erhöht nicht direkt die Kampfstärke der Einheiten."
 faq.q41.question,Was beeinflussen die Ausgaben für den Militärhaushalt?
-faq.q42.answer,"DEFCON repräsentiert die strategische Bereitschaft Ihres Landes und reicht von Stufe 5 (Frieden) bis Stufe 1 (Unmittelbar bevorstehend). Sie können die Registerkarte 'Nuklear' im Raketenkommando-Panel öffnen und Ziele auswählen, sobald Ihre DEFCON Stufe 3 (Bereitschaft) oder niedriger erreicht (ausgelöst durch Krieg oder globale Spannungen). Die Anordnung eines Nuklearschlags zwingt Ihre DEFCON automatisch auf Stufe 1 (Unmittelbar), um den Start zu autorisieren, und sobald nukleare Raketen im Flug sind, eskaliert DEFCON zum Austausch (Stufe 0 im System, die in der Benutzeroberfläche als Stufe 1 angezeigt wird). DEFCON wird sich im Frieden langsam wieder auf Stufe 5 zurückstufen."
+faq.q42.answer,"DEFCON repräsentiert die strategische Bereitschaft Ihres Landes und reicht von Stufe 5 (Frieden) bis Stufe 1 (Unmittelbar bevorstehend). Sie können die Registerkarte 'Nuklear' im Raketenkontrollzentrum-Panel öffnen und Ziele auswählen, sobald Ihre DEFCON Stufe 3 (Bereitschaft) oder niedriger erreicht (ausgelöst durch Krieg oder globale Spannungen). Die Anordnung eines Nuklearschlags zwingt Ihre DEFCON automatisch auf Stufe 1 (Unmittelbar), um den Start zu autorisieren, und sobald nukleare Raketen im Flug sind, eskaliert DEFCON zum Austausch (Stufe 0 im System, die in der Benutzeroberfläche als Stufe 1 angezeigt wird). DEFCON wird sich im Frieden langsam wieder auf Stufe 5 zurückstufen."
 faq.q42.question,Wie funktioniert DEFCON?
-faq.q43.answer,"Um eine Rakete zu starten, öffnen Sie das Raketenkommando-Panel, wählen Sie Ihre Startplattform (ein Raketensilo-Gebäude, eine Armee mit einer mobilen Startrampe oder eine U-Boot-Flotte), wählen Sie den Raketentyp und den Sprengkopf, wählen Sie 'Ziel auf Karte auswählen' und klicken Sie mit der linken Maustaste auf eine feindliche Provinz. Das Zielland muss eines sein, mit dem Sie im Krieg stehen, und die Provinz muss sich in Reichweite befinden (gemessen in Provinzsprüngen). Konventionelle Raketen können auf jeder DEFCON-Stufe gestartet werden, während nukleare Raketen DEFCON 3 oder niedriger erfordern, um auf die Registerkarte 'Nuklear' zuzugreifen."
+faq.q43.answer,"Um eine Rakete zu starten, öffnen Sie das Raketenkontrollzentrum-Panel, wählen Sie Ihre Startplattform (ein Raketensilo-Gebäude, eine Armee mit einer mobilen Startrampe oder eine U-Boot-Flotte), wählen Sie den Raketentyp und den Sprengkopf, wählen Sie 'Ziel auf Karte auswählen' und klicken Sie mit der linken Maustaste auf eine feindliche Provinz. Das Zielland muss eines sein, mit dem Sie im Krieg stehen, und die Provinz muss sich in Reichweite befinden (gemessen in Provinzsprüngen). Konventionelle Raketen können auf jeder DEFCON-Stufe gestartet werden, während nukleare Raketen DEFCON 3 oder niedriger erfordern, um auf die Registerkarte 'Nuklear' zuzugreifen."
 faq.q43.question,Wie funktioniert die Raketenzielung?
 faq.q44.answer,"Armeen erhalten Kampfboni oder -abzüge auf der Grundlage des Geländes der Provinz, in der sie kämpfen. Gebirgiges, Wald- oder Dschungelgelände bietet Verteidigern erhebliche Verteidigungsboni, was es schwierig macht, sie zu vertreiben. Achten Sie auf die Geländetypen, bevor Sie einen Angriff befehlen."
 faq.q44.question,Wie funktioniert der Kampf der Armeen auf verschiedenen Geländen?
@@ -5806,7 +5806,7 @@ hud.mil.ongoing_battle_title,Kampf – {0}
 hud.mil.ongoing_battle_vs,{0} vs. {1}
 hud.mil.ongoing_battles_section,LAUFENDE KÄMPFE
 hud.mil.ongoing_siege_title,Belagerung - {0}
-hud.mil.open_missile_command,Öffne Raketenkommando
+hud.mil.open_missile_command,Raketenkontrollzentrum öffnen
 hud.mil.open_nuclear_controls,ÖFFNE KERNKONTROLLEN
 hud.mil.open_satellite_command,SATELLITENBEFEHL ÖFFNEN
 hud.mil.pending_strikes,ANSTEHENDE STREIKS
@@ -6216,7 +6216,7 @@ hud.overlay.mil_force_title,ÜBERBLICK ÜBER DIE FORCE
 hud.overlay.mil_plan_desc,"Auswahl der Militärdoktrin, Produktionspläne für Ausrüstung, Wehrpflichtpolitik."
 hud.overlay.mil_plan_title,VERTEIDIGUNGSPLANUNG
 hud.overlay.military_title,MILITÄR
-hud.overlay.missile_title,Raketenkommando
+hud.overlay.missile_title,Raketenkontrollzentrum
 hud.overlay.tech_invest_desc,"Zuweisung von Forschungs- und Entwicklungsmitteln, Forschungspartnerschaften, Vereinbarungen zum Technologieaustausch."
 hud.overlay.tech_invest_title,INVESTITION
 hud.overlay.tech_title,TECHNOLOGIE
@@ -8972,8 +8972,8 @@ tooltip.mil.intercept_slots.desc,"Anzahl der gleichzeitigen Raketenangriffe, die
 tooltip.mil.intercept_slots.title,INTERCEPT-SLOTS
 tooltip.mil.missiledef.desc,Raketenabwehrsystem. Kann anfliegende Atomraketen abfangen.
 tooltip.mil.missiledef.title,RAKETENABWEHR
-tooltip.mil.open_nuclear_controls.desc,"Öffnet das Raketenkommando, um den DEFCON-Status und die Startoptionen zu überprüfen."
-tooltip.mil.open_nuclear_controls.title,ÖFFNE RAKETENKOMMANDO
+tooltip.mil.open_nuclear_controls.desc,"Öffnet das Raketenkontrollzentrum, um den DEFCON-Status und die Startoptionen zu überprüfen."
+tooltip.mil.open_nuclear_controls.title,RAKETENKONTROLLZENTRUM ÖFFNEN
 tooltip.mil.pending_strikes.desc,"In der Warteschlange befindliche Raketenstarts, die angeordnet, aber noch nicht ausgeführt wurden."
 tooltip.mil.pending_strikes.title,ANSTEHENDE STREIKS
 tooltip.mil.recruit_unit.desc,"Es wird eine Rekrutierung mit Schwerpunkt auf Landstreitkräften gestartet, damit du schnell neue Einheiten aufstellen kannst."
@@ -9583,7 +9583,7 @@ tutorial.obj.military_fleet_move.body,"Wähle eine vorhandene Flotte aus und bef
 tutorial.obj.military_fleet_move.title,Eine Flotte bewegen
 tutorial.obj.missile_first.body,Eine Rakete scharf machen und einen konventionellen Angriff auf eine gültige Zielprovinz starten.
 tutorial.obj.missile_first.title,Führe deinen ersten Raketenangriff durch
-tutorial.obj.missile_produce.body,"Öffne das Raketenkommando und lege die Produktion beliebiger Raketentypen fest. Für Raketen sind Abschussanlagen erforderlich (Silos, mobile Abschussrampen oder U-Boot-Bunker)."
+tutorial.obj.missile_produce.body,"Öffne das Raketenkontrollzentrum und lege die Produktion beliebiger Raketentypen fest. Für Raketen sind Abschussanlagen erforderlich (Silos, mobile Abschussrampen oder U-Boot-Bunker)."
 tutorial.obj.missile_produce.title,Eine Rakete bauen
 tutorial.obj.missile_rebase.body,"Verlege eine Raketenbatterie an einen neuen Abschussstandort, um eine bessere strategische Positionierung zu erreichen."
 tutorial.obj.missile_rebase.title,Eine Raketenbatterie verlegen
